@@ -34,6 +34,23 @@
       "region_code": "North VI",
       "region_id": "1602896846"
     },
+    "Northern": {
+      "customers_affected_14d": 19,
+      "outages": [
+        {
+          "area": "South of HERITAGE HWY, West of UPPER CUTBANK RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Under investigation",
+          "customers_affected": "19",
+          "last_updated": "Oct 9 11:44 p.m.",
+          "municipality": "Dawson Creek",
+          "municipality_code": "day-1 day-3 city--1630954860",
+          "start": "Oct 9 11:38 p.m.",
+          "status": "Crew status: No crew assigned yet"
+        }
+      ],
+      "region_code": "Northern",
+      "region_id": "1602964060"
+    },
     "Thompson/Shuswap": {
       "customers_affected_14d": 428,
       "outages": [
@@ -61,11 +78,11 @@
           "area": "West of TRANS CAN HWY\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "369",
-          "last_updated": "Oct 9 11:02 p.m.",
+          "last_updated": "Oct 9 11:37 p.m.",
           "municipality": "Salmon Arm",
           "municipality_code": "day-1 day-3 city-2118875562",
           "start": "Oct 9 10:37 p.m.",
-          "status": "Crew status: Crew assigned"
+          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 10 12:40 a.m."
         }
       ],
       "region_code": "Thompson/Shuswap",
