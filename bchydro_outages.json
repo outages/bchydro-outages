@@ -1,8 +1,18 @@
 {
   "current": {
     "Central Interior": {
-      "customers_affected_14d": 10,
+      "customers_affected_14d": 11,
       "outages": [
+        {
+          "area": "14000 block BLACKWATER RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Under investigation",
+          "customers_affected": "< 5",
+          "last_updated": "2020-10-10T12:50:00",
+          "municipality": "Prince George",
+          "municipality_code": "day-1 day-3 city-1835674262",
+          "start": "2020-10-10T12:47:00",
+          "status": "Crew status: Crew assigned"
+        },
         {
           "area": "1700 - 1900 block COOPER RD, 1600 - 2600 block TIBBLES RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Tree down across our wires",
@@ -18,13 +28,33 @@
       "region_id": "848340027"
     },
     "Lower Mainland": {
-      "customers_affected_14d": 8850,
+      "customers_affected_14d": 9391,
       "outages": [
+        {
+          "area": "9800 block CAMERON ST, 3400 block NORTH RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Under investigation",
+          "customers_affected": "522",
+          "last_updated": "2020-10-10T12:56:00",
+          "municipality": "Burnaby",
+          "municipality_code": "day-1 day-3 city-1903966249",
+          "start": "2020-10-10T12:45:00",
+          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 10 2:15 p.m."
+        },
+        {
+          "area": "3300 block NORTH RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Under investigation",
+          "customers_affected": "19",
+          "last_updated": "2020-10-10T12:53:00",
+          "municipality": "Burnaby",
+          "municipality_code": "day-1 day-3 city-1903966249",
+          "start": "2020-10-10T12:43:00",
+          "status": "Crew status: Crew assigned"
+        },
         {
           "area": "West of GILMORE AVE, East of RENFREW ST, South of 4TH AVE, North of 25TH AVE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Wire down",
           "customers_affected": "1752",
-          "last_updated": "2020-10-10T12:32:00",
+          "last_updated": "2020-10-10T12:55:00",
           "municipality": "Burnaby, Vancouver",
           "municipality_code": "day-1 day-3 city-1903966249 city--1786794435",
           "start": "2020-10-10T12:08:00",
@@ -64,21 +94,21 @@
           "area": "800 block BOYD ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Transformer burn out",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-10T12:31:00",
+          "last_updated": "2020-10-10T13:01:00",
           "municipality": "New Westminster",
           "municipality_code": "day-1 day-3 city-963142865",
           "start": "2020-10-10T10:09:00",
-          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 10 1:35 p.m."
+          "status": "Crew status: Crew on-site"
         },
         {
           "area": "North of BURNABY ST, East of JOYCE AVE, South of ALBERNI ST, West of ONTARIO AVE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "49",
-          "last_updated": "2020-10-10T12:38:00",
+          "last_updated": "2020-10-10T13:03:00",
           "municipality": "Powell River",
           "municipality_code": "day-1 day-3 city-1665178489",
           "start": "2020-10-10T12:21:00",
-          "status": "Crew status: Crew assigned"
+          "status": "Crew status: Crew on-site"
         },
         {
           "area": "West of MCHARDY ST, North of 48TH AVE, South of GRANDVIEW HWY, East of INVERNESS ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -166,13 +196,23 @@
       "region_id": "2072041405"
     },
     "South VI": {
-      "customers_affected_14d": 176,
+      "customers_affected_14d": 354,
       "outages": [
+        {
+          "area": "North of FRAYNE RD, South of DELOUME RD, East of KINNOULL CRS, West of LODGEPOLE RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Under investigation",
+          "customers_affected": "178",
+          "last_updated": "2020-10-10T13:05:00",
+          "municipality": "Duncan",
+          "municipality_code": "day-1 day-3 city-2058209491",
+          "start": "2020-10-10T12:45:00",
+          "status": "Crew status: Crew assigned"
+        },
         {
           "area": "West of SARAH OWEN PL, East of WOODRIDGE PL, South of MEADOWBROOK RD, North of MUNNS RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Tree down across our wires",
           "customers_affected": "176",
-          "last_updated": "2020-10-10T12:35:00",
+          "last_updated": "2020-10-10T13:04:00",
           "municipality": "Highlands, Saanich, View Royal",
           "municipality_code": "day-1 day-3 city-1322525542 city--776615533 city--1360221748",
           "start": "2020-10-10T09:56:00",
@@ -183,17 +223,27 @@
       "region_id": "1812901382"
     },
     "Thompson/Shuswap": {
-      "customers_affected_14d": 271,
+      "customers_affected_14d": 328,
       "outages": [
         {
           "area": "East of WILCOX RD, North of TRIP RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "233",
-          "last_updated": "2020-10-10T12:45:00",
+          "last_updated": "2020-10-10T13:03:00",
           "municipality": "100 Mile House",
           "municipality_code": "day-1 day-3 city-950857956",
           "start": "2020-10-10T12:25:00",
           "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 10 1:45 p.m."
+        },
+        {
+          "area": "North of CANIM LAKE RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Under investigation",
+          "customers_affected": "41",
+          "last_updated": "2020-10-10T12:57:00",
+          "municipality": "100 Mile House",
+          "municipality_code": "day-1 day-3 city-950857956",
+          "start": "2020-10-10T12:42:00",
+          "status": "Crew status: Crew assigned"
         },
         {
           "area": "5400 - 5700 block SPRING LAKE RD, 5600 - 5700 block SPRING LK RD, 3900 - 6000 block DEMPSEY LAKE RD, 3800 - 6000 block DEMPSEY LK RD, SPRING LK RD P93, 6000 block DEMPSEY LAKE S RD, 3900 block LARSON LAKE RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -203,6 +253,16 @@
           "municipality": "100 Mile House",
           "municipality_code": "day-1 day-3 city-950857956",
           "start": "2020-10-10T12:08:00",
+          "status": "Crew status: Crew assigned"
+        },
+        {
+          "area": "North of HORSE LAKE RD, West of 181 FOREST SERVICE RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Under investigation",
+          "customers_affected": "16",
+          "last_updated": "2020-10-10T12:58:00",
+          "municipality": "100 Mile House",
+          "municipality_code": "day-1 day-3 city-950857956",
+          "start": "2020-10-10T12:45:00",
           "status": "Crew status: Crew assigned"
         }
       ],
@@ -239,7 +299,7 @@
       "region_id": "848340027"
     },
     "Lower Mainland": {
-      "customers_affected_14d": 5235,
+      "customers_affected_14d": 5215,
       "outages": [
         {
           "area": "1944, 1954, 1966, 1976 Albion St; 32666-32749 Cordova Ave; 325, 32760 Marshall Rd, 32414-32750 Pandora Ave; 1911-1944 Valencia Crt, Abbotsford",
@@ -722,16 +782,6 @@
           "start": "2020-10-14T09:00:00"
         },
         {
-          "area": "4551, 4557, 4569, 4575, 4583, 4591, 4633, 4649, 4650, 4653, 4661, 4665, 4670, 4671, 4677, 4680, 4683, 4690 204 St.",
-          "cause": "Planned work being done on our equipment",
-          "customers_affected": "18",
-          "end": "2020-10-08T13:00:00",
-          "last_updated": "2020-09-28T09:33:00",
-          "municipality": "Langley",
-          "municipality_code": "day-1 day-3 city-1612593490",
-          "start": "2020-10-08T10:00:00"
-        },
-        {
           "area": "19890 55A Ave; 5415-5521 Brydon Cres, Langley",
           "cause": "Planned work being done on our equipment",
           "customers_affected": "10",
@@ -770,16 +820,6 @@
           "municipality": "Langley",
           "municipality_code": "day-1 day-3 city-1612593490",
           "start": "2020-10-19T09:00:00"
-        },
-        {
-          "area": "RESCHEDULED FROM SEPTEMBER 24, 202019951 - 19955 Fraser Hwy",
-          "cause": "Planned work being done on our equipment",
-          "customers_affected": "< 5",
-          "end": "2020-10-08T13:00:00",
-          "last_updated": "2020-09-24T09:08:00",
-          "municipality": "Langley",
-          "municipality_code": "day-1 day-3 city-1612593490",
-          "start": "2020-10-08T09:00:00"
         },
         {
           "area": "**CANCELLED** and Rescheduled to Thurs, Oct 22nd.22200 Blk River, 11705-11737 Brookmere Crt, 11662-11772 Carr St, 11670-11773 Carshill St, 11707-11787 Driftwood Dr, 11705-11747 Lighthouse Crt, 21848 Lougheed Hwy, 22073-22194 River Bend, 21841-22197 River Rd, Maple Ridge",
@@ -2157,7 +2197,7 @@
       "region_id": "2072041405"
     },
     "South VI": {
-      "customers_affected_14d": 1856,
+      "customers_affected_14d": 1851,
       "outages": [
         {
           "area": "1746 Verling Ave; 1763 Sean Hts, Saanichton",
@@ -2668,16 +2708,6 @@
           "municipality": "Victoria",
           "municipality_code": "day-1 day-3 city-1201273535",
           "start": "2020-10-14T09:00:00"
-        },
-        {
-          "area": "376, 385, 389, 391 Kinver St; 1136 Hadfield Ave, Victoria",
-          "cause": "Planned work being done on our equipment",
-          "customers_affected": "5",
-          "end": "2020-10-08T13:00:00",
-          "last_updated": "2020-09-23T09:15:00",
-          "municipality": "Victoria",
-          "municipality_code": "day-1 day-3 city-1201273535",
-          "start": "2020-10-08T09:30:00"
         },
         {
           "area": "6516 Central Saanich Rd",
@@ -4929,7 +4959,7 @@
           "end": "2020-10-06T13:00:00",
           "last_updated": "2020-10-06T12:56:00",
           "municipality": "Mission",
-          "municipality_code": "day-3 city--1560864404",
+          "municipality_code": "city--1560864404",
           "start": "2020-10-06T10:24:00"
         },
         {
@@ -8490,7 +8520,7 @@
           "end": "",
           "last_updated": "2020-10-08T13:40:00",
           "municipality": "Cranbrook",
-          "municipality_code": "day-1 day-3 city--591720257",
+          "municipality_code": "day-3 city--591720257",
           "start": "2020-10-08T09:53:00"
         },
         {
@@ -9207,7 +9237,7 @@
           "end": "2020-10-08T14:00:00",
           "last_updated": "2020-10-08T12:58:00",
           "municipality": "Duncan",
-          "municipality_code": "day-1 day-3 city-2058209491",
+          "municipality_code": "day-3 city-2058209491",
           "start": "2020-10-08T09:38:00"
         },
         {
