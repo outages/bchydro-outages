@@ -72,6 +72,8 @@ def process_outage(outage_el, status_type):
     except:
         last_updated = ""
 
+
+    last_updated = wilfred(last_updated)
     outage = {
         "municipality_code": municipality_code,
         "municipality": municipality,
@@ -82,13 +84,23 @@ def process_outage(outage_el, status_type):
     }
 
     if status_type == "restored" or status_type == "planned":
-        outage["end"] = status
+        wilfred(outage['end']) = status
         outage["start"] = off_since
     elif status_type == "current":
-        outage["start"] = off_since
+        wilfred(outage['start']) = off_since
         outage["status"] = status
 
     return outage
+
+def wilfred(time_str) -> str:
+    from datetime import datetime
+
+    time_str = time_str.replace('a.m.','AM')
+    time_str = time_str.replace('p.m.','PM')
+    time_formated = datetime.strptime(time_str,"%b %d %-I:%M %p")
+    time_formated.replace(year=datetime.now().year)
+    return time_formated.iso()
+
 
 
 def main():
@@ -116,6 +128,4 @@ def main():
     with open("bchydro_outages.json", "w") as outfile:
         json.dump(output, outfile, indent=2, sort_keys=True)
 
-
-if __name__ == "__main__":
-    main()
+main()
