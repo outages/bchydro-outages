@@ -7,11 +7,11 @@
           "area": "14000 block BLACKWATER RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-10T12:50:00",
+          "last_updated": "2020-10-10T13:17:00",
           "municipality": "Prince George",
           "municipality_code": "day-1 day-3 city-1835674262",
           "start": "2020-10-10T12:47:00",
-          "status": "Crew status: Crew assigned"
+          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 10 2:00 p.m."
         },
         {
           "area": "1700 - 1900 block COOPER RD, 1600 - 2600 block TIBBLES RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -28,7 +28,7 @@
       "region_id": "848340027"
     },
     "Lower Mainland": {
-      "customers_affected_14d": 9391,
+      "customers_affected_14d": 9451,
       "outages": [
         {
           "area": "9800 block CAMERON ST, 3400 block NORTH RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -91,6 +91,16 @@
           "status": "Crew status: Crew assigned\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 10 10:00 a.m."
         },
         {
+          "area": "South of BAYVIEW RD, East of HWY 99 HWY, North of KELVIN GROVE WAY\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Under investigation",
+          "customers_affected": "60",
+          "last_updated": "2020-10-10T13:21:00",
+          "municipality": "Lions Bay",
+          "municipality_code": "day-1 day-3 city-1368997905",
+          "start": "2020-10-10T13:12:00",
+          "status": "Crew status: Crew assigned"
+        },
+        {
           "area": "800 block BOYD ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Transformer burn out",
           "customers_affected": "< 5",
@@ -151,32 +161,15 @@
           "area": "North of EVENSON RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Wire down",
           "customers_affected": "104",
-          "last_updated": "2020-10-10T08:34:00",
+          "last_updated": "2020-10-10T13:07:00",
           "municipality": "Port Hardy",
           "municipality_code": "day-1 day-3 city-368562319",
           "start": "2020-10-09T12:12:00",
-          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 10 10:00 a.m."
+          "status": "Crew status: Crew on-site"
         }
       ],
       "region_code": "North VI",
       "region_id": "1602896846"
-    },
-    "Northern": {
-      "customers_affected_14d": -1,
-      "outages": [
-        {
-          "area": "East of Rolla RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Work being done on our equipment",
-          "customers_affected": "< 5",
-          "last_updated": "2020-10-10T12:43:00",
-          "municipality": "Dawson Creek",
-          "municipality_code": "day-1 day-3 city--1630954860",
-          "start": "2020-10-10T10:15:00",
-          "status": "Crew status: Crew assigned\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 10 12:45 p.m."
-        }
-      ],
-      "region_code": "Northern",
-      "region_id": "1602964060"
     },
     "Okanagan/Kootenay": {
       "customers_affected_14d": 161,
@@ -202,7 +195,7 @@
           "area": "North of FRAYNE RD, South of DELOUME RD, East of KINNOULL CRS, West of LODGEPOLE RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "178",
-          "last_updated": "2020-10-10T13:05:00",
+          "last_updated": "2020-10-10T13:17:00",
           "municipality": "Duncan",
           "municipality_code": "day-1 day-3 city-2058209491",
           "start": "2020-10-10T12:45:00",
@@ -223,23 +216,43 @@
       "region_id": "1812901382"
     },
     "Thompson/Shuswap": {
-      "customers_affected_14d": 328,
+      "customers_affected_14d": 465,
       "outages": [
         {
           "area": "East of WILCOX RD, North of TRIP RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Under investigation",
+          "cause": "Tree down across our wires",
           "customers_affected": "233",
-          "last_updated": "2020-10-10T13:03:00",
+          "last_updated": "2020-10-10T13:23:00",
           "municipality": "100 Mile House",
           "municipality_code": "day-1 day-3 city-950857956",
           "start": "2020-10-10T12:25:00",
-          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 10 1:45 p.m."
+          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 10 3:00 p.m."
+        },
+        {
+          "area": "South of LAING RD, East of MAHOOD LAKE RD, North of BURGESS RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Under investigation",
+          "customers_affected": "74",
+          "last_updated": "2020-10-10T13:17:00",
+          "municipality": "100 Mile House",
+          "municipality_code": "day-1 day-3 city-950857956",
+          "start": "2020-10-10T12:58:00",
+          "status": "Crew status: Crew assigned"
+        },
+        {
+          "area": "South-East-West of MAHOOD LAKE RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Under investigation",
+          "customers_affected": "63",
+          "last_updated": "2020-10-10T13:16:00",
+          "municipality": "100 Mile House",
+          "municipality_code": "day-1 day-3 city-950857956",
+          "start": "2020-10-10T13:10:00",
+          "status": "Crew status: No crew assigned yet"
         },
         {
           "area": "North of CANIM LAKE RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "41",
-          "last_updated": "2020-10-10T12:57:00",
+          "last_updated": "2020-10-10T13:21:00",
           "municipality": "100 Mile House",
           "municipality_code": "day-1 day-3 city-950857956",
           "start": "2020-10-10T12:42:00",
@@ -249,7 +262,7 @@
           "area": "5400 - 5700 block SPRING LAKE RD, 5600 - 5700 block SPRING LK RD, 3900 - 6000 block DEMPSEY LAKE RD, 3800 - 6000 block DEMPSEY LK RD, SPRING LK RD P93, 6000 block DEMPSEY LAKE S RD, 3900 block LARSON LAKE RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "38",
-          "last_updated": "2020-10-10T12:42:00",
+          "last_updated": "2020-10-10T13:25:00",
           "municipality": "100 Mile House",
           "municipality_code": "day-1 day-3 city-950857956",
           "start": "2020-10-10T12:08:00",
@@ -259,7 +272,7 @@
           "area": "North of HORSE LAKE RD, West of 181 FOREST SERVICE RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "16",
-          "last_updated": "2020-10-10T12:58:00",
+          "last_updated": "2020-10-10T13:18:00",
           "municipality": "100 Mile House",
           "municipality_code": "day-1 day-3 city-950857956",
           "start": "2020-10-10T12:45:00",
@@ -4329,7 +4342,7 @@
           "end": "2020-10-06T14:00:00",
           "last_updated": "2020-10-06T13:42:00",
           "municipality": "Delta",
-          "municipality_code": "day-3 city-65915800",
+          "municipality_code": "city-65915800",
           "start": "2020-10-06T11:42:00"
         },
         {
@@ -6417,7 +6430,7 @@
           "cause": "Tree down across our wires",
           "customers_affected": "< 5",
           "end": "",
-          "last_updated": "2020-10-10T12:31:00",
+          "last_updated": "2020-10-10T13:09:00",
           "municipality": "Whistler",
           "municipality_code": "day-1 day-3 city--2067392640",
           "start": "2020-10-10T10:40:00"
@@ -6466,7 +6479,7 @@
           "end": "",
           "last_updated": "2020-10-06T13:16:00",
           "municipality": "Campbell River",
-          "municipality_code": "day-3 city-1240464880",
+          "municipality_code": "city-1240464880",
           "start": "2020-10-06T11:21:00"
         },
         {
@@ -7304,7 +7317,7 @@
       "region_id": "1602896846"
     },
     "Northern": {
-      "customers_affected_14d": 18307,
+      "customers_affected_14d": 18310,
       "outages": [
         {
           "area": "North-South-East-West of HWY 20",
@@ -7655,6 +7668,16 @@
           "municipality": "Dawson Creek",
           "municipality_code": "city--1630954860",
           "start": "2020-09-29T13:39:00"
+        },
+        {
+          "area": "East of Rolla RD",
+          "cause": "Construction",
+          "customers_affected": "< 5",
+          "end": "2020-10-10T13:45:00",
+          "last_updated": "2020-10-10T13:14:00",
+          "municipality": "Dawson Creek",
+          "municipality_code": "day-1 day-3 city--1630954860",
+          "start": "2020-10-10T10:15:00"
         },
         {
           "area": "12800 block 235RD, 12300 block 235 RD",
@@ -9207,7 +9230,7 @@
           "end": "2020-10-06T13:00:00",
           "last_updated": "2020-10-06T16:28:00",
           "municipality": "Duncan",
-          "municipality_code": "day-3 city-2058209491",
+          "municipality_code": "city-2058209491",
           "start": "2020-10-06T12:16:00"
         },
         {
