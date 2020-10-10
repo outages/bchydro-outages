@@ -115,8 +115,38 @@
       "region_id": "1602896846"
     },
     "Okanagan/Kootenay": {
-      "customers_affected_14d": 162,
+      "customers_affected_14d": 7854,
       "outages": [
+        {
+          "area": "North of 4TH ST, South-East-West of HWY 3\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Transmission circuit failure",
+          "customers_affected": "2013",
+          "last_updated": "2020-10-10T15:27:00",
+          "municipality": "Fernie",
+          "municipality_code": "day-1 day-3 city-2100821431",
+          "start": "2020-10-10T15:20:00",
+          "status": "Crew status: Crew assigned"
+        },
+        {
+          "area": "South of 13TH ST, North-East-West of HWY 3\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Transmission circuit failure",
+          "customers_affected": "1963",
+          "last_updated": "2020-10-10T15:27:00",
+          "municipality": "Fernie",
+          "municipality_code": "day-1 day-3 city-2100821431",
+          "start": "2020-10-10T15:20:00",
+          "status": "Crew status: Crew on-site"
+        },
+        {
+          "area": "South of RIDGEMONT AVE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Transmission circuit failure",
+          "customers_affected": "985",
+          "last_updated": "2020-10-10T15:27:00",
+          "municipality": "Fernie",
+          "municipality_code": "day-1 day-3 city-2100821431",
+          "start": "2020-10-10T15:22:00",
+          "status": "Crew status: Crew on-site"
+        },
         {
           "area": "South-West of HWY 93 95 , North-East of WESTSIDE RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Tree down across our wires",
@@ -128,18 +158,45 @@
           "status": "Crew status: Crew on-site"
         },
         {
-          "area": "6200 block OLD KAMLOOPS RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Under investigation",
-          "customers_affected": "< 5",
-          "last_updated": "2020-10-10T15:11:00",
-          "municipality": "Vernon",
-          "municipality_code": "day-1 day-3 city--1736079254",
-          "start": "2020-10-10T13:14:00",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 10 3:20 p.m."
+          "area": "South of HWY 43\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Transmission circuit failure",
+          "customers_affected": "1405",
+          "last_updated": "2020-10-10T15:26:00",
+          "municipality": "Sparwood",
+          "municipality_code": "day-1 day-3 city-2126498587",
+          "start": "2020-10-10T15:20:00",
+          "status": "Crew status: Crew on-site"
+        },
+        {
+          "area": "South-East-West of HWY 43 , North of HWY 3\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Transmission circuit failure",
+          "customers_affected": "1327",
+          "last_updated": "2020-10-10T15:26:00",
+          "municipality": "Sparwood",
+          "municipality_code": "day-1 day-3 city-2126498587",
+          "start": "2020-10-10T15:20:00",
+          "status": "Crew status: Crew on-site"
         }
       ],
       "region_code": "Okanagan/Kootenay",
       "region_id": "2072041405"
+    },
+    "South VI": {
+      "customers_affected_14d": -1,
+      "outages": [
+        {
+          "area": "North-South-East-West of SOOKE RD",
+          "cause": "Under investigation",
+          "customers_affected": "< 5",
+          "last_updated": "2020-10-10T15:24:00",
+          "municipality": "Metchosin",
+          "municipality_code": "day-1 day-3 city-1000109226",
+          "start": "2020-10-10T15:22:00",
+          "status": "Crew status: No crew assigned yet"
+        }
+      ],
+      "region_code": "South VI",
+      "region_id": "1812901382"
     },
     "Thompson/Shuswap": {
       "customers_affected_14d": 2007,
@@ -258,21 +315,21 @@
           "area": "East of EVANS RD, North-West of EAGLE BAY RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "1459",
-          "last_updated": "2020-10-10T15:20:00",
+          "last_updated": "2020-10-10T15:21:00",
           "municipality": "Salmon Arm",
           "municipality_code": "day-1 day-3 city-2118875562",
           "start": "2020-10-10T15:16:00",
-          "status": "Crew status: Crew on their way"
+          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 10 4:00 p.m."
         },
         {
           "area": "North-South-East-West of HWY 16\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "141",
-          "last_updated": "2020-10-10T15:14:00",
+          "last_updated": "2020-10-10T15:29:00",
           "municipality": "Valemount",
           "municipality_code": "day-1 day-3 city-788397333",
           "start": "2020-10-10T15:12:00",
-          "status": "Crew status: No crew assigned yet"
+          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 10 4:30 p.m."
         }
       ],
       "region_code": "Thompson/Shuswap",
@@ -8490,7 +8547,7 @@
       "region_id": "1602964060"
     },
     "Okanagan/Kootenay": {
-      "customers_affected_14d": 17614,
+      "customers_affected_14d": 17615,
       "outages": [
         {
           "area": "3200 block ROSEDALE AVE",
@@ -9101,6 +9158,16 @@
           "municipality": "Vernon",
           "municipality_code": "day-1 day-3 city--1736079254",
           "start": "2020-10-09T06:58:00"
+        },
+        {
+          "area": "6200 block OLD KAMLOOPS RD",
+          "cause": "Under investigation",
+          "customers_affected": "< 5",
+          "end": "2020-10-10T15:20:00",
+          "last_updated": "2020-10-10T15:30:00",
+          "municipality": "Vernon",
+          "municipality_code": "day-1 day-3 city--1736079254",
+          "start": "2020-10-10T13:14:00"
         },
         {
           "area": "2700 block 28 AVE",
