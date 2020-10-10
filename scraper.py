@@ -113,7 +113,7 @@ def main():
         "planned": {region["region_code"]: region for region in planned_outages}
     }
 
-    with open("bchydro_outage.json", "w") as outfile:
+    with open("bchydro_outages.json", "w") as outfile:
         json.dump(output, outfile, indent=2, sort_keys=True)
 
 
