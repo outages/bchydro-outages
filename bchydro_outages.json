@@ -55,7 +55,7 @@
       "region_id": "521980323"
     },
     "North VI": {
-      "customers_affected_14d": 104,
+      "customers_affected_14d": 106,
       "outages": [
         {
           "area": "North of EVENSON RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -66,6 +66,16 @@
           "municipality_code": "day-1 day-3 city-368562319",
           "start": "Oct 9 12:12 p.m.",
           "status": "Crew status: Crew assigned\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 10 10:00 a.m."
+        },
+        {
+          "area": "7900 block W ISLAND HWY\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Under investigation",
+          "customers_affected": "< 5",
+          "last_updated": "Oct 10 8:00 a.m.",
+          "municipality": "Qualicum Beach",
+          "municipality_code": "day-1 day-3 city--154309756",
+          "start": "Oct 10 7:51 a.m.",
+          "status": "Crew status: Crew assigned"
         }
       ],
       "region_code": "North VI",
