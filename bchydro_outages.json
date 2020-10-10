@@ -18,7 +18,7 @@
       "region_id": "1602896846"
     },
     "Northern": {
-      "customers_affected_14d": 19,
+      "customers_affected_14d": 26,
       "outages": [
         {
           "area": "South of HERITAGE HWY, West of UPPER CUTBANK RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -29,6 +29,16 @@
           "municipality_code": "day-1 day-3 city--1630954860",
           "start": "Oct 9 11:38 p.m.",
           "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 10 12:45 a.m."
+        },
+        {
+          "area": "North of KEILLOR RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Under investigation",
+          "customers_affected": "7",
+          "last_updated": "Oct 10 12:42 a.m.",
+          "municipality": "Vanderhoof",
+          "municipality_code": "day-1 day-3 city-1041981516",
+          "start": "Oct 10 12:29 a.m.",
+          "status": "Crew status: Crew assigned"
         }
       ],
       "region_code": "Northern",
@@ -10016,7 +10026,7 @@
           "end": "Oct 6 1:30 a.m.",
           "last_updated": "Oct 6 1:31 a.m.",
           "municipality": "Kamloops",
-          "municipality_code": "day-3 city-979034872",
+          "municipality_code": "city-979034872",
           "start": "Oct 5 6:01 p.m."
         },
         {
