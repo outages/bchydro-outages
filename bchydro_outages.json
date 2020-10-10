@@ -1,7 +1,7 @@
 {
   "current": {
     "Lower Mainland": {
-      "customers_affected_14d": 101,
+      "customers_affected_14d": 6,
       "outages": [
         {
           "area": "25200 block 72 AVE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -14,6 +14,16 @@
           "status": "Crew status: Crew assigned"
         },
         {
+          "area": "GOLDEN EARS PARK\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Under investigation",
+          "customers_affected": "< 5",
+          "last_updated": "Oct 9 8:46 p.m.",
+          "municipality": "Maple Ridge",
+          "municipality_code": "day-1 day-3 city-598891104",
+          "start": "Oct 9 8:22 p.m.",
+          "status": "Crew status: Crew assigned"
+        },
+        {
           "area": "32800 block CAMERON AVE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "< 5",
@@ -22,16 +32,6 @@
           "municipality_code": "day-1 day-3 city--1560864404",
           "start": "Oct 9 7:04 p.m.",
           "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 9 9:25 p.m."
-        },
-        {
-          "area": "3100 block 160 ST, 15900 block 32 AVE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Planned work being done on our equipment",
-          "customers_affected": "96",
-          "last_updated": "Oct 9 8:39 p.m.",
-          "municipality": "Surrey",
-          "municipality_code": "day-1 day-3 city--1807186826",
-          "start": "Oct 9 10:11 a.m.",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 9 9:00 p.m."
         }
       ],
       "region_code": "Lower Mainland",
@@ -44,7 +44,7 @@
           "area": "North of EVENSON RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Wire down",
           "customers_affected": "104",
-          "last_updated": "Oct 9 5:53 p.m.",
+          "last_updated": "Oct 9 9:02 p.m.",
           "municipality": "Port Hardy",
           "municipality_code": "day-1 day-3 city-368562319",
           "start": "Oct 9 12:12 p.m.",
@@ -3102,7 +3102,7 @@
       "region_id": "848340027"
     },
     "Lower Mainland": {
-      "customers_affected_14d": 46355,
+      "customers_affected_14d": 46451,
       "outages": [
         {
           "area": "East of CLEARBROOK RD, South of NANAIMO CLS, North of PEARDONVILLE RD, West of MACLURE RD",
@@ -4246,10 +4246,10 @@
         },
         {
           "area": "East of 115TH ST, South of 84B AVE, North of 84 AVE, West of 116TH ST",
-          "cause": "Under investigation",
+          "cause": "Bird contacting our wires",
           "customers_affected": "13",
           "end": "Oct 9 7:35 p.m.",
-          "last_updated": "Oct 9 8:02 p.m.",
+          "last_updated": "Oct 9 8:50 p.m.",
           "municipality": "Delta",
           "municipality_code": "day-1 day-3 city-65915800",
           "start": "Oct 9 5:15 p.m."
@@ -5843,6 +5843,16 @@
           "municipality": "Surrey",
           "municipality_code": "city--1807186826",
           "start": "Sep 25 7:39 a.m."
+        },
+        {
+          "area": "3100 block 160 ST, 15900 block 32 AVE",
+          "cause": "Planned work being done on our equipment",
+          "customers_affected": "96",
+          "end": "Oct 9 9:00 p.m.",
+          "last_updated": "Oct 9 9:04 p.m.",
+          "municipality": "Surrey",
+          "municipality_code": "day-1 day-3 city--1807186826",
+          "start": "Oct 9 10:11 a.m."
         },
         {
           "area": "South of 111A AVE, West of 148TH ST, East of 146TH ST, North of 110TH AVE",
@@ -10169,7 +10179,7 @@
           "end": "Oct 7 9:30 p.m.",
           "last_updated": "Oct 8 8:40 a.m.",
           "municipality": "Ganges",
-          "municipality_code": "day-1 day-3 city-2125630497",
+          "municipality_code": "day-3 city-2125630497",
           "start": "Oct 7 6:27 p.m."
         },
         {
