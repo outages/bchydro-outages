@@ -1,5 +1,22 @@
 {
   "current": {
+    "Central Interior": {
+      "customers_affected_14d": -1,
+      "outages": [
+        {
+          "area": "2100 block HIGDON RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Under investigation",
+          "customers_affected": "< 5",
+          "last_updated": "2020-10-10T10:21:00",
+          "municipality": "Quesnel",
+          "municipality_code": "day-1 day-3 city--1975191965",
+          "start": "2020-10-10T10:12:00",
+          "status": "Crew status: Crew assigned"
+        }
+      ],
+      "region_code": "Central Interior",
+      "region_id": "848340027"
+    },
     "Lower Mainland": {
       "customers_affected_14d": 798,
       "outages": [
@@ -27,11 +44,11 @@
           "area": "800 block BOYD ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-10T10:14:00",
+          "last_updated": "2020-10-10T10:23:00",
           "municipality": "New Westminster",
           "municipality_code": "day-1 day-3 city-963142865",
           "start": "2020-10-10T10:09:00",
-          "status": "Crew status: Crew assigned"
+          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 10 11:25 a.m."
         }
       ],
       "region_code": "Lower Mainland",
@@ -44,11 +61,11 @@
           "area": "East of SPRUSTON RD, South of LOFTUS RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "46",
-          "last_updated": "2020-10-10T09:54:00",
+          "last_updated": "2020-10-10T10:24:00",
           "municipality": "Nanaimo",
           "municipality_code": "day-1 day-3 city--907547835",
           "start": "2020-10-10T09:01:00",
-          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 10 10:20 a.m."
+          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 10 12:00 p.m."
         },
         {
           "area": "500 block INDUSTRIAL WY, 500 block INDUSTRIAL WAY\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -90,23 +107,6 @@
       ],
       "region_code": "Northern",
       "region_id": "1602964060"
-    },
-    "Okanagan/Kootenay": {
-      "customers_affected_14d": 49,
-      "outages": [
-        {
-          "area": "West of LOWER ELK VALLEY RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Tree down across our wires",
-          "customers_affected": "49",
-          "last_updated": "2020-10-10T09:56:00",
-          "municipality": "Fernie",
-          "municipality_code": "day-1 day-3 city-2100821431",
-          "start": "2020-10-10T07:50:00",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 10 10:30 a.m."
-        }
-      ],
-      "region_code": "Okanagan/Kootenay",
-      "region_id": "2072041405"
     },
     "South VI": {
       "customers_affected_14d": 183,
@@ -4575,7 +4575,7 @@
           "end": "2020-10-08T15:00:00",
           "last_updated": "2020-10-08T10:41:00",
           "municipality": "Langley",
-          "municipality_code": "day-1 day-3 city-1612593490",
+          "municipality_code": "day-3 city-1612593490",
           "start": "2020-10-08T09:25:00"
         },
         {
@@ -5015,7 +5015,7 @@
           "end": "2020-10-06T10:30:00",
           "last_updated": "2020-10-07T14:30:00",
           "municipality": "North Vancouver",
-          "municipality_code": "day-3 city--1636626238",
+          "municipality_code": "city--1636626238",
           "start": "2020-10-06T09:49:00"
         },
         {
@@ -7087,10 +7087,10 @@
         },
         {
           "area": "7900 block W ISLAND HWY",
-          "cause": "Under investigation",
+          "cause": "Tree down across our wires",
           "customers_affected": "< 5",
           "end": "2020-10-10T11:00:00",
-          "last_updated": "2020-10-10T10:13:00",
+          "last_updated": "2020-10-10T10:24:00",
           "municipality": "Qualicum Beach",
           "municipality_code": "day-1 day-3 city--154309756",
           "start": "2020-10-10T07:51:00"
@@ -8287,7 +8287,7 @@
       "region_id": "1602964060"
     },
     "Okanagan/Kootenay": {
-      "customers_affected_14d": 14219,
+      "customers_affected_14d": 14268,
       "outages": [
         {
           "area": "3200 block ROSEDALE AVE",
@@ -8478,6 +8478,16 @@
           "municipality": "Fernie",
           "municipality_code": "city-2100821431",
           "start": "2020-09-29T07:39:00"
+        },
+        {
+          "area": "West of LOWER ELK VALLEY RD",
+          "cause": "Tree down across our wires",
+          "customers_affected": "49",
+          "end": "2020-10-10T10:30:00",
+          "last_updated": "2020-10-10T10:30:00",
+          "municipality": "Fernie",
+          "municipality_code": "day-1 day-3 city-2100821431",
+          "start": "2020-10-10T07:50:00"
         },
         {
           "area": "5600 block VILLAGE LOOP RD",
