@@ -7,11 +7,11 @@
           "area": "East of FLOOD HOPE , West of TOM BERRY RD, South of LOUGHEED HWY\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "94",
-          "last_updated": "Oct 10 4:50 a.m.",
+          "last_updated": "Oct 10 5:52 a.m.",
           "municipality": "Hope",
           "municipality_code": "day-1 day-3 city-2255196",
           "start": "Oct 10 4:39 a.m.",
-          "status": "Crew status: Crew assigned\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 10 6:30 a.m."
+          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 10 6:30 a.m."
         }
       ],
       "region_code": "Lower Mainland",
@@ -33,6 +33,23 @@
       ],
       "region_code": "North VI",
       "region_id": "1602896846"
+    },
+    "Northern": {
+      "customers_affected_14d": 48,
+      "outages": [
+        {
+          "area": "East of 227 RD, South of HWY 97 , West of ADAMS RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Under investigation",
+          "customers_affected": "48",
+          "last_updated": "Oct 10 6:05 a.m.",
+          "municipality": "Dawson Creek",
+          "municipality_code": "day-1 day-3 city--1630954860",
+          "start": "Oct 10 5:56 a.m.",
+          "status": "Crew status: Crew assigned"
+        }
+      ],
+      "region_code": "Northern",
+      "region_id": "1602964060"
     },
     "South VI": {
       "customers_affected_14d": 6,
@@ -7135,7 +7152,7 @@
           "end": "Oct 8 5:55 a.m.",
           "last_updated": "Oct 8 6:50 a.m.",
           "municipality": "Chetwynd",
-          "municipality_code": "day-1 day-3 city-1617615372",
+          "municipality_code": "day-3 city-1617615372",
           "start": "Oct 8 3:18 a.m."
         },
         {
