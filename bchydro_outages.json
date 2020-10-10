@@ -5,9 +5,9 @@
       "outages": [
         {
           "area": "West of EVANS RD, North of KEITH WILSON RD, East of ARNOLD RD, South of CHILLIWACK MOUNTIAN RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Under investigation",
+          "cause": "Tree down across our wires",
           "customers_affected": "795",
-          "last_updated": "Oct 10 9:45 a.m.",
+          "last_updated": "Oct 10 9:49 a.m.",
           "municipality": "Chilliwack",
           "municipality_code": "day-1 day-3 city--708005353",
           "start": "Oct 10 9:34 a.m.",
@@ -21,7 +21,7 @@
           "municipality": "Hope",
           "municipality_code": "day-1 day-3 city-2255196",
           "start": "Oct 10 6:37 a.m.",
-          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 10 10:35 a.m."
+          "status": "Crew status: Crew on-site"
         }
       ],
       "region_code": "Lower Mainland",
@@ -34,11 +34,11 @@
           "area": "East of SPRUSTON RD, South of LOFTUS RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "46",
-          "last_updated": "Oct 10 9:23 a.m.",
+          "last_updated": "Oct 10 9:54 a.m.",
           "municipality": "Nanaimo",
           "municipality_code": "day-1 day-3 city--907547835",
           "start": "Oct 10 9:01 a.m.",
-          "status": "Crew status: Crew assigned"
+          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 10 10:20 a.m."
         },
         {
           "area": "500 block INDUSTRIAL WY, 500 block INDUSTRIAL WAY\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -91,18 +91,35 @@
       "region_code": "Northern",
       "region_id": "1602964060"
     },
+    "Okanagan/Kootenay": {
+      "customers_affected_14d": 49,
+      "outages": [
+        {
+          "area": "West of LOWER ELK VALLEY RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Tree down across our wires",
+          "customers_affected": "49",
+          "last_updated": "Oct 10 9:56 a.m.",
+          "municipality": "Fernie",
+          "municipality_code": "day-1 day-3 city-2100821431",
+          "start": "Oct 10 7:50 a.m.",
+          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 10 10:30 a.m."
+        }
+      ],
+      "region_code": "Okanagan/Kootenay",
+      "region_id": "2072041405"
+    },
     "South VI": {
-      "customers_affected_14d": 7,
+      "customers_affected_14d": 183,
       "outages": [
         {
           "area": "1700 block THAIN RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "< 5",
-          "last_updated": "Oct 10 9:16 a.m.",
+          "last_updated": "Oct 10 9:56 a.m.",
           "municipality": "Duncan",
           "municipality_code": "day-1 day-3 city-2058209491",
           "start": "Oct 10 9:11 a.m.",
-          "status": "Crew status: No crew assigned yet"
+          "status": "Crew status: Crew assigned"
         },
         {
           "area": "0 - 1700 block MCCLURE RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -113,6 +130,16 @@
           "municipality_code": "day-1 day-3 city--995767958",
           "start": "Oct 10 5:21 a.m.",
           "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 10 10:30 a.m."
+        },
+        {
+          "area": "West of SARAH OWEN PL, East of WOODRIDGE PL, South of MEADOWBROOK RD, North of MUNNS RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Under investigation",
+          "customers_affected": "176",
+          "last_updated": "Oct 10 10:05 a.m.",
+          "municipality": "Highlands, Saanich, View Royal",
+          "municipality_code": "day-1 day-3 city-1322525542 city--776615533 city--1360221748",
+          "start": "Oct 10 9:56 a.m.",
+          "status": "Crew status: Crew assigned"
         }
       ],
       "region_code": "South VI",
@@ -4693,10 +4720,10 @@
         },
         {
           "area": "10300 block 272 ST",
-          "cause": "Under investigation",
+          "cause": "Equipment failure",
           "customers_affected": "< 5",
           "end": "Oct 10 10:02 a.m.",
-          "last_updated": "Oct 10 9:45 a.m.",
+          "last_updated": "Oct 10 9:48 a.m.",
           "municipality": "Maple Ridge",
           "municipality_code": "day-1 day-3 city-598891104",
           "start": "Oct 10 7:25 a.m."
