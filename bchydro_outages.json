@@ -44,23 +44,6 @@
       "region_code": "North VI",
       "region_id": "1602896846"
     },
-    "Northern": {
-      "customers_affected_14d": 48,
-      "outages": [
-        {
-          "area": "East of 227 RD, South of HWY 97 , West of ADAMS RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Under investigation",
-          "customers_affected": "48",
-          "last_updated": "Oct 10 7:02 a.m.",
-          "municipality": "Dawson Creek",
-          "municipality_code": "day-1 day-3 city--1630954860",
-          "start": "Oct 10 5:56 a.m.",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 10 7:15 a.m."
-        }
-      ],
-      "region_code": "Northern",
-      "region_id": "1602964060"
-    },
     "South VI": {
       "customers_affected_14d": 94,
       "outages": [
@@ -68,11 +51,11 @@
           "area": "East of GEORGIA VIEW RD, North of HIGHVIEW DR\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Tree down across our wires",
           "customers_affected": "88",
-          "last_updated": "Oct 10 7:05 a.m.",
+          "last_updated": "Oct 10 7:09 a.m.",
           "municipality": "Galiano Island",
           "municipality_code": "day-1 day-3 city--995767958",
           "start": "Oct 10 6:20 a.m.",
-          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 10 7:15 a.m."
+          "status": "Crew status: Crew on-site"
         },
         {
           "area": "0 - 1700 block MCCLURE RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -7073,7 +7056,7 @@
       "region_id": "1602896846"
     },
     "Northern": {
-      "customers_affected_14d": 16366,
+      "customers_affected_14d": 16414,
       "outages": [
         {
           "area": "North-South-East-West of HWY 20",
@@ -7294,6 +7277,16 @@
           "municipality": "Dawson Creek",
           "municipality_code": "city--1630954860",
           "start": "Sep 28 1:51 p.m."
+        },
+        {
+          "area": "East of 227 RD, South of HWY 97 , West of ADAMS RD",
+          "cause": "Other",
+          "customers_affected": "48",
+          "end": "Oct 10 7:15 a.m.",
+          "last_updated": "Oct 10 7:09 a.m.",
+          "municipality": "Dawson Creek",
+          "municipality_code": "day-1 day-3 city--1630954860",
+          "start": "Oct 10 5:56 a.m."
         },
         {
           "area": "West of RD 211 , South of TRIANGLE RD, North of 222 RD",
