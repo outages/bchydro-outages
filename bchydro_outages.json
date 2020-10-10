@@ -1,8 +1,18 @@
 {
   "current": {
     "Lower Mainland": {
-      "customers_affected_14d": 1295,
+      "customers_affected_14d": 1373,
       "outages": [
+        {
+          "area": "East of FERN ST, West of POWELL CRS, South of MARSHALL RD, North of GILMOUR DR\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Under investigation",
+          "customers_affected": "12",
+          "last_updated": "2020-10-10T16:13:00",
+          "municipality": "Abbotsford",
+          "municipality_code": "day-1 day-3 city-1230363016",
+          "start": "2020-10-10T14:34:00",
+          "status": "Crew status: Crew assigned"
+        },
         {
           "area": "3300 block NORTH RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
@@ -14,20 +24,20 @@
           "status": "Crew status: Crew assigned"
         },
         {
-          "area": "East of PROGRESS WAY, North of VENTURE PL, South of SUNRISE DR, West of AITKEN RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "area": "North of VENTURE PL, East of PROGRESS WAY, West of AITKEN RD, South of GRAND VIEW DR\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Tree down across our wires",
-          "customers_affected": "16",
-          "last_updated": "2020-10-10T14:54:00",
+          "customers_affected": "82",
+          "last_updated": "2020-10-10T16:07:00",
           "municipality": "Chilliwack",
           "municipality_code": "day-1 day-3 city--708005353",
           "start": "2020-10-10T09:34:00",
-          "status": "Crew status: Crew on-site"
+          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 10 5:30 p.m."
         },
         {
           "area": "22000 - 22100 block TRANS CAN HWY\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Under investigation",
+          "cause": "Tree down across our wires",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-10T15:19:00",
+          "last_updated": "2020-10-10T16:18:00",
           "municipality": "Hope",
           "municipality_code": "day-1 day-3 city-2255196",
           "start": "2020-10-10T06:37:00",
@@ -47,11 +57,11 @@
           "area": "24400 block FERN CRES, GOLDEN EARS PARK\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "6",
-          "last_updated": "2020-10-10T15:07:00",
+          "last_updated": "2020-10-10T16:13:00",
           "municipality": "Maple Ridge",
           "municipality_code": "day-1 day-3 city-598891104",
           "start": "2020-10-10T13:20:00",
-          "status": "Crew status: Crew on-site"
+          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 10 5:15 p.m."
         },
         {
           "area": "North-West of LAKESHORE DR, East of RED BARN RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -67,18 +77,18 @@
           "area": "South of HEBB AVE, North of 27TH AVE, East of RENFREW ST, West of MONS DR\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Wire down",
           "customers_affected": "1237",
-          "last_updated": "2020-10-10T14:36:00",
+          "last_updated": "2020-10-10T16:17:00",
           "municipality": "Vancouver",
           "municipality_code": "day-1 day-3 city--1786794435",
           "start": "2020-10-10T12:08:00",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 10 4:35 p.m."
+          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 10 5:00 p.m."
         }
       ],
       "region_code": "Lower Mainland",
       "region_id": "521980323"
     },
     "North VI": {
-      "customers_affected_14d": 5,
+      "customers_affected_14d": 107,
       "outages": [
         {
           "area": "3100 block CANNON CRS\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -99,13 +109,23 @@
           "municipality_code": "day-1 day-3 city-362416673",
           "start": "2020-10-10T08:27:00",
           "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 10 5:00 p.m."
+        },
+        {
+          "area": "S OF 595 E QUATSINO RD, QUATSINO SR500 RADIO, 700 block W QUATSINO DR, QUATSINO, 100 block LEESON POINT RD, 100 block W LEESON POINT RD, 0 block MARINE DR, 600 block NORDSTROM RD, 100 - 900 block W QUATSINO RD, 200 block EVENSON RD...\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Under investigation",
+          "customers_affected": "102",
+          "last_updated": "2020-10-10T16:09:00",
+          "municipality": "Port Hardy",
+          "municipality_code": "day-1 day-3 city-368562319",
+          "start": "2020-10-10T14:55:00",
+          "status": "Crew status: Crew assigned"
         }
       ],
       "region_code": "North VI",
       "region_id": "1602896846"
     },
     "South VI": {
-      "customers_affected_14d": -1,
+      "customers_affected_14d": 34,
       "outages": [
         {
           "area": "North-South-East-West of SOOKE RD",
@@ -115,6 +135,16 @@
           "municipality": "Metchosin",
           "municipality_code": "day-1 day-3 city-1000109226",
           "start": "2020-10-10T15:22:00",
+          "status": "Crew status: Crew assigned"
+        },
+        {
+          "area": "West of SHEPHERDS WAY, South of SOOKE RD, East of WOODLANDS RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Under investigation",
+          "customers_affected": "33",
+          "last_updated": "2020-10-10T16:11:00",
+          "municipality": "Sooke",
+          "municipality_code": "day-1 day-3 city-80069133",
+          "start": "2020-10-10T15:07:00",
           "status": "Crew status: Crew assigned"
         }
       ],
@@ -168,7 +198,7 @@
           "area": "North of HORSE LAKE RD, West of 181 FOREST SERVICE RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Wire down",
           "customers_affected": "16",
-          "last_updated": "2020-10-10T15:10:00",
+          "last_updated": "2020-10-10T16:19:00",
           "municipality": "100 Mile House",
           "municipality_code": "day-1 day-3 city-950857956",
           "start": "2020-10-10T12:45:00",
@@ -218,11 +248,11 @@
           "area": "West of CUMMINGS ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "130",
-          "last_updated": "2020-10-10T15:50:00",
+          "last_updated": "2020-10-10T16:18:00",
           "municipality": "Chase",
           "municipality_code": "day-1 day-3 city-65071054",
           "start": "2020-10-10T14:55:00",
-          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 10 4:50 p.m."
+          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 10 5:20 p.m."
         },
         {
           "area": "3400 - 4100 block MCNAB RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -3051,7 +3081,7 @@
           "end": "2020-10-06T16:00:00",
           "last_updated": "2020-10-07T08:21:00",
           "municipality": "Prince George",
-          "municipality_code": "day-3 city-1835674262",
+          "municipality_code": "city-1835674262",
           "start": "2020-10-06T14:53:00"
         },
         {
@@ -3259,7 +3289,7 @@
       "region_id": "848340027"
     },
     "Lower Mainland": {
-      "customers_affected_14d": 36861,
+      "customers_affected_14d": 36868,
       "outages": [
         {
           "area": "East of CLEARBROOK RD, South of NANAIMO CLS, North of PEARDONVILLE RD, West of MACLURE RD",
@@ -3330,6 +3360,16 @@
           "municipality": "Abbotsford",
           "municipality_code": "day-1 day-3 city-1230363016",
           "start": "2020-10-09T10:23:00"
+        },
+        {
+          "area": "1800 - 1900 block MCKENZIE RD",
+          "cause": "Under investigation",
+          "customers_affected": "7",
+          "end": "",
+          "last_updated": "2020-10-10T16:11:00",
+          "municipality": "Abbotsford",
+          "municipality_code": "day-1 day-3 city-1230363016",
+          "start": "2020-10-10T14:45:00"
         },
         {
           "area": "34400 block IMMEL ST",
@@ -4248,7 +4288,7 @@
           "end": "2020-10-08T16:00:00",
           "last_updated": "2020-10-08T17:01:00",
           "municipality": "Delta",
-          "municipality_code": "day-1 day-3 city-65915800",
+          "municipality_code": "day-3 city-65915800",
           "start": "2020-10-08T11:21:00"
         },
         {
@@ -10126,7 +10166,7 @@
           "end": "2020-10-06T16:00:00",
           "last_updated": "2020-10-06T16:17:00",
           "municipality": "Victoria",
-          "municipality_code": "day-3 city-1201273535",
+          "municipality_code": "city-1201273535",
           "start": "2020-10-06T09:56:00"
         },
         {
