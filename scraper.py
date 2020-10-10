@@ -1,8 +1,7 @@
 #!/usr/bin/env python3
 
 import json
-import logging
-import re
+from datetime import datetime
 
 import requests
 from bs4 import BeautifulSoup
@@ -43,7 +42,7 @@ def process_outage(outage_el, status_type):
         municipality = ""
 
     try:
-        off_since = outage_el.select_one(".off-since").get_text().strip()
+        off_since = parse_date(outage_el.select_one(".off-since").get_text().strip())
     except:
         off_since = ""
 
@@ -68,7 +67,7 @@ def process_outage(outage_el, status_type):
         cause = ""
 
     try:
-        last_updated = outage_el.select_one(".last-updated").get_text().strip()
+        last_updated = parse_date(outage_el.select_one(".last-updated").get_text().strip())
     except:
         last_updated = ""
 
@@ -78,17 +77,29 @@ def process_outage(outage_el, status_type):
         "area": area,
         "customers_affected": customers_affected,
         "cause": cause,
-        "last_updated": last_updated
+        "last_updated": last_updated,
+        "start": off_since
     }
 
     if status_type == "restored" or status_type == "planned":
-        outage["end"] = status
-        outage["start"] = off_since
+        outage["end"] = parse_date(status)
     elif status_type == "current":
-        outage["start"] = off_since
         outage["status"] = status
 
     return outage
+
+
+def parse_date(time_str):
+    time_str = time_str.replace("a.m.", "AM")
+    time_str = time_str.replace("p.m.", "PM")
+
+    try:
+        time_formatted = datetime.strptime(time_str, "%b %d %I:%M %p")
+        time_formatted = time_formatted.replace(year=datetime.now().year)
+    except:
+        return ""
+
+    return time_formatted.isoformat()
 
 
 def main():
