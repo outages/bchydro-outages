@@ -1,8 +1,18 @@
 {
   "current": {
     "Lower Mainland": {
-      "customers_affected_14d": 6,
+      "customers_affected_14d": 14,
       "outages": [
+        {
+          "area": "3800 - 3900 block 202A ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Under investigation",
+          "customers_affected": "11",
+          "last_updated": "Oct 9 9:50 p.m.",
+          "municipality": "Langley",
+          "municipality_code": "day-1 day-3 city-1612593490",
+          "start": "Oct 9 9:46 p.m.",
+          "status": "Crew status: Crew assigned"
+        },
         {
           "area": "25200 block 72 AVE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Transformer burn out",
@@ -22,16 +32,6 @@
           "municipality_code": "day-1 day-3 city-598891104",
           "start": "Oct 9 8:22 p.m.",
           "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 9 10:25 p.m."
-        },
-        {
-          "area": "32800 block CAMERON AVE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Under investigation",
-          "customers_affected": "< 5",
-          "last_updated": "Oct 9 9:19 p.m.",
-          "municipality": "Mission",
-          "municipality_code": "day-1 day-3 city--1560864404",
-          "start": "Oct 9 7:04 p.m.",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 9 10:15 p.m."
         }
       ],
       "region_code": "Lower Mainland",
@@ -3102,7 +3102,7 @@
       "region_id": "848340027"
     },
     "Lower Mainland": {
-      "customers_affected_14d": 46451,
+      "customers_affected_14d": 46454,
       "outages": [
         {
           "area": "East of CLEARBROOK RD, South of NANAIMO CLS, North of PEARDONVILLE RD, West of MACLURE RD",
@@ -3201,7 +3201,7 @@
           "end": "Oct 7 9:45 p.m.",
           "last_updated": "Oct 8 2:29 p.m.",
           "municipality": "Abbotsford",
-          "municipality_code": "day-1 day-3 city-1230363016",
+          "municipality_code": "day-3 city-1230363016",
           "start": "Oct 7 5:42 p.m."
         },
         {
@@ -5023,6 +5023,16 @@
           "municipality": "Mission",
           "municipality_code": "city--1560864404",
           "start": "Oct 3 10:58 p.m."
+        },
+        {
+          "area": "32800 block CAMERON AVE",
+          "cause": "Tree down across our wires",
+          "customers_affected": "< 5",
+          "end": "Oct 9 10:15 p.m.",
+          "last_updated": "Oct 9 10:02 p.m.",
+          "municipality": "Mission",
+          "municipality_code": "day-1 day-3 city--1560864404",
+          "start": "Oct 9 7:04 p.m."
         },
         {
           "area": "11100 block GREENWOOD DR",
@@ -11546,7 +11556,7 @@
           "end": "",
           "last_updated": "Oct 7 10:07 p.m.",
           "municipality": "Kamloops",
-          "municipality_code": "day-1 day-3 city-979034872",
+          "municipality_code": "day-3 city-979034872",
           "start": "Oct 7 7:03 p.m."
         },
         {
