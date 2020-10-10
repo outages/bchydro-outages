@@ -67,11 +67,10 @@ def process_outage(outage_el, status_type):
         cause = ""
 
     try:
-        last_updated = outage_el.select_one(".last-updated").get_text().strip()
+        last_updated = parse_date(outage_el.select_one(".last-updated").get_text().strip())
     except:
         last_updated = ""
 
-    last_updated = parse_date(last_updated)
     outage = {
         "municipality_code": municipality_code,
         "municipality": municipality,
