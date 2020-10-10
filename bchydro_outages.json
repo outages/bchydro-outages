@@ -1,18 +1,8 @@
 {
   "current": {
     "Lower Mainland": {
-      "customers_affected_14d": 1817,
+      "customers_affected_14d": 1295,
       "outages": [
-        {
-          "area": "9800 block CAMERON ST, 3400 block NORTH RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Under investigation",
-          "customers_affected": "522",
-          "last_updated": "2020-10-10T14:13:00",
-          "municipality": "Burnaby",
-          "municipality_code": "day-1 day-3 city-1903966249",
-          "start": "2020-10-10T12:45:00",
-          "status": "Crew status: Crew on-site"
-        },
         {
           "area": "3300 block NORTH RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
@@ -94,17 +84,17 @@
           "area": "3100 block CANNON CRS\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Tree down across our wires",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-10T15:11:00",
+          "last_updated": "2020-10-10T16:02:00",
           "municipality": "Courtenay",
           "municipality_code": "day-1 day-3 city--824228212",
           "start": "2020-10-10T13:31:00",
-          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 10 3:00 p.m."
+          "status": "Crew status: Crew on-site"
         },
         {
           "area": "500 block INDUSTRIAL WY, 500 block INDUSTRIAL WAY\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-10T15:41:00",
+          "last_updated": "2020-10-10T15:46:00",
           "municipality": "Port Alice",
           "municipality_code": "day-1 day-3 city-362416673",
           "start": "2020-10-10T08:27:00",
@@ -113,23 +103,6 @@
       ],
       "region_code": "North VI",
       "region_id": "1602896846"
-    },
-    "Okanagan/Kootenay": {
-      "customers_affected_14d": 161,
-      "outages": [
-        {
-          "area": "South-West of HWY 93 95 , North-East of WESTSIDE RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Tree down across our wires",
-          "customers_affected": "161",
-          "last_updated": "2020-10-10T15:07:00",
-          "municipality": "Invermere",
-          "municipality_code": "day-1 day-3 city--13155575",
-          "start": "2020-10-10T10:54:00",
-          "status": "Crew status: Crew on-site"
-        }
-      ],
-      "region_code": "Okanagan/Kootenay",
-      "region_id": "2072041405"
     },
     "South VI": {
       "customers_affected_14d": -1,
@@ -149,7 +122,7 @@
       "region_id": "1812901382"
     },
     "Thompson/Shuswap": {
-      "customers_affected_14d": 2008,
+      "customers_affected_14d": 2245,
       "outages": [
         {
           "area": "3400 - 9000 block MAHOOD LK RD, 8900 - 9200 block S MAHOOD LAKE RD, 9000 block MAHOOD LK, 3700 block BOWERS LK FORES RD, MAHOOD LK SUB P 0/1, 9000 block MAHOOD LK SOUTH ROAD, 9000 block MAHOOD LK S, 3300 - 9200 block MAHOOD LAKE RD, 8900 block MAHOOD LAKE SOUTH RD, 8900 - 9000 block S MAHOOD LK...\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -185,11 +158,11 @@
           "area": "5400 - 5700 block SPRING LAKE RD, 5600 - 5700 block SPRING LK RD, 3900 - 6000 block DEMPSEY LAKE RD, 3800 - 6000 block DEMPSEY LK RD, SPRING LK RD P93, 6000 block DEMPSEY LAKE S RD, 3900 block LARSON LAKE RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Tree down across our wires",
           "customers_affected": "38",
-          "last_updated": "2020-10-10T15:09:00",
+          "last_updated": "2020-10-10T15:51:00",
           "municipality": "100 Mile House",
           "municipality_code": "day-1 day-3 city-950857956",
           "start": "2020-10-10T12:08:00",
-          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 10 4:10 p.m."
+          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 10 6:00 p.m."
         },
         {
           "area": "North of HORSE LAKE RD, West of 181 FOREST SERVICE RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -245,11 +218,11 @@
           "area": "West of CUMMINGS ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "130",
-          "last_updated": "2020-10-10T15:07:00",
+          "last_updated": "2020-10-10T15:50:00",
           "municipality": "Chase",
           "municipality_code": "day-1 day-3 city-65071054",
           "start": "2020-10-10T14:55:00",
-          "status": "Crew status: Crew assigned"
+          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 10 4:50 p.m."
         },
         {
           "area": "3400 - 4100 block MCNAB RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -265,21 +238,31 @@
           "area": "2400 block VALLEYVIEW DR\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Tree down across our wires",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-10T15:46:00",
+          "last_updated": "2020-10-10T15:51:00",
           "municipality": "Kamloops",
           "municipality_code": "day-1 day-3 city-979034872",
           "start": "2020-10-10T14:50:00",
-          "status": "Crew status: Crew on-site"
+          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 10 8:00 p.m."
         },
         {
           "area": "East of EVANS RD, North-West of EAGLE BAY RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Tree down across our wires",
           "customers_affected": "1459",
-          "last_updated": "2020-10-10T15:43:00",
+          "last_updated": "2020-10-10T15:55:00",
           "municipality": "Salmon Arm",
           "municipality_code": "day-1 day-3 city-2118875562",
           "start": "2020-10-10T15:13:00",
-          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 10 4:00 p.m."
+          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 10 4:55 p.m."
+        },
+        {
+          "area": "North-South-East-West of HWY 97A\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Tree down across our wires",
+          "customers_affected": "237",
+          "last_updated": "2020-10-10T15:59:00",
+          "municipality": "Salmon Arm",
+          "municipality_code": "day-1 day-3 city-2118875562",
+          "start": "2020-10-10T15:36:00",
+          "status": "Crew status: Crew assigned"
         },
         {
           "area": "North-South-East-West of HWY 16\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -325,7 +308,7 @@
       "region_id": "848340027"
     },
     "Lower Mainland": {
-      "customers_affected_14d": 5169,
+      "customers_affected_14d": 5076,
       "outages": [
         {
           "area": "1944, 1954, 1966, 1976 Albion St; 32666-32749 Cordova Ave; 325, 32760 Marshall Rd, 32414-32750 Pandora Ave; 1911-1944 Valencia Crt, Abbotsford",
@@ -898,16 +881,6 @@
           "start": "2020-10-22T10:00:00"
         },
         {
-          "area": "30077, 30090, 30324, 30356, 30593, 30785, 30889, 30923, 30957, 31010, 31017, 31049, 31061, 31078, 31151, 31154, 30819 Gunn Ave, 8022, 8066, 8097, 8111, 8153, 8176, 8176, 8177, 8220 Loftus St, Mission",
-          "cause": "Pole replacement",
-          "customers_affected": "31",
-          "end": "2020-10-08T16:00:00",
-          "last_updated": "2020-09-29T12:06:00",
-          "municipality": "Mission",
-          "municipality_code": "day-1 day-3 city--1560864404",
-          "start": "2020-10-08T10:00:00"
-        },
-        {
           "area": "9041,9089,9121,9150 Vickery St., \r\n32065,32121,32165,32190 Mingo Ave Mission\r\n32190\r\n\r\n9150",
           "cause": "Pole replacement",
           "customers_affected": "12",
@@ -1046,16 +1019,6 @@
           "municipality": "Pitt Meadows",
           "municipality_code": "day-1 day-3 city--253788407",
           "start": "2020-10-15T09:00:00"
-        },
-        {
-          "area": "3375 - 3537 Fremont St, 3311-3569 Handley Cres, 727 Prairie Ave, Port Coquitlam",
-          "cause": "Planned work being done on our equipment",
-          "customers_affected": "56",
-          "end": "2020-10-08T16:00:00",
-          "last_updated": "2020-09-22T12:54:00",
-          "municipality": "Port Coquitlam",
-          "municipality_code": "day-1 day-3 city-1843021342",
-          "start": "2020-10-08T09:30:00"
         },
         {
           "area": "1000, 1016, 1020, 1024, 1028, 1104, 1112, 1155 Glenayre Dr; 400, 401 Culzean Pl; 332 Mount Royal Dr; 348 Valour Dr., Port Moody",
@@ -1376,16 +1339,6 @@
           "municipality": "Surrey",
           "municipality_code": "day-1 day-3 city--1807186826",
           "start": "2020-10-13T09:00:00"
-        },
-        {
-          "area": "18816, 18822, 18834, 18842, 18850 64 Ave.; 6390 188 St.",
-          "cause": "Planned work being done on our equipment",
-          "customers_affected": "6",
-          "end": "2020-10-08T16:00:00",
-          "last_updated": "2020-09-28T07:09:00",
-          "municipality": "Surrey",
-          "municipality_code": "day-1 day-3 city--1807186826",
-          "start": "2020-10-08T09:00:00"
         },
         {
           "area": "14338-14345 36A Ave, 14355-14371 Crescent Rd, Surrey",
@@ -1849,18 +1802,8 @@
       "region_id": "1602896846"
     },
     "Northern": {
-      "customers_affected_14d": 1317,
+      "customers_affected_14d": 1298,
       "outages": [
-        {
-          "area": "SW 1/4 S31 T81 R14, NE 1/4 S34 T81 R15, NE 1/4 S35 T81 R15, 2371 14th Rd, S36 T81 R15, 2371 Triangle Rd, Triangle Area, 2371 Triangle Road, Dawson Creek",
-          "cause": "Pole replacement",
-          "customers_affected": "19",
-          "end": "2020-10-08T16:00:00",
-          "last_updated": "2020-09-25T16:29:00",
-          "municipality": "Dawson Creek",
-          "municipality_code": "day-1 day-3 city--1630954860",
-          "start": "2020-10-08T10:00:00"
-        },
         {
           "area": "*EMERGENT WORK*209 - 98 AVE; 209 - 99 AVE; 9713 TO 9917 - 2 ST *ODD NUMBERS ONLY* (9713\r\n9717 9721 9801 9805 9805 9809 9813 9817 9901 9901 9905 9909 9913 AND 9917)",
           "cause": "Pole replacement",
@@ -2193,7 +2136,7 @@
       "region_id": "2072041405"
     },
     "South VI": {
-      "customers_affected_14d": 1846,
+      "customers_affected_14d": 1818,
       "outages": [
         {
           "area": "1746 Verling Ave; 1763 Sean Hts, Saanichton",
@@ -2494,16 +2437,6 @@
           "municipality": "Victoria",
           "municipality_code": "day-1 day-3 city-1201273535",
           "start": "2020-10-20T09:00:00"
-        },
-        {
-          "area": "*Outage has been cancelled and rescheduled to October 20th*\r\nOutage will be only 3 hours between 9am-4pm400, 401, 406, 407, 413, 418, 419, 420, 425, 426, 431, 432, 438, 439, 444, 445, 450, 451, 456, 457, 462, 463, 467, 468, 475, 476, 482 Davida Ave, Victoria",
-          "cause": "Planned work being done on our equipment",
-          "customers_affected": "28",
-          "end": "2020-10-08T16:00:00",
-          "last_updated": "2020-10-07T11:50:00",
-          "municipality": "Victoria",
-          "municipality_code": "day-1 day-3 city-1201273535",
-          "start": "2020-10-08T09:00:00"
         },
         {
           "area": "1001,1011,1030,1051,1090,1110,1111\r\n1112,1114,1120,1129,1140 (A,B),\r\n1149,1159,1170,1179,1180,1182(A,B,C),1190,1192,1201\r\nKosapsum Cres, 1001 Thomas Rd Victoria",
@@ -3326,7 +3259,7 @@
       "region_id": "848340027"
     },
     "Lower Mainland": {
-      "customers_affected_14d": 36339,
+      "customers_affected_14d": 36861,
       "outages": [
         {
           "area": "East of CLEARBROOK RD, South of NANAIMO CLS, North of PEARDONVILLE RD, West of MACLURE RD",
@@ -3607,6 +3540,16 @@
           "municipality": "Burnaby",
           "municipality_code": "city-1903966249",
           "start": "2020-09-27T20:05:00"
+        },
+        {
+          "area": "9800 block CAMERON ST, 3400 block NORTH RD",
+          "cause": "Under investigation",
+          "customers_affected": "522",
+          "end": "",
+          "last_updated": "2020-10-10T16:01:00",
+          "municipality": "Burnaby",
+          "municipality_code": "day-1 day-3 city-1903966249",
+          "start": "2020-10-10T12:45:00"
         },
         {
           "area": "West of NELSON AVE, East of MCKERCHER AVE, South of GRANGE ST, North of KINGSWAY",
@@ -8029,7 +7972,7 @@
           "end": "2020-10-08T16:56:00",
           "last_updated": "2020-10-08T16:01:00",
           "municipality": "Hazelton",
-          "municipality_code": "day-1 day-3 city-411200875",
+          "municipality_code": "day-3 city-411200875",
           "start": "2020-10-08T14:52:00"
         },
         {
@@ -8507,7 +8450,7 @@
       "region_id": "1602964060"
     },
     "Okanagan/Kootenay": {
-      "customers_affected_14d": 25308,
+      "customers_affected_14d": 25469,
       "outages": [
         {
           "area": "3200 block ROSEDALE AVE",
@@ -8838,6 +8781,16 @@
           "municipality": "Invermere",
           "municipality_code": "day-1 day-3 city--13155575",
           "start": "2020-10-10T10:37:00"
+        },
+        {
+          "area": "South-West of HWY 93 95 , North-East of WESTSIDE RD",
+          "cause": "Tree down across our wires",
+          "customers_affected": "161",
+          "end": "",
+          "last_updated": "2020-10-10T15:57:00",
+          "municipality": "Invermere",
+          "municipality_code": "day-1 day-3 city--13155575",
+          "start": "2020-10-10T10:54:00"
         },
         {
           "area": "South-East of SZABO RD, West of FLUME RD, North of SPUR VALLEY RD",
@@ -9673,7 +9626,7 @@
           "end": "2020-10-08T16:30:00",
           "last_updated": "2020-10-08T16:06:00",
           "municipality": "Langford",
-          "municipality_code": "day-1 day-3 city--1549378615",
+          "municipality_code": "day-3 city--1549378615",
           "start": "2020-10-08T13:23:00"
         },
         {
@@ -9683,7 +9636,7 @@
           "end": "",
           "last_updated": "2020-10-08T15:50:00",
           "municipality": "Langford",
-          "municipality_code": "day-1 day-3 city--1549378615",
+          "municipality_code": "day-3 city--1549378615",
           "start": "2020-10-08T14:31:00"
         },
         {
@@ -10280,7 +10233,7 @@
           "end": "2020-10-07T16:30:00",
           "last_updated": "2020-10-07T08:28:00",
           "municipality": "100 Mile House",
-          "municipality_code": "day-3 city-950857956",
+          "municipality_code": "city-950857956",
           "start": "2020-10-06T13:22:00"
         },
         {
@@ -10950,7 +10903,7 @@
           "end": "",
           "last_updated": "2020-10-09T08:15:00",
           "municipality": "Salmon Arm",
-          "municipality_code": "day-1 day-3 city-2118875562",
+          "municipality_code": "day-3 city-2118875562",
           "start": "2020-10-08T14:10:00"
         },
         {
