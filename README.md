@@ -5,6 +5,7 @@ This is an *unofficial* repository that provides a Git history of outages at [BC
 ## How to use
 
 - Visit the [history for the `bchydro_outages.json`](https://github.com/marcolussetti/bchydro-outages/commits/main/bchydro_outages.json) file.
+- [Example diff](https://github.com/marcolussetti/bchydro-outages/commit/4887493e282077936cefcdfbb8d8369b3b14f20a)
 
 ## Credits
 
