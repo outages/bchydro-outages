@@ -7,7 +7,7 @@
           "area": "East of FLOOD HOPE , West of TOM BERRY RD, South of LOUGHEED HWY\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "94",
-          "last_updated": "Oct 10 6:19 a.m.",
+          "last_updated": "Oct 10 6:50 a.m.",
           "municipality": "Hope",
           "municipality_code": "day-1 day-3 city-2255196",
           "start": "Oct 10 4:39 a.m.",
@@ -17,7 +17,7 @@
           "area": "22000 - 22100 block TRANS CAN HWY\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "< 5",
-          "last_updated": "Oct 10 6:39 a.m.",
+          "last_updated": "Oct 10 6:50 a.m.",
           "municipality": "Hope",
           "municipality_code": "day-1 day-3 city-2255196",
           "start": "Oct 10 6:37 a.m.",
@@ -34,7 +34,7 @@
           "area": "North of EVENSON RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Wire down",
           "customers_affected": "104",
-          "last_updated": "Oct 9 10:56 p.m.",
+          "last_updated": "Oct 10 6:52 a.m.",
           "municipality": "Port Hardy",
           "municipality_code": "day-1 day-3 city-368562319",
           "start": "Oct 9 12:12 p.m.",
@@ -51,11 +51,11 @@
           "area": "East of 227 RD, South of HWY 97 , West of ADAMS RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "48",
-          "last_updated": "Oct 10 6:43 a.m.",
+          "last_updated": "Oct 10 7:02 a.m.",
           "municipality": "Dawson Creek",
           "municipality_code": "day-1 day-3 city--1630954860",
           "start": "Oct 10 5:56 a.m.",
-          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 10 7:15 a.m."
+          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 10 7:15 a.m."
         }
       ],
       "region_code": "Northern",
@@ -66,9 +66,9 @@
       "outages": [
         {
           "area": "East of GEORGIA VIEW RD, North of HIGHVIEW DR\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Under investigation",
+          "cause": "Tree down across our wires",
           "customers_affected": "88",
-          "last_updated": "Oct 10 6:24 a.m.",
+          "last_updated": "Oct 10 7:05 a.m.",
           "municipality": "Galiano Island",
           "municipality_code": "day-1 day-3 city--995767958",
           "start": "Oct 10 6:20 a.m.",
@@ -78,11 +78,11 @@
           "area": "0 - 1700 block MCCLURE RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "6",
-          "last_updated": "Oct 10 6:33 a.m.",
+          "last_updated": "Oct 10 7:05 a.m.",
           "municipality": "Galiano Island",
           "municipality_code": "day-1 day-3 city--995767958",
           "start": "Oct 10 5:21 a.m.",
-          "status": "Crew status: Crew assigned"
+          "status": "Crew status: Crew assigned\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 10 7:05 a.m."
         }
       ],
       "region_code": "South VI",
@@ -7073,7 +7073,7 @@
       "region_id": "1602896846"
     },
     "Northern": {
-      "customers_affected_14d": 14557,
+      "customers_affected_14d": 16366,
       "outages": [
         {
           "area": "North-South-East-West of HWY 20",
@@ -7974,6 +7974,16 @@
           "municipality": "Smithers",
           "municipality_code": "city--305588573",
           "start": "Sep 27 11:17 p.m."
+        },
+        {
+          "area": "North-South-East-West of HWY 16",
+          "cause": "Other",
+          "customers_affected": "1809",
+          "end": "",
+          "last_updated": "Oct 10 7:05 a.m.",
+          "municipality": "Smithers, Telkwa",
+          "municipality_code": "day-1 day-3 city--305588573 city--1793518950",
+          "start": "Oct 9 1:04 p.m."
         },
         {
           "area": "North of NEVADA ST, South-West of GLACIER HWY, East of MAIN ST",
