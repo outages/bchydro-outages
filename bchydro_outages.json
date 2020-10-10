@@ -1,8 +1,18 @@
 {
   "current": {
     "Lower Mainland": {
-      "customers_affected_14d": 14,
+      "customers_affected_14d": 159,
       "outages": [
+        {
+          "area": "North of 64TH AVE, South of 82ND AVE, West of 267TH ST, East of 72ND AVE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Transformer burn out",
+          "customers_affected": "147",
+          "last_updated": "Oct 9 10:26 p.m.",
+          "municipality": "Langley",
+          "municipality_code": "day-1 day-3 city-1612593490",
+          "start": "Oct 9 7:04 p.m.",
+          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 9 11:00 p.m."
+        },
         {
           "area": "3800 - 3900 block 202A ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
@@ -12,16 +22,6 @@
           "municipality_code": "day-1 day-3 city-1612593490",
           "start": "Oct 9 9:46 p.m.",
           "status": "Crew status: Crew assigned"
-        },
-        {
-          "area": "25200 block 72 AVE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Transformer burn out",
-          "customers_affected": "< 5",
-          "last_updated": "Oct 9 9:38 p.m.",
-          "municipality": "Langley",
-          "municipality_code": "day-1 day-3 city-1612593490",
-          "start": "Oct 9 7:04 p.m.",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 9 11:00 p.m."
         },
         {
           "area": "GOLDEN EARS PARK\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -44,11 +44,11 @@
           "area": "3200 block SUTTON RD, 2600 block DERWENT AVE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "< 5",
-          "last_updated": "Oct 9 10:20 p.m.",
+          "last_updated": "Oct 9 10:27 p.m.",
           "municipality": "Cumberland",
           "municipality_code": "day-1 day-3 city--531324801",
           "start": "Oct 9 10:08 p.m.",
-          "status": "Crew status: Crew assigned"
+          "status": "Crew status: Crew on their way"
         },
         {
           "area": "North of EVENSON RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
