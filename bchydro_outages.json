@@ -1,8 +1,18 @@
 {
   "current": {
     "Central Interior": {
-      "customers_affected_14d": -1,
+      "customers_affected_14d": 12,
       "outages": [
+        {
+          "area": "1700 - 1900 block COOPER RD, 1600 - 2600 block TIBBLES RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Tree down across our wires",
+          "customers_affected": "10",
+          "last_updated": "2020-10-10T11:01:00",
+          "municipality": "Quesnel",
+          "municipality_code": "day-1 day-3 city--1975191965",
+          "start": "2020-10-10T10:49:00",
+          "status": "Crew status: Crew assigned"
+        },
         {
           "area": "2100 block HIGDON RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
@@ -18,7 +28,7 @@
       "region_id": "848340027"
     },
     "Lower Mainland": {
-      "customers_affected_14d": 829,
+      "customers_affected_14d": 830,
       "outages": [
         {
           "area": "West of EVANS RD, North of KEITH WILSON RD, East of ARNOLD RD, South of CHILLIWACK MOUNTIAN RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -29,6 +39,16 @@
           "municipality_code": "day-1 day-3 city--708005353",
           "start": "2020-10-10T09:34:00",
           "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 10 11:45 a.m."
+        },
+        {
+          "area": "5800 block WHITCOMB PL\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Under investigation",
+          "customers_affected": "< 5",
+          "last_updated": "2020-10-10T10:47:00",
+          "municipality": "Delta",
+          "municipality_code": "day-1 day-3 city-65915800",
+          "start": "2020-10-10T10:34:00",
+          "status": "Crew status: Crew assigned"
         },
         {
           "area": "22000 - 22100 block TRANS CAN HWY\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -44,17 +64,17 @@
           "area": "800 block BOYD ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-10T10:23:00",
+          "last_updated": "2020-10-10T10:47:00",
           "municipality": "New Westminster",
           "municipality_code": "day-1 day-3 city-963142865",
           "start": "2020-10-10T10:09:00",
-          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 10 11:25 a.m."
+          "status": "Crew status: Crew on-site"
         },
         {
           "area": "East of SEYMOUR RD, West of Duffy Lake RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "30",
-          "last_updated": "2020-10-10T10:40:00",
+          "last_updated": "2020-10-10T10:49:00",
           "municipality": "Pemberton",
           "municipality_code": "day-1 day-3 city--2076154532",
           "start": "2020-10-10T10:33:00",
@@ -64,11 +84,11 @@
           "area": "3000 block ST ANTON WAY\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Tree down across our wires",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-10T10:44:00",
+          "last_updated": "2020-10-10T10:49:00",
           "municipality": "Whistler",
           "municipality_code": "day-1 day-3 city--2067392640",
           "start": "2020-10-10T10:40:00",
-          "status": "Crew status: No crew assigned yet"
+          "status": "Crew status: Crew assigned"
         }
       ],
       "region_code": "Lower Mainland",
@@ -111,25 +131,8 @@
       "region_code": "North VI",
       "region_id": "1602896846"
     },
-    "Northern": {
-      "customers_affected_14d": 28,
-      "outages": [
-        {
-          "area": "East of 227 RD, South of HWY 97 , West of 221 RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Wire down",
-          "customers_affected": "28",
-          "last_updated": "2020-10-10T09:38:00",
-          "municipality": "Dawson Creek",
-          "municipality_code": "day-1 day-3 city--1630954860",
-          "start": "2020-10-10T09:03:00",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 10 11:00 a.m."
-        }
-      ],
-      "region_code": "Northern",
-      "region_id": "1602964060"
-    },
     "Okanagan/Kootenay": {
-      "customers_affected_14d": 3346,
+      "customers_affected_14d": 3507,
       "outages": [
         {
           "area": "South-West of HWY 93 95 , North-East of HWY 95A\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -170,6 +173,16 @@
           "municipality_code": "day-1 day-3 city--13155575",
           "start": "2020-10-10T10:37:00",
           "status": "Crew status: Crew assigned"
+        },
+        {
+          "area": "South-West of HWY 93 95 , North-East of WESTSIDE RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Tree down across our wires",
+          "customers_affected": "161",
+          "last_updated": "2020-10-10T11:04:00",
+          "municipality": "Invermere",
+          "municipality_code": "day-1 day-3 city--13155575",
+          "start": "2020-10-10T10:54:00",
+          "status": "Crew status: No crew assigned yet"
         }
       ],
       "region_code": "Okanagan/Kootenay",
@@ -182,21 +195,21 @@
           "area": "1700 block THAIN RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-10T09:56:00",
+          "last_updated": "2020-10-10T10:52:00",
           "municipality": "Duncan",
           "municipality_code": "day-1 day-3 city-2058209491",
           "start": "2020-10-10T09:11:00",
-          "status": "Crew status: Crew assigned"
+          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 10 11:55 a.m."
         },
         {
           "area": "West of SARAH OWEN PL, East of WOODRIDGE PL, South of MEADOWBROOK RD, North of MUNNS RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Tree down across our wires",
           "customers_affected": "176",
-          "last_updated": "2020-10-10T10:07:00",
+          "last_updated": "2020-10-10T11:00:00",
           "municipality": "Highlands, Saanich, View Royal",
           "municipality_code": "day-1 day-3 city-1322525542 city--776615533 city--1360221748",
           "start": "2020-10-10T09:56:00",
-          "status": "Crew status: Crew assigned"
+          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 10 12:00 p.m."
         }
       ],
       "region_code": "South VI",
@@ -4932,7 +4945,7 @@
           "end": "2020-10-06T11:00:00",
           "last_updated": "2020-10-07T08:42:00",
           "municipality": "Mission",
-          "municipality_code": "day-3 city--1560864404",
+          "municipality_code": "city--1560864404",
           "start": "2020-10-06T07:56:00"
         },
         {
@@ -5632,7 +5645,7 @@
           "end": "2020-10-06T11:30:00",
           "last_updated": "2020-10-06T11:01:00",
           "municipality": "Surrey",
-          "municipality_code": "day-3 city--1807186826",
+          "municipality_code": "city--1807186826",
           "start": "2020-10-06T09:52:00"
         },
         {
@@ -5952,7 +5965,7 @@
           "end": "2020-10-06T13:00:00",
           "last_updated": "2020-10-06T10:58:00",
           "municipality": "Vancouver",
-          "municipality_code": "day-3 city--1786794435",
+          "municipality_code": "city--1786794435",
           "start": "2020-10-06T07:58:00"
         },
         {
@@ -6332,7 +6345,7 @@
           "end": "2020-10-08T17:00:00",
           "last_updated": "2020-10-08T11:17:00",
           "municipality": "Whistler",
-          "municipality_code": "day-1 day-3 city--2067392640",
+          "municipality_code": "day-3 city--2067392640",
           "start": "2020-10-08T09:42:00"
         },
         {
@@ -7209,7 +7222,7 @@
           "end": "2020-10-08T11:00:00",
           "last_updated": "2020-10-08T14:39:00",
           "municipality": "Ucluelet",
-          "municipality_code": "day-1 day-3 city--1313309491",
+          "municipality_code": "day-3 city--1313309491",
           "start": "2020-10-08T09:34:00"
         },
         {
@@ -7227,7 +7240,7 @@
       "region_id": "1602896846"
     },
     "Northern": {
-      "customers_affected_14d": 16414,
+      "customers_affected_14d": 16442,
       "outages": [
         {
           "area": "North-South-East-West of HWY 20",
@@ -7466,7 +7479,7 @@
           "end": "2020-10-08T11:30:00",
           "last_updated": "2020-10-08T10:59:00",
           "municipality": "Dawson Creek",
-          "municipality_code": "day-1 day-3 city--1630954860",
+          "municipality_code": "day-3 city--1630954860",
           "start": "2020-10-08T10:40:00"
         },
         {
@@ -7478,6 +7491,16 @@
           "municipality": "Dawson Creek",
           "municipality_code": "day-3 city--1630954860",
           "start": "2020-10-07T13:38:00"
+        },
+        {
+          "area": "East of 227 RD, South of HWY 97 , West of 221 RD",
+          "cause": "equipment contact",
+          "customers_affected": "28",
+          "end": "2020-10-10T11:00:00",
+          "last_updated": "2020-10-10T10:50:00",
+          "municipality": "Dawson Creek",
+          "municipality_code": "day-1 day-3 city--1630954860",
+          "start": "2020-10-10T09:03:00"
         },
         {
           "area": "S36 T81 R15, TRIANGLE AREA, 3800 block RD 215, NE 1/4 S35 T81 R15, 3400 block 215 RD, NE 1/4 S34 T81 R15, 3600 block 215RD, 2300 block 14TH RD, SW 1/4 S31 T81 R14, 2300 block TRIANGLE RD...",
