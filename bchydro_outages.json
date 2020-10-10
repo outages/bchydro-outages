@@ -7,17 +7,17 @@
           "area": "North of 64TH AVE, South of 82ND AVE, West of 267TH ST, East of 72ND AVE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Transformer burn out",
           "customers_affected": "147",
-          "last_updated": "Oct 9 10:46 p.m.",
+          "last_updated": "Oct 9 10:56 p.m.",
           "municipality": "Langley",
           "municipality_code": "day-1 day-3 city-1612593490",
           "start": "Oct 9 7:04 p.m.",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 9 11:00 p.m."
+          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 9 11:10 p.m."
         },
         {
           "area": "3800 - 3900 block 202A ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "11",
-          "last_updated": "Oct 9 10:42 p.m.",
+          "last_updated": "Oct 9 10:56 p.m.",
           "municipality": "Langley",
           "municipality_code": "day-1 day-3 city-1612593490",
           "start": "Oct 9 9:46 p.m.",
@@ -34,7 +34,7 @@
           "area": "3200 block SUTTON RD, 2600 block DERWENT AVE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "< 5",
-          "last_updated": "Oct 9 10:44 p.m.",
+          "last_updated": "Oct 9 10:56 p.m.",
           "municipality": "Cumberland",
           "municipality_code": "day-1 day-3 city--531324801",
           "start": "Oct 9 10:08 p.m.",
@@ -44,7 +44,7 @@
           "area": "North of EVENSON RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Wire down",
           "customers_affected": "104",
-          "last_updated": "Oct 9 9:02 p.m.",
+          "last_updated": "Oct 9 10:56 p.m.",
           "municipality": "Port Hardy",
           "municipality_code": "day-1 day-3 city-368562319",
           "start": "Oct 9 12:12 p.m.",
@@ -55,13 +55,13 @@
       "region_id": "1602896846"
     },
     "Thompson/Shuswap": {
-      "customers_affected_14d": 59,
+      "customers_affected_14d": 428,
       "outages": [
         {
           "area": "7500 block RESORT RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "< 5",
-          "last_updated": "Oct 9 10:41 p.m.",
+          "last_updated": "Oct 9 10:54 p.m.",
           "municipality": "100 Mile House",
           "municipality_code": "day-1 day-3 city-950857956",
           "start": "Oct 9 10:35 p.m.",
@@ -71,11 +71,21 @@
           "area": "South of SHUSWAP RD, East of TRANS CANADA HWY, West of RIVERSHORE DR\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Work being done on our equipment",
           "customers_affected": "58",
-          "last_updated": "Oct 9 10:16 p.m.",
+          "last_updated": "Oct 9 10:57 p.m.",
           "municipality": "Kamloops",
           "municipality_code": "day-1 day-3 city-979034872",
           "start": "Oct 9 3:48 p.m.",
           "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 10 5:00 a.m."
+        },
+        {
+          "area": "West of TRANS CAN HWY\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Under investigation",
+          "customers_affected": "369",
+          "last_updated": "Oct 9 11:02 p.m.",
+          "municipality": "Salmon Arm",
+          "municipality_code": "day-1 day-3 city-2118875562",
+          "start": "Oct 9 10:37 p.m.",
+          "status": "Crew status: Crew assigned"
         }
       ],
       "region_code": "Thompson/Shuswap",
@@ -9472,7 +9482,7 @@
           "end": "Oct 7 11:10 p.m.",
           "last_updated": "Oct 8 1:48 p.m.",
           "municipality": "Invermere",
-          "municipality_code": "day-1 day-3 city--13155575",
+          "municipality_code": "day-3 city--13155575",
           "start": "Oct 7 9:18 p.m."
         },
         {
