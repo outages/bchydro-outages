@@ -1,8 +1,18 @@
 {
   "current": {
     "Lower Mainland": {
-      "customers_affected_14d": -1,
+      "customers_affected_14d": 797,
       "outages": [
+        {
+          "area": "West of EVANS RD, North of KEITH WILSON RD, East of ARNOLD RD, South of CHILLIWACK MOUNTIAN RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Under investigation",
+          "customers_affected": "795",
+          "last_updated": "Oct 10 9:45 a.m.",
+          "municipality": "Chilliwack",
+          "municipality_code": "day-1 day-3 city--708005353",
+          "start": "Oct 10 9:34 a.m.",
+          "status": "Crew status: Crew assigned"
+        },
         {
           "area": "22000 - 22100 block TRANS CAN HWY\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
@@ -12,16 +22,6 @@
           "municipality_code": "day-1 day-3 city-2255196",
           "start": "Oct 10 6:37 a.m.",
           "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 10 10:35 a.m."
-        },
-        {
-          "area": "10300 block 272 ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Under investigation",
-          "customers_affected": "< 5",
-          "last_updated": "Oct 10 9:02 a.m.",
-          "municipality": "Maple Ridge",
-          "municipality_code": "day-1 day-3 city-598891104",
-          "start": "Oct 10 7:25 a.m.",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 10 10:05 a.m."
         }
       ],
       "region_code": "Lower Mainland",
@@ -75,13 +75,13 @@
       "region_id": "1602896846"
     },
     "Northern": {
-      "customers_affected_14d": 6,
+      "customers_affected_14d": 28,
       "outages": [
         {
-          "area": "South of HWY 97 , West of DANGEROUS GOODS RD, East of ADAMS RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "area": "East of 227 RD, South of HWY 97 , West of 221 RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Wire down",
-          "customers_affected": "6",
-          "last_updated": "Oct 10 9:29 a.m.",
+          "customers_affected": "28",
+          "last_updated": "Oct 10 9:38 a.m.",
           "municipality": "Dawson Creek",
           "municipality_code": "day-1 day-3 city--1630954860",
           "start": "Oct 10 9:03 a.m.",
@@ -108,7 +108,7 @@
           "area": "0 - 1700 block MCCLURE RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "6",
-          "last_updated": "Oct 10 8:18 a.m.",
+          "last_updated": "Oct 10 9:40 a.m.",
           "municipality": "Galiano Island",
           "municipality_code": "day-1 day-3 city--995767958",
           "start": "Oct 10 5:21 a.m.",
@@ -3199,7 +3199,7 @@
       "region_id": "848340027"
     },
     "Lower Mainland": {
-      "customers_affected_14d": 29292,
+      "customers_affected_14d": 29294,
       "outages": [
         {
           "area": "East of CLEARBROOK RD, South of NANAIMO CLS, North of PEARDONVILLE RD, West of MACLURE RD",
@@ -4690,6 +4690,16 @@
           "municipality": "Maple Ridge",
           "municipality_code": "city-598891104",
           "start": "Sep 29 9:33 a.m."
+        },
+        {
+          "area": "10300 block 272 ST",
+          "cause": "Under investigation",
+          "customers_affected": "< 5",
+          "end": "Oct 10 10:02 a.m.",
+          "last_updated": "Oct 10 9:45 a.m.",
+          "municipality": "Maple Ridge",
+          "municipality_code": "day-1 day-3 city-598891104",
+          "start": "Oct 10 7:25 a.m."
         },
         {
           "area": "26400 block 98TH AVE, 26400 block 98 AVE",
@@ -9124,7 +9134,7 @@
           "cause": "Tree down across our wires",
           "customers_affected": "88",
           "end": "Oct 10 9:33 a.m.",
-          "last_updated": "Oct 10 9:29 a.m.",
+          "last_updated": "Oct 10 9:41 a.m.",
           "municipality": "Galiano Island",
           "municipality_code": "day-1 day-3 city--995767958",
           "start": "Oct 10 6:20 a.m."
