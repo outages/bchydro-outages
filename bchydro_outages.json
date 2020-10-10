@@ -132,26 +132,16 @@
       "region_id": "1602896846"
     },
     "Northern": {
-      "customers_affected_14d": 42,
+      "customers_affected_14d": 44,
       "outages": [
         {
-          "area": "East of 7TH AVE, North of COLUMBIA DR, West of 9TH AVE, South of MORICE DR\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "area": "North of COLUMBIA DR, East of MOUNTAINVIEW DR, West of 9TH AVE, South of MORICE DR\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
-          "customers_affected": "28",
-          "last_updated": "2020-10-10T11:35:00",
+          "customers_affected": "44",
+          "last_updated": "2020-10-10T11:42:00",
           "municipality": "Smithers",
           "municipality_code": "day-1 day-3 city--305588573",
           "start": "2020-10-10T11:19:00",
-          "status": "Crew status: Crew on-site"
-        },
-        {
-          "area": "1200 block MAIN ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Under investigation",
-          "customers_affected": "14",
-          "last_updated": "2020-10-10T11:32:00",
-          "municipality": "Smithers",
-          "municipality_code": "day-1 day-3 city--305588573",
-          "start": "2020-10-10T11:26:00",
           "status": "Crew status: Crew assigned"
         }
       ],
@@ -165,41 +155,41 @@
           "area": "South-West of HWY 93 95 , North-East of HWY 95A\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Transmission circuit failure",
           "customers_affected": "877",
-          "last_updated": "2020-10-10T10:44:00",
+          "last_updated": "2020-10-10T11:44:00",
           "municipality": "Cranbrook",
           "municipality_code": "day-1 day-3 city--591720257",
           "start": "2020-10-10T10:37:00",
-          "status": "Crew status: Crew assigned"
+          "status": "Crew status: Crew on their way"
         },
         {
           "area": "East of RIVERSIDE DR, North of COLUMBIA RIVER RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Transmission circuit failure",
           "customers_affected": "1200",
-          "last_updated": "2020-10-10T10:45:00",
+          "last_updated": "2020-10-10T11:45:00",
           "municipality": "Invermere",
           "municipality_code": "day-1 day-3 city--13155575",
           "start": "2020-10-10T10:37:00",
-          "status": "Crew status: Crew assigned"
+          "status": "Crew status: Crew on their way"
         },
         {
           "area": "North-South-East-West of HWY 93 95\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Transmission circuit failure",
           "customers_affected": "876",
-          "last_updated": "2020-10-10T10:44:00",
+          "last_updated": "2020-10-10T11:45:00",
           "municipality": "Invermere",
           "municipality_code": "day-1 day-3 city--13155575",
           "start": "2020-10-10T10:37:00",
-          "status": "Crew status: Crew assigned"
+          "status": "Crew status: Crew on their way"
         },
         {
           "area": "North of HWY 93 95 , South of WESTSIDE RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Equipment failure",
           "customers_affected": "393",
-          "last_updated": "2020-10-10T10:46:00",
+          "last_updated": "2020-10-10T11:45:00",
           "municipality": "Invermere",
           "municipality_code": "day-1 day-3 city--13155575",
           "start": "2020-10-10T10:37:00",
-          "status": "Crew status: Crew assigned"
+          "status": "Crew status: Crew on their way"
         },
         {
           "area": "South-West of HWY 93 95 , North-East of WESTSIDE RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -4352,7 +4342,7 @@
           "end": "",
           "last_updated": "2020-10-06T11:42:00",
           "municipality": "Delta",
-          "municipality_code": "day-3 city-65915800",
+          "municipality_code": "city-65915800",
           "start": "2020-10-06T11:41:00"
         },
         {
@@ -9940,7 +9930,7 @@
           "end": "2020-10-06T11:30:00",
           "last_updated": "2020-10-07T09:19:00",
           "municipality": "Victoria",
-          "municipality_code": "day-3 city-1201273535",
+          "municipality_code": "city-1201273535",
           "start": "2020-10-06T09:28:00"
         },
         {
