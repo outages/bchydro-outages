@@ -33,6 +33,23 @@
       ],
       "region_code": "North VI",
       "region_id": "1602896846"
+    },
+    "South VI": {
+      "customers_affected_14d": 6,
+      "outages": [
+        {
+          "area": "0 - 1700 block MCCLURE RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Under investigation",
+          "customers_affected": "6",
+          "last_updated": "Oct 10 5:28 a.m.",
+          "municipality": "Galiano Island",
+          "municipality_code": "day-1 day-3 city--995767958",
+          "start": "Oct 10 5:21 a.m.",
+          "status": "Crew status: Crew assigned"
+        }
+      ],
+      "region_code": "South VI",
+      "region_id": "1812901382"
     }
   },
   "planned": {
@@ -8385,7 +8402,7 @@
           "end": "Oct 8 5:30 a.m.",
           "last_updated": "Oct 8 1:50 p.m.",
           "municipality": "Invermere",
-          "municipality_code": "day-1 day-3 city--13155575",
+          "municipality_code": "day-3 city--13155575",
           "start": "Oct 8 3:39 a.m."
         },
         {
