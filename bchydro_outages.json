@@ -1,5 +1,22 @@
 {
   "current": {
+    "Central Interior": {
+      "customers_affected_14d": -1,
+      "outages": [
+        {
+          "area": "2800 block E AUSTIN RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Under investigation",
+          "customers_affected": "< 5",
+          "last_updated": "Oct 10 7:36 a.m.",
+          "municipality": "Prince George",
+          "municipality_code": "day-1 day-3 city-1835674262",
+          "start": "Oct 10 7:32 a.m.",
+          "status": "Crew status: Crew assigned"
+        }
+      ],
+      "region_code": "Central Interior",
+      "region_id": "848340027"
+    },
     "Lower Mainland": {
       "customers_affected_14d": 98,
       "outages": [
@@ -7,7 +24,7 @@
           "area": "East of FLOOD HOPE , West of TOM BERRY RD, South of LOUGHEED HWY\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "94",
-          "last_updated": "Oct 10 6:50 a.m.",
+          "last_updated": "Oct 10 7:42 a.m.",
           "municipality": "Hope",
           "municipality_code": "day-1 day-3 city-2255196",
           "start": "Oct 10 4:39 a.m.",
@@ -27,7 +44,7 @@
           "area": "10300 block 272 ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "< 5",
-          "last_updated": "Oct 10 7:30 a.m.",
+          "last_updated": "Oct 10 7:32 a.m.",
           "municipality": "Maple Ridge",
           "municipality_code": "day-1 day-3 city-598891104",
           "start": "Oct 10 7:25 a.m.",
@@ -61,11 +78,11 @@
           "area": "East of GEORGIA VIEW RD, North of HIGHVIEW DR\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Tree down across our wires",
           "customers_affected": "88",
-          "last_updated": "Oct 10 7:09 a.m.",
+          "last_updated": "Oct 10 7:34 a.m.",
           "municipality": "Galiano Island",
           "municipality_code": "day-1 day-3 city--995767958",
           "start": "Oct 10 6:20 a.m.",
-          "status": "Crew status: Crew on-site"
+          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 10 9:35 a.m."
         },
         {
           "area": "0 - 1700 block MCCLURE RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
