@@ -16,23 +16,6 @@
       ],
       "region_code": "North VI",
       "region_id": "1602896846"
-    },
-    "Thompson/Shuswap": {
-      "customers_affected_14d": 58,
-      "outages": [
-        {
-          "area": "South of SHUSWAP RD, East of TRANS CANADA HWY, West of RIVERSHORE DR\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Work being done on our equipment",
-          "customers_affected": "58",
-          "last_updated": "Oct 9 10:57 p.m.",
-          "municipality": "Kamloops",
-          "municipality_code": "day-1 day-3 city-979034872",
-          "start": "Oct 9 3:48 p.m.",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 10 5:00 a.m."
-        }
-      ],
-      "region_code": "Thompson/Shuswap",
-      "region_id": "725364552"
     }
   },
   "planned": {
@@ -9670,7 +9653,7 @@
       "region_id": "1812901382"
     },
     "Thompson/Shuswap": {
-      "customers_affected_14d": 4580,
+      "customers_affected_14d": 4638,
       "outages": [
         {
           "area": "North of CANIM LAKE RD",
@@ -10031,6 +10014,16 @@
           "municipality": "Kamloops",
           "municipality_code": "day-3 city-979034872",
           "start": "Oct 7 8:37 a.m."
+        },
+        {
+          "area": "South of SHUSWAP RD, East of TRANS CANADA HWY, West of RIVERSHORE DR",
+          "cause": "Other",
+          "customers_affected": "58",
+          "end": "Oct 10 5:00 a.m.",
+          "last_updated": "Oct 10 4:12 a.m.",
+          "municipality": "Kamloops",
+          "municipality_code": "day-1 day-3 city-979034872",
+          "start": "Oct 9 3:48 p.m."
         },
         {
           "area": "South of PAXTON VALLEY RD",
