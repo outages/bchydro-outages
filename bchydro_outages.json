@@ -1,35 +1,8 @@
 {
   "current": {
-    "Central Interior": {
+    "Lower Mainland": {
       "customers_affected_14d": -1,
       "outages": [
-        {
-          "area": "2800 block E AUSTIN RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Under investigation",
-          "customers_affected": "< 5",
-          "last_updated": "Oct 10 8:57 a.m.",
-          "municipality": "Prince George",
-          "municipality_code": "day-1 day-3 city-1835674262",
-          "start": "Oct 10 7:32 a.m.",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 10 9:15 a.m."
-        }
-      ],
-      "region_code": "Central Interior",
-      "region_id": "848340027"
-    },
-    "Lower Mainland": {
-      "customers_affected_14d": 99,
-      "outages": [
-        {
-          "area": "East of FLOOD HOPE , West of TOM BERRY RD, South of LOUGHEED HWY\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Under investigation",
-          "customers_affected": "94",
-          "last_updated": "Oct 10 8:17 a.m.",
-          "municipality": "Hope",
-          "municipality_code": "day-1 day-3 city-2255196",
-          "start": "Oct 10 4:39 a.m.",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 10 10:00 a.m."
-        },
         {
           "area": "22000 - 22100 block TRANS CAN HWY\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
@@ -49,24 +22,24 @@
           "municipality_code": "day-1 day-3 city-598891104",
           "start": "Oct 10 7:25 a.m.",
           "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 10 10:05 a.m."
-        },
-        {
-          "area": "500 block BRAND ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Tree down across our wires",
-          "customers_affected": "< 5",
-          "last_updated": "Oct 10 8:53 a.m.",
-          "municipality": "North Vancouver",
-          "municipality_code": "day-1 day-3 city--1636626238",
-          "start": "Oct 10 8:06 a.m.",
-          "status": "Crew status: Crew on-site"
         }
       ],
       "region_code": "Lower Mainland",
       "region_id": "521980323"
     },
     "North VI": {
-      "customers_affected_14d": 110,
+      "customers_affected_14d": 156,
       "outages": [
+        {
+          "area": "East of SPRUSTON RD, South of LOFTUS RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Under investigation",
+          "customers_affected": "46",
+          "last_updated": "Oct 10 9:23 a.m.",
+          "municipality": "Nanaimo",
+          "municipality_code": "day-1 day-3 city--907547835",
+          "start": "Oct 10 9:01 a.m.",
+          "status": "Crew status: Crew assigned"
+        },
         {
           "area": "500 block INDUSTRIAL WY, 500 block INDUSTRIAL WAY\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
@@ -91,19 +64,46 @@
           "area": "7900 block W ISLAND HWY\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "< 5",
-          "last_updated": "Oct 10 9:04 a.m.",
+          "last_updated": "Oct 10 9:07 a.m.",
           "municipality": "Qualicum Beach",
           "municipality_code": "day-1 day-3 city--154309756",
           "start": "Oct 10 7:51 a.m.",
-          "status": "Crew status: Crew on-site"
+          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 10 11:00 a.m."
         }
       ],
       "region_code": "North VI",
       "region_id": "1602896846"
     },
-    "South VI": {
-      "customers_affected_14d": 94,
+    "Northern": {
+      "customers_affected_14d": -1,
       "outages": [
+        {
+          "area": "South of HWY 97 , West of DANGEROUS GOODS RD, East of ADAMS RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Wire down",
+          "customers_affected": "< 5",
+          "last_updated": "Oct 10 9:16 a.m.",
+          "municipality": "Dawson Creek",
+          "municipality_code": "day-1 day-3 city--1630954860",
+          "start": "Oct 10 9:03 a.m.",
+          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 10 9:40 a.m."
+        }
+      ],
+      "region_code": "Northern",
+      "region_id": "1602964060"
+    },
+    "South VI": {
+      "customers_affected_14d": 95,
+      "outages": [
+        {
+          "area": "1700 block THAIN RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Under investigation",
+          "customers_affected": "< 5",
+          "last_updated": "Oct 10 9:16 a.m.",
+          "municipality": "Duncan",
+          "municipality_code": "day-1 day-3 city-2058209491",
+          "start": "Oct 10 9:11 a.m.",
+          "status": "Crew status: No crew assigned yet"
+        },
         {
           "area": "East of GEORGIA VIEW RD, North of HIGHVIEW DR\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Tree down across our wires",
@@ -2792,7 +2792,7 @@
   },
   "restored": {
     "Central Interior": {
-      "customers_affected_14d": 3782,
+      "customers_affected_14d": 3786,
       "outages": [
         {
           "area": "North-South-West of HWY 97 , East of HWY 39",
@@ -2893,6 +2893,16 @@
           "municipality": "Prince George",
           "municipality_code": "city-1835674262",
           "start": "Oct 5 2:57 p.m."
+        },
+        {
+          "area": "2800 block E AUSTIN RD",
+          "cause": "Other",
+          "customers_affected": "< 5",
+          "end": "Oct 10 9:15 a.m.",
+          "last_updated": "Oct 10 9:08 a.m.",
+          "municipality": "Prince George",
+          "municipality_code": "day-1 day-3 city-1835674262",
+          "start": "Oct 10 7:32 a.m."
         },
         {
           "area": "6500 block FOOTHILLS BLV, HEATHER RD LANDFILL",
@@ -3199,7 +3209,7 @@
       "region_id": "848340027"
     },
     "Lower Mainland": {
-      "customers_affected_14d": 29197,
+      "customers_affected_14d": 29292,
       "outages": [
         {
           "area": "East of CLEARBROOK RD, South of NANAIMO CLS, North of PEARDONVILLE RD, West of MACLURE RD",
@@ -4322,6 +4332,16 @@
           "start": "Oct 9 7:21 a.m."
         },
         {
+          "area": "East of FLOOD HOPE , West of TOM BERRY RD, South of LOUGHEED HWY",
+          "cause": "Under investigation",
+          "customers_affected": "94",
+          "end": "Oct 10 10:00 a.m.",
+          "last_updated": "Oct 10 9:15 a.m.",
+          "municipality": "Hope",
+          "municipality_code": "day-1 day-3 city-2255196",
+          "start": "Oct 10 4:39 a.m."
+        },
+        {
           "area": "North of TRANS CAN HWY",
           "cause": "Transmission circuit failure",
           "customers_affected": "74",
@@ -5000,6 +5020,16 @@
           "municipality": "North Vancouver",
           "municipality_code": "day-1 day-3 city--1636626238",
           "start": "Oct 8 2:14 p.m."
+        },
+        {
+          "area": "500 block BRAND ST",
+          "cause": "Tree down across our wires",
+          "customers_affected": "< 5",
+          "end": "",
+          "last_updated": "Oct 10 9:21 a.m.",
+          "municipality": "North Vancouver",
+          "municipality_code": "day-1 day-3 city--1636626238",
+          "start": "Oct 10 8:06 a.m."
         },
         {
           "area": "7844 PEM MEADOWS RD,, 800 - 900 block ERICKSON RD, 200 - 300 block DILL RD, PEMBERTON OUTDOOR SCH, 0 - 9400 block GEESE RD, 3000 block LOIS RD, 8000 block RYAN CREEK RD, 8200 block PEM MEADOW, 8600 block PEMBERTON MEADOW, 9200 block PEMBERTON MEADO RD...",
@@ -8897,7 +8927,7 @@
       "region_id": "2072041405"
     },
     "South VI": {
-      "customers_affected_14d": 10450,
+      "customers_affected_14d": 10451,
       "outages": [
         {
           "area": "South-West of SAANICH RD, North-East of COOPERIDGE DR",
@@ -8976,7 +9006,7 @@
           "end": "",
           "last_updated": "Oct 6 12:23 p.m.",
           "municipality": "Duncan",
-          "municipality_code": "day-3 city-2058209491",
+          "municipality_code": "city-2058209491",
           "start": "Oct 6 6:41 a.m."
         },
         {
@@ -9048,6 +9078,16 @@
           "municipality": "Duncan",
           "municipality_code": "city-2058209491",
           "start": "Oct 5 8:19 a.m."
+        },
+        {
+          "area": "1700 block THAIN RD",
+          "cause": "Under investigation",
+          "customers_affected": "< 5",
+          "end": "",
+          "last_updated": "Oct 10 9:14 a.m.",
+          "municipality": "Duncan",
+          "municipality_code": "day-1 day-3 city-2058209491",
+          "start": "Oct 10 9:02 a.m."
         },
         {
           "area": "North of CARLISLE AVE, South of COLVILLE RD, West of ROCKHEIGHTS AVE, East of NELSON ST",
