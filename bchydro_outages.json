@@ -7,28 +7,28 @@
           "area": "2100 block HIGDON RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-10T10:21:00",
+          "last_updated": "2020-10-10T10:44:00",
           "municipality": "Quesnel",
           "municipality_code": "day-1 day-3 city--1975191965",
           "start": "2020-10-10T10:12:00",
-          "status": "Crew status: Crew assigned"
+          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 10 11:45 a.m."
         }
       ],
       "region_code": "Central Interior",
       "region_id": "848340027"
     },
     "Lower Mainland": {
-      "customers_affected_14d": 798,
+      "customers_affected_14d": 829,
       "outages": [
         {
           "area": "West of EVANS RD, North of KEITH WILSON RD, East of ARNOLD RD, South of CHILLIWACK MOUNTIAN RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Tree down across our wires",
           "customers_affected": "795",
-          "last_updated": "2020-10-10T09:49:00",
+          "last_updated": "2020-10-10T10:41:00",
           "municipality": "Chilliwack",
           "municipality_code": "day-1 day-3 city--708005353",
           "start": "2020-10-10T09:34:00",
-          "status": "Crew status: Crew assigned"
+          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 10 11:45 a.m."
         },
         {
           "area": "22000 - 22100 block TRANS CAN HWY\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -49,6 +49,26 @@
           "municipality_code": "day-1 day-3 city-963142865",
           "start": "2020-10-10T10:09:00",
           "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 10 11:25 a.m."
+        },
+        {
+          "area": "East of SEYMOUR RD, West of Duffy Lake RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Under investigation",
+          "customers_affected": "30",
+          "last_updated": "2020-10-10T10:40:00",
+          "municipality": "Pemberton",
+          "municipality_code": "day-1 day-3 city--2076154532",
+          "start": "2020-10-10T10:33:00",
+          "status": "Crew status: Crew assigned"
+        },
+        {
+          "area": "3000 block ST ANTON WAY\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Tree down across our wires",
+          "customers_affected": "< 5",
+          "last_updated": "2020-10-10T10:44:00",
+          "municipality": "Whistler",
+          "municipality_code": "day-1 day-3 city--2067392640",
+          "start": "2020-10-10T10:40:00",
+          "status": "Crew status: No crew assigned yet"
         }
       ],
       "region_code": "Lower Mainland",
@@ -108,8 +128,55 @@
       "region_code": "Northern",
       "region_id": "1602964060"
     },
+    "Okanagan/Kootenay": {
+      "customers_affected_14d": 3346,
+      "outages": [
+        {
+          "area": "South-West of HWY 93 95 , North-East of HWY 95A\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Transmission circuit failure",
+          "customers_affected": "877",
+          "last_updated": "2020-10-10T10:44:00",
+          "municipality": "Cranbrook",
+          "municipality_code": "day-1 day-3 city--591720257",
+          "start": "2020-10-10T10:37:00",
+          "status": "Crew status: Crew assigned"
+        },
+        {
+          "area": "East of RIVERSIDE DR, North of COLUMBIA RIVER RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Transmission circuit failure",
+          "customers_affected": "1200",
+          "last_updated": "2020-10-10T10:45:00",
+          "municipality": "Invermere",
+          "municipality_code": "day-1 day-3 city--13155575",
+          "start": "2020-10-10T10:37:00",
+          "status": "Crew status: Crew assigned"
+        },
+        {
+          "area": "North-South-East-West of HWY 93 95\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Transmission circuit failure",
+          "customers_affected": "876",
+          "last_updated": "2020-10-10T10:44:00",
+          "municipality": "Invermere",
+          "municipality_code": "day-1 day-3 city--13155575",
+          "start": "2020-10-10T10:37:00",
+          "status": "Crew status: Crew assigned"
+        },
+        {
+          "area": "North of HWY 93 95 , South of WESTSIDE RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Equipment failure",
+          "customers_affected": "393",
+          "last_updated": "2020-10-10T10:46:00",
+          "municipality": "Invermere",
+          "municipality_code": "day-1 day-3 city--13155575",
+          "start": "2020-10-10T10:37:00",
+          "status": "Crew status: Crew assigned"
+        }
+      ],
+      "region_code": "Okanagan/Kootenay",
+      "region_id": "2072041405"
+    },
     "South VI": {
-      "customers_affected_14d": 183,
+      "customers_affected_14d": 177,
       "outages": [
         {
           "area": "1700 block THAIN RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -120,16 +187,6 @@
           "municipality_code": "day-1 day-3 city-2058209491",
           "start": "2020-10-10T09:11:00",
           "status": "Crew status: Crew assigned"
-        },
-        {
-          "area": "0 - 1700 block MCCLURE RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Under investigation",
-          "customers_affected": "6",
-          "last_updated": "2020-10-10T09:40:00",
-          "municipality": "Galiano Island",
-          "municipality_code": "day-1 day-3 city--995767958",
-          "start": "2020-10-10T05:21:00",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 10 10:30 a.m."
         },
         {
           "area": "West of SARAH OWEN PL, East of WOODRIDGE PL, South of MEADOWBROOK RD, North of MUNNS RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -6492,7 +6549,7 @@
           "end": "2020-10-08T10:30:00",
           "last_updated": "2020-10-08T10:59:00",
           "municipality": "Courtenay",
-          "municipality_code": "day-1 day-3 city--824228212",
+          "municipality_code": "day-3 city--824228212",
           "start": "2020-10-08T09:32:00"
         },
         {
@@ -8964,7 +9021,7 @@
       "region_id": "2072041405"
     },
     "South VI": {
-      "customers_affected_14d": 10539,
+      "customers_affected_14d": 10545,
       "outages": [
         {
           "area": "South-West of SAANICH RD, North-East of COOPERIDGE DR",
@@ -9185,6 +9242,16 @@
           "municipality": "Galiano Island",
           "municipality_code": "city--995767958",
           "start": "2020-10-02T13:32:00"
+        },
+        {
+          "area": "0 - 1700 block MCCLURE RD",
+          "cause": "Tree down across our wires",
+          "customers_affected": "6",
+          "end": "2020-10-10T10:30:00",
+          "last_updated": "2020-10-10T10:43:00",
+          "municipality": "Galiano Island",
+          "municipality_code": "day-1 day-3 city--995767958",
+          "start": "2020-10-10T05:21:00"
         },
         {
           "area": "HAUL BACK RD, 500 block STICKS ALLISON RD",
