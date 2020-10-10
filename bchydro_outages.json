@@ -1,7 +1,7 @@
 {
   "current": {
     "Lower Mainland": {
-      "customers_affected_14d": 96,
+      "customers_affected_14d": 98,
       "outages": [
         {
           "area": "East of FLOOD HOPE , West of TOM BERRY RD, South of LOUGHEED HWY\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -21,6 +21,16 @@
           "municipality": "Hope",
           "municipality_code": "day-1 day-3 city-2255196",
           "start": "Oct 10 6:37 a.m.",
+          "status": "Crew status: Crew assigned"
+        },
+        {
+          "area": "10300 block 272 ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Under investigation",
+          "customers_affected": "< 5",
+          "last_updated": "Oct 10 7:30 a.m.",
+          "municipality": "Maple Ridge",
+          "municipality_code": "day-1 day-3 city-598891104",
+          "start": "Oct 10 7:25 a.m.",
           "status": "Crew status: Crew assigned"
         }
       ],
