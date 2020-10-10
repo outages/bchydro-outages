@@ -28,7 +28,7 @@
       "region_id": "848340027"
     },
     "Lower Mainland": {
-      "customers_affected_14d": 9451,
+      "customers_affected_14d": 9457,
       "outages": [
         {
           "area": "9800 block CAMERON ST, 3400 block NORTH RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -109,6 +109,16 @@
           "municipality_code": "day-1 day-3 city-963142865",
           "start": "2020-10-10T10:09:00",
           "status": "Crew status: Crew on-site"
+        },
+        {
+          "area": "North-West of LAKESHORE DR, East of RED BARN RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Under investigation",
+          "customers_affected": "6",
+          "last_updated": "2020-10-10T13:30:00",
+          "municipality": "Pemberton",
+          "municipality_code": "day-1 day-3 city--2076154532",
+          "start": "2020-10-10T13:07:00",
+          "status": "Crew status: Crew assigned"
         },
         {
           "area": "North of BURNABY ST, East of JOYCE AVE, South of ALBERNI ST, West of ONTARIO AVE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -205,7 +215,7 @@
           "area": "West of SARAH OWEN PL, East of WOODRIDGE PL, South of MEADOWBROOK RD, North of MUNNS RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Tree down across our wires",
           "customers_affected": "176",
-          "last_updated": "2020-10-10T13:04:00",
+          "last_updated": "2020-10-10T13:27:00",
           "municipality": "Highlands, Saanich, View Royal",
           "municipality_code": "day-1 day-3 city-1322525542 city--776615533 city--1360221748",
           "start": "2020-10-10T09:56:00",
@@ -216,7 +226,7 @@
       "region_id": "1812901382"
     },
     "Thompson/Shuswap": {
-      "customers_affected_14d": 465,
+      "customers_affected_14d": 466,
       "outages": [
         {
           "area": "East of WILCOX RD, North of TRIP RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -262,7 +272,7 @@
           "area": "5400 - 5700 block SPRING LAKE RD, 5600 - 5700 block SPRING LK RD, 3900 - 6000 block DEMPSEY LAKE RD, 3800 - 6000 block DEMPSEY LK RD, SPRING LK RD P93, 6000 block DEMPSEY LAKE S RD, 3900 block LARSON LAKE RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "38",
-          "last_updated": "2020-10-10T13:25:00",
+          "last_updated": "2020-10-10T13:28:00",
           "municipality": "100 Mile House",
           "municipality_code": "day-1 day-3 city-950857956",
           "start": "2020-10-10T12:08:00",
@@ -277,6 +287,16 @@
           "municipality_code": "day-1 day-3 city-950857956",
           "start": "2020-10-10T12:45:00",
           "status": "Crew status: Crew assigned"
+        },
+        {
+          "area": "PRESSY LK RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Under investigation",
+          "customers_affected": "< 5",
+          "last_updated": "2020-10-10T13:30:00",
+          "municipality": "100 Mile House",
+          "municipality_code": "day-1 day-3 city-950857956",
+          "start": "2020-10-10T13:25:00",
+          "status": "Crew status: No crew assigned yet"
         }
       ],
       "region_code": "Thompson/Shuswap",
@@ -8464,7 +8484,7 @@
       "region_id": "1602964060"
     },
     "Okanagan/Kootenay": {
-      "customers_affected_14d": 14268,
+      "customers_affected_14d": 17614,
       "outages": [
         {
           "area": "3200 block ROSEDALE AVE",
@@ -8475,6 +8495,16 @@
           "municipality": "Armstrong",
           "municipality_code": "city-948100051",
           "start": "2020-09-30T18:10:00"
+        },
+        {
+          "area": "South-West of HWY 93 95 , North-East of HWY 95A",
+          "cause": "Tree down across our wires",
+          "customers_affected": "877",
+          "end": "2020-10-10T13:26:00",
+          "last_updated": "2020-10-10T13:27:00",
+          "municipality": "Cranbrook",
+          "municipality_code": "day-1 day-3 city--591720257",
+          "start": "2020-10-10T10:37:00"
         },
         {
           "area": "West of BRANA RD, South of GREEN BAY RD, North of MONROE LAKE RD",
@@ -8725,6 +8755,36 @@
           "municipality": "Golden",
           "municipality_code": "day-3 city-2138497321",
           "start": "2020-10-06T15:33:00"
+        },
+        {
+          "area": "East of RIVERSIDE DR, North of COLUMBIA RIVER RD",
+          "cause": "Tree down across our wires",
+          "customers_affected": "1200",
+          "end": "2020-10-10T13:00:00",
+          "last_updated": "2020-10-10T13:27:00",
+          "municipality": "Invermere",
+          "municipality_code": "day-1 day-3 city--13155575",
+          "start": "2020-10-10T10:37:00"
+        },
+        {
+          "area": "North-South-East-West of HWY 93 95",
+          "cause": "Tree down across our wires",
+          "customers_affected": "876",
+          "end": "2020-10-10T13:00:00",
+          "last_updated": "2020-10-10T13:26:00",
+          "municipality": "Invermere",
+          "municipality_code": "day-1 day-3 city--13155575",
+          "start": "2020-10-10T10:37:00"
+        },
+        {
+          "area": "North of HWY 93 95 , South of WESTSIDE RD",
+          "cause": "Tree down across our wires",
+          "customers_affected": "393",
+          "end": "2020-10-10T13:00:00",
+          "last_updated": "2020-10-10T13:26:00",
+          "municipality": "Invermere",
+          "municipality_code": "day-1 day-3 city--13155575",
+          "start": "2020-10-10T10:37:00"
         },
         {
           "area": "South-East of SZABO RD, West of FLUME RD, North of SPUR VALLEY RD",
@@ -10447,7 +10507,7 @@
           "end": "2020-10-06T15:00:00",
           "last_updated": "2020-10-06T13:32:00",
           "municipality": "Kamloops",
-          "municipality_code": "day-3 city-979034872",
+          "municipality_code": "city-979034872",
           "start": "2020-10-06T08:52:00"
         },
         {
