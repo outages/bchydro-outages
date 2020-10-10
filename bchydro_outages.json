@@ -18,13 +18,13 @@
       "region_id": "848340027"
     },
     "Lower Mainland": {
-      "customers_affected_14d": 8802,
+      "customers_affected_14d": 8850,
       "outages": [
         {
           "area": "West of GILMORE AVE, East of RENFREW ST, South of 4TH AVE, North of 25TH AVE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Under investigation",
+          "cause": "Wire down",
           "customers_affected": "1752",
-          "last_updated": "2020-10-10T12:30:00",
+          "last_updated": "2020-10-10T12:32:00",
           "municipality": "Burnaby, Vancouver",
           "municipality_code": "day-1 day-3 city-1903966249 city--1786794435",
           "start": "2020-10-10T12:08:00",
@@ -54,40 +54,40 @@
           "area": "22000 - 22100 block TRANS CAN HWY\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-10T09:32:00",
+          "last_updated": "2020-10-10T12:44:00",
           "municipality": "Hope",
           "municipality_code": "day-1 day-3 city-2255196",
           "start": "2020-10-10T06:37:00",
-          "status": "Crew status: Crew on-site"
+          "status": "Crew status: Crew assigned\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 10 10:00 a.m."
         },
         {
           "area": "800 block BOYD ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Transformer burn out",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-10T11:30:00",
+          "last_updated": "2020-10-10T12:31:00",
           "municipality": "New Westminster",
           "municipality_code": "day-1 day-3 city-963142865",
           "start": "2020-10-10T10:09:00",
+          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 10 1:35 p.m."
+        },
+        {
+          "area": "North of BURNABY ST, East of JOYCE AVE, South of ALBERNI ST, West of ONTARIO AVE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Under investigation",
+          "customers_affected": "49",
+          "last_updated": "2020-10-10T12:38:00",
+          "municipality": "Powell River",
+          "municipality_code": "day-1 day-3 city-1665178489",
+          "start": "2020-10-10T12:21:00",
           "status": "Crew status: Crew assigned"
         },
         {
           "area": "West of MCHARDY ST, North of 48TH AVE, South of GRANDVIEW HWY, East of INVERNESS ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Under investigation",
+          "cause": "Wire down",
           "customers_affected": "6963",
-          "last_updated": "2020-10-10T12:21:00",
+          "last_updated": "2020-10-10T12:32:00",
           "municipality": "Vancouver",
           "municipality_code": "day-1 day-3 city--1786794435",
           "start": "2020-10-10T12:13:00",
-          "status": "Crew status: Crew assigned"
-        },
-        {
-          "area": "3000 block ST ANTON WAY\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Tree down across our wires",
-          "customers_affected": "< 5",
-          "last_updated": "2020-10-10T11:59:00",
-          "municipality": "Whistler",
-          "municipality_code": "day-1 day-3 city--2067392640",
-          "start": "2020-10-10T10:40:00",
           "status": "Crew status: Crew on-site"
         }
       ],
@@ -131,49 +131,26 @@
       "region_code": "North VI",
       "region_id": "1602896846"
     },
-    "Okanagan/Kootenay": {
-      "customers_affected_14d": 3507,
+    "Northern": {
+      "customers_affected_14d": -1,
       "outages": [
         {
-          "area": "South-West of HWY 93 95 , North-East of HWY 95A\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Tree down across our wires",
-          "customers_affected": "877",
-          "last_updated": "2020-10-10T12:26:00",
-          "municipality": "Cranbrook",
-          "municipality_code": "day-1 day-3 city--591720257",
-          "start": "2020-10-10T10:37:00",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 10 1:30 p.m."
-        },
-        {
-          "area": "East of RIVERSIDE DR, North of COLUMBIA RIVER RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Tree down across our wires",
-          "customers_affected": "1200",
-          "last_updated": "2020-10-10T12:25:00",
-          "municipality": "Invermere",
-          "municipality_code": "day-1 day-3 city--13155575",
-          "start": "2020-10-10T10:37:00",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 10 1:00 p.m."
-        },
-        {
-          "area": "North-South-East-West of HWY 93 95\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Tree down across our wires",
-          "customers_affected": "876",
-          "last_updated": "2020-10-10T12:25:00",
-          "municipality": "Invermere",
-          "municipality_code": "day-1 day-3 city--13155575",
-          "start": "2020-10-10T10:37:00",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 10 1:00 p.m."
-        },
-        {
-          "area": "North of HWY 93 95 , South of WESTSIDE RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Tree down across our wires",
-          "customers_affected": "393",
-          "last_updated": "2020-10-10T12:25:00",
-          "municipality": "Invermere",
-          "municipality_code": "day-1 day-3 city--13155575",
-          "start": "2020-10-10T10:37:00",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 10 1:00 p.m."
-        },
+          "area": "East of Rolla RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Work being done on our equipment",
+          "customers_affected": "< 5",
+          "last_updated": "2020-10-10T12:43:00",
+          "municipality": "Dawson Creek",
+          "municipality_code": "day-1 day-3 city--1630954860",
+          "start": "2020-10-10T10:15:00",
+          "status": "Crew status: Crew assigned\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 10 12:45 p.m."
+        }
+      ],
+      "region_code": "Northern",
+      "region_id": "1602964060"
+    },
+    "Okanagan/Kootenay": {
+      "customers_affected_14d": 161,
+      "outages": [
         {
           "area": "South-West of HWY 93 95 , North-East of WESTSIDE RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Tree down across our wires",
@@ -195,7 +172,7 @@
           "area": "West of SARAH OWEN PL, East of WOODRIDGE PL, South of MEADOWBROOK RD, North of MUNNS RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Tree down across our wires",
           "customers_affected": "176",
-          "last_updated": "2020-10-10T12:31:00",
+          "last_updated": "2020-10-10T12:35:00",
           "municipality": "Highlands, Saanich, View Royal",
           "municipality_code": "day-1 day-3 city-1322525542 city--776615533 city--1360221748",
           "start": "2020-10-10T09:56:00",
@@ -206,13 +183,23 @@
       "region_id": "1812901382"
     },
     "Thompson/Shuswap": {
-      "customers_affected_14d": 38,
+      "customers_affected_14d": 271,
       "outages": [
+        {
+          "area": "East of WILCOX RD, North of TRIP RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Under investigation",
+          "customers_affected": "233",
+          "last_updated": "2020-10-10T12:45:00",
+          "municipality": "100 Mile House",
+          "municipality_code": "day-1 day-3 city-950857956",
+          "start": "2020-10-10T12:25:00",
+          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 10 1:45 p.m."
+        },
         {
           "area": "5400 - 5700 block SPRING LAKE RD, 5600 - 5700 block SPRING LK RD, 3900 - 6000 block DEMPSEY LAKE RD, 3800 - 6000 block DEMPSEY LK RD, SPRING LK RD P93, 6000 block DEMPSEY LAKE S RD, 3900 block LARSON LAKE RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "38",
-          "last_updated": "2020-10-10T12:26:00",
+          "last_updated": "2020-10-10T12:42:00",
           "municipality": "100 Mile House",
           "municipality_code": "day-1 day-3 city-950857956",
           "start": "2020-10-10T12:08:00",
@@ -3303,7 +3290,7 @@
       "region_id": "848340027"
     },
     "Lower Mainland": {
-      "customers_affected_14d": 29324,
+      "customers_affected_14d": 29325,
       "outages": [
         {
           "area": "East of CLEARBROOK RD, South of NANAIMO CLS, North of PEARDONVILLE RD, West of MACLURE RD",
@@ -5147,10 +5134,10 @@
         },
         {
           "area": "East of SEYMOUR RD, West of Duffy Lake RD",
-          "cause": "Under investigation",
+          "cause": "Tree down across our wires",
           "customers_affected": "30",
           "end": "2020-10-10T12:30:00",
-          "last_updated": "2020-10-10T12:25:00",
+          "last_updated": "2020-10-10T12:41:00",
           "municipality": "Pemberton",
           "municipality_code": "day-1 day-3 city--2076154532",
           "start": "2020-10-10T10:33:00"
@@ -6394,6 +6381,16 @@
           "municipality": "Whistler",
           "municipality_code": "day-3 city--2067392640",
           "start": "2020-10-07T11:21:00"
+        },
+        {
+          "area": "3000 block ST ANTON WAY",
+          "cause": "Tree down across our wires",
+          "customers_affected": "< 5",
+          "end": "",
+          "last_updated": "2020-10-10T12:31:00",
+          "municipality": "Whistler",
+          "municipality_code": "day-1 day-3 city--2067392640",
+          "start": "2020-10-10T10:40:00"
         }
       ],
       "region_code": "Lower Mainland",
@@ -7876,7 +7873,7 @@
           "end": "2020-10-06T12:41:00",
           "last_updated": "2020-10-08T11:46:00",
           "municipality": "Fort St. John",
-          "municipality_code": "day-3 city-205572915",
+          "municipality_code": "city-205572915",
           "start": "2020-10-06T07:18:00"
         },
         {
@@ -9870,7 +9867,7 @@
           "end": "2020-10-08T12:33:00",
           "last_updated": "2020-10-09T09:26:00",
           "municipality": "Saturna Island",
-          "municipality_code": "day-1 day-3 city-501274559",
+          "municipality_code": "day-3 city-501274559",
           "start": "2020-10-08T11:29:00"
         },
         {
