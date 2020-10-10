@@ -54,7 +54,7 @@
           "area": "22000 - 22100 block TRANS CAN HWY\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-10T14:22:00",
+          "last_updated": "2020-10-10T14:29:00",
           "municipality": "Hope",
           "municipality_code": "day-1 day-3 city-2255196",
           "start": "2020-10-10T06:37:00",
@@ -64,11 +64,11 @@
           "area": "South of BAYVIEW RD, East of HWY 99 HWY, North of KELVIN GROVE WAY\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "60",
-          "last_updated": "2020-10-10T14:12:00",
+          "last_updated": "2020-10-10T14:30:00",
           "municipality": "Lions Bay",
           "municipality_code": "day-1 day-3 city-1368997905",
           "start": "2020-10-10T13:12:00",
-          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 10 2:45 p.m."
+          "status": "Crew status: Crew on-site"
         },
         {
           "area": "24400 block FERN CRES, GOLDEN EARS PARK\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -262,7 +262,7 @@
           "area": "5400 - 5700 block SPRING LAKE RD, 5600 - 5700 block SPRING LK RD, 3900 - 6000 block DEMPSEY LAKE RD, 3800 - 6000 block DEMPSEY LK RD, SPRING LK RD P93, 6000 block DEMPSEY LAKE S RD, 3900 block LARSON LAKE RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "38",
-          "last_updated": "2020-10-10T14:08:00",
+          "last_updated": "2020-10-10T14:26:00",
           "municipality": "100 Mile House",
           "municipality_code": "day-1 day-3 city-950857956",
           "start": "2020-10-10T12:08:00",
@@ -342,7 +342,7 @@
       "region_id": "848340027"
     },
     "Lower Mainland": {
-      "customers_affected_14d": 5175,
+      "customers_affected_14d": 5169,
       "outages": [
         {
           "area": "1944, 1954, 1966, 1976 Albion St; 32666-32749 Cordova Ave; 325, 32760 Marshall Rd, 32414-32750 Pandora Ave; 1911-1944 Valencia Crt, Abbotsford",
@@ -943,16 +943,6 @@
           "municipality": "Mission",
           "municipality_code": "day-1 day-3 city--1560864404",
           "start": "2020-10-14T09:00:00"
-        },
-        {
-          "area": "EMERGENT8640 - 8716 Gagliardi St",
-          "cause": "Pole replacement",
-          "customers_affected": "6",
-          "end": "2020-10-08T14:30:00",
-          "last_updated": "2020-09-29T08:37:00",
-          "municipality": "Mission",
-          "municipality_code": "day-1 day-3 city--1560864404",
-          "start": "2020-10-08T08:30:00"
         },
         {
           "area": "1038 - 1120 Blue Grouse Way; 5369 - 5492 Blueberry Lane; 5453 - 5515 Nancy Greene Way; 5502 - 5515 Stellar Pl; 5500 - 5560 Woodchuck Pl",
@@ -1709,7 +1699,7 @@
       "region_id": "521980323"
     },
     "North VI": {
-      "customers_affected_14d": 623,
+      "customers_affected_14d": 613,
       "outages": [
         {
           "area": "5300 - 6200 Race Point Rd; Lt15, Lt19, L20 Race Point Rd; 5502 - 5582 Raceway Rd",
@@ -1780,16 +1770,6 @@
           "municipality": "Courtenay",
           "municipality_code": "day-1 day-3 city--824228212",
           "start": "2020-10-18T09:00:00"
-        },
-        {
-          "area": "7716 - 7762 N. Island HWY, Black Creek",
-          "cause": "Pole replacement",
-          "customers_affected": "10",
-          "end": "2020-10-08T14:30:00",
-          "last_updated": "2020-09-24T10:09:00",
-          "municipality": "Courtenay",
-          "municipality_code": "day-1 day-3 city--824228212",
-          "start": "2020-10-08T09:00:00"
         },
         {
           "area": "1, 800 Mill Rd; 300 Western Rd; 1 Bowater Rd; Gold River",
