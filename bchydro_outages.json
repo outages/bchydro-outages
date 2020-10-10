@@ -52,17 +52,27 @@
       "region_id": "1602964060"
     },
     "South VI": {
-      "customers_affected_14d": 6,
+      "customers_affected_14d": 94,
       "outages": [
+        {
+          "area": "East of GEORGIA VIEW RD, North of HIGHVIEW DR\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Under investigation",
+          "customers_affected": "88",
+          "last_updated": "Oct 10 6:24 a.m.",
+          "municipality": "Galiano Island",
+          "municipality_code": "day-1 day-3 city--995767958",
+          "start": "Oct 10 6:20 a.m.",
+          "status": "Crew status: Crew assigned\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 10 7:15 a.m."
+        },
         {
           "area": "0 - 1700 block MCCLURE RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "6",
-          "last_updated": "Oct 10 6:17 a.m.",
+          "last_updated": "Oct 10 6:24 a.m.",
           "municipality": "Galiano Island",
           "municipality_code": "day-1 day-3 city--995767958",
           "start": "Oct 10 5:21 a.m.",
-          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 10 7:20 a.m."
+          "status": "Crew status: Crew on their way"
         }
       ],
       "region_code": "South VI",
