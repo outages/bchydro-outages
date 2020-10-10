@@ -1,13 +1,13 @@
 {
   "current": {
     "Lower Mainland": {
-      "customers_affected_14d": 159,
+      "customers_affected_14d": 158,
       "outages": [
         {
           "area": "North of 64TH AVE, South of 82ND AVE, West of 267TH ST, East of 72ND AVE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Transformer burn out",
           "customers_affected": "147",
-          "last_updated": "Oct 9 10:26 p.m.",
+          "last_updated": "Oct 9 10:46 p.m.",
           "municipality": "Langley",
           "municipality_code": "day-1 day-3 city-1612593490",
           "start": "Oct 9 7:04 p.m.",
@@ -17,21 +17,11 @@
           "area": "3800 - 3900 block 202A ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "11",
-          "last_updated": "Oct 9 9:50 p.m.",
+          "last_updated": "Oct 9 10:42 p.m.",
           "municipality": "Langley",
           "municipality_code": "day-1 day-3 city-1612593490",
           "start": "Oct 9 9:46 p.m.",
-          "status": "Crew status: Crew assigned"
-        },
-        {
-          "area": "GOLDEN EARS PARK\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Under investigation",
-          "customers_affected": "< 5",
-          "last_updated": "Oct 9 10:20 p.m.",
-          "municipality": "Maple Ridge",
-          "municipality_code": "day-1 day-3 city-598891104",
-          "start": "Oct 9 8:22 p.m.",
-          "status": "Crew status: Crew on-site"
+          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 9 11:45 p.m."
         }
       ],
       "region_code": "Lower Mainland",
@@ -44,11 +34,11 @@
           "area": "3200 block SUTTON RD, 2600 block DERWENT AVE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "< 5",
-          "last_updated": "Oct 9 10:27 p.m.",
+          "last_updated": "Oct 9 10:44 p.m.",
           "municipality": "Cumberland",
           "municipality_code": "day-1 day-3 city--531324801",
           "start": "Oct 9 10:08 p.m.",
-          "status": "Crew status: Crew on their way"
+          "status": "Crew status: Crew on-site"
         },
         {
           "area": "North of EVENSON RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -65,8 +55,18 @@
       "region_id": "1602896846"
     },
     "Thompson/Shuswap": {
-      "customers_affected_14d": 58,
+      "customers_affected_14d": 59,
       "outages": [
+        {
+          "area": "7500 block RESORT RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Under investigation",
+          "customers_affected": "< 5",
+          "last_updated": "Oct 9 10:41 p.m.",
+          "municipality": "100 Mile House",
+          "municipality_code": "day-1 day-3 city-950857956",
+          "start": "Oct 9 10:35 p.m.",
+          "status": "Crew status: Crew assigned"
+        },
         {
           "area": "South of SHUSWAP RD, East of TRANS CANADA HWY, West of RIVERSHORE DR\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Work being done on our equipment",
@@ -3112,7 +3112,7 @@
       "region_id": "848340027"
     },
     "Lower Mainland": {
-      "customers_affected_14d": 46454,
+      "customers_affected_14d": 46455,
       "outages": [
         {
           "area": "East of CLEARBROOK RD, South of NANAIMO CLS, North of PEARDONVILLE RD, West of MACLURE RD",
@@ -4883,6 +4883,16 @@
           "municipality": "Maple Ridge",
           "municipality_code": "city-598891104",
           "start": "Sep 25 10:07 a.m."
+        },
+        {
+          "area": "GOLDEN EARS PARK",
+          "cause": "Other",
+          "customers_affected": "< 5",
+          "end": "",
+          "last_updated": "Oct 9 10:32 p.m.",
+          "municipality": "Maple Ridge",
+          "municipality_code": "day-1 day-3 city-598891104",
+          "start": "Oct 9 8:22 p.m."
         },
         {
           "area": "12000 block GEE ST",
