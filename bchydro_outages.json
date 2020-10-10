@@ -34,7 +34,7 @@
           "area": "North of VENTURE PL, East of PROGRESS WAY, West of AITKEN RD, South of GRAND VIEW DR\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Tree down across our wires",
           "customers_affected": "82",
-          "last_updated": "2020-10-10T11:17:00",
+          "last_updated": "2020-10-10T11:35:00",
           "municipality": "Chilliwack",
           "municipality_code": "day-1 day-3 city--708005353",
           "start": "2020-10-10T09:34:00",
@@ -64,7 +64,7 @@
           "area": "800 block BOYD ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Transformer burn out",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-10T11:25:00",
+          "last_updated": "2020-10-10T11:30:00",
           "municipality": "New Westminster",
           "municipality_code": "day-1 day-3 city-963142865",
           "start": "2020-10-10T10:09:00",
@@ -132,16 +132,26 @@
       "region_id": "1602896846"
     },
     "Northern": {
-      "customers_affected_14d": 28,
+      "customers_affected_14d": 42,
       "outages": [
         {
           "area": "East of 7TH AVE, North of COLUMBIA DR, West of 9TH AVE, South of MORICE DR\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "28",
-          "last_updated": "2020-10-10T11:25:00",
+          "last_updated": "2020-10-10T11:35:00",
           "municipality": "Smithers",
           "municipality_code": "day-1 day-3 city--305588573",
           "start": "2020-10-10T11:19:00",
+          "status": "Crew status: Crew on-site"
+        },
+        {
+          "area": "1200 block MAIN ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Under investigation",
+          "customers_affected": "14",
+          "last_updated": "2020-10-10T11:32:00",
+          "municipality": "Smithers",
+          "municipality_code": "day-1 day-3 city--305588573",
+          "start": "2020-10-10T11:26:00",
           "status": "Crew status: Crew assigned"
         }
       ],
@@ -195,11 +205,11 @@
           "area": "South-West of HWY 93 95 , North-East of WESTSIDE RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Tree down across our wires",
           "customers_affected": "161",
-          "last_updated": "2020-10-10T11:07:00",
+          "last_updated": "2020-10-10T11:35:00",
           "municipality": "Invermere",
           "municipality_code": "day-1 day-3 city--13155575",
           "start": "2020-10-10T10:54:00",
-          "status": "Crew status: Crew assigned"
+          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 10 12:00 p.m."
         }
       ],
       "region_code": "Okanagan/Kootenay",
@@ -212,21 +222,21 @@
           "area": "1700 block THAIN RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-10T10:52:00",
+          "last_updated": "2020-10-10T11:36:00",
           "municipality": "Duncan",
           "municipality_code": "day-1 day-3 city-2058209491",
           "start": "2020-10-10T09:11:00",
-          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 10 11:55 a.m."
+          "status": "Crew status: Crew on-site"
         },
         {
           "area": "West of SARAH OWEN PL, East of WOODRIDGE PL, South of MEADOWBROOK RD, North of MUNNS RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Tree down across our wires",
           "customers_affected": "176",
-          "last_updated": "2020-10-10T11:00:00",
+          "last_updated": "2020-10-10T11:27:00",
           "municipality": "Highlands, Saanich, View Royal",
           "municipality_code": "day-1 day-3 city-1322525542 city--776615533 city--1360221748",
           "start": "2020-10-10T09:56:00",
-          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 10 12:00 p.m."
+          "status": "Crew status: Crew on-site"
         }
       ],
       "region_code": "South VI",
@@ -4452,7 +4462,7 @@
           "end": "2020-10-08T12:30:00",
           "last_updated": "2020-10-08T12:03:00",
           "municipality": "Hope",
-          "municipality_code": "day-1 day-3 city-2255196",
+          "municipality_code": "day-3 city-2255196",
           "start": "2020-10-08T09:53:00"
         },
         {
