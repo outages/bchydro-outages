@@ -99,7 +99,7 @@ def parse_date(time_str):
     except:
         return ""
 
-    return time_formatted.__str__()
+    return time_formatted.isoformat()
 
 
 def main():
