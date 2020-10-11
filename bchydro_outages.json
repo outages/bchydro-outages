@@ -1,16 +1,16 @@
 {
   "current": {
     "Central Interior": {
-      "customers_affected_14d": 393,
+      "customers_affected_14d": 376,
       "outages": [
         {
-          "area": "East of JOLAR RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "area": "North-South-East-West of BARKERVILLE HWY\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
-          "customers_affected": "393",
-          "last_updated": "2020-10-11T02:36:00",
+          "customers_affected": "376",
+          "last_updated": "2020-10-11T02:54:00",
           "municipality": "Wells",
           "municipality_code": "day-1 day-3 city-83462469",
-          "start": "2020-10-11T01:33:00",
+          "start": "2020-10-11T01:30:00",
           "status": "Crew status: Crew on-site"
         }
       ],
@@ -35,13 +35,13 @@
       "region_id": "1602896846"
     },
     "Northern": {
-      "customers_affected_14d": 254,
+      "customers_affected_14d": 462,
       "outages": [
         {
           "area": "South of STELLA RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Wire down",
-          "customers_affected": "253",
-          "last_updated": "2020-10-11T02:42:00",
+          "customers_affected": "461",
+          "last_updated": "2020-10-11T02:59:00",
           "municipality": "Fraser Lake",
           "municipality_code": "day-1 day-3 city--90749596",
           "start": "2020-10-10T23:45:00",
@@ -62,7 +62,7 @@
       "region_id": "1602964060"
     },
     "Thompson/Shuswap": {
-      "customers_affected_14d": 125,
+      "customers_affected_14d": 293,
       "outages": [
         {
           "area": "6000 block DEMPSEY LAKE S RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -93,6 +93,16 @@
           "municipality_code": "day-1 day-3 city-1282265866",
           "start": "2020-10-10T15:46:00",
           "status": "Crew status: Crew assigned\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 11 9:30 a.m."
+        },
+        {
+          "area": "West of SQUILAX - ANGLEMONT RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Motor vehicle accident",
+          "customers_affected": "168",
+          "last_updated": "2020-10-11T03:05:00",
+          "municipality": "Salmon Arm",
+          "municipality_code": "day-1 day-3 city-2118875562",
+          "start": "2020-10-11T00:40:00",
+          "status": "Crew status: Crew on-site"
         },
         {
           "area": "North-South-East-West of HWY 16\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
