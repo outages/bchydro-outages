@@ -89,18 +89,8 @@
       "region_id": "1812901382"
     },
     "Thompson/Shuswap": {
-      "customers_affected_14d": 3881,
+      "customers_affected_14d": 3793,
       "outages": [
-        {
-          "area": "3400 - 9000 block MAHOOD LK RD, 8900 - 9200 block S MAHOOD LAKE RD, 9000 block MAHOOD LK, 3700 block BOWERS LK FORES RD, MAHOOD LK SUB P 0/1, 9000 block MAHOOD LK SOUTH ROAD, 9000 block MAHOOD LK S, 3300 - 9200 block MAHOOD LAKE RD, 8900 block MAHOOD LAKE SOUTH RD, 8900 - 9000 block S MAHOOD LK...\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Tree down across our wires",
-          "customers_affected": "88",
-          "last_updated": "2020-10-10T18:07:00",
-          "municipality": "100 Mile House",
-          "municipality_code": "day-1 day-3 city-950857956",
-          "start": "2020-10-10T13:10:00",
-          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 10 5:55 p.m."
-        },
         {
           "area": "North of CANIM LAKE RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
@@ -155,7 +145,7 @@
           "area": "DEADMAN CRK RD P346, 6500 block DEADMAN VIDETTE RD, 6700 block DEADMAN CRK RD, DEADMAN CRK RD P359\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Tree down across our wires",
           "customers_affected": "5",
-          "last_updated": "2020-10-10T19:10:00",
+          "last_updated": "2020-10-10T19:34:00",
           "municipality": "Cache Creek",
           "municipality_code": "day-1 day-3 city-720749214",
           "start": "2020-10-10T13:56:00",
@@ -10211,7 +10201,7 @@
       "region_id": "1812901382"
     },
     "Thompson/Shuswap": {
-      "customers_affected_14d": 6803,
+      "customers_affected_14d": 6891,
       "outages": [
         {
           "area": "East of WILCOX RD, North of TRIP RD",
@@ -10222,6 +10212,16 @@
           "municipality": "100 Mile House",
           "municipality_code": "day-1 day-3 city-950857956",
           "start": "2020-10-10T12:25:00"
+        },
+        {
+          "area": "3400 - 9000 block MAHOOD LK RD, 8900 - 9200 block S MAHOOD LAKE RD, 9000 block MAHOOD LK, 3700 block BOWERS LK FORES RD, MAHOOD LK SUB P 0/1, 9000 block MAHOOD LK SOUTH ROAD, 9000 block MAHOOD LK S, 3300 - 9200 block MAHOOD LAKE RD, 8900 block MAHOOD LAKE SOUTH RD, 8900 - 9000 block S MAHOOD LK...",
+          "cause": "Tree down across our wires",
+          "customers_affected": "88",
+          "end": "2020-10-10T19:45:00",
+          "last_updated": "2020-10-10T19:34:00",
+          "municipality": "100 Mile House",
+          "municipality_code": "day-1 day-3 city-950857956",
+          "start": "2020-10-10T13:10:00"
         },
         {
           "area": "North of CANIM LAKE RD",
@@ -10860,7 +10860,7 @@
           "end": "2020-10-08T19:00:00",
           "last_updated": "2020-10-09T09:19:00",
           "municipality": "Merritt",
-          "municipality_code": "day-1 day-3 city--1676334159",
+          "municipality_code": "day-3 city--1676334159",
           "start": "2020-10-08T15:12:00"
         },
         {
