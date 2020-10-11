@@ -1,7 +1,24 @@
 {
   "current": {
+    "Central Interior": {
+      "customers_affected_14d": -1,
+      "outages": [
+        {
+          "area": "2200 block ASH AVE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Under investigation",
+          "customers_affected": "< 5",
+          "last_updated": "2020-10-11T13:05:00",
+          "municipality": "Quesnel",
+          "municipality_code": "day-1 day-3 city--1975191965",
+          "start": "2020-10-11T12:57:00",
+          "status": "Crew status: No crew assigned yet"
+        }
+      ],
+      "region_code": "Central Interior",
+      "region_id": "848340027"
+    },
     "Lower Mainland": {
-      "customers_affected_14d": 20,
+      "customers_affected_14d": 19,
       "outages": [
         {
           "area": "East of GORING ST, North of ROY ST, South-West of LOUGHEED HWY\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -27,21 +44,11 @@
           "area": "33800 block DEWDNEY TRK RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-11T11:36:00",
+          "last_updated": "2020-10-11T13:00:00",
           "municipality": "Mission",
           "municipality_code": "day-1 day-3 city--1560864404",
           "start": "2020-10-11T11:32:00",
-          "status": "Crew status: Crew assigned"
-        },
-        {
-          "area": "3000 block E 29TH AVE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Wire down",
-          "customers_affected": "< 5",
-          "last_updated": "2020-10-11T12:38:00",
-          "municipality": "Vancouver",
-          "municipality_code": "day-1 day-3 city--1786794435",
-          "start": "2020-10-11T11:57:00",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 11 1:40 p.m."
+          "status": "Crew status: Crew on-site"
         }
       ],
       "region_code": "Lower Mainland",
@@ -81,11 +88,11 @@
           "area": "3400 - 4100 block MCNAB RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "12",
-          "last_updated": "2020-10-11T07:49:00",
+          "last_updated": "2020-10-11T12:49:00",
           "municipality": "Clearwater",
           "municipality_code": "day-1 day-3 city-1282265866",
           "start": "2020-10-11T06:07:00",
-          "status": "Crew status: Crew assigned"
+          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 11 1:50 p.m."
         },
         {
           "area": "M 8/0 CLEARWATER SUB\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -105,7 +112,7 @@
           "municipality": "Valemount",
           "municipality_code": "day-1 day-3 city-788397333",
           "start": "2020-10-10T18:51:00",
-          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 11 12:00 p.m."
+          "status": "Crew status: Crew on-site"
         }
       ],
       "region_code": "Thompson/Shuswap",
@@ -3072,7 +3079,7 @@
       "region_id": "848340027"
     },
     "Lower Mainland": {
-      "customers_affected_14d": 39369,
+      "customers_affected_14d": 39370,
       "outages": [
         {
           "area": "East of CLEARBROOK RD, South of NANAIMO CLS, North of PEARDONVILLE RD, West of MACLURE RD",
@@ -3141,7 +3148,7 @@
           "end": "2020-10-09T11:20:00",
           "last_updated": "2020-10-09T14:17:00",
           "municipality": "Abbotsford",
-          "municipality_code": "day-1 day-3 city-1230363016",
+          "municipality_code": "day-3 city-1230363016",
           "start": "2020-10-09T10:23:00"
         },
         {
@@ -3491,7 +3498,7 @@
           "end": "2020-10-09T14:00:00",
           "last_updated": "2020-10-09T13:46:00",
           "municipality": "Burnaby",
-          "municipality_code": "day-1 day-3 city-1903966249",
+          "municipality_code": "day-3 city-1903966249",
           "start": "2020-10-09T08:50:00"
         },
         {
@@ -3701,7 +3708,7 @@
           "end": "",
           "last_updated": "2020-10-09T13:02:00",
           "municipality": "Chilliwack",
-          "municipality_code": "day-1 day-3 city--708005353",
+          "municipality_code": "day-3 city--708005353",
           "start": "2020-10-09T11:44:00"
         },
         {
@@ -6095,6 +6102,16 @@
           "start": "2020-10-01T15:41:00"
         },
         {
+          "area": "3000 block E 29TH AVE",
+          "cause": "Wire down",
+          "customers_affected": "< 5",
+          "end": "2020-10-11T13:37:00",
+          "last_updated": "2020-10-11T13:05:00",
+          "municipality": "Vancouver",
+          "municipality_code": "day-1 day-3 city--1786794435",
+          "start": "2020-10-11T11:57:00"
+        },
+        {
           "area": "3500 block WELWYN ST",
           "cause": "Equipment failure",
           "customers_affected": "< 5",
@@ -6259,7 +6276,7 @@
       "region_id": "521980323"
     },
     "North VI": {
-      "customers_affected_14d": 5553,
+      "customers_affected_14d": 5657,
       "outages": [
         {
           "area": "West of NOLE RD, South of RUDDER RD, North of GREEN RD, East of CAMPBELL RIVER-QUADRA FERRY",
@@ -6598,7 +6615,7 @@
           "end": "",
           "last_updated": "2020-10-09T13:06:00",
           "municipality": "Courtenay",
-          "municipality_code": "day-1 day-3 city--824228212",
+          "municipality_code": "day-3 city--824228212",
           "start": "2020-10-09T11:55:00"
         },
         {
@@ -6960,6 +6977,16 @@
           "municipality": "Port Hardy",
           "municipality_code": "day-1 day-3 city-368562319",
           "start": "2020-10-09T12:12:00"
+        },
+        {
+          "area": "North of EVENSON RD",
+          "cause": "Tree down across our wires",
+          "customers_affected": "104",
+          "end": "2020-10-11T11:45:00",
+          "last_updated": "2020-10-11T12:59:00",
+          "municipality": "Port Hardy",
+          "municipality_code": "day-1 day-3 city-368562319",
+          "start": "2020-10-10T20:21:00"
         },
         {
           "area": "S OF 595 E QUATSINO RD, QUATSINO SR500 RADIO, 700 block W QUATSINO DR, QUATSINO, 100 block LEESON POINT RD, 100 block W LEESON POINT RD, 0 block MARINE DR, 600 block NORDSTROM RD, 100 - 900 block W QUATSINO RD, 200 block EVENSON RD...",
