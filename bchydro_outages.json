@@ -1,7 +1,7 @@
 {
   "current": {
     "Lower Mainland": {
-      "customers_affected_14d": 15,
+      "customers_affected_14d": 7,
       "outages": [
         {
           "area": "8700 block CHWK MTN RD, 8700 block CHILLIWACK MOUNTAIN RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -24,33 +24,13 @@
           "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 10 9:00 p.m."
         },
         {
-          "area": "23700 block FRASER HWY\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Under investigation",
-          "customers_affected": "< 5",
-          "last_updated": "2020-10-10T18:13:00",
-          "municipality": "Langley",
-          "municipality_code": "day-1 day-3 city-1612593490",
-          "start": "2020-10-10T16:33:00",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 10 6:50 p.m."
-        },
-        {
           "area": "9600 block BARR ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-10T17:12:00",
+          "last_updated": "2020-10-10T18:36:00",
           "municipality": "Mission",
           "municipality_code": "day-1 day-3 city--1560864404",
           "start": "2020-10-10T17:01:00",
-          "status": "Crew status: Crew assigned"
-        },
-        {
-          "area": "North-West of LAKESHORE DR, East of RED BARN RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Under investigation",
-          "customers_affected": "6",
-          "last_updated": "2020-10-10T17:59:00",
-          "municipality": "Pemberton",
-          "municipality_code": "day-1 day-3 city--2076154532",
-          "start": "2020-10-10T13:07:00",
           "status": "Crew status: Crew on-site"
         }
       ],
@@ -64,38 +44,28 @@
           "area": "500 block INDUSTRIAL WY, 500 block INDUSTRIAL WAY\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-10T16:58:00",
+          "last_updated": "2020-10-10T18:28:00",
           "municipality": "Port Alice",
           "municipality_code": "day-1 day-3 city-362416673",
           "start": "2020-10-10T08:27:00",
-          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 10 6:00 p.m."
+          "status": "Crew status: Crew on-site"
         }
       ],
       "region_code": "North VI",
       "region_id": "1602896846"
     },
     "Okanagan/Kootenay": {
-      "customers_affected_14d": 109,
+      "customers_affected_14d": -1,
       "outages": [
         {
           "area": "11200 block OKANAGAN CENTRE RD E\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Motor vehicle accident",
+          "cause": "Tree down across our wires",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-10T18:03:00",
+          "last_updated": "2020-10-10T18:36:00",
           "municipality": "Lake Country",
           "municipality_code": "day-1 day-3 city--443780603",
           "start": "2020-10-10T17:44:00",
-          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 10 7:05 p.m."
-        },
-        {
-          "area": "West of FERGUSON RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Under investigation",
-          "customers_affected": "108",
-          "last_updated": "2020-10-10T18:15:00",
-          "municipality": "Nakusp",
-          "municipality_code": "day-1 day-3 city--1969008230",
-          "start": "2020-10-10T15:02:00",
-          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 10 5:50 p.m."
+          "status": "Crew status: Crew on-site"
         }
       ],
       "region_code": "Okanagan/Kootenay",
@@ -108,28 +78,28 @@
           "area": "1700 block GLASTONBURY RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "5",
-          "last_updated": "2020-10-10T18:04:00",
+          "last_updated": "2020-10-10T18:40:00",
           "municipality": "Saanich",
           "municipality_code": "day-1 day-3 city--776615533",
           "start": "2020-10-10T16:53:00",
-          "status": "Crew status: Crew on-site"
+          "status": "Crew status: Crew assigned"
         },
         {
           "area": "West of SHEPHERDS WAY, South of SOOKE RD, East of WOODLANDS RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "33",
-          "last_updated": "2020-10-10T18:04:00",
+          "last_updated": "2020-10-10T18:18:00",
           "municipality": "Sooke",
           "municipality_code": "day-1 day-3 city-80069133",
           "start": "2020-10-10T15:07:00",
-          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 10 7:05 p.m."
+          "status": "Crew status: Crew on-site"
         }
       ],
       "region_code": "South VI",
       "region_id": "1812901382"
     },
     "Thompson/Shuswap": {
-      "customers_affected_14d": 758,
+      "customers_affected_14d": 614,
       "outages": [
         {
           "area": "3400 - 9000 block MAHOOD LK RD, 8900 - 9200 block S MAHOOD LAKE RD, 9000 block MAHOOD LK, 3700 block BOWERS LK FORES RD, MAHOOD LK SUB P 0/1, 9000 block MAHOOD LK SOUTH ROAD, 9000 block MAHOOD LK S, 3300 - 9200 block MAHOOD LAKE RD, 8900 block MAHOOD LAKE SOUTH RD, 8900 - 9000 block S MAHOOD LK...\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -195,7 +165,7 @@
           "area": "800 block COLLINS RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-10T18:04:00",
+          "last_updated": "2020-10-10T18:22:00",
           "municipality": "Cache Creek",
           "municipality_code": "day-1 day-3 city-720749214",
           "start": "2020-10-10T17:07:00",
@@ -205,10 +175,10 @@
           "area": "West of CUMMINGS ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "130",
-          "last_updated": "2020-10-10T17:56:00",
+          "last_updated": "2020-10-10T18:34:00",
           "municipality": "Chase",
           "municipality_code": "day-1 day-3 city-65071054",
-          "start": "2020-10-10T14:55:00",
+          "start": "2020-10-10T14:51:00",
           "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 10 9:00 p.m."
         },
         {
@@ -245,21 +215,11 @@
           "area": "East of BARRIERE LAKE RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Tree down across our wires",
           "customers_affected": "179",
-          "last_updated": "2020-10-10T16:52:00",
+          "last_updated": "2020-10-10T18:33:00",
           "municipality": "Kamloops",
           "municipality_code": "day-1 day-3 city-979034872",
           "start": "2020-10-10T13:57:00",
           "status": "Crew status: Crew assigned"
-        },
-        {
-          "area": "2400 block VALLEYVIEW DR\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Tree down across our wires",
-          "customers_affected": "< 5",
-          "last_updated": "2020-10-10T15:51:00",
-          "municipality": "Kamloops",
-          "municipality_code": "day-1 day-3 city-979034872",
-          "start": "2020-10-10T14:50:00",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 10 8:00 p.m."
         },
         {
           "area": "South of Trans Can , North of 4TH ST, West of Trans Can HWY, East of HWY 23\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -270,26 +230,6 @@
           "municipality_code": "day-1 day-3 city-1039954398",
           "start": "2020-10-10T17:01:00",
           "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 10 7:00 p.m."
-        },
-        {
-          "area": "1000 block GREEN RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Tree down across our wires",
-          "customers_affected": "< 5",
-          "last_updated": "2020-10-10T18:14:00",
-          "municipality": "Sicamous",
-          "municipality_code": "day-1 day-3 city-250200852",
-          "start": "2020-10-10T15:51:00",
-          "status": "Crew status: Crew on-site"
-        },
-        {
-          "area": "North-South-East-West of HWY 16\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Tree down across our wires",
-          "customers_affected": "141",
-          "last_updated": "2020-10-10T18:11:00",
-          "municipality": "Valemount",
-          "municipality_code": "day-1 day-3 city-788397333",
-          "start": "2020-10-10T15:10:00",
-          "status": "Crew status: Crew on-site"
         }
       ],
       "region_code": "Thompson/Shuswap",
@@ -3196,7 +3136,7 @@
       "region_id": "848340027"
     },
     "Lower Mainland": {
-      "customers_affected_14d": 38698,
+      "customers_affected_14d": 38706,
       "outages": [
         {
           "area": "East of CLEARBROOK RD, South of NANAIMO CLS, North of PEARDONVILLE RD, West of MACLURE RD",
@@ -4105,7 +4045,7 @@
           "end": "2020-10-06T18:30:00",
           "last_updated": "2020-10-06T18:32:00",
           "municipality": "Coquitlam",
-          "municipality_code": "day-3 city--3101987",
+          "municipality_code": "city--3101987",
           "start": "2020-10-06T11:46:00"
         },
         {
@@ -4599,6 +4539,16 @@
           "start": "2020-10-08T09:25:00"
         },
         {
+          "area": "23700 block FRASER HWY",
+          "cause": "Under investigation",
+          "customers_affected": "< 5",
+          "end": "2020-10-10T18:50:00",
+          "last_updated": "2020-10-10T18:35:00",
+          "municipality": "Langley",
+          "municipality_code": "day-1 day-3 city-1612593490",
+          "start": "2020-10-10T16:33:00"
+        },
+        {
           "area": "25400 block 24 AVE",
           "cause": "Bird contacting our wires",
           "customers_affected": "< 5",
@@ -5085,7 +5035,7 @@
           "end": "2020-10-08T19:00:00",
           "last_updated": "2020-10-09T07:36:00",
           "municipality": "North Vancouver",
-          "municipality_code": "day-1 day-3 city--1636626238",
+          "municipality_code": "day-3 city--1636626238",
           "start": "2020-10-08T14:14:00"
         },
         {
@@ -5117,6 +5067,16 @@
           "municipality": "Pemberton",
           "municipality_code": "day-1 day-3 city--2076154532",
           "start": "2020-10-10T10:33:00"
+        },
+        {
+          "area": "North-West of LAKESHORE DR, East of RED BARN RD",
+          "cause": "Tree down across our wires",
+          "customers_affected": "6",
+          "end": "",
+          "last_updated": "2020-10-10T18:26:00",
+          "municipality": "Pemberton",
+          "municipality_code": "day-1 day-3 city--2076154532",
+          "start": "2020-10-10T13:07:00"
         },
         {
           "area": "7500 block OBERSON RD",
@@ -5305,7 +5265,7 @@
           "end": "2020-10-06T18:30:00",
           "last_updated": "2020-10-06T18:46:00",
           "municipality": "Richmond",
-          "municipality_code": "day-3 city--1486145068",
+          "municipality_code": "city--1486145068",
           "start": "2020-10-06T09:09:00"
         },
         {
@@ -10191,7 +10151,7 @@
       "region_id": "1812901382"
     },
     "Thompson/Shuswap": {
-      "customers_affected_14d": 5188,
+      "customers_affected_14d": 5332,
       "outages": [
         {
           "area": "East of WILCOX RD, North of TRIP RD",
@@ -10714,6 +10674,16 @@
           "start": "2020-10-09T15:47:00"
         },
         {
+          "area": "2400 block VALLEYVIEW DR",
+          "cause": "Tree down across our wires",
+          "customers_affected": "< 5",
+          "end": "2020-10-10T20:00:00",
+          "last_updated": "2020-10-10T18:32:00",
+          "municipality": "Kamloops",
+          "municipality_code": "day-1 day-3 city-979034872",
+          "start": "2020-10-10T14:50:00"
+        },
+        {
           "area": "PALMER FORSYTH RD 0",
           "cause": "Other",
           "customers_affected": "< 5",
@@ -10974,6 +10944,16 @@
           "start": "2020-10-04T03:29:00"
         },
         {
+          "area": "1000 block GREEN RD",
+          "cause": "Tree down across our wires",
+          "customers_affected": "< 5",
+          "end": "2020-10-10T18:35:00",
+          "last_updated": "2020-10-10T18:37:00",
+          "municipality": "Sicamous",
+          "municipality_code": "day-1 day-3 city-250200852",
+          "start": "2020-10-10T15:51:00"
+        },
+        {
           "area": "North-West of WHISKEY FILL RD, East of HWY 5 , South of MAIN ST",
           "cause": "Under investigation",
           "customers_affected": "968",
@@ -10982,6 +10962,16 @@
           "municipality": "Valemount",
           "municipality_code": "city-788397333",
           "start": "2020-10-02T11:46:00"
+        },
+        {
+          "area": "North-South-East-West of HWY 16",
+          "cause": "Other",
+          "customers_affected": "141",
+          "end": "",
+          "last_updated": "2020-10-10T18:28:00",
+          "municipality": "Valemount",
+          "municipality_code": "day-1 day-3 city-788397333",
+          "start": "2020-10-10T15:10:00"
         },
         {
           "area": "South of WHISKEY FILL RD, North-East-West of HWY 5",
