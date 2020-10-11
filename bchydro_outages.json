@@ -1,22 +1,5 @@
 {
   "current": {
-    "Lower Mainland": {
-      "customers_affected_14d": 10,
-      "outages": [
-        {
-          "area": "4300 block DUNBAR ST, 3600 block W 27TH AVE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Work being done on our equipment",
-          "customers_affected": "10",
-          "last_updated": "2020-10-10T20:17:00",
-          "municipality": "Vancouver",
-          "municipality_code": "day-1 day-3 city--1786794435",
-          "start": "2020-10-10T13:51:00",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 10 9:30 p.m."
-        }
-      ],
-      "region_code": "Lower Mainland",
-      "region_id": "521980323"
-    },
     "North VI": {
       "customers_affected_14d": 104,
       "outages": [
@@ -68,11 +51,11 @@
           "area": "5000 block CEDAR HILL RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-10T20:56:00",
+          "last_updated": "2020-10-10T21:44:00",
           "municipality": "Vernon",
           "municipality_code": "day-1 day-3 city--1736079254",
           "start": "2020-10-10T20:43:00",
-          "status": "Crew status: Crew on their way"
+          "status": "Crew status: Crew on-site"
         }
       ],
       "region_code": "Okanagan/Kootenay",
@@ -5642,7 +5625,7 @@
           "end": "2020-10-06T22:00:00",
           "last_updated": "2020-10-07T09:57:00",
           "municipality": "Surrey",
-          "municipality_code": "day-3 city--1807186826",
+          "municipality_code": "city--1807186826",
           "start": "2020-10-06T20:40:00"
         },
         {
