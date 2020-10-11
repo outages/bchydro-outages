@@ -1,5 +1,22 @@
 {
   "current": {
+    "Central Interior": {
+      "customers_affected_14d": 337,
+      "outages": [
+        {
+          "area": "North of NESS LAKE RD, West of THOMPSON RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Work being done on our equipment",
+          "customers_affected": "337",
+          "last_updated": "2020-10-10T20:48:00",
+          "municipality": "Prince George",
+          "municipality_code": "day-1 day-3 city-1835674262",
+          "start": "2020-10-10T18:52:00",
+          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 10 10:00 p.m."
+        }
+      ],
+      "region_code": "Central Interior",
+      "region_id": "848340027"
+    },
     "Lower Mainland": {
       "customers_affected_14d": 11,
       "outages": [
@@ -45,13 +62,13 @@
       "region_id": "1602896846"
     },
     "Northern": {
-      "customers_affected_14d": 82,
+      "customers_affected_14d": 57,
       "outages": [
         {
-          "area": "North of 223 RD, East of 227 RD, West of 17TH ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "area": "East of 227 RD, North of REASBECK RD, West of WASHINGTON RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Equipment failure",
-          "customers_affected": "82",
-          "last_updated": "2020-10-10T20:45:00",
+          "customers_affected": "57",
+          "last_updated": "2020-10-10T20:49:00",
           "municipality": "Dawson Creek",
           "municipality_code": "day-1 day-3 city--1630954860",
           "start": "2020-10-10T18:39:00",
@@ -60,6 +77,23 @@
       ],
       "region_code": "Northern",
       "region_id": "1602964060"
+    },
+    "Okanagan/Kootenay": {
+      "customers_affected_14d": -1,
+      "outages": [
+        {
+          "area": "5000 block CEDAR HILL RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Under investigation",
+          "customers_affected": "< 5",
+          "last_updated": "2020-10-10T20:56:00",
+          "municipality": "Vernon",
+          "municipality_code": "day-1 day-3 city--1736079254",
+          "start": "2020-10-10T20:43:00",
+          "status": "Crew status: Crew on their way"
+        }
+      ],
+      "region_code": "Okanagan/Kootenay",
+      "region_id": "2072041405"
     },
     "South VI": {
       "customers_affected_14d": -1,
@@ -79,7 +113,7 @@
       "region_id": "1812901382"
     },
     "Thompson/Shuswap": {
-      "customers_affected_14d": 3558,
+      "customers_affected_14d": 395,
       "outages": [
         {
           "area": "South of LAING RD, East of MAHOOD LAKE RD, North of BURGESS RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -105,31 +139,11 @@
           "area": "6000 block DEMPSEY LAKE S RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-10T20:43:00",
+          "last_updated": "2020-10-10T20:57:00",
           "municipality": "100 Mile House",
           "municipality_code": "day-1 day-3 city-950857956",
           "start": "2020-10-10T20:38:00",
           "status": "Crew status: Crew assigned"
-        },
-        {
-          "area": "West of HIGHLAND VALLEY RD, South of 97C HWY, North-East of Trans Can HWY\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Transmission circuit failure",
-          "customers_affected": "1327",
-          "last_updated": "2020-10-10T19:43:00",
-          "municipality": "Ashcroft",
-          "municipality_code": "day-1 day-3 city--625370600",
-          "start": "2020-10-10T19:12:00",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 10 9:00 p.m."
-        },
-        {
-          "area": "North of 97C HWY, South-East of HWY 97 , West of TRANS CANADA HWY\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Transmission circuit failure",
-          "customers_affected": "933",
-          "last_updated": "2020-10-10T19:43:00",
-          "municipality": "Ashcroft, Cache Creek",
-          "municipality_code": "day-1 day-3 city--625370600 city-720749214",
-          "start": "2020-10-10T19:11:00",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 10 9:00 p.m."
         },
         {
           "area": "1500 block TRANS CAN HWY\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -139,16 +153,6 @@
           "municipality": "Cache Creek",
           "municipality_code": "day-1 day-3 city-720749214",
           "start": "2020-10-10T15:21:00",
-          "status": "Crew status: Crew on-site"
-        },
-        {
-          "area": "800 block COLLINS RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Under investigation",
-          "customers_affected": "< 5",
-          "last_updated": "2020-10-10T20:46:00",
-          "municipality": "Cache Creek",
-          "municipality_code": "day-1 day-3 city-720749214",
-          "start": "2020-10-10T17:07:00",
           "status": "Crew status: Crew on-site"
         },
         {
@@ -182,30 +186,10 @@
           "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 10 9:15 p.m."
         },
         {
-          "area": "6300 block LOAKIN BEAR CREEK RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Under investigation",
-          "customers_affected": "< 5",
-          "last_updated": "2020-10-10T20:44:00",
-          "municipality": "Kamloops",
-          "municipality_code": "day-1 day-3 city-979034872",
-          "start": "2020-10-10T14:51:00",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 10 9:00 p.m."
-        },
-        {
-          "area": "North of MAIN ST, West of HWY 8 , South of TRANS CAN HWY, East of HWY 12\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Transmission circuit failure",
-          "customers_affected": "901",
-          "last_updated": "2020-10-10T19:44:00",
-          "municipality": "Lytton",
-          "municipality_code": "day-1 day-3 city--2003834996",
-          "start": "2020-10-10T19:11:00",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 10 9:00 p.m."
-        },
-        {
           "area": "North-South-East-West of HWY 16\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Pole replacement",
           "customers_affected": "118",
-          "last_updated": "2020-10-10T19:07:00",
+          "last_updated": "2020-10-10T21:01:00",
           "municipality": "Valemount",
           "municipality_code": "day-1 day-3 city-788397333",
           "start": "2020-10-10T18:51:00",
@@ -3895,7 +3879,7 @@
           "end": "2020-10-06T21:30:00",
           "last_updated": "2020-10-07T07:49:00",
           "municipality": "Chilliwack",
-          "municipality_code": "day-3 city--708005353",
+          "municipality_code": "city--708005353",
           "start": "2020-10-06T19:40:00"
         },
         {
@@ -10181,7 +10165,7 @@
       "region_id": "1812901382"
     },
     "Thompson/Shuswap": {
-      "customers_affected_14d": 6998,
+      "customers_affected_14d": 10162,
       "outages": [
         {
           "area": "East of WILCOX RD, North of TRIP RD",
@@ -10394,6 +10378,16 @@
           "start": "2020-10-05T15:16:00"
         },
         {
+          "area": "West of HIGHLAND VALLEY RD, South of 97C HWY, North-East of Trans Can HWY",
+          "cause": "Transmission circuit failure",
+          "customers_affected": "1327",
+          "end": "2020-10-10T21:00:00",
+          "last_updated": "2020-10-10T20:52:00",
+          "municipality": "Ashcroft",
+          "municipality_code": "day-1 day-3 city--625370600",
+          "start": "2020-10-10T19:12:00"
+        },
+        {
           "area": "East of 97C HWY",
           "cause": "Bird contacting our wires",
           "customers_affected": "101",
@@ -10402,6 +10396,16 @@
           "municipality": "Ashcroft",
           "municipality_code": "city--625370600",
           "start": "2020-09-26T11:46:00"
+        },
+        {
+          "area": "North of 97C HWY, South-East of HWY 97 , West of TRANS CANADA HWY",
+          "cause": "Transmission circuit failure",
+          "customers_affected": "934",
+          "end": "2020-10-10T21:00:00",
+          "last_updated": "2020-10-10T20:53:00",
+          "municipality": "Ashcroft, Cache Creek",
+          "municipality_code": "day-1 day-3 city--625370600 city-720749214",
+          "start": "2020-10-10T19:11:00"
         },
         {
           "area": "1900 - 3200 block LOON LAKE RD, LOON LAKE RD P237, LOON LAKE RD P222, LOON LAKE RD P307, 2200 block LOON LAKE RD P230, LOON LAKE RD P209, LOON LAKE RD P335, 2900 - 4900 block STEVENS RD, STEVEN RD P21, STEVEN RD P1...",
@@ -10442,6 +10446,16 @@
           "municipality": "Cache Creek",
           "municipality_code": "day-1 day-3 city-720749214",
           "start": "2020-10-09T06:52:00"
+        },
+        {
+          "area": "800 block COLLINS RD",
+          "cause": "Under investigation",
+          "customers_affected": "< 5",
+          "end": "",
+          "last_updated": "2020-10-10T20:49:00",
+          "municipality": "Cache Creek",
+          "municipality_code": "day-1 day-3 city-720749214",
+          "start": "2020-10-10T17:07:00"
         },
         {
           "area": "1300 block COYOTE VALLEY ROAD",
@@ -10754,6 +10768,16 @@
           "start": "2020-10-10T14:50:00"
         },
         {
+          "area": "West of CUMMINGS ST",
+          "cause": "Tree down across our wires",
+          "customers_affected": "< 5",
+          "end": "2020-10-10T21:00:00",
+          "last_updated": "2020-10-10T21:05:00",
+          "municipality": "Kamloops",
+          "municipality_code": "day-1 day-3 city-979034872",
+          "start": "2020-10-10T14:51:00"
+        },
+        {
           "area": "PALMER FORSYTH RD 0",
           "cause": "Other",
           "customers_affected": "< 5",
@@ -10812,6 +10836,16 @@
           "municipality": "Lillooet",
           "municipality_code": "day-1 day-3 city-1203310572",
           "start": "2020-10-09T07:27:00"
+        },
+        {
+          "area": "North of MAIN ST, West of HWY 8 , South of TRANS CAN HWY, East of HWY 12",
+          "cause": "Transmission circuit failure",
+          "customers_affected": "901",
+          "end": "2020-10-10T21:00:00",
+          "last_updated": "2020-10-10T20:54:00",
+          "municipality": "Lytton",
+          "municipality_code": "day-1 day-3 city--2003834996",
+          "start": "2020-10-10T19:11:00"
         },
         {
           "area": "South of ST GEORGES RD, West of MAIN ST",
