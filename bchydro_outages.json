@@ -1,13 +1,13 @@
 {
   "current": {
     "Lower Mainland": {
-      "customers_affected_14d": 962,
+      "customers_affected_14d": 689,
       "outages": [
         {
-          "area": "West of BEHARRELL RD, East of MT LEHMAN RD, South of ABB MISSION HWY, North of NANAIMO CRS\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "area": "East of BATES RD, West of BEHARRELL RD, South of TALL RD, North of OLD RIVERSIDE RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
-          "customers_affected": "944",
-          "last_updated": "2020-10-11T11:32:00",
+          "customers_affected": "670",
+          "last_updated": "2020-10-11T11:43:00",
           "municipality": "Abbotsford, Mission",
           "municipality_code": "day-1 day-3 city-1230363016 city--1560864404",
           "start": "2020-10-11T11:20:00",
@@ -32,6 +32,16 @@
           "municipality_code": "day-1 day-3 city-1903966249",
           "start": "2020-10-11T10:53:00",
           "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 11 12:30 p.m."
+        },
+        {
+          "area": "33800 block DEWDNEY TRK RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Under investigation",
+          "customers_affected": "< 5",
+          "last_updated": "2020-10-11T11:36:00",
+          "municipality": "Mission",
+          "municipality_code": "day-1 day-3 city--1560864404",
+          "start": "2020-10-11T11:32:00",
+          "status": "Crew status: Crew assigned"
         }
       ],
       "region_code": "Lower Mainland",
