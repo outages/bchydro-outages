@@ -1,22 +1,5 @@
 {
   "current": {
-    "Central Interior": {
-      "customers_affected_14d": -1,
-      "outages": [
-        {
-          "area": "2200 block ASH AVE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Under investigation",
-          "customers_affected": "< 5",
-          "last_updated": "2020-10-11T13:37:00",
-          "municipality": "Quesnel",
-          "municipality_code": "day-1 day-3 city--1975191965",
-          "start": "2020-10-11T12:57:00",
-          "status": "Crew status: Crew on-site"
-        }
-      ],
-      "region_code": "Central Interior",
-      "region_id": "848340027"
-    },
     "Lower Mainland": {
       "customers_affected_14d": 17,
       "outages": [
@@ -34,8 +17,25 @@
       "region_code": "Lower Mainland",
       "region_id": "521980323"
     },
+    "North VI": {
+      "customers_affected_14d": 377,
+      "outages": [
+        {
+          "area": "South of KUHUSHAN RD, North of WILFRED RD, East of ISLAND HWY\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Tree down across our wires",
+          "customers_affected": "377",
+          "last_updated": "2020-10-11T14:05:00",
+          "municipality": "Courtenay",
+          "municipality_code": "day-1 day-3 city--824228212",
+          "start": "2020-10-11T13:46:00",
+          "status": "Crew status: Crew on their way"
+        }
+      ],
+      "region_code": "North VI",
+      "region_id": "1602896846"
+    },
     "Northern": {
-      "customers_affected_14d": -1,
+      "customers_affected_14d": 8,
       "outages": [
         {
           "area": "15100 - 15300 block WATSON RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -46,6 +46,16 @@
           "municipality_code": "day-1 day-3 city-205572915",
           "start": "2020-10-09T19:37:00",
           "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 11 1:30 p.m."
+        },
+        {
+          "area": "100 block OWEKENO AVE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Under investigation",
+          "customers_affected": "5",
+          "last_updated": "2020-10-11T13:57:00",
+          "municipality": "Terrace",
+          "municipality_code": "day-1 day-3 city-241216082",
+          "start": "2020-10-11T13:40:00",
+          "status": "Crew status: Crew assigned"
         }
       ],
       "region_code": "Northern",
@@ -58,28 +68,28 @@
           "area": "0 - 1700 block MCCLURE RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "6",
-          "last_updated": "2020-10-11T13:32:00",
+          "last_updated": "2020-10-11T13:55:00",
           "municipality": "Galiano Island",
           "municipality_code": "day-1 day-3 city--995767958",
           "start": "2020-10-11T13:24:00",
-          "status": "Crew status: Crew assigned"
+          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 11 2:55 p.m."
         },
         {
           "area": "4700 block SOOKE RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-11T13:45:00",
+          "last_updated": "2020-10-11T13:48:00",
           "municipality": "Metchosin",
           "municipality_code": "day-1 day-3 city-1000109226",
           "start": "2020-10-11T13:42:00",
-          "status": "Crew status: No crew assigned yet"
+          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 11 2:50 p.m."
         }
       ],
       "region_code": "South VI",
       "region_id": "1812901382"
     },
     "Thompson/Shuswap": {
-      "customers_affected_14d": 120,
+      "customers_affected_14d": 121,
       "outages": [
         {
           "area": "800 block COLLINS RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -100,6 +110,16 @@
           "municipality_code": "day-1 day-3 city-1282265866",
           "start": "2020-10-10T15:46:00",
           "status": "Crew status: Crew assigned"
+        },
+        {
+          "area": "4800 block LEOPOLD RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Under investigation",
+          "customers_affected": "< 5",
+          "last_updated": "2020-10-11T14:05:00",
+          "municipality": "Salmon Arm",
+          "municipality_code": "day-1 day-3 city-2118875562",
+          "start": "2020-10-11T13:54:00",
+          "status": "Crew status: No crew assigned yet"
         },
         {
           "area": "North-South-East-West of HWY 16\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -155,7 +175,7 @@
       "region_id": "848340027"
     },
     "Lower Mainland": {
-      "customers_affected_14d": 4948,
+      "customers_affected_14d": 4696,
       "outages": [
         {
           "area": "1944, 1954, 1966, 1976 Albion St; 32666-32749 Cordova Ave; 325, 32760 Marshall Rd, 32414-32750 Pandora Ave; 1911-1944 Valencia Crt, Abbotsford",
@@ -886,16 +906,6 @@
           "municipality": "Powell River",
           "municipality_code": "day-1 day-3 city-1665178489",
           "start": "2020-10-22T09:30:00"
-        },
-        {
-          "area": "CANCELLED / RESCHEDULED TO OCTOBER 295000 - 8571 Calder Rd; 5120 - 5580 Calderwood Cres; 8251 Cantley Rd; 5180 Cantrell Rd; 8211 - 8300 Carmel Rd; 5440 - 8251 Cathay Rd; 5131 - 5331 Chetwynd Ave; 5151 - 8220 Clifton Rd; 5008 - 5620 Colbeck Pl; 5151 - 5230 Cranbrook Ave; 4811 - 5013 Francis Rd; 8040 - 8720 Railway Ave",
-          "cause": "Pole replacement",
-          "customers_affected": "252",
-          "end": "2020-10-09T14:00:00",
-          "last_updated": "2020-10-09T10:11:00",
-          "municipality": "Richmond",
-          "municipality_code": "day-1 day-3 city--1486145068",
-          "start": "2020-10-09T08:30:00"
         },
         {
           "area": "15100 Knox Way; 14500 Bridgeport Rd; 1880, 1900, 1991, 1999, 2100, 2400, 2500, 3000 Savage Rd., Richmond",
@@ -2609,7 +2619,7 @@
   },
   "restored": {
     "Central Interior": {
-      "customers_affected_14d": 4528,
+      "customers_affected_14d": 4529,
       "outages": [
         {
           "area": "North-South-West of HWY 97 , East of HWY 39",
@@ -2960,6 +2970,16 @@
           "municipality": "Quesnel",
           "municipality_code": "day-1 day-3 city--1975191965",
           "start": "2020-10-10T10:12:00"
+        },
+        {
+          "area": "2200 block ASH AVE",
+          "cause": "Equipment failure",
+          "customers_affected": "< 5",
+          "end": "",
+          "last_updated": "2020-10-11T14:05:00",
+          "municipality": "Quesnel",
+          "municipality_code": "day-1 day-3 city--1975191965",
+          "start": "2020-10-11T12:57:00"
         },
         {
           "area": "1400 block TERRACE RD",
@@ -5245,7 +5265,7 @@
           "end": "2020-10-09T17:00:00",
           "last_updated": "2020-10-09T14:04:00",
           "municipality": "Richmond",
-          "municipality_code": "day-1 day-3 city--1486145068",
+          "municipality_code": "day-3 city--1486145068",
           "start": "2020-10-09T08:37:00"
         },
         {
@@ -6912,7 +6932,7 @@
           "end": "2020-10-07T14:30:00",
           "last_updated": "2020-10-08T14:39:00",
           "municipality": "Port Alberni",
-          "municipality_code": "day-3 city-383682720",
+          "municipality_code": "city-383682720",
           "start": "2020-10-07T11:51:00"
         },
         {
@@ -9343,7 +9363,7 @@
           "end": "2020-10-09T15:00:00",
           "last_updated": "2020-10-09T13:58:00",
           "municipality": "Esquimalt, Victoria",
-          "municipality_code": "day-1 day-3 city--941955629 city-1201273535",
+          "municipality_code": "day-3 city--941955629 city-1201273535",
           "start": "2020-10-09T08:19:00"
         },
         {
@@ -10053,7 +10073,7 @@
           "end": "2020-10-09T13:55:00",
           "last_updated": "2020-10-09T14:41:00",
           "municipality": "View Royal",
-          "municipality_code": "day-1 day-3 city--1360221748",
+          "municipality_code": "day-3 city--1360221748",
           "start": "2020-10-09T12:06:00"
         }
       ],
