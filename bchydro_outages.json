@@ -18,18 +18,8 @@
       "region_id": "521980323"
     },
     "North VI": {
-      "customers_affected_14d": 108,
+      "customers_affected_14d": 104,
       "outages": [
-        {
-          "area": "1600 - 1700 block LITTLE RIVER RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Under investigation",
-          "customers_affected": "< 5",
-          "last_updated": "2020-10-11T08:15:00",
-          "municipality": "Comox",
-          "municipality_code": "day-1 day-3 city-65291018",
-          "start": "2020-10-11T07:20:00",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 11 10:15 a.m."
-        },
         {
           "area": "North of EVENSON RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
@@ -45,18 +35,8 @@
       "region_id": "1602896846"
     },
     "Northern": {
-      "customers_affected_14d": 224,
+      "customers_affected_14d": -1,
       "outages": [
-        {
-          "area": "16900 block SPUD LAKE RD, OOTSA NADINA P47, KEEFE LND RD P8/4, OOTSA E P43/4, OOTSA NADINA P156/7, BLACKWELL RD P187/13, OOTSA NADINA R P137/6, 38600 block BLACKWELL RD W, OOTSA E P142, OOTSA E P291/6...\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Under investigation",
-          "customers_affected": "172",
-          "last_updated": "2020-10-11T09:22:00",
-          "municipality": "Burns Lake",
-          "municipality_code": "day-1 day-3 city--2121425941",
-          "start": "2020-10-11T05:25:00",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 11 10:00 a.m."
-        },
         {
           "area": "49600 block EAKIN SETT RD P384/4\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
@@ -76,16 +56,6 @@
           "municipality_code": "day-1 day-3 city-205572915",
           "start": "2020-10-11T08:56:00",
           "status": "Crew status: Crew assigned"
-        },
-        {
-          "area": "South of HWY 16\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Wire down",
-          "customers_affected": "49",
-          "last_updated": "2020-10-11T09:28:00",
-          "municipality": "Vanderhoof",
-          "municipality_code": "day-1 day-3 city-1041981516",
-          "start": "2020-10-11T06:01:00",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 11 10:30 a.m."
         }
       ],
       "region_code": "Northern",
@@ -4388,7 +4358,7 @@
           "end": "2020-10-07T12:30:00",
           "last_updated": "2020-10-07T09:39:00",
           "municipality": "Langley",
-          "municipality_code": "day-3 city-1612593490",
+          "municipality_code": "city-1612593490",
           "start": "2020-10-07T08:26:00"
         },
         {
@@ -6276,7 +6246,7 @@
       "region_id": "521980323"
     },
     "North VI": {
-      "customers_affected_14d": 5068,
+      "customers_affected_14d": 5072,
       "outages": [
         {
           "area": "West of NOLE RD, South of RUDDER RD, North of GREEN RD, East of CAMPBELL RIVER-QUADRA FERRY",
@@ -6427,6 +6397,16 @@
           "municipality": "Comox",
           "municipality_code": "day-1 day-3 city-65291018",
           "start": "2020-10-09T15:23:00"
+        },
+        {
+          "area": "1600 - 1700 block LITTLE RIVER RD",
+          "cause": "equipment contact",
+          "customers_affected": "< 5",
+          "end": "2020-10-11T10:14:00",
+          "last_updated": "2020-10-11T09:40:00",
+          "municipality": "Comox",
+          "municipality_code": "day-1 day-3 city-65291018",
+          "start": "2020-10-11T07:20:00"
         },
         {
           "area": "1700 block KNIGHT RD",
@@ -7113,7 +7093,7 @@
       "region_id": "1602896846"
     },
     "Northern": {
-      "customers_affected_14d": 19262,
+      "customers_affected_14d": 19311,
       "outages": [
         {
           "area": "North-South-East-West of HWY 20",
@@ -8174,6 +8154,16 @@
           "municipality": "Vanderhoof",
           "municipality_code": "day-1 day-3 city-1041981516",
           "start": "2020-10-09T04:36:00"
+        },
+        {
+          "area": "South of HWY 16",
+          "cause": "equipment contact",
+          "customers_affected": "49",
+          "end": "2020-10-11T10:30:00",
+          "last_updated": "2020-10-11T09:45:00",
+          "municipality": "Vanderhoof",
+          "municipality_code": "day-1 day-3 city-1041981516",
+          "start": "2020-10-11T06:01:00"
         },
         {
           "area": "North of VANDERVIEW DR, South-West of NORTHSIDE RD, East of HARGRAVES RD",
