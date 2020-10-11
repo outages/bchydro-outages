@@ -71,11 +71,11 @@
           "area": "6000 block DEMPSEY LAKE S RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Wire down",
           "customers_affected": "7",
-          "last_updated": "2020-10-11T07:22:00",
+          "last_updated": "2020-10-11T08:29:00",
           "municipality": "100 Mile House",
           "municipality_code": "day-1 day-3 city-950857956",
           "start": "2020-10-10T20:38:00",
-          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 11 8:00 a.m."
+          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 11 2:00 p.m."
         },
         {
           "area": "3400 - 4100 block MCNAB RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -1782,7 +1782,7 @@
       "region_id": "1602964060"
     },
     "Okanagan/Kootenay": {
-      "customers_affected_14d": 3057,
+      "customers_affected_14d": 2999,
       "outages": [
         {
           "area": "4773 S Grandview Flats Rd, 668 St Annes Rd, 893 Evans Rd",
@@ -1843,16 +1843,6 @@
           "municipality": "Nakusp",
           "municipality_code": "day-1 day-3 city--1969008230",
           "start": "2020-10-09T09:00:00"
-        },
-        {
-          "area": "Demars Rd; Ferry Landing; 3630 - 3934 Rock Island Rd; 268 - 287 Saddle Mountain Rd; 360 Stevens Rd",
-          "cause": "Planned work being done on our equipment",
-          "customers_affected": "58",
-          "end": "2020-10-09T08:30:00",
-          "last_updated": "2020-09-22T12:48:00",
-          "municipality": "Nakusp",
-          "municipality_code": "day-1 day-3 city--1969008230",
-          "start": "2020-10-09T08:00:00"
         },
         {
           "area": "Mountain Standard TimeEdgewater, Radium Hot Springs, Spur Valley, Invermere, Clearwater, Brisco, Windermere",
@@ -6171,7 +6161,7 @@
           "end": "2020-10-07T08:30:00",
           "last_updated": "2020-10-08T07:37:00",
           "municipality": "West Vancouver",
-          "municipality_code": "day-3 city--416468692",
+          "municipality_code": "city--416468692",
           "start": "2020-10-06T17:50:00"
         },
         {
