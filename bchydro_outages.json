@@ -1,22 +1,5 @@
 {
   "current": {
-    "Central Interior": {
-      "customers_affected_14d": 376,
-      "outages": [
-        {
-          "area": "North-South-East-West of BARKERVILLE HWY\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Under investigation",
-          "customers_affected": "376",
-          "last_updated": "2020-10-11T02:54:00",
-          "municipality": "Wells",
-          "municipality_code": "day-1 day-3 city-83462469",
-          "start": "2020-10-11T01:30:00",
-          "status": "Crew status: Crew on-site"
-        }
-      ],
-      "region_code": "Central Interior",
-      "region_id": "848340027"
-    },
     "North VI": {
       "customers_affected_14d": 104,
       "outages": [
@@ -62,7 +45,7 @@
       "region_id": "1602964060"
     },
     "Thompson/Shuswap": {
-      "customers_affected_14d": 299,
+      "customers_affected_14d": 131,
       "outages": [
         {
           "area": "6000 block DEMPSEY LAKE S RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -93,16 +76,6 @@
           "municipality_code": "day-1 day-3 city-1282265866",
           "start": "2020-10-10T15:46:00",
           "status": "Crew status: Crew assigned\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 11 9:30 a.m."
-        },
-        {
-          "area": "West of SQUILAX - ANGLEMONT RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Motor vehicle accident",
-          "customers_affected": "168",
-          "last_updated": "2020-10-11T04:12:00",
-          "municipality": "Salmon Arm",
-          "municipality_code": "day-1 day-3 city-2118875562",
-          "start": "2020-10-11T00:40:00",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 11 5:15 a.m."
         },
         {
           "area": "North-South-East-West of HWY 16\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -2642,7 +2615,7 @@
   },
   "restored": {
     "Central Interior": {
-      "customers_affected_14d": 4135,
+      "customers_affected_14d": 4528,
       "outages": [
         {
           "area": "North-South-West of HWY 97 , East of HWY 39",
@@ -3003,6 +2976,16 @@
           "municipality": "Quesnel",
           "municipality_code": "city--1975191965",
           "start": "2020-10-01T17:47:00"
+        },
+        {
+          "area": "East of JOLAR RD",
+          "cause": "Tree down across our wires",
+          "customers_affected": "393",
+          "end": "2020-10-11T05:30:00",
+          "last_updated": "2020-10-11T05:28:00",
+          "municipality": "Wells",
+          "municipality_code": "day-1 day-3 city-83462469",
+          "start": "2020-10-11T01:30:00"
         },
         {
           "area": "East of JOLAR RD",
