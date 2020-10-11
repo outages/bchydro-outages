@@ -17,7 +17,7 @@
           "area": "7400 block COLLEEN ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-11T12:14:00",
+          "last_updated": "2020-10-11T12:31:00",
           "municipality": "Burnaby",
           "municipality_code": "day-1 day-3 city-1903966249",
           "start": "2020-10-11T10:53:00",
@@ -37,11 +37,11 @@
           "area": "3000 block E 29TH AVE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Wire down",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-11T12:26:00",
+          "last_updated": "2020-10-11T12:38:00",
           "municipality": "Vancouver",
           "municipality_code": "day-1 day-3 city--1786794435",
           "start": "2020-10-11T11:57:00",
-          "status": "Crew status: Crew on-site"
+          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 11 1:40 p.m."
         }
       ],
       "region_code": "Lower Mainland",
@@ -54,7 +54,7 @@
           "area": "15100 - 15300 block WATSON RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Work being done on our equipment",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-11T12:02:00",
+          "last_updated": "2020-10-11T12:31:00",
           "municipality": "Fort St. John",
           "municipality_code": "day-1 day-3 city-205572915",
           "start": "2020-10-09T19:37:00",
@@ -65,17 +65,17 @@
       "region_id": "1602964060"
     },
     "Thompson/Shuswap": {
-      "customers_affected_14d": 285,
+      "customers_affected_14d": 132,
       "outages": [
         {
           "area": "800 block COLLINS RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-11T12:14:00",
+          "last_updated": "2020-10-11T12:38:00",
           "municipality": "Cache Creek",
           "municipality_code": "day-1 day-3 city-720749214",
           "start": "2020-10-11T12:05:00",
-          "status": "Crew status: Crew assigned"
+          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 11 2:00 p.m."
         },
         {
           "area": "3400 - 4100 block MCNAB RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -96,16 +96,6 @@
           "municipality_code": "day-1 day-3 city-1282265866",
           "start": "2020-10-10T15:46:00",
           "status": "Crew status: Crew assigned\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 11 9:30 a.m."
-        },
-        {
-          "area": "5800 - 6000 block BEECH RD, 8300 - 9900 block MAMIT LK RD, 9800 block MAMIT LK RD,, BEECH RD PUMP2, 3800 - 9600 block MAMIT LAKE RD, BEECH RD PUMP3, BEECH RD PUMP4, 2500 - 2900 block COYOTE VALLEY RD, 10500 - 11400 block MAMETTE LK RD, 10500 block TOLMAN RD...\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Under investigation",
-          "customers_affected": "153",
-          "last_updated": "2020-10-11T12:27:00",
-          "municipality": "Merritt",
-          "municipality_code": "day-1 day-3 city--1676334159",
-          "start": "2020-10-11T10:26:00",
-          "status": "Crew status: Crew on-site"
         },
         {
           "area": "North-South-East-West of HWY 16\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -3082,7 +3072,7 @@
       "region_id": "848340027"
     },
     "Lower Mainland": {
-      "customers_affected_14d": 38425,
+      "customers_affected_14d": 39369,
       "outages": [
         {
           "area": "East of CLEARBROOK RD, South of NANAIMO CLS, North of PEARDONVILLE RD, West of MACLURE RD",
@@ -3323,6 +3313,16 @@
           "municipality": "Abbotsford, Langley",
           "municipality_code": "city-1230363016 city-1612593490",
           "start": "2020-09-29T22:37:00"
+        },
+        {
+          "area": "West of BEHARRELL RD, East of MT LEHMAN RD, South of ABB MISSION HWY, North of NANAIMO CRS",
+          "cause": "Equipment failure",
+          "customers_affected": "944",
+          "end": "",
+          "last_updated": "2020-10-11T12:38:00",
+          "municipality": "Abbotsford, Mission",
+          "municipality_code": "day-1 day-3 city-1230363016 city--1560864404",
+          "start": "2020-10-11T11:20:00"
         },
         {
           "area": "5600 block BAYNES ST",
@@ -4011,7 +4011,7 @@
           "end": "",
           "last_updated": "2020-10-09T14:52:00",
           "municipality": "Coquitlam",
-          "municipality_code": "day-1 day-3 city--3101987",
+          "municipality_code": "day-3 city--3101987",
           "start": "2020-10-09T11:35:00"
         },
         {
@@ -7405,7 +7405,7 @@
           "end": "2020-10-07T13:00:00",
           "last_updated": "2020-10-07T12:46:00",
           "municipality": "Dawson Creek",
-          "municipality_code": "day-3 city--1630954860",
+          "municipality_code": "city--1630954860",
           "start": "2020-10-07T10:34:00"
         },
         {
