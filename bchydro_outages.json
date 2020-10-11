@@ -7,18 +7,18 @@
           "area": "2200 block ASH AVE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-11T13:05:00",
+          "last_updated": "2020-10-11T13:23:00",
           "municipality": "Quesnel",
           "municipality_code": "day-1 day-3 city--1975191965",
           "start": "2020-10-11T12:57:00",
-          "status": "Crew status: No crew assigned yet"
+          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 11 2:25 p.m."
         }
       ],
       "region_code": "Central Interior",
       "region_id": "848340027"
     },
     "Lower Mainland": {
-      "customers_affected_14d": 19,
+      "customers_affected_14d": 17,
       "outages": [
         {
           "area": "East of GORING ST, North of ROY ST, South-West of LOUGHEED HWY\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -29,26 +29,6 @@
           "municipality_code": "day-1 day-3 city-1903966249",
           "start": "2020-10-11T08:51:00",
           "status": "Crew status: Crew assigned\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 11 9:30 a.m."
-        },
-        {
-          "area": "7400 block COLLEEN ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Under investigation",
-          "customers_affected": "< 5",
-          "last_updated": "2020-10-11T12:31:00",
-          "municipality": "Burnaby",
-          "municipality_code": "day-1 day-3 city-1903966249",
-          "start": "2020-10-11T10:53:00",
-          "status": "Crew status: Crew on-site"
-        },
-        {
-          "area": "33800 block DEWDNEY TRK RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Under investigation",
-          "customers_affected": "< 5",
-          "last_updated": "2020-10-11T13:00:00",
-          "municipality": "Mission",
-          "municipality_code": "day-1 day-3 city--1560864404",
-          "start": "2020-10-11T11:32:00",
-          "status": "Crew status: Crew on-site"
         }
       ],
       "region_code": "Lower Mainland",
@@ -71,8 +51,25 @@
       "region_code": "Northern",
       "region_id": "1602964060"
     },
+    "South VI": {
+      "customers_affected_14d": 6,
+      "outages": [
+        {
+          "area": "0 - 1700 block MCCLURE RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Under investigation",
+          "customers_affected": "6",
+          "last_updated": "2020-10-11T13:26:00",
+          "municipality": "Galiano Island",
+          "municipality_code": "day-1 day-3 city--995767958",
+          "start": "2020-10-11T13:24:00",
+          "status": "Crew status: No crew assigned yet"
+        }
+      ],
+      "region_code": "South VI",
+      "region_id": "1812901382"
+    },
     "Thompson/Shuswap": {
-      "customers_affected_14d": 132,
+      "customers_affected_14d": 120,
       "outages": [
         {
           "area": "800 block COLLINS RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -85,34 +82,24 @@
           "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 11 2:00 p.m."
         },
         {
-          "area": "3400 - 4100 block MCNAB RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Under investigation",
-          "customers_affected": "12",
-          "last_updated": "2020-10-11T12:49:00",
-          "municipality": "Clearwater",
-          "municipality_code": "day-1 day-3 city-1282265866",
-          "start": "2020-10-11T06:07:00",
-          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 11 1:50 p.m."
-        },
-        {
           "area": "M 8/0 CLEARWATER SUB\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-11T06:52:00",
+          "last_updated": "2020-10-11T13:24:00",
           "municipality": "Clearwater",
           "municipality_code": "day-1 day-3 city-1282265866",
           "start": "2020-10-10T15:46:00",
-          "status": "Crew status: Crew assigned\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 11 9:30 a.m."
+          "status": "Crew status: Crew assigned"
         },
         {
           "area": "North-South-East-West of HWY 16\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Pole replacement",
           "customers_affected": "118",
-          "last_updated": "2020-10-11T06:49:00",
+          "last_updated": "2020-10-11T13:12:00",
           "municipality": "Valemount",
           "municipality_code": "day-1 day-3 city-788397333",
           "start": "2020-10-10T18:51:00",
-          "status": "Crew status: Crew on-site"
+          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 11 3:30 p.m."
         }
       ],
       "region_code": "Thompson/Shuswap",
@@ -3079,7 +3066,7 @@
       "region_id": "848340027"
     },
     "Lower Mainland": {
-      "customers_affected_14d": 39370,
+      "customers_affected_14d": 39371,
       "outages": [
         {
           "area": "East of CLEARBROOK RD, South of NANAIMO CLS, North of PEARDONVILLE RD, West of MACLURE RD",
@@ -4842,6 +4829,16 @@
           "start": "2020-10-10T17:01:00"
         },
         {
+          "area": "33800 block DEWDNEY TRK RD",
+          "cause": "Under investigation",
+          "customers_affected": "< 5",
+          "end": "",
+          "last_updated": "2020-10-11T13:15:00",
+          "municipality": "Mission",
+          "municipality_code": "day-1 day-3 city--1560864404",
+          "start": "2020-10-11T11:32:00"
+        },
+        {
           "area": "43700 block LOUGHEED HWY",
           "cause": "Wire down",
           "customers_affected": "< 5",
@@ -6293,7 +6290,7 @@
           "cause": "Tree down across our wires",
           "customers_affected": "41",
           "end": "2020-10-11T11:30:00",
-          "last_updated": "2020-10-11T11:10:00",
+          "last_updated": "2020-10-11T13:23:00",
           "municipality": "Campbell River",
           "municipality_code": "day-1 day-3 city-1240464880",
           "start": "2020-10-11T09:40:00"
@@ -10064,7 +10061,7 @@
       "region_id": "1812901382"
     },
     "Thompson/Shuswap": {
-      "customers_affected_14d": 10692,
+      "customers_affected_14d": 10704,
       "outages": [
         {
           "area": "East of WILCOX RD, North of TRIP RD",
@@ -10397,6 +10394,16 @@
           "start": "2020-10-10T13:33:00"
         },
         {
+          "area": "3400 - 4100 block MCNAB RD",
+          "cause": "Tree down across our wires",
+          "customers_affected": "12",
+          "end": "",
+          "last_updated": "2020-10-11T13:26:00",
+          "municipality": "Clearwater",
+          "municipality_code": "day-1 day-3 city-1282265866",
+          "start": "2020-10-11T06:07:00"
+        },
+        {
           "area": "6200 - 6500 block CORRAL RD, 6200 block CLEARWATER VAL RD",
           "cause": "Tree down across our wires",
           "customers_affected": "7",
@@ -10583,7 +10590,7 @@
           "end": "2020-10-07T13:30:00",
           "last_updated": "2020-10-07T13:47:00",
           "municipality": "Kamloops",
-          "municipality_code": "day-3 city-979034872",
+          "municipality_code": "city-979034872",
           "start": "2020-10-07T08:37:00"
         },
         {
