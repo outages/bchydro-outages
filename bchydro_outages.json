@@ -1,7 +1,7 @@
 {
   "current": {
     "Lower Mainland": {
-      "customers_affected_14d": 43,
+      "customers_affected_14d": 48,
       "outages": [
         {
           "area": "East of GORING ST, North of ROY ST, South-West of LOUGHEED HWY\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -27,11 +27,11 @@
           "area": "9400 block 263RD ST, 9400 block 263 ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "5",
-          "last_updated": "2020-10-11T16:01:00",
+          "last_updated": "2020-10-11T16:16:00",
           "municipality": "Maple Ridge",
           "municipality_code": "day-1 day-3 city-598891104",
           "start": "2020-10-11T14:10:00",
-          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 11 5:00 p.m."
+          "status": "Crew status: Crew on-site"
         },
         {
           "area": "9400 block 263 ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -46,8 +46,8 @@
         {
           "area": "16200 block SUN CST HWY\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
-          "customers_affected": "< 5",
-          "last_updated": "2020-10-11T15:58:00",
+          "customers_affected": "7",
+          "last_updated": "2020-10-11T16:15:00",
           "municipality": "Sechelt",
           "municipality_code": "day-1 day-3 city--660434186",
           "start": "2020-10-11T15:50:00",
@@ -64,11 +64,11 @@
           "area": "West of FITZGERALD RD, East of FORTNUM RD, South of FARNHAM RD, North of MILMAN RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Wire down",
           "customers_affected": "18",
-          "last_updated": "2020-10-11T15:17:00",
+          "last_updated": "2020-10-11T16:06:00",
           "municipality": "Courtenay",
           "municipality_code": "day-1 day-3 city--824228212",
           "start": "2020-10-11T14:05:00",
-          "status": "Crew status: Crew assigned"
+          "status": "Crew status: Crew on their way"
         },
         {
           "area": "8500 block OWL CRS\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -85,30 +85,30 @@
       "region_id": "1602896846"
     },
     "Northern": {
-      "customers_affected_14d": 5,
+      "customers_affected_14d": -1,
       "outages": [
         {
-          "area": "100 block OWEKENO AVE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "area": "OLD TATLOW RD P95\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
-          "customers_affected": "5",
-          "last_updated": "2020-10-11T15:30:00",
-          "municipality": "Terrace",
-          "municipality_code": "day-1 day-3 city-241216082",
-          "start": "2020-10-11T13:40:00",
-          "status": "Crew status: Crew on-site"
+          "customers_affected": "< 5",
+          "last_updated": "2020-10-11T16:15:00",
+          "municipality": "Smithers",
+          "municipality_code": "day-1 day-3 city--305588573",
+          "start": "2020-10-11T16:08:00",
+          "status": "Crew status: Crew assigned\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 11 5:00 p.m."
         }
       ],
       "region_code": "Northern",
       "region_id": "1602964060"
     },
     "South VI": {
-      "customers_affected_14d": 203,
+      "customers_affected_14d": 225,
       "outages": [
         {
           "area": "0 - 1700 block MCCLURE RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Wire down",
           "customers_affected": "6",
-          "last_updated": "2020-10-11T15:26:00",
+          "last_updated": "2020-10-11T16:20:00",
           "municipality": "Galiano Island",
           "municipality_code": "day-1 day-3 city--995767958",
           "start": "2020-10-11T13:24:00",
@@ -148,11 +148,21 @@
           "area": "5800 block OLD W SAANICH RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-11T16:06:00",
+          "last_updated": "2020-10-11T16:13:00",
           "municipality": "Saanich",
           "municipality_code": "day-1 day-3 city--776615533",
           "start": "2020-10-11T15:33:00",
-          "status": "Crew status: Crew on-site"
+          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 11 4:35 p.m."
+        },
+        {
+          "area": "100 block CLIFFSIDE RD, 100 block CLIFFSIDE DR\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Under investigation",
+          "customers_affected": "22",
+          "last_updated": "2020-10-11T16:21:00",
+          "municipality": "Saturna Island",
+          "municipality_code": "day-1 day-3 city-501274559",
+          "start": "2020-10-11T16:09:00",
+          "status": "Crew status: Crew assigned"
         }
       ],
       "region_code": "South VI",
@@ -163,13 +173,13 @@
       "outages": [
         {
           "area": "800 block COLLINS RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Under investigation",
+          "cause": "Tree down across our wires",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-11T15:09:00",
+          "last_updated": "2020-10-11T16:17:00",
           "municipality": "Cache Creek",
           "municipality_code": "day-1 day-3 city-720749214",
           "start": "2020-10-11T12:05:00",
-          "status": "Crew status: Crew on-site"
+          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 11 8:30 p.m."
         },
         {
           "area": "M 8/0 CLEARWATER SUB\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -3056,7 +3066,7 @@
       "region_id": "848340027"
     },
     "Lower Mainland": {
-      "customers_affected_14d": 39384,
+      "customers_affected_14d": 39397,
       "outages": [
         {
           "area": "East of CLEARBROOK RD, South of NANAIMO CLS, North of PEARDONVILLE RD, West of MACLURE RD",
@@ -3517,6 +3527,16 @@
           "municipality": "Burnaby",
           "municipality_code": "day-3 city-1903966249",
           "start": "2020-10-08T13:05:00"
+        },
+        {
+          "area": "4400 block KINGSWAY",
+          "cause": "Vandalism",
+          "customers_affected": "13",
+          "end": "2020-10-11T16:00:00",
+          "last_updated": "2020-10-11T16:21:00",
+          "municipality": "Burnaby",
+          "municipality_code": "day-1 day-3 city-1903966249",
+          "start": "2020-10-11T14:25:00"
         },
         {
           "area": "7500 block CANADA WAY, 7700 block 15TH AVE",
@@ -6273,7 +6293,7 @@
       "region_id": "521980323"
     },
     "North VI": {
-      "customers_affected_14d": 5657,
+      "customers_affected_14d": 6034,
       "outages": [
         {
           "area": "West of NOLE RD, South of RUDDER RD, North of GREEN RD, East of CAMPBELL RIVER-QUADRA FERRY",
@@ -6442,7 +6462,7 @@
           "end": "",
           "last_updated": "2020-10-09T16:10:00",
           "municipality": "Comox",
-          "municipality_code": "day-1 day-3 city-65291018",
+          "municipality_code": "day-3 city-65291018",
           "start": "2020-10-09T15:23:00"
         },
         {
@@ -6464,6 +6484,16 @@
           "municipality": "Comox",
           "municipality_code": "city-65291018",
           "start": "2020-10-03T09:53:00"
+        },
+        {
+          "area": "South of KUHUSHAN RD, North of WILFRED RD, East of ISLAND HWY",
+          "cause": "Tree down across our wires",
+          "customers_affected": "377",
+          "end": "2020-10-11T16:00:00",
+          "last_updated": "2020-10-11T16:06:00",
+          "municipality": "Courtenay",
+          "municipality_code": "day-1 day-3 city--824228212",
+          "start": "2020-10-11T13:46:00"
         },
         {
           "area": "West of CONRAD RD, East of AFTON RD, South of CAMCO RD, North of VINCENT RD",
@@ -7150,7 +7180,7 @@
       "region_id": "1602896846"
     },
     "Northern": {
-      "customers_affected_14d": 19488,
+      "customers_affected_14d": 19493,
       "outages": [
         {
           "area": "North-South-East-West of HWY 20",
@@ -8223,6 +8253,16 @@
           "start": "2020-09-29T17:50:00"
         },
         {
+          "area": "100 block OWEKENO AVE",
+          "cause": "Bird contacting our wires",
+          "customers_affected": "5",
+          "end": "",
+          "last_updated": "2020-10-11T16:10:00",
+          "municipality": "Terrace",
+          "municipality_code": "day-1 day-3 city-241216082",
+          "start": "2020-10-11T13:40:00"
+        },
+        {
           "area": "2000 block QUEENSWAY DR",
           "cause": "Other",
           "customers_affected": "< 5",
@@ -9134,7 +9174,7 @@
       "region_id": "2072041405"
     },
     "South VI": {
-      "customers_affected_14d": 10797,
+      "customers_affected_14d": 10804,
       "outages": [
         {
           "area": "South-West of SAANICH RD, North-East of COOPERIDGE DR",
@@ -9907,6 +9947,16 @@
           "start": "2020-10-02T11:02:00"
         },
         {
+          "area": "400 block EAST POINT RD",
+          "cause": "Under investigation",
+          "customers_affected": "7",
+          "end": "",
+          "last_updated": "2020-10-11T16:11:00",
+          "municipality": "Saturna Island",
+          "municipality_code": "day-1 day-3 city-501274559",
+          "start": "2020-10-11T16:03:00"
+        },
+        {
           "area": "200 block OLD POINT RD",
           "cause": "Other",
           "customers_affected": "< 5",
@@ -10071,7 +10121,7 @@
       "region_id": "1812901382"
     },
     "Thompson/Shuswap": {
-      "customers_affected_14d": 10976,
+      "customers_affected_14d": 10999,
       "outages": [
         {
           "area": "East of WILCOX RD, North of TRIP RD",
@@ -11085,10 +11135,10 @@
         },
         {
           "area": "North-South-East-West of HWY 16",
-          "cause": "Pole replacement",
-          "customers_affected": "118",
+          "cause": "Tree down across our wires",
+          "customers_affected": "141",
           "end": "2020-10-11T15:30:00",
-          "last_updated": "2020-10-11T14:58:00",
+          "last_updated": "2020-10-11T16:20:00",
           "municipality": "Valemount",
           "municipality_code": "day-1 day-3 city-788397333",
           "start": "2020-10-10T18:51:00"
