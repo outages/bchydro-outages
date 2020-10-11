@@ -5634,7 +5634,7 @@
           "end": "2020-10-08T23:55:00",
           "last_updated": "2020-10-09T14:07:00",
           "municipality": "Surrey",
-          "municipality_code": "day-1 day-3 city--1807186826",
+          "municipality_code": "day-3 city--1807186826",
           "start": "2020-10-08T19:49:00"
         },
         {
@@ -7638,7 +7638,7 @@
           "end": "2020-10-07T02:00:00",
           "last_updated": "2020-10-08T11:42:00",
           "municipality": "Fort St. John",
-          "municipality_code": "day-3 city-205572915",
+          "municipality_code": "city-205572915",
           "start": "2020-10-06T15:51:00"
         },
         {
@@ -10120,7 +10120,7 @@
       "region_id": "1812901382"
     },
     "Thompson/Shuswap": {
-      "customers_affected_14d": 10236,
+      "customers_affected_14d": 10592,
       "outages": [
         {
           "area": "East of WILCOX RD, North of TRIP RD",
@@ -10551,6 +10551,16 @@
           "municipality": "Kamloops",
           "municipality_code": "city-979034872",
           "start": "2020-10-04T23:15:00"
+        },
+        {
+          "area": "East of DUNN LAKE RD",
+          "cause": "Tree down across our wires",
+          "customers_affected": "356",
+          "end": "2020-10-10T23:30:00",
+          "last_updated": "2020-10-10T23:39:00",
+          "municipality": "Kamloops",
+          "municipality_code": "day-1 day-3 city-979034872",
+          "start": "2020-10-10T13:57:00"
         },
         {
           "area": "East of BARNHARTVALE RD, North-South-West of HWY 97",
