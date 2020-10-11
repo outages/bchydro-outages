@@ -41,21 +41,11 @@
           "area": "1300 block 46 AVE, 1200 block BX RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-10T21:28:00",
+          "last_updated": "2020-10-10T22:08:00",
           "municipality": "Vernon",
           "municipality_code": "day-1 day-3 city--1736079254",
           "start": "2020-10-10T21:23:00",
-          "status": "Crew status: Crew assigned"
-        },
-        {
-          "area": "5000 block CEDAR HILL RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Under investigation",
-          "customers_affected": "< 5",
-          "last_updated": "2020-10-10T21:44:00",
-          "municipality": "Vernon",
-          "municipality_code": "day-1 day-3 city--1736079254",
-          "start": "2020-10-10T20:43:00",
-          "status": "Crew status: Crew on-site"
+          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 10 11:10 p.m."
         }
       ],
       "region_code": "Okanagan/Kootenay",
@@ -68,11 +58,11 @@
           "area": "North of HORSE LAKE RD, West of 181 FOREST SERVICE RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Tree down across our wires",
           "customers_affected": "16",
-          "last_updated": "2020-10-10T21:57:00",
+          "last_updated": "2020-10-10T22:21:00",
           "municipality": "100 Mile House",
           "municipality_code": "day-1 day-3 city-950857956",
           "start": "2020-10-10T12:45:00",
-          "status": "Crew status: Crew on-site"
+          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 11 2:00 a.m."
         },
         {
           "area": "6000 block DEMPSEY LAKE S RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -108,11 +98,11 @@
           "area": "East of BARRIERE LAKE RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Tree down across our wires",
           "customers_affected": "179",
-          "last_updated": "2020-10-10T22:05:00",
+          "last_updated": "2020-10-10T22:07:00",
           "municipality": "Kamloops",
           "municipality_code": "day-1 day-3 city-979034872",
           "start": "2020-10-10T13:57:00",
-          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 10 9:15 p.m."
+          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 10 11:30 p.m."
         },
         {
           "area": "North-South-East-West of HWY 16\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -8350,7 +8340,7 @@
       "region_id": "1602964060"
     },
     "Okanagan/Kootenay": {
-      "customers_affected_14d": 25578,
+      "customers_affected_14d": 25579,
       "outages": [
         {
           "area": "3200 block ROSEDALE AVE",
@@ -9051,6 +9041,16 @@
           "municipality": "Vernon",
           "municipality_code": "day-1 day-3 city--1736079254",
           "start": "2020-10-10T13:14:00"
+        },
+        {
+          "area": "5000 block CEDAR HILL RD",
+          "cause": "Tree down across our wires",
+          "customers_affected": "< 5",
+          "end": "",
+          "last_updated": "2020-10-10T22:08:00",
+          "municipality": "Vernon",
+          "municipality_code": "day-1 day-3 city--1736079254",
+          "start": "2020-10-10T20:43:00"
         },
         {
           "area": "2700 block 28 AVE",
