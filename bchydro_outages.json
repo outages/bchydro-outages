@@ -1,7 +1,7 @@
 {
   "current": {
     "Lower Mainland": {
-      "customers_affected_14d": -1,
+      "customers_affected_14d": 13,
       "outages": [
         {
           "area": "22000 - 22100 block TRANS CAN HWY\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -22,27 +22,20 @@
           "municipality_code": "day-1 day-3 city-2255196",
           "start": "2020-10-10T18:59:00",
           "status": "Crew status: Crew assigned"
+        },
+        {
+          "area": "4300 block DUNBAR ST, 3600 block W 27TH AVE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Work being done on our equipment",
+          "customers_affected": "10",
+          "last_updated": "2020-10-10T20:17:00",
+          "municipality": "Vancouver",
+          "municipality_code": "day-1 day-3 city--1786794435",
+          "start": "2020-10-10T13:51:00",
+          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 10 9:30 p.m."
         }
       ],
       "region_code": "Lower Mainland",
       "region_id": "521980323"
-    },
-    "North VI": {
-      "customers_affected_14d": -1,
-      "outages": [
-        {
-          "area": "500 block INDUSTRIAL WY, 500 block INDUSTRIAL WAY\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Under investigation",
-          "customers_affected": "< 5",
-          "last_updated": "2020-10-10T18:28:00",
-          "municipality": "Port Alice",
-          "municipality_code": "day-1 day-3 city-362416673",
-          "start": "2020-10-10T08:27:00",
-          "status": "Crew status: Crew on-site"
-        }
-      ],
-      "region_code": "North VI",
-      "region_id": "1602896846"
     },
     "Northern": {
       "customers_affected_14d": 82,
@@ -51,7 +44,7 @@
           "area": "North of 223 RD, East of 227 RD, West of 17TH ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "82",
-          "last_updated": "2020-10-10T19:28:00",
+          "last_updated": "2020-10-10T20:10:00",
           "municipality": "Dawson Creek",
           "municipality_code": "day-1 day-3 city--1630954860",
           "start": "2020-10-10T18:39:00",
@@ -66,30 +59,30 @@
       "outages": [
         {
           "area": "1700 block GLASTONBURY RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Under investigation",
+          "cause": "Equipment failure",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-10T18:48:00",
+          "last_updated": "2020-10-10T20:13:00",
           "municipality": "Saanich",
           "municipality_code": "day-1 day-3 city--776615533",
           "start": "2020-10-10T16:53:00",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 10 9:00 p.m."
+          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 10 10:00 p.m."
         }
       ],
       "region_code": "South VI",
       "region_id": "1812901382"
     },
     "Thompson/Shuswap": {
-      "customers_affected_14d": 3710,
+      "customers_affected_14d": 3686,
       "outages": [
         {
           "area": "South of LAING RD, East of MAHOOD LAKE RD, North of BURGESS RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Tree down across our wires",
           "customers_affected": "74",
-          "last_updated": "2020-10-10T18:06:00",
+          "last_updated": "2020-10-10T20:23:00",
           "municipality": "100 Mile House",
           "municipality_code": "day-1 day-3 city-950857956",
           "start": "2020-10-10T12:58:00",
-          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 10 7:30 p.m."
+          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 10 9:30 p.m."
         },
         {
           "area": "North of HORSE LAKE RD, West of 181 FOREST SERVICE RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -135,7 +128,7 @@
           "area": "800 block COLLINS RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-10T19:59:00",
+          "last_updated": "2020-10-10T20:10:00",
           "municipality": "Cache Creek",
           "municipality_code": "day-1 day-3 city-720749214",
           "start": "2020-10-10T17:07:00",
@@ -175,11 +168,11 @@
           "area": "East of BARRIERE LAKE RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Tree down across our wires",
           "customers_affected": "179",
-          "last_updated": "2020-10-10T19:46:00",
+          "last_updated": "2020-10-10T20:07:00",
           "municipality": "Kamloops",
           "municipality_code": "day-1 day-3 city-979034872",
           "start": "2020-10-10T13:57:00",
-          "status": "Crew status: Crew assigned"
+          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 10 9:15 p.m."
         },
         {
           "area": "North of MAIN ST, West of HWY 8 , South of TRANS CAN HWY, East of HWY 12\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -190,16 +183,6 @@
           "municipality_code": "day-1 day-3 city--2003834996",
           "start": "2020-10-10T19:11:00",
           "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 10 9:00 p.m."
-        },
-        {
-          "area": "South of Trans Can , North of 4TH ST, West of Trans Can HWY, East of HWY 23\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Under investigation",
-          "customers_affected": "24",
-          "last_updated": "2020-10-10T17:44:00",
-          "municipality": "Revelstoke",
-          "municipality_code": "day-1 day-3 city-1039954398",
-          "start": "2020-10-10T17:01:00",
-          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 10 7:00 p.m."
         },
         {
           "area": "North-South-East-West of HWY 16\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -3555,7 +3538,7 @@
           "end": "2020-10-08T21:00:00",
           "last_updated": "2020-10-08T20:18:00",
           "municipality": "Burnaby",
-          "municipality_code": "day-1 day-3 city-1903966249",
+          "municipality_code": "day-3 city-1903966249",
           "start": "2020-10-08T09:14:00"
         },
         {
@@ -5975,7 +5958,7 @@
           "end": "2020-10-08T21:00:00",
           "last_updated": "2020-10-08T20:25:00",
           "municipality": "Vancouver",
-          "municipality_code": "day-1 day-3 city--1786794435",
+          "municipality_code": "day-3 city--1786794435",
           "start": "2020-10-08T09:14:00"
         },
         {
@@ -6353,7 +6336,7 @@
       "region_id": "521980323"
     },
     "North VI": {
-      "customers_affected_14d": 5522,
+      "customers_affected_14d": 5526,
       "outages": [
         {
           "area": "West of NOLE RD, South of RUDDER RD, North of GREEN RD, East of CAMPBELL RIVER-QUADRA FERRY",
@@ -7044,6 +7027,16 @@
           "municipality": "Port Alberni",
           "municipality_code": "city-383682720",
           "start": "2020-10-04T10:09:00"
+        },
+        {
+          "area": "500 block INDUSTRIAL WY, 500 block INDUSTRIAL WAY",
+          "cause": "Equipment failure",
+          "customers_affected": "< 5",
+          "end": "",
+          "last_updated": "2020-10-10T20:07:00",
+          "municipality": "Port Alice",
+          "municipality_code": "day-1 day-3 city-362416673",
+          "start": "2020-10-10T08:27:00"
         },
         {
           "area": "South of HOLBERG RD",
@@ -10171,7 +10164,7 @@
       "region_id": "1812901382"
     },
     "Thompson/Shuswap": {
-      "customers_affected_14d": 6974,
+      "customers_affected_14d": 6998,
       "outages": [
         {
           "area": "East of WILCOX RD, North of TRIP RD",
@@ -10188,7 +10181,7 @@
           "cause": "Tree down across our wires",
           "customers_affected": "88",
           "end": "2020-10-10T19:45:00",
-          "last_updated": "2020-10-10T19:34:00",
+          "last_updated": "2020-10-10T20:12:00",
           "municipality": "100 Mile House",
           "municipality_code": "day-1 day-3 city-950857956",
           "start": "2020-10-10T13:10:00"
@@ -10892,6 +10885,16 @@
           "municipality": "Merritt",
           "municipality_code": "city--1676334159",
           "start": "2020-10-03T18:00:00"
+        },
+        {
+          "area": "South of Trans Can , North of 4TH ST, West of Trans Can HWY, East of HWY 23",
+          "cause": "Other",
+          "customers_affected": "24",
+          "end": "2020-10-10T20:30:00",
+          "last_updated": "2020-10-10T20:15:00",
+          "municipality": "Revelstoke",
+          "municipality_code": "day-1 day-3 city-1039954398",
+          "start": "2020-10-10T17:01:00"
         },
         {
           "area": "2000 block KOA RD",
