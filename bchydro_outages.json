@@ -1,7 +1,7 @@
 {
   "current": {
     "Lower Mainland": {
-      "customers_affected_14d": 17,
+      "customers_affected_14d": 35,
       "outages": [
         {
           "area": "East of GORING ST, North of ROY ST, South-West of LOUGHEED HWY\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -12,41 +12,61 @@
           "municipality_code": "day-1 day-3 city-1903966249",
           "start": "2020-10-11T08:51:00",
           "status": "Crew status: Crew assigned\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 11 9:30 a.m."
+        },
+        {
+          "area": "9400 block 263RD ST, 9400 block 263 ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Under investigation",
+          "customers_affected": "5",
+          "last_updated": "2020-10-11T14:18:00",
+          "municipality": "Maple Ridge",
+          "municipality_code": "day-1 day-3 city-598891104",
+          "start": "2020-10-11T14:10:00",
+          "status": "Crew status: Crew assigned"
+        },
+        {
+          "area": "8800 block STARK RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Under investigation",
+          "customers_affected": "13",
+          "last_updated": "2020-10-11T14:20:00",
+          "municipality": "Powell River",
+          "municipality_code": "day-1 day-3 city-1665178489",
+          "start": "2020-10-11T14:15:00",
+          "status": "Crew status: Crew assigned"
         }
       ],
       "region_code": "Lower Mainland",
       "region_id": "521980323"
     },
     "North VI": {
-      "customers_affected_14d": 377,
+      "customers_affected_14d": 395,
       "outages": [
         {
           "area": "South of KUHUSHAN RD, North of WILFRED RD, East of ISLAND HWY\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Tree down across our wires",
           "customers_affected": "377",
-          "last_updated": "2020-10-11T14:05:00",
+          "last_updated": "2020-10-11T14:18:00",
           "municipality": "Courtenay",
           "municipality_code": "day-1 day-3 city--824228212",
           "start": "2020-10-11T13:46:00",
-          "status": "Crew status: Crew on their way"
+          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 11 3:05 p.m."
+        },
+        {
+          "area": "West of FITZGERALD RD, East of FORTNUM RD, South of FARNHAM RD, North of MILMAN RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Under investigation",
+          "customers_affected": "18",
+          "last_updated": "2020-10-11T14:20:00",
+          "municipality": "Courtenay",
+          "municipality_code": "day-1 day-3 city--824228212",
+          "start": "2020-10-11T14:05:00",
+          "status": "Crew status: Crew assigned"
         }
       ],
       "region_code": "North VI",
       "region_id": "1602896846"
     },
     "Northern": {
-      "customers_affected_14d": 8,
+      "customers_affected_14d": 5,
       "outages": [
-        {
-          "area": "15100 - 15300 block WATSON RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Work being done on our equipment",
-          "customers_affected": "< 5",
-          "last_updated": "2020-10-11T12:31:00",
-          "municipality": "Fort St. John",
-          "municipality_code": "day-1 day-3 city-205572915",
-          "start": "2020-10-09T19:37:00",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 11 1:30 p.m."
-        },
         {
           "area": "100 block OWEKENO AVE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
@@ -95,7 +115,7 @@
           "area": "800 block COLLINS RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-11T13:45:00",
+          "last_updated": "2020-10-11T14:10:00",
           "municipality": "Cache Creek",
           "municipality_code": "day-1 day-3 city-720749214",
           "start": "2020-10-11T12:05:00",
@@ -115,7 +135,7 @@
           "area": "4800 block LEOPOLD RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-11T14:05:00",
+          "last_updated": "2020-10-11T14:19:00",
           "municipality": "Salmon Arm",
           "municipality_code": "day-1 day-3 city-2118875562",
           "start": "2020-10-11T13:54:00",
@@ -3245,7 +3265,7 @@
           "end": "2020-10-09T14:10:00",
           "last_updated": "2020-10-09T14:17:00",
           "municipality": "Abbotsford",
-          "municipality_code": "day-1 day-3 city-1230363016",
+          "municipality_code": "day-3 city-1230363016",
           "start": "2020-10-09T12:40:00"
         },
         {
@@ -5465,7 +5485,7 @@
           "end": "2020-10-07T15:30:00",
           "last_updated": "2020-10-07T15:03:00",
           "municipality": "Surrey",
-          "municipality_code": "day-3 city--1807186826",
+          "municipality_code": "city--1807186826",
           "start": "2020-10-07T09:25:00"
         },
         {
@@ -8776,7 +8796,7 @@
           "end": "2020-10-09T17:00:00",
           "last_updated": "2020-10-09T14:31:00",
           "municipality": "Nakusp",
-          "municipality_code": "day-1 day-3 city--1969008230",
+          "municipality_code": "day-3 city--1969008230",
           "start": "2020-10-09T08:34:00"
         },
         {
@@ -9136,7 +9156,7 @@
           "end": "2020-10-07T14:30:00",
           "last_updated": "2020-10-07T14:32:00",
           "municipality": "Westbank",
-          "municipality_code": "day-3 city--148267893",
+          "municipality_code": "city--148267893",
           "start": "2020-10-07T13:04:00"
         }
       ],
@@ -9963,7 +9983,7 @@
           "end": "2020-10-07T15:00:00",
           "last_updated": "2020-10-07T15:59:00",
           "municipality": "Sooke",
-          "municipality_code": "day-3 city-80069133",
+          "municipality_code": "city-80069133",
           "start": "2020-10-07T10:22:00"
         },
         {
@@ -10940,7 +10960,7 @@
           "end": "2020-10-09T14:58:00",
           "last_updated": "2020-10-09T14:20:00",
           "municipality": "Revelstoke",
-          "municipality_code": "day-1 day-3 city-1039954398",
+          "municipality_code": "day-3 city-1039954398",
           "start": "2020-10-09T13:39:00"
         },
         {
