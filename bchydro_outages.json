@@ -47,19 +47,26 @@
       "region_code": "Lower Mainland",
       "region_id": "521980323"
     },
-    "Thompson/Shuswap": {
-      "customers_affected_14d": 138,
+    "Northern": {
+      "customers_affected_14d": -1,
       "outages": [
         {
-          "area": "6000 block DEMPSEY LAKE S RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Wire down",
-          "customers_affected": "7",
-          "last_updated": "2020-10-11T08:29:00",
-          "municipality": "100 Mile House",
-          "municipality_code": "day-1 day-3 city-950857956",
-          "start": "2020-10-10T20:38:00",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 11 2:00 p.m."
-        },
+          "area": "15100 - 15300 block WATSON RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Work being done on our equipment",
+          "customers_affected": "< 5",
+          "last_updated": "2020-10-11T12:02:00",
+          "municipality": "Fort St. John",
+          "municipality_code": "day-1 day-3 city-205572915",
+          "start": "2020-10-09T19:37:00",
+          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 11 1:30 p.m."
+        }
+      ],
+      "region_code": "Northern",
+      "region_id": "1602964060"
+    },
+    "Thompson/Shuswap": {
+      "customers_affected_14d": 131,
+      "outages": [
         {
           "area": "3400 - 4100 block MCNAB RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
@@ -4204,7 +4211,7 @@
           "end": "2020-10-09T12:30:00",
           "last_updated": "2020-10-09T12:25:00",
           "municipality": "Hope",
-          "municipality_code": "day-1 day-3 city-2255196",
+          "municipality_code": "day-3 city-2255196",
           "start": "2020-10-09T07:15:00"
         },
         {
@@ -4724,7 +4731,7 @@
           "end": "2020-10-07T14:00:00",
           "last_updated": "2020-10-07T13:43:00",
           "municipality": "Mission",
-          "municipality_code": "day-3 city--1560864404",
+          "municipality_code": "city--1560864404",
           "start": "2020-10-07T10:08:00"
         },
         {
