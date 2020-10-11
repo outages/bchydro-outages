@@ -1,7 +1,7 @@
 {
   "current": {
     "Lower Mainland": {
-      "customers_affected_14d": 34,
+      "customers_affected_14d": 18,
       "outages": [
         {
           "area": "East of GORING ST, North of ROY ST, South-West of LOUGHEED HWY\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -14,22 +14,32 @@
           "status": "Crew status: Crew assigned\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 11 9:30 a.m."
         },
         {
-          "area": "33500 - 33600 block 2ND AVE, 33500 block 2 AVE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "area": "7400 block COLLEEN ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
-          "customers_affected": "17",
-          "last_updated": "2020-10-11T10:43:00",
-          "municipality": "Mission",
-          "municipality_code": "day-1 day-3 city--1560864404",
-          "start": "2020-10-11T09:55:00",
-          "status": "Crew status: Crew on-site"
+          "customers_affected": "< 5",
+          "last_updated": "2020-10-11T11:02:00",
+          "municipality": "Burnaby",
+          "municipality_code": "day-1 day-3 city-1903966249",
+          "start": "2020-10-11T10:53:00",
+          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 11 12:30 p.m."
         }
       ],
       "region_code": "Lower Mainland",
       "region_id": "521980323"
     },
     "North VI": {
-      "customers_affected_14d": 544,
+      "customers_affected_14d": 583,
       "outages": [
+        {
+          "area": "South of HUGHES RD, West of BARCLAY RD, North of PENGELLY RD, East of ORANGE POINT RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Tree down across our wires",
+          "customers_affected": "41",
+          "last_updated": "2020-10-11T10:59:00",
+          "municipality": "Campbell River",
+          "municipality_code": "day-1 day-3 city-1240464880",
+          "start": "2020-10-11T09:40:00",
+          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 11 11:30 a.m."
+        },
         {
           "area": "North of RYAN RD, South of Powell R-Little River Ferry , East of ANDERTON RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Wire down",
@@ -43,33 +53,16 @@
         {
           "area": "North of EVENSON RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
-          "customers_affected": "104",
-          "last_updated": "2020-10-11T10:42:00",
+          "customers_affected": "102",
+          "last_updated": "2020-10-11T10:56:00",
           "municipality": "Port Hardy",
           "municipality_code": "day-1 day-3 city-368562319",
           "start": "2020-10-10T20:21:00",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 11 11:15 a.m."
+          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 11 11:45 a.m."
         }
       ],
       "region_code": "North VI",
       "region_id": "1602896846"
-    },
-    "Northern": {
-      "customers_affected_14d": -1,
-      "outages": [
-        {
-          "area": "9700 block 269 RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Under investigation",
-          "customers_affected": "< 5",
-          "last_updated": "2020-10-11T10:15:00",
-          "municipality": "Fort St. John",
-          "municipality_code": "day-1 day-3 city-205572915",
-          "start": "2020-10-11T08:56:00",
-          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 11 10:35 a.m."
-        }
-      ],
-      "region_code": "Northern",
-      "region_id": "1602964060"
     },
     "Thompson/Shuswap": {
       "customers_affected_14d": 143,
@@ -3089,7 +3082,7 @@
       "region_id": "848340027"
     },
     "Lower Mainland": {
-      "customers_affected_14d": 38408,
+      "customers_affected_14d": 38425,
       "outages": [
         {
           "area": "East of CLEARBROOK RD, South of NANAIMO CLS, North of PEARDONVILLE RD, West of MACLURE RD",
@@ -3558,7 +3551,7 @@
           "end": "2020-10-07T11:30:00",
           "last_updated": "2020-10-07T11:04:00",
           "municipality": "Burnaby",
-          "municipality_code": "day-3 city-1903966249",
+          "municipality_code": "city-1903966249",
           "start": "2020-10-07T09:57:00"
         },
         {
@@ -4770,6 +4763,16 @@
           "municipality": "Mission",
           "municipality_code": "day-3 city--1560864404",
           "start": "2020-10-08T10:44:00"
+        },
+        {
+          "area": "33500 - 33600 block 2ND AVE, 33500 block 2 AVE",
+          "cause": "Bird contacting our wires",
+          "customers_affected": "17",
+          "end": "",
+          "last_updated": "2020-10-11T11:01:00",
+          "municipality": "Mission",
+          "municipality_code": "day-1 day-3 city--1560864404",
+          "start": "2020-10-11T09:55:00"
         },
         {
           "area": "30100 - 30400 block SCHOOL AVE",
@@ -7103,7 +7106,7 @@
       "region_id": "1602896846"
     },
     "Northern": {
-      "customers_affected_14d": 19483,
+      "customers_affected_14d": 19485,
       "outages": [
         {
           "area": "North-South-East-West of HWY 20",
@@ -7674,6 +7677,16 @@
           "municipality": "Fort St. John",
           "municipality_code": "city-205572915",
           "start": "2020-09-30T08:33:00"
+        },
+        {
+          "area": "9700 block 269 RD",
+          "cause": "Bird contacting our wires",
+          "customers_affected": "< 5",
+          "end": "2020-10-11T11:00:00",
+          "last_updated": "2020-10-11T11:04:00",
+          "municipality": "Fort St. John",
+          "municipality_code": "day-1 day-3 city-205572915",
+          "start": "2020-10-11T08:56:00"
         },
         {
           "area": "18700 block UPPER HALFWAY RIVER RD",
