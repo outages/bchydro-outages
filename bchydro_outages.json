@@ -1,27 +1,37 @@
 {
   "current": {
     "Lower Mainland": {
-      "customers_affected_14d": 6,
+      "customers_affected_14d": 7,
       "outages": [
         {
           "area": "8700 block CHWK MTN RD, 8700 block CHILLIWACK MOUNTAIN RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-10T18:02:00",
+          "last_updated": "2020-10-10T19:19:00",
           "municipality": "Chilliwack",
           "municipality_code": "day-1 day-3 city--708005353",
           "start": "2020-10-10T17:58:00",
-          "status": "Crew status: Crew assigned"
+          "status": "Crew status: Crew on-site"
         },
         {
           "area": "22000 - 22100 block TRANS CAN HWY\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Tree down across our wires",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-10T17:56:00",
+          "last_updated": "2020-10-10T19:14:00",
           "municipality": "Hope",
           "municipality_code": "day-1 day-3 city-2255196",
           "start": "2020-10-10T06:37:00",
           "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 10 9:00 p.m."
+        },
+        {
+          "area": "200 block ROBERTSON CRS\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Under investigation",
+          "customers_affected": "< 5",
+          "last_updated": "2020-10-10T19:20:00",
+          "municipality": "Hope",
+          "municipality_code": "day-1 day-3 city-2255196",
+          "start": "2020-10-10T18:59:00",
+          "status": "Crew status: Crew assigned"
         }
       ],
       "region_code": "Lower Mainland",
@@ -51,32 +61,15 @@
           "area": "North of 223 RD, East of 227 RD, West of 17TH ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "82",
-          "last_updated": "2020-10-10T19:06:00",
+          "last_updated": "2020-10-10T19:28:00",
           "municipality": "Dawson Creek",
           "municipality_code": "day-1 day-3 city--1630954860",
           "start": "2020-10-10T18:39:00",
-          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 10 8:35 p.m."
+          "status": "Crew status: Crew on-site"
         }
       ],
       "region_code": "Northern",
       "region_id": "1602964060"
-    },
-    "Okanagan/Kootenay": {
-      "customers_affected_14d": -1,
-      "outages": [
-        {
-          "area": "11200 block OKANAGAN CENTRE RD E\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Tree down across our wires",
-          "customers_affected": "< 5",
-          "last_updated": "2020-10-10T19:02:00",
-          "municipality": "Lake Country",
-          "municipality_code": "day-1 day-3 city--443780603",
-          "start": "2020-10-10T17:44:00",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 10 7:30 p.m."
-        }
-      ],
-      "region_code": "Okanagan/Kootenay",
-      "region_id": "2072041405"
     },
     "South VI": {
       "customers_affected_14d": -1,
@@ -96,7 +89,7 @@
       "region_id": "1812901382"
     },
     "Thompson/Shuswap": {
-      "customers_affected_14d": 743,
+      "customers_affected_14d": 3881,
       "outages": [
         {
           "area": "3400 - 9000 block MAHOOD LK RD, 8900 - 9200 block S MAHOOD LAKE RD, 9000 block MAHOOD LK, 3700 block BOWERS LK FORES RD, MAHOOD LK SUB P 0/1, 9000 block MAHOOD LK SOUTH ROAD, 9000 block MAHOOD LK S, 3300 - 9200 block MAHOOD LAKE RD, 8900 block MAHOOD LAKE SOUTH RD, 8900 - 9000 block S MAHOOD LK...\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -139,14 +132,34 @@
           "status": "Crew status: Crew assigned"
         },
         {
+          "area": "West of HIGHLAND VALLEY RD, South of 97C HWY, North-East of Trans Can HWY\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Transmission circuit failure",
+          "customers_affected": "1327",
+          "last_updated": "2020-10-10T19:30:00",
+          "municipality": "Ashcroft",
+          "municipality_code": "day-1 day-3 city--625370600",
+          "start": "2020-10-10T19:12:00",
+          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 10 9:00 p.m."
+        },
+        {
+          "area": "North of 97C HWY, South-East of HWY 97 , West of TRANS CANADA HWY\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Transmission circuit failure",
+          "customers_affected": "933",
+          "last_updated": "2020-10-10T19:30:00",
+          "municipality": "Ashcroft, Cache Creek",
+          "municipality_code": "day-1 day-3 city--625370600 city-720749214",
+          "start": "2020-10-10T19:11:00",
+          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 10 9:00 p.m."
+        },
+        {
           "area": "DEADMAN CRK RD P346, 6500 block DEADMAN VIDETTE RD, 6700 block DEADMAN CRK RD, DEADMAN CRK RD P359\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Tree down across our wires",
           "customers_affected": "5",
-          "last_updated": "2020-10-10T18:07:00",
+          "last_updated": "2020-10-10T19:10:00",
           "municipality": "Cache Creek",
           "municipality_code": "day-1 day-3 city-720749214",
           "start": "2020-10-10T13:56:00",
-          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 10 3:30 p.m."
+          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 10 7:30 p.m."
         },
         {
           "area": "1500 block TRANS CAN HWY\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -209,6 +222,16 @@
           "status": "Crew status: Crew assigned"
         },
         {
+          "area": "North of MAIN ST, West of HWY 8 , South of TRANS CAN HWY, East of HWY 12\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Transmission circuit failure",
+          "customers_affected": "901",
+          "last_updated": "2020-10-10T19:30:00",
+          "municipality": "Lytton",
+          "municipality_code": "day-1 day-3 city--2003834996",
+          "start": "2020-10-10T19:11:00",
+          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 10 9:00 p.m."
+        },
+        {
           "area": "South of Trans Can , North of 4TH ST, West of Trans Can HWY, East of HWY 23\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "24",
@@ -221,12 +244,12 @@
         {
           "area": "North-South-East-West of HWY 16\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Pole replacement",
-          "customers_affected": "141",
-          "last_updated": "2020-10-10T19:05:00",
+          "customers_affected": "118",
+          "last_updated": "2020-10-10T19:07:00",
           "municipality": "Valemount",
           "municipality_code": "day-1 day-3 city-788397333",
           "start": "2020-10-10T18:51:00",
-          "status": "Crew status: Crew assigned"
+          "status": "Crew status: Crew assigned\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 11 1:00 a.m."
         }
       ],
       "region_code": "Thompson/Shuswap",
@@ -2805,7 +2828,7 @@
           "end": "2020-10-06T19:34:00",
           "last_updated": "2020-10-07T08:22:00",
           "municipality": "Prince George",
-          "municipality_code": "day-3 city-1835674262",
+          "municipality_code": "city-1835674262",
           "start": "2020-10-06T17:54:00"
         },
         {
@@ -3123,7 +3146,7 @@
       "region_id": "848340027"
     },
     "Lower Mainland": {
-      "customers_affected_14d": 38707,
+      "customers_affected_14d": 39502,
       "outages": [
         {
           "area": "East of CLEARBROOK RD, South of NANAIMO CLS, North of PEARDONVILLE RD, West of MACLURE RD",
@@ -3744,6 +3767,16 @@
           "municipality": "Burnaby, Richmond",
           "municipality_code": "city-1903966249 city--1486145068",
           "start": "2020-09-29T18:38:00"
+        },
+        {
+          "area": "North of VENTURE PL, East of PROGRESS WAY, West of AITKEN RD, South of GRAND VIEW DR",
+          "cause": "Tree down across our wires",
+          "customers_affected": "795",
+          "end": "2020-10-10T17:30:00",
+          "last_updated": "2020-10-10T19:16:00",
+          "municipality": "Chilliwack",
+          "municipality_code": "day-1 day-3 city--708005353",
+          "start": "2020-10-10T09:34:00"
         },
         {
           "area": "North of CUMBERLAND AVE, East of UNSWORTH RD, South of SOUTH SUMAS RD, West of CARTER RD",
@@ -4877,10 +4910,10 @@
         },
         {
           "area": "9600 block BARR ST",
-          "cause": "Under investigation",
+          "cause": "Tree down across our wires",
           "customers_affected": "< 5",
           "end": "",
-          "last_updated": "2020-10-10T19:00:00",
+          "last_updated": "2020-10-10T19:25:00",
           "municipality": "Mission",
           "municipality_code": "day-1 day-3 city--1560864404",
           "start": "2020-10-10T17:01:00"
@@ -8404,7 +8437,7 @@
       "region_id": "1602964060"
     },
     "Okanagan/Kootenay": {
-      "customers_affected_14d": 25577,
+      "customers_affected_14d": 25578,
       "outages": [
         {
           "area": "3200 block ROSEDALE AVE",
@@ -8815,6 +8848,16 @@
           "municipality": "Lake Country",
           "municipality_code": "city--443780603",
           "start": "2020-09-26T16:48:00"
+        },
+        {
+          "area": "11200 block OKANAGAN CENTRE RD E",
+          "cause": "Tree down across our wires",
+          "customers_affected": "< 5",
+          "end": "2020-10-10T19:30:00",
+          "last_updated": "2020-10-10T19:20:00",
+          "municipality": "Lake Country",
+          "municipality_code": "day-1 day-3 city--443780603",
+          "start": "2020-10-10T17:44:00"
         },
         {
           "area": "South of ALBERS RD, North-West of HWY 6 , East of LUMBY MABEL LAKE RD",
