@@ -18,27 +18,27 @@
       "region_id": "1602896846"
     },
     "Northern": {
-      "customers_affected_14d": 462,
+      "customers_affected_14d": 57,
       "outages": [
         {
-          "area": "South of STELLA RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Wire down",
-          "customers_affected": "461",
-          "last_updated": "2020-10-11T02:59:00",
-          "municipality": "Fraser Lake",
-          "municipality_code": "day-1 day-3 city--90749596",
-          "start": "2020-10-10T23:45:00",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 11 6:00 a.m."
+          "area": "KEEFE LND RD P8/4, OOTSA HILL RD P11/1, 54800 block KEEFE LND RD, 58700 block OOTTSA HILL RD, KEEFE LND RD P4, KEEFE LND RD P23/29, KEEFE LND RD P23/28\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Under investigation",
+          "customers_affected": "8",
+          "last_updated": "2020-10-11T05:49:00",
+          "municipality": "Burns Lake",
+          "municipality_code": "day-1 day-3 city--2121425941",
+          "start": "2020-10-11T05:25:00",
+          "status": "Crew status: Crew assigned"
         },
         {
-          "area": "400 block 3RD AVE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Wire down",
-          "customers_affected": "< 5",
-          "last_updated": "2020-10-11T02:42:00",
+          "area": "South of HWY 16\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Under investigation",
+          "customers_affected": "49",
+          "last_updated": "2020-10-11T06:04:00",
           "municipality": "Vanderhoof",
           "municipality_code": "day-1 day-3 city-1041981516",
-          "start": "2020-10-10T23:47:00",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 11 6:00 a.m."
+          "start": "2020-10-11T06:01:00",
+          "status": "Crew status: Crew assigned"
         }
       ],
       "region_code": "Northern",
@@ -51,7 +51,7 @@
           "area": "6000 block DEMPSEY LAKE S RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Wire down",
           "customers_affected": "7",
-          "last_updated": "2020-10-11T04:27:00",
+          "last_updated": "2020-10-11T06:05:00",
           "municipality": "100 Mile House",
           "municipality_code": "day-1 day-3 city-950857956",
           "start": "2020-10-10T20:38:00",
@@ -61,7 +61,7 @@
           "area": "10500 - 10600 block DUNN LAKE RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "5",
-          "last_updated": "2020-10-11T04:27:00",
+          "last_updated": "2020-10-11T06:04:00",
           "municipality": "Clearwater",
           "municipality_code": "day-1 day-3 city-1282265866",
           "start": "2020-10-10T14:13:00",
@@ -7076,7 +7076,7 @@
       "region_id": "1602896846"
     },
     "Northern": {
-      "customers_affected_14d": 18800,
+      "customers_affected_14d": 19262,
       "outages": [
         {
           "area": "North-South-East-West of HWY 20",
@@ -7699,6 +7699,16 @@
           "start": "2020-10-03T16:09:00"
         },
         {
+          "area": "South of STELLA RD",
+          "cause": "Wire down",
+          "customers_affected": "461",
+          "end": "2020-10-11T06:00:00",
+          "last_updated": "2020-10-11T05:51:00",
+          "municipality": "Fraser Lake",
+          "municipality_code": "day-1 day-3 city--90749596",
+          "start": "2020-10-10T23:45:00"
+        },
+        {
           "area": "North-South-East-West of HWY 37",
           "cause": "Under investigation",
           "customers_affected": "58",
@@ -8217,6 +8227,16 @@
           "municipality": "Vanderhoof",
           "municipality_code": "city-1041981516",
           "start": "2020-10-05T11:51:00"
+        },
+        {
+          "area": "400 block 3RD AVE",
+          "cause": "Equipment failure",
+          "customers_affected": "< 5",
+          "end": "2020-10-11T06:00:00",
+          "last_updated": "2020-10-11T05:52:00",
+          "municipality": "Vanderhoof",
+          "municipality_code": "day-1 day-3 city-1041981516",
+          "start": "2020-10-10T23:47:00"
         }
       ],
       "region_code": "Northern",
