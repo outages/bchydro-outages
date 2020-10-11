@@ -52,7 +52,7 @@
       "region_id": "2072041405"
     },
     "Thompson/Shuswap": {
-      "customers_affected_14d": 320,
+      "customers_affected_14d": 327,
       "outages": [
         {
           "area": "North of HORSE LAKE RD, West of 181 FOREST SERVICE RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -75,6 +75,16 @@
           "status": "Crew status: Crew assigned"
         },
         {
+          "area": "6200 - 6500 block CORRAL RD, 6200 block CLEARWATER VAL RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Under investigation",
+          "customers_affected": "7",
+          "last_updated": "2020-10-10T22:29:00",
+          "municipality": "Clearwater",
+          "municipality_code": "day-1 day-3 city-1282265866",
+          "start": "2020-10-10T22:16:00",
+          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 10 11:45 p.m."
+        },
+        {
           "area": "10500 - 10600 block DUNN LAKE RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "5",
@@ -88,11 +98,11 @@
           "area": "M 8/0 CLEARWATER SUB\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-10T21:32:00",
+          "last_updated": "2020-10-10T22:29:00",
           "municipality": "Clearwater",
           "municipality_code": "day-1 day-3 city-1282265866",
           "start": "2020-10-10T15:46:00",
-          "status": "Crew status: Crew on their way"
+          "status": "Crew status: Crew assigned"
         },
         {
           "area": "East of BARRIERE LAKE RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
