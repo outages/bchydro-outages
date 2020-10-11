@@ -7,17 +7,17 @@
           "area": "1600 - 1700 block LITTLE RIVER RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-11T07:24:00",
+          "last_updated": "2020-10-11T07:59:00",
           "municipality": "Comox",
           "municipality_code": "day-1 day-3 city-65291018",
           "start": "2020-10-11T07:20:00",
-          "status": "Crew status: Crew assigned"
+          "status": "Crew status: Crew on-site"
         },
         {
           "area": "North of EVENSON RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "104",
-          "last_updated": "2020-10-11T06:51:00",
+          "last_updated": "2020-10-11T08:00:00",
           "municipality": "Port Hardy",
           "municipality_code": "day-1 day-3 city-368562319",
           "start": "2020-10-10T20:21:00",
@@ -54,7 +54,7 @@
           "area": "South of HWY 16\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "49",
-          "last_updated": "2020-10-11T07:31:00",
+          "last_updated": "2020-10-11T07:49:00",
           "municipality": "Vanderhoof",
           "municipality_code": "day-1 day-3 city-1041981516",
           "start": "2020-10-11T06:01:00",
@@ -65,7 +65,7 @@
       "region_id": "1602964060"
     },
     "Thompson/Shuswap": {
-      "customers_affected_14d": 132,
+      "customers_affected_14d": 143,
       "outages": [
         {
           "area": "6000 block DEMPSEY LAKE S RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -76,6 +76,16 @@
           "municipality_code": "day-1 day-3 city-950857956",
           "start": "2020-10-10T20:38:00",
           "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 11 8:00 a.m."
+        },
+        {
+          "area": "3400 - 4100 block MCNAB RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Under investigation",
+          "customers_affected": "12",
+          "last_updated": "2020-10-11T07:49:00",
+          "municipality": "Clearwater",
+          "municipality_code": "day-1 day-3 city-1282265866",
+          "start": "2020-10-11T06:07:00",
+          "status": "Crew status: Crew assigned"
         },
         {
           "area": "10500 - 10600 block DUNN LAKE RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -96,16 +106,6 @@
           "municipality_code": "day-1 day-3 city-1282265866",
           "start": "2020-10-10T15:46:00",
           "status": "Crew status: Crew assigned\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 11 9:30 a.m."
-        },
-        {
-          "area": "3400 block MCNAB RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Under investigation",
-          "customers_affected": "< 5",
-          "last_updated": "2020-10-11T06:52:00",
-          "municipality": "Clearwater",
-          "municipality_code": "day-1 day-3 city-1282265866",
-          "start": "2020-10-11T06:07:00",
-          "status": "Crew status: Crew assigned"
         },
         {
           "area": "North-South-East-West of HWY 16\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -161,7 +161,7 @@
       "region_id": "848340027"
     },
     "Lower Mainland": {
-      "customers_affected_14d": 4951,
+      "customers_affected_14d": 4948,
       "outages": [
         {
           "area": "1944, 1954, 1966, 1976 Albion St; 32666-32749 Cordova Ave; 325, 32760 Marshall Rd, 32414-32750 Pandora Ave; 1911-1944 Valencia Crt, Abbotsford",
@@ -442,16 +442,6 @@
           "municipality": "Chilliwack",
           "municipality_code": "day-1 day-3 city--708005353",
           "start": "2020-10-13T08:30:00"
-        },
-        {
-          "area": "45950 Cheam Ave, Chilliwack",
-          "cause": "Planned work being done on our equipment",
-          "customers_affected": "< 5",
-          "end": "2020-10-09T08:00:00",
-          "last_updated": "2020-09-28T12:49:00",
-          "municipality": "Chilliwack",
-          "municipality_code": "day-1 day-3 city--708005353",
-          "start": "2020-10-09T07:30:00"
         },
         {
           "area": "**CANCELLED ****45875 Promontory Rd., Chilliwack",
@@ -10686,7 +10676,7 @@
           "end": "",
           "last_updated": "2020-10-09T08:01:00",
           "municipality": "Lillooet",
-          "municipality_code": "day-1 day-3 city-1203310572",
+          "municipality_code": "day-3 city-1203310572",
           "start": "2020-10-09T07:27:00"
         },
         {
