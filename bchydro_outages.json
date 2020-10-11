@@ -1,18 +1,8 @@
 {
   "current": {
     "Lower Mainland": {
-      "customers_affected_14d": 7,
+      "customers_affected_14d": -1,
       "outages": [
-        {
-          "area": "8700 block CHWK MTN RD, 8700 block CHILLIWACK MOUNTAIN RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Under investigation",
-          "customers_affected": "< 5",
-          "last_updated": "2020-10-10T19:19:00",
-          "municipality": "Chilliwack",
-          "municipality_code": "day-1 day-3 city--708005353",
-          "start": "2020-10-10T17:58:00",
-          "status": "Crew status: Crew on-site"
-        },
         {
           "area": "22000 - 22100 block TRANS CAN HWY\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Tree down across our wires",
@@ -89,18 +79,8 @@
       "region_id": "1812901382"
     },
     "Thompson/Shuswap": {
-      "customers_affected_14d": 3793,
+      "customers_affected_14d": 3710,
       "outages": [
-        {
-          "area": "North of CANIM LAKE RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Under investigation",
-          "customers_affected": "78",
-          "last_updated": "2020-10-10T16:55:00",
-          "municipality": "100 Mile House",
-          "municipality_code": "day-1 day-3 city-950857956",
-          "start": "2020-10-10T12:42:00",
-          "status": "Crew status: Crew assigned"
-        },
         {
           "area": "South of LAING RD, East of MAHOOD LAKE RD, North of BURGESS RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Tree down across our wires",
@@ -125,7 +105,7 @@
           "area": "West of HIGHLAND VALLEY RD, South of 97C HWY, North-East of Trans Can HWY\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Transmission circuit failure",
           "customers_affected": "1327",
-          "last_updated": "2020-10-10T19:30:00",
+          "last_updated": "2020-10-10T19:43:00",
           "municipality": "Ashcroft",
           "municipality_code": "day-1 day-3 city--625370600",
           "start": "2020-10-10T19:12:00",
@@ -135,31 +115,21 @@
           "area": "North of 97C HWY, South-East of HWY 97 , West of TRANS CANADA HWY\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Transmission circuit failure",
           "customers_affected": "933",
-          "last_updated": "2020-10-10T19:30:00",
+          "last_updated": "2020-10-10T19:43:00",
           "municipality": "Ashcroft, Cache Creek",
           "municipality_code": "day-1 day-3 city--625370600 city-720749214",
           "start": "2020-10-10T19:11:00",
           "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 10 9:00 p.m."
         },
         {
-          "area": "DEADMAN CRK RD P346, 6500 block DEADMAN VIDETTE RD, 6700 block DEADMAN CRK RD, DEADMAN CRK RD P359\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Tree down across our wires",
-          "customers_affected": "5",
-          "last_updated": "2020-10-10T19:34:00",
-          "municipality": "Cache Creek",
-          "municipality_code": "day-1 day-3 city-720749214",
-          "start": "2020-10-10T13:56:00",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 10 7:30 p.m."
-        },
-        {
           "area": "1500 block TRANS CAN HWY\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-10T15:41:00",
+          "last_updated": "2020-10-10T19:41:00",
           "municipality": "Cache Creek",
           "municipality_code": "day-1 day-3 city-720749214",
           "start": "2020-10-10T15:21:00",
-          "status": "Crew status: Crew assigned"
+          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 10 8:40 p.m."
         },
         {
           "area": "800 block COLLINS RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -215,7 +185,7 @@
           "area": "North of MAIN ST, West of HWY 8 , South of TRANS CAN HWY, East of HWY 12\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Transmission circuit failure",
           "customers_affected": "901",
-          "last_updated": "2020-10-10T19:30:00",
+          "last_updated": "2020-10-10T19:44:00",
           "municipality": "Lytton",
           "municipality_code": "day-1 day-3 city--2003834996",
           "start": "2020-10-10T19:11:00",
@@ -3136,7 +3106,7 @@
       "region_id": "848340027"
     },
     "Lower Mainland": {
-      "customers_affected_14d": 39502,
+      "customers_affected_14d": 39506,
       "outages": [
         {
           "area": "East of CLEARBROOK RD, South of NANAIMO CLS, North of PEARDONVILLE RD, West of MACLURE RD",
@@ -3857,6 +3827,16 @@
           "municipality": "Chilliwack",
           "municipality_code": "city--708005353",
           "start": "2020-09-30T09:38:00"
+        },
+        {
+          "area": "8700 block CHWK MTN RD, 8700 block CHILLIWACK MOUNTAIN RD",
+          "cause": "Under investigation",
+          "customers_affected": "< 5",
+          "end": "2020-10-10T19:45:00",
+          "last_updated": "2020-10-10T19:44:00",
+          "municipality": "Chilliwack",
+          "municipality_code": "day-1 day-3 city--708005353",
+          "start": "2020-10-10T17:58:00"
         },
         {
           "area": "49100 block BELL ACRES RD",
@@ -7739,7 +7719,7 @@
           "end": "",
           "last_updated": "2020-10-08T11:45:00",
           "municipality": "Fort St. John",
-          "municipality_code": "day-3 city-205572915",
+          "municipality_code": "city-205572915",
           "start": "2020-10-06T15:51:00"
         },
         {
@@ -10201,7 +10181,7 @@
       "region_id": "1812901382"
     },
     "Thompson/Shuswap": {
-      "customers_affected_14d": 6891,
+      "customers_affected_14d": 6974,
       "outages": [
         {
           "area": "East of WILCOX RD, North of TRIP RD",
@@ -10222,6 +10202,16 @@
           "municipality": "100 Mile House",
           "municipality_code": "day-1 day-3 city-950857956",
           "start": "2020-10-10T13:10:00"
+        },
+        {
+          "area": "North of CANIM LAKE RD",
+          "cause": "Tree down across our wires",
+          "customers_affected": "78",
+          "end": "",
+          "last_updated": "2020-10-10T19:38:00",
+          "municipality": "100 Mile House",
+          "municipality_code": "day-1 day-3 city-950857956",
+          "start": "2020-10-10T12:42:00"
         },
         {
           "area": "North of CANIM LAKE RD",
@@ -10424,6 +10414,16 @@
           "start": "2020-10-01T09:02:00"
         },
         {
+          "area": "DEADMAN CRK RD P346, 6500 block DEADMAN VIDETTE RD, 6700 block DEADMAN CRK RD, DEADMAN CRK RD P359",
+          "cause": "Tree down across our wires",
+          "customers_affected": "5",
+          "end": "2020-10-10T19:30:00",
+          "last_updated": "2020-10-10T19:41:00",
+          "municipality": "Cache Creek",
+          "municipality_code": "day-1 day-3 city-720749214",
+          "start": "2020-10-10T13:56:00"
+        },
+        {
           "area": "3800 block BARNES LAKE RD",
           "cause": "Bird contacting our wires",
           "customers_affected": "< 5",
@@ -10490,7 +10490,7 @@
           "end": "2020-10-08T19:45:00",
           "last_updated": "2020-10-08T19:44:00",
           "municipality": "Clearwater",
-          "municipality_code": "day-1 day-3 city-1282265866",
+          "municipality_code": "day-3 city-1282265866",
           "start": "2020-10-08T10:23:00"
         },
         {
