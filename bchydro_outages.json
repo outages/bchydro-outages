@@ -1,7 +1,7 @@
 {
   "current": {
     "Lower Mainland": {
-      "customers_affected_14d": 17,
+      "customers_affected_14d": 34,
       "outages": [
         {
           "area": "East of GORING ST, North of ROY ST, South-West of LOUGHEED HWY\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -12,14 +12,34 @@
           "municipality_code": "day-1 day-3 city-1903966249",
           "start": "2020-10-11T08:51:00",
           "status": "Crew status: Crew assigned\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 11 9:30 a.m."
+        },
+        {
+          "area": "33500 - 33600 block 2ND AVE, 33500 block 2 AVE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Under investigation",
+          "customers_affected": "17",
+          "last_updated": "2020-10-11T10:02:00",
+          "municipality": "Mission",
+          "municipality_code": "day-1 day-3 city--1560864404",
+          "start": "2020-10-11T09:55:00",
+          "status": "Crew status: Crew assigned"
         }
       ],
       "region_code": "Lower Mainland",
       "region_id": "521980323"
     },
     "North VI": {
-      "customers_affected_14d": 104,
+      "customers_affected_14d": 347,
       "outages": [
+        {
+          "area": "North of RYAN RD, South of Powell R-Little River Ferry , East of ANDERTON RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Under investigation",
+          "customers_affected": "243",
+          "last_updated": "2020-10-11T10:01:00",
+          "municipality": "Comox",
+          "municipality_code": "day-1 day-3 city-65291018",
+          "start": "2020-10-11T09:49:00",
+          "status": "Crew status: Crew on their way"
+        },
         {
           "area": "North of EVENSON RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
@@ -38,24 +58,14 @@
       "customers_affected_14d": -1,
       "outages": [
         {
-          "area": "49600 block EAKIN SETT RD P384/4\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Under investigation",
-          "customers_affected": "< 5",
-          "last_updated": "2020-10-11T07:26:00",
-          "municipality": "Burns Lake",
-          "municipality_code": "day-1 day-3 city--2121425941",
-          "start": "2020-10-11T07:06:00",
-          "status": "Crew status: Crew assigned"
-        },
-        {
           "area": "9700 block 269 RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-11T09:13:00",
+          "last_updated": "2020-10-11T10:02:00",
           "municipality": "Fort St. John",
           "municipality_code": "day-1 day-3 city-205572915",
           "start": "2020-10-11T08:56:00",
-          "status": "Crew status: Crew assigned"
+          "status": "Crew status: Crew on their way"
         }
       ],
       "region_code": "Northern",
@@ -7093,7 +7103,7 @@
       "region_id": "1602896846"
     },
     "Northern": {
-      "customers_affected_14d": 19311,
+      "customers_affected_14d": 19483,
       "outages": [
         {
           "area": "North-South-East-West of HWY 20",
@@ -7144,6 +7154,16 @@
           "municipality": "Bella Coola",
           "municipality_code": "city-1770605334",
           "start": "2020-10-05T16:41:00"
+        },
+        {
+          "area": "16900 block SPUD LAKE RD, OOTSA NADINA P47, KEEFE LND RD P8/4, OOTSA E P43/4, OOTSA NADINA P156/7, BLACKWELL RD P187/13, OOTSA NADINA R P137/6, 38600 block BLACKWELL RD W, OOTSA E P142, OOTSA E P291/6...",
+          "cause": "equipment contact",
+          "customers_affected": "172",
+          "end": "2020-10-11T10:00:00",
+          "last_updated": "2020-10-11T09:59:00",
+          "municipality": "Burns Lake",
+          "municipality_code": "day-1 day-3 city--2121425941",
+          "start": "2020-10-11T05:25:00"
         },
         {
           "area": "North of H1Y 16 , East of BEEDLE RD",
