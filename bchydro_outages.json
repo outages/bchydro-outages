@@ -64,11 +64,11 @@
           "area": "West of FITZGERALD RD, East of FORTNUM RD, South of FARNHAM RD, North of MILMAN RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Wire down",
           "customers_affected": "18",
-          "last_updated": "2020-10-11T16:06:00",
+          "last_updated": "2020-10-11T16:25:00",
           "municipality": "Courtenay",
           "municipality_code": "day-1 day-3 city--824228212",
           "start": "2020-10-11T14:05:00",
-          "status": "Crew status: Crew on their way"
+          "status": "Crew status: Crew on-site"
         },
         {
           "area": "8500 block OWL CRS\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -102,7 +102,7 @@
       "region_id": "1602964060"
     },
     "South VI": {
-      "customers_affected_14d": 225,
+      "customers_affected_14d": 224,
       "outages": [
         {
           "area": "0 - 1700 block MCCLURE RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -125,16 +125,6 @@
           "status": "Crew status: Crew assigned\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 11 8:00 p.m."
         },
         {
-          "area": "4700 block SOOKE RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Under investigation",
-          "customers_affected": "< 5",
-          "last_updated": "2020-10-11T15:09:00",
-          "municipality": "Metchosin",
-          "municipality_code": "day-1 day-3 city-1000109226",
-          "start": "2020-10-11T13:42:00",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 11 5:00 p.m."
-        },
-        {
           "area": "West of JOLLY ROGER CRS, East of SCHOONER WAY, South of CROWSNEST DR, North of BRIGADOON CRS\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Wire down",
           "customers_affected": "155",
@@ -146,19 +136,29 @@
         },
         {
           "area": "5800 block OLD W SAANICH RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Under investigation",
+          "cause": "Tree down across our wires",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-11T16:13:00",
+          "last_updated": "2020-10-11T16:24:00",
           "municipality": "Saanich",
           "municipality_code": "day-1 day-3 city--776615533",
           "start": "2020-10-11T15:33:00",
           "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 11 4:35 p.m."
         },
         {
+          "area": "1100 block TIMBER LANE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Under investigation",
+          "customers_affected": "< 5",
+          "last_updated": "2020-10-11T16:28:00",
+          "municipality": "Saanich",
+          "municipality_code": "day-1 day-3 city--776615533",
+          "start": "2020-10-11T16:25:00",
+          "status": "Crew status: Crew assigned"
+        },
+        {
           "area": "100 block CLIFFSIDE RD, 100 block CLIFFSIDE DR\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "22",
-          "last_updated": "2020-10-11T16:21:00",
+          "last_updated": "2020-10-11T16:23:00",
           "municipality": "Saturna Island",
           "municipality_code": "day-1 day-3 city-501274559",
           "start": "2020-10-11T16:09:00",
@@ -245,7 +245,7 @@
       "region_id": "848340027"
     },
     "Lower Mainland": {
-      "customers_affected_14d": 4640,
+      "customers_affected_14d": 4625,
       "outages": [
         {
           "area": "1944, 1954, 1966, 1976 Albion St; 32666-32749 Cordova Ave; 325, 32760 Marshall Rd, 32414-32750 Pandora Ave; 1911-1944 Valencia Crt, Abbotsford",
@@ -996,16 +996,6 @@
           "municipality": "Richmond",
           "municipality_code": "day-1 day-3 city--1486145068",
           "start": "2020-10-21T10:00:00"
-        },
-        {
-          "area": "7091, 7131 Bridge St; 9519-9599 Sills Ave, Richmond",
-          "cause": "Planned work being done on our equipment",
-          "customers_affected": "15",
-          "end": "2020-10-09T16:30:00",
-          "last_updated": "2020-09-23T08:41:00",
-          "municipality": "Richmond",
-          "municipality_code": "day-1 day-3 city--1486145068",
-          "start": "2020-10-09T08:30:00"
         },
         {
           "area": "*Outage has been cancelled*5180,5188,5191,5197,5200,5208,5211\r\n5217,5220,5228,5231,5237,5240,5251\r\nHollyfield Ave., Richmond",
@@ -9174,7 +9164,7 @@
       "region_id": "2072041405"
     },
     "South VI": {
-      "customers_affected_14d": 10804,
+      "customers_affected_14d": 10806,
       "outages": [
         {
           "area": "South-West of SAANICH RD, North-East of COOPERIDGE DR",
@@ -9605,6 +9595,16 @@
           "municipality": "Metchosin",
           "municipality_code": "city-1000109226",
           "start": "2020-09-30T18:57:00"
+        },
+        {
+          "area": "4700 block SOOKE RD",
+          "cause": "Tree down across our wires",
+          "customers_affected": "< 5",
+          "end": "2020-10-11T17:00:00",
+          "last_updated": "2020-10-11T16:27:00",
+          "municipality": "Metchosin",
+          "municipality_code": "day-1 day-3 city-1000109226",
+          "start": "2020-10-11T13:42:00"
         },
         {
           "area": "4900 block ROCKY POINT RD",
