@@ -44,11 +44,11 @@
           "area": "South of KUHUSHAN RD, North of WILFRED RD, East of ISLAND HWY\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Tree down across our wires",
           "customers_affected": "377",
-          "last_updated": "2020-10-11T15:14:00",
+          "last_updated": "2020-10-11T15:41:00",
           "municipality": "Courtenay",
           "municipality_code": "day-1 day-3 city--824228212",
           "start": "2020-10-11T13:46:00",
-          "status": "Crew status: Crew on-site"
+          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 11 4:00 p.m."
         },
         {
           "area": "West of FITZGERALD RD, East of FORTNUM RD, South of FARNHAM RD, North of MILMAN RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -92,7 +92,7 @@
       "region_id": "1602964060"
     },
     "South VI": {
-      "customers_affected_14d": 202,
+      "customers_affected_14d": 203,
       "outages": [
         {
           "area": "0 - 1700 block MCCLURE RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -108,7 +108,7 @@
           "area": "North of CAMPBELL BAY RD, East of WAUGH RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Wire down",
           "customers_affected": "39",
-          "last_updated": "2020-10-11T15:30:00",
+          "last_updated": "2020-10-11T15:40:00",
           "municipality": "Mayne Island",
           "municipality_code": "day-1 day-3 city-48997657",
           "start": "2020-10-11T15:21:00",
@@ -133,6 +133,16 @@
           "municipality_code": "day-1 day-3 city--635217187",
           "start": "2020-10-11T15:10:00",
           "status": "Crew status: Crew assigned\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 11 5:00 p.m."
+        },
+        {
+          "area": "5800 block OLD W SAANICH RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Under investigation",
+          "customers_affected": "< 5",
+          "last_updated": "2020-10-11T15:40:00",
+          "municipality": "Saanich",
+          "municipality_code": "day-1 day-3 city--776615533",
+          "start": "2020-10-11T15:33:00",
+          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 11 4:40 p.m."
         }
       ],
       "region_code": "South VI",
@@ -165,11 +175,11 @@
           "area": "4800 block LEOPOLD RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-11T14:58:00",
+          "last_updated": "2020-10-11T15:34:00",
           "municipality": "Salmon Arm",
           "municipality_code": "day-1 day-3 city-2118875562",
           "start": "2020-10-11T13:54:00",
-          "status": "Crew status: No crew assigned yet"
+          "status": "Crew status: Crew assigned"
         },
         {
           "area": "North-South-East-West of HWY 16\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -4395,7 +4405,7 @@
           "end": "2020-10-07T16:00:00",
           "last_updated": "2020-10-07T15:52:00",
           "municipality": "Langley",
-          "municipality_code": "day-3 city-1612593490",
+          "municipality_code": "city-1612593490",
           "start": "2020-10-07T08:35:00"
         },
         {
@@ -7102,7 +7112,7 @@
           "end": "",
           "last_updated": "2020-10-08T14:39:00",
           "municipality": "Qualicum Beach",
-          "municipality_code": "day-3 city--154309756",
+          "municipality_code": "city--154309756",
           "start": "2020-10-07T14:59:00"
         },
         {
@@ -7190,7 +7200,7 @@
       "region_id": "1602896846"
     },
     "Northern": {
-      "customers_affected_14d": 19485,
+      "customers_affected_14d": 19488,
       "outages": [
         {
           "area": "North-South-East-West of HWY 20",
@@ -7751,6 +7761,16 @@
           "municipality": "Fort St. John",
           "municipality_code": "city-205572915",
           "start": "2020-10-03T19:33:00"
+        },
+        {
+          "area": "15100 - 15300 block WATSON RD",
+          "cause": "Tree down across our wires",
+          "customers_affected": "< 5",
+          "end": "2020-10-11T13:30:00",
+          "last_updated": "2020-10-11T15:32:00",
+          "municipality": "Fort St. John",
+          "municipality_code": "day-1 day-3 city-205572915",
+          "start": "2020-10-09T19:37:00"
         },
         {
           "area": "East of 221 RD",
