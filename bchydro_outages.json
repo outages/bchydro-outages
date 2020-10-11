@@ -58,11 +58,11 @@
           "area": "0 - 1700 block MCCLURE RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "6",
-          "last_updated": "2020-10-11T13:26:00",
+          "last_updated": "2020-10-11T13:30:00",
           "municipality": "Galiano Island",
           "municipality_code": "day-1 day-3 city--995767958",
           "start": "2020-10-11T13:24:00",
-          "status": "Crew status: No crew assigned yet"
+          "status": "Crew status: Crew assigned"
         }
       ],
       "region_code": "South VI",
@@ -1933,7 +1933,7 @@
       "region_id": "2072041405"
     },
     "South VI": {
-      "customers_affected_14d": 1818,
+      "customers_affected_14d": 1812,
       "outages": [
         {
           "area": "1746 Verling Ave; 1763 Sean Hts, Saanichton",
@@ -2094,16 +2094,6 @@
           "municipality": "Sidney",
           "municipality_code": "day-1 day-3 city--1818689996",
           "start": "2020-10-16T09:30:00"
-        },
-        {
-          "area": "**EMERGENT** re scheduled from OCT 6th8704 Emard Terr, North Saanich, 8696, 8712, 8715 Emard Tce, 2055 Lowe Rd, Sidney",
-          "cause": "Pole replacement",
-          "customers_affected": "6",
-          "end": "2020-10-09T13:30:00",
-          "last_updated": "2020-10-06T08:47:00",
-          "municipality": "Sidney",
-          "municipality_code": "day-1 day-3 city--1818689996",
-          "start": "2020-10-09T09:30:00"
         },
         {
           "area": "*1 HOUR OUTAGE BETWEEN 10AM - 1PM OCT 16*2200 BLOCK OF TOWNSEND RD; 6600 BLOCK RHODONITE DR; 6700 BLOCK OF NOTT PL; 6495, 6499, 6500 BLOCK OF CALLUMWOOD LANE; 2351 TO 2412 CAFFREY PL; 6500 BLOCK OF ARRANWOOD DR;",
@@ -4830,10 +4820,10 @@
         },
         {
           "area": "33800 block DEWDNEY TRK RD",
-          "cause": "Under investigation",
+          "cause": "Bird contacting our wires",
           "customers_affected": "< 5",
           "end": "",
-          "last_updated": "2020-10-11T13:15:00",
+          "last_updated": "2020-10-11T13:29:00",
           "municipality": "Mission",
           "municipality_code": "day-1 day-3 city--1560864404",
           "start": "2020-10-11T11:32:00"
@@ -6522,7 +6512,7 @@
           "end": "",
           "last_updated": "2020-10-09T13:30:00",
           "municipality": "Courtenay",
-          "municipality_code": "day-1 day-3 city--824228212",
+          "municipality_code": "day-3 city--824228212",
           "start": "2020-10-09T11:23:00"
         },
         {
