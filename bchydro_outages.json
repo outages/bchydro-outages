@@ -61,23 +61,6 @@
       "region_code": "Okanagan/Kootenay",
       "region_id": "2072041405"
     },
-    "South VI": {
-      "customers_affected_14d": -1,
-      "outages": [
-        {
-          "area": "1700 block GLASTONBURY RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Equipment failure",
-          "customers_affected": "< 5",
-          "last_updated": "2020-10-10T20:13:00",
-          "municipality": "Saanich",
-          "municipality_code": "day-1 day-3 city--776615533",
-          "start": "2020-10-10T16:53:00",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 10 10:00 p.m."
-        }
-      ],
-      "region_code": "South VI",
-      "region_id": "1812901382"
-    },
     "Thompson/Shuswap": {
       "customers_affected_14d": 320,
       "outages": [
@@ -85,11 +68,11 @@
           "area": "North of HORSE LAKE RD, West of 181 FOREST SERVICE RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Tree down across our wires",
           "customers_affected": "16",
-          "last_updated": "2020-10-10T21:16:00",
+          "last_updated": "2020-10-10T21:57:00",
           "municipality": "100 Mile House",
           "municipality_code": "day-1 day-3 city-950857956",
           "start": "2020-10-10T12:45:00",
-          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 10 10:00 p.m."
+          "status": "Crew status: Crew on-site"
         },
         {
           "area": "6000 block DEMPSEY LAKE S RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -125,7 +108,7 @@
           "area": "East of BARRIERE LAKE RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Tree down across our wires",
           "customers_affected": "179",
-          "last_updated": "2020-10-10T20:07:00",
+          "last_updated": "2020-10-10T22:05:00",
           "municipality": "Kamloops",
           "municipality_code": "day-1 day-3 city-979034872",
           "start": "2020-10-10T13:57:00",
@@ -3026,7 +3009,7 @@
       "region_id": "848340027"
     },
     "Lower Mainland": {
-      "customers_affected_14d": 39509,
+      "customers_affected_14d": 39519,
       "outages": [
         {
           "area": "East of CLEARBROOK RD, South of NANAIMO CLS, North of PEARDONVILLE RD, West of MACLURE RD",
@@ -3815,7 +3798,7 @@
           "end": "",
           "last_updated": "2020-10-08T21:55:00",
           "municipality": "Chilliwack",
-          "municipality_code": "day-1 day-3 city--708005353",
+          "municipality_code": "day-3 city--708005353",
           "start": "2020-10-08T19:17:00"
         },
         {
@@ -6039,6 +6022,16 @@
           "start": "2020-10-05T08:44:00"
         },
         {
+          "area": "4300 block DUNBAR ST, 3600 block W 27TH AVE",
+          "cause": "Tree down across our wires",
+          "customers_affected": "10",
+          "end": "2020-10-10T21:30:00",
+          "last_updated": "2020-10-10T21:57:00",
+          "municipality": "Vancouver",
+          "municipality_code": "day-1 day-3 city--1786794435",
+          "start": "2020-10-10T13:51:00"
+        },
+        {
           "area": "North-East of STAULO CRS, South of SEMANA CRS, West of YUCULTA CRS",
           "cause": "Planned work being done on our equipment",
           "customers_affected": "10",
@@ -6205,7 +6198,7 @@
           "end": "2020-10-06T22:00:00",
           "last_updated": "2020-10-08T07:34:00",
           "municipality": "West Vancouver",
-          "municipality_code": "day-3 city--416468692",
+          "municipality_code": "city--416468692",
           "start": "2020-10-06T20:07:00"
         },
         {
@@ -9164,7 +9157,7 @@
       "region_id": "2072041405"
     },
     "South VI": {
-      "customers_affected_14d": 10934,
+      "customers_affected_14d": 10935,
       "outages": [
         {
           "area": "South-West of SAANICH RD, North-East of COOPERIDGE DR",
@@ -9917,6 +9910,16 @@
           "start": "2020-10-05T09:20:00"
         },
         {
+          "area": "1700 block GLASTONBURY RD",
+          "cause": "Tree down across our wires",
+          "customers_affected": "< 5",
+          "end": "2020-10-10T22:00:00",
+          "last_updated": "2020-10-10T21:58:00",
+          "municipality": "Saanich",
+          "municipality_code": "day-1 day-3 city--776615533",
+          "start": "2020-10-10T16:53:00"
+        },
+        {
           "area": "5100 block CORDOVA BAY RD",
           "cause": "Equipment failure",
           "customers_affected": "< 5",
@@ -10063,7 +10066,7 @@
           "end": "",
           "last_updated": "2020-10-07T09:33:00",
           "municipality": "Sooke",
-          "municipality_code": "day-3 city-80069133",
+          "municipality_code": "city-80069133",
           "start": "2020-10-06T16:13:00"
         },
         {
@@ -10670,7 +10673,7 @@
           "end": "",
           "last_updated": "2020-10-08T22:04:00",
           "municipality": "Kamloops",
-          "municipality_code": "day-1 day-3 city-979034872",
+          "municipality_code": "day-3 city-979034872",
           "start": "2020-10-08T18:52:00"
         },
         {
