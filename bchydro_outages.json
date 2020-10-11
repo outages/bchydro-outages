@@ -1,5 +1,22 @@
 {
   "current": {
+    "Lower Mainland": {
+      "customers_affected_14d": 17,
+      "outages": [
+        {
+          "area": "East of GORING ST, North of ROY ST, South-West of LOUGHEED HWY\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Planned work being done on our equipment",
+          "customers_affected": "17",
+          "last_updated": "2020-10-11T09:28:00",
+          "municipality": "Burnaby",
+          "municipality_code": "day-1 day-3 city-1903966249",
+          "start": "2020-10-11T08:51:00",
+          "status": "Crew status: Crew assigned\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 11 9:30 a.m."
+        }
+      ],
+      "region_code": "Lower Mainland",
+      "region_id": "521980323"
+    },
     "North VI": {
       "customers_affected_14d": 108,
       "outages": [
@@ -64,7 +81,7 @@
           "area": "South of HWY 16\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Wire down",
           "customers_affected": "49",
-          "last_updated": "2020-10-11T08:22:00",
+          "last_updated": "2020-10-11T09:28:00",
           "municipality": "Vanderhoof",
           "municipality_code": "day-1 day-3 city-1041981516",
           "start": "2020-10-11T06:01:00",
@@ -8982,7 +8999,7 @@
           "end": "",
           "last_updated": "2020-10-08T13:08:00",
           "municipality": "West Kelowna",
-          "municipality_code": "day-3 city-1974628732",
+          "municipality_code": "city-1974628732",
           "start": "2020-10-07T09:25:00"
         },
         {
