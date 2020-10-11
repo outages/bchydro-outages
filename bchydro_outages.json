@@ -1,27 +1,17 @@
 {
   "current": {
     "Lower Mainland": {
-      "customers_affected_14d": 13,
+      "customers_affected_14d": 11,
       "outages": [
-        {
-          "area": "22000 - 22100 block TRANS CAN HWY\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Tree down across our wires",
-          "customers_affected": "< 5",
-          "last_updated": "2020-10-10T19:14:00",
-          "municipality": "Hope",
-          "municipality_code": "day-1 day-3 city-2255196",
-          "start": "2020-10-10T06:37:00",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 10 9:00 p.m."
-        },
         {
           "area": "200 block ROBERTSON CRS\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-10T19:20:00",
+          "last_updated": "2020-10-10T20:42:00",
           "municipality": "Hope",
           "municipality_code": "day-1 day-3 city-2255196",
           "start": "2020-10-10T18:59:00",
-          "status": "Crew status: Crew assigned"
+          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 10 9:30 p.m."
         },
         {
           "area": "4300 block DUNBAR ST, 3600 block W 27TH AVE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -38,17 +28,17 @@
       "region_id": "521980323"
     },
     "North VI": {
-      "customers_affected_14d": 102,
+      "customers_affected_14d": 104,
       "outages": [
         {
-          "area": "100 block LEESON POINT RD, S OF 595 E QUATSINO RD, 4TH POLE WEST OF 34 MARINE, 700 block W QUATSINO DR, 600 block NORDSTROM RD, 100 - 900 block E QUATSINO RD, QUATSINO SR500 RADIO, 100 block QUATSINO RD, 200 block AKRE RD, QUATSINO...\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "area": "North of EVENSON RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
-          "customers_affected": "102",
-          "last_updated": "2020-10-10T20:30:00",
+          "customers_affected": "104",
+          "last_updated": "2020-10-10T20:40:00",
           "municipality": "Port Hardy",
           "municipality_code": "day-1 day-3 city-368562319",
           "start": "2020-10-10T20:21:00",
-          "status": "Crew status: Crew assigned"
+          "status": "Crew status: Crew assigned\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 11 10:00 a.m."
         }
       ],
       "region_code": "North VI",
@@ -59,13 +49,13 @@
       "outages": [
         {
           "area": "North of 223 RD, East of 227 RD, West of 17TH ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Under investigation",
+          "cause": "Equipment failure",
           "customers_affected": "82",
-          "last_updated": "2020-10-10T20:10:00",
+          "last_updated": "2020-10-10T20:45:00",
           "municipality": "Dawson Creek",
           "municipality_code": "day-1 day-3 city--1630954860",
           "start": "2020-10-10T18:39:00",
-          "status": "Crew status: Crew on-site"
+          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 10 11:00 p.m."
         }
       ],
       "region_code": "Northern",
@@ -89,13 +79,13 @@
       "region_id": "1812901382"
     },
     "Thompson/Shuswap": {
-      "customers_affected_14d": 3686,
+      "customers_affected_14d": 3558,
       "outages": [
         {
           "area": "South of LAING RD, East of MAHOOD LAKE RD, North of BURGESS RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Tree down across our wires",
           "customers_affected": "74",
-          "last_updated": "2020-10-10T20:23:00",
+          "last_updated": "2020-10-10T20:43:00",
           "municipality": "100 Mile House",
           "municipality_code": "day-1 day-3 city-950857956",
           "start": "2020-10-10T12:58:00",
@@ -109,6 +99,16 @@
           "municipality": "100 Mile House",
           "municipality_code": "day-1 day-3 city-950857956",
           "start": "2020-10-10T12:45:00",
+          "status": "Crew status: Crew assigned"
+        },
+        {
+          "area": "6000 block DEMPSEY LAKE S RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Under investigation",
+          "customers_affected": "< 5",
+          "last_updated": "2020-10-10T20:43:00",
+          "municipality": "100 Mile House",
+          "municipality_code": "day-1 day-3 city-950857956",
+          "start": "2020-10-10T20:38:00",
           "status": "Crew status: Crew assigned"
         },
         {
@@ -145,21 +145,11 @@
           "area": "800 block COLLINS RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-10T20:10:00",
+          "last_updated": "2020-10-10T20:46:00",
           "municipality": "Cache Creek",
           "municipality_code": "day-1 day-3 city-720749214",
           "start": "2020-10-10T17:07:00",
-          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 10 8:55 p.m."
-        },
-        {
-          "area": "West of CUMMINGS ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Under investigation",
-          "customers_affected": "130",
-          "last_updated": "2020-10-10T18:45:00",
-          "municipality": "Chase",
-          "municipality_code": "day-1 day-3 city-65071054",
-          "start": "2020-10-10T14:51:00",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 10 9:00 p.m."
+          "status": "Crew status: Crew on-site"
         },
         {
           "area": "10500 - 10600 block DUNN LAKE RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -190,6 +180,16 @@
           "municipality_code": "day-1 day-3 city-979034872",
           "start": "2020-10-10T13:57:00",
           "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 10 9:15 p.m."
+        },
+        {
+          "area": "6300 block LOAKIN BEAR CREEK RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Under investigation",
+          "customers_affected": "< 5",
+          "last_updated": "2020-10-10T20:44:00",
+          "municipality": "Kamloops",
+          "municipality_code": "day-1 day-3 city-979034872",
+          "start": "2020-10-10T14:51:00",
+          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 10 9:00 p.m."
         },
         {
           "area": "North of MAIN ST, West of HWY 8 , South of TRANS CAN HWY, East of HWY 12\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -3086,7 +3086,7 @@
       "region_id": "848340027"
     },
     "Lower Mainland": {
-      "customers_affected_14d": 39506,
+      "customers_affected_14d": 39508,
       "outages": [
         {
           "area": "East of CLEARBROOK RD, South of NANAIMO CLS, North of PEARDONVILLE RD, West of MACLURE RD",
@@ -4327,6 +4327,16 @@
           "municipality": "Hope",
           "municipality_code": "city-2255196",
           "start": "2020-09-30T09:50:00"
+        },
+        {
+          "area": "22000 - 22100 block TRANS CAN HWY",
+          "cause": "Tree down across our wires",
+          "customers_affected": "< 5",
+          "end": "2020-10-10T21:00:00",
+          "last_updated": "2020-10-10T20:38:00",
+          "municipality": "Hope",
+          "municipality_code": "day-1 day-3 city-2255196",
+          "start": "2020-10-10T06:37:00"
         },
         {
           "area": "1200 block BRIDGE RD",
@@ -8426,7 +8436,7 @@
           "end": "2020-10-08T21:00:00",
           "last_updated": "2020-10-09T07:49:00",
           "municipality": "Cranbrook",
-          "municipality_code": "day-1 day-3 city--591720257",
+          "municipality_code": "day-3 city--591720257",
           "start": "2020-10-08T16:16:00"
         },
         {
