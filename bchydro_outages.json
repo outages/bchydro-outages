@@ -1,7 +1,7 @@
 {
   "current": {
     "Lower Mainland": {
-      "customers_affected_14d": 36,
+      "customers_affected_14d": 23,
       "outages": [
         {
           "area": "East of GORING ST, North of ROY ST, South-West of LOUGHEED HWY\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -17,7 +17,7 @@
           "area": "9400 block 263RD ST, 9400 block 263 ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "5",
-          "last_updated": "2020-10-11T14:28:00",
+          "last_updated": "2020-10-11T15:09:00",
           "municipality": "Maple Ridge",
           "municipality_code": "day-1 day-3 city-598891104",
           "start": "2020-10-11T14:10:00",
@@ -27,21 +27,11 @@
           "area": "9400 block 263 ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-11T14:39:00",
+          "last_updated": "2020-10-11T15:09:00",
           "municipality": "Maple Ridge",
           "municipality_code": "day-1 day-3 city-598891104",
           "start": "2020-10-11T14:37:00",
           "status": "Crew status: Crew assigned"
-        },
-        {
-          "area": "8800 block STARK RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Under investigation",
-          "customers_affected": "13",
-          "last_updated": "2020-10-11T14:55:00",
-          "municipality": "Powell River",
-          "municipality_code": "day-1 day-3 city-1665178489",
-          "start": "2020-10-11T14:15:00",
-          "status": "Crew status: Crew on-site"
         }
       ],
       "region_code": "Lower Mainland",
@@ -54,7 +44,7 @@
           "area": "South of KUHUSHAN RD, North of WILFRED RD, East of ISLAND HWY\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Tree down across our wires",
           "customers_affected": "377",
-          "last_updated": "2020-10-11T14:58:00",
+          "last_updated": "2020-10-11T15:14:00",
           "municipality": "Courtenay",
           "municipality_code": "day-1 day-3 city--824228212",
           "start": "2020-10-11T13:46:00",
@@ -64,7 +54,7 @@
           "area": "West of FITZGERALD RD, East of FORTNUM RD, South of FARNHAM RD, North of MILMAN RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Wire down",
           "customers_affected": "18",
-          "last_updated": "2020-10-11T15:01:00",
+          "last_updated": "2020-10-11T15:17:00",
           "municipality": "Courtenay",
           "municipality_code": "day-1 day-3 city--824228212",
           "start": "2020-10-11T14:05:00",
@@ -91,7 +81,7 @@
           "area": "100 block OWEKENO AVE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "5",
-          "last_updated": "2020-10-11T14:58:00",
+          "last_updated": "2020-10-11T15:10:00",
           "municipality": "Terrace",
           "municipality_code": "day-1 day-3 city-241216082",
           "start": "2020-10-11T13:40:00",
@@ -102,27 +92,47 @@
       "region_id": "1602964060"
     },
     "South VI": {
-      "customers_affected_14d": 8,
+      "customers_affected_14d": 164,
       "outages": [
         {
           "area": "0 - 1700 block MCCLURE RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Under investigation",
+          "cause": "Wire down",
           "customers_affected": "6",
-          "last_updated": "2020-10-11T15:05:00",
+          "last_updated": "2020-10-11T15:26:00",
           "municipality": "Galiano Island",
           "municipality_code": "day-1 day-3 city--995767958",
           "start": "2020-10-11T13:24:00",
-          "status": "Crew status: Crew on-site"
+          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 11 4:30 p.m."
+        },
+        {
+          "area": "200 block PORTER RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Wire down",
+          "customers_affected": "< 5",
+          "last_updated": "2020-10-11T15:24:00",
+          "municipality": "Mayne Island",
+          "municipality_code": "day-1 day-3 city-48997657",
+          "start": "2020-10-11T15:22:00",
+          "status": "Crew status: Crew assigned"
         },
         {
           "area": "4700 block SOOKE RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-11T14:54:00",
+          "last_updated": "2020-10-11T15:09:00",
           "municipality": "Metchosin",
           "municipality_code": "day-1 day-3 city-1000109226",
           "start": "2020-10-11T13:42:00",
-          "status": "Crew status: Crew on-site"
+          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 11 5:00 p.m."
+        },
+        {
+          "area": "West of JOLLY ROGER CRS, East of SCHOONER WAY, South of CROWSNEST DR, North of BRIGADOON CRS\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Wire down",
+          "customers_affected": "155",
+          "last_updated": "2020-10-11T15:24:00",
+          "municipality": "Pender Island",
+          "municipality_code": "day-1 day-3 city--635217187",
+          "start": "2020-10-11T15:10:00",
+          "status": "Crew status: Crew assigned"
         }
       ],
       "region_code": "South VI",
@@ -135,7 +145,7 @@
           "area": "800 block COLLINS RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-11T14:58:00",
+          "last_updated": "2020-10-11T15:09:00",
           "municipality": "Cache Creek",
           "municipality_code": "day-1 day-3 city-720749214",
           "start": "2020-10-11T12:05:00",
@@ -145,7 +155,7 @@
           "area": "M 8/0 CLEARWATER SUB\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-11T14:58:00",
+          "last_updated": "2020-10-11T15:18:00",
           "municipality": "Clearwater",
           "municipality_code": "day-1 day-3 city-1282265866",
           "start": "2020-10-10T15:46:00",
@@ -3086,7 +3096,7 @@
       "region_id": "848340027"
     },
     "Lower Mainland": {
-      "customers_affected_14d": 39371,
+      "customers_affected_14d": 39384,
       "outages": [
         {
           "area": "East of CLEARBROOK RD, South of NANAIMO CLS, North of PEARDONVILLE RD, West of MACLURE RD",
@@ -5179,6 +5189,16 @@
           "start": "2020-10-10T12:21:00"
         },
         {
+          "area": "8800 block STARK RD",
+          "cause": "Under investigation",
+          "customers_affected": "13",
+          "end": "2020-10-11T15:30:00",
+          "last_updated": "2020-10-11T15:17:00",
+          "municipality": "Powell River",
+          "municipality_code": "day-1 day-3 city-1665178489",
+          "start": "2020-10-11T14:15:00"
+        },
+        {
           "area": "North-East of WATERFRONT RD, South of SALISH RD, West of SLIAMMON RD",
           "cause": "Bird contacting our wires",
           "customers_affected": "12",
@@ -5375,7 +5395,7 @@
           "end": "2020-10-07T15:29:00",
           "last_updated": "2020-10-07T15:29:00",
           "municipality": "Sechelt",
-          "municipality_code": "day-3 city--660434186",
+          "municipality_code": "city--660434186",
           "start": "2020-10-07T14:06:00"
         },
         {
@@ -6302,7 +6322,7 @@
           "end": "",
           "last_updated": "2020-10-09T15:15:00",
           "municipality": "Campbell River",
-          "municipality_code": "day-1 day-3 city-1240464880",
+          "municipality_code": "day-3 city-1240464880",
           "start": "2020-10-09T12:18:00"
         },
         {
@@ -6332,7 +6352,7 @@
           "end": "",
           "last_updated": "2020-10-09T15:25:00",
           "municipality": "Campbell River",
-          "municipality_code": "day-1 day-3 city-1240464880",
+          "municipality_code": "day-3 city-1240464880",
           "start": "2020-10-09T12:21:00"
         },
         {
@@ -6362,7 +6382,7 @@
           "end": "",
           "last_updated": "2020-10-09T15:26:00",
           "municipality": "Campbell River",
-          "municipality_code": "day-1 day-3 city-1240464880",
+          "municipality_code": "day-3 city-1240464880",
           "start": "2020-10-09T13:06:00"
         },
         {
@@ -6492,7 +6512,7 @@
           "end": "",
           "last_updated": "2020-10-09T15:21:00",
           "municipality": "Courtenay",
-          "municipality_code": "day-1 day-3 city--824228212",
+          "municipality_code": "day-3 city--824228212",
           "start": "2020-10-09T14:27:00"
         },
         {
@@ -7429,7 +7449,7 @@
           "end": "",
           "last_updated": "2020-10-08T06:49:00",
           "municipality": "Dawson Creek",
-          "municipality_code": "day-3 city--1630954860",
+          "municipality_code": "city--1630954860",
           "start": "2020-10-07T13:38:00"
         },
         {
@@ -8109,7 +8129,7 @@
           "end": "2020-10-09T15:00:00",
           "last_updated": "2020-10-09T15:16:00",
           "municipality": "Smithers",
-          "municipality_code": "day-1 day-3 city--305588573",
+          "municipality_code": "day-3 city--305588573",
           "start": "2020-10-09T13:00:00"
         },
         {
@@ -8856,7 +8876,7 @@
           "end": "2020-10-09T16:00:00",
           "last_updated": "2020-10-09T15:39:00",
           "municipality": "Spallumcheen",
-          "municipality_code": "day-1 day-3 city-2134222637",
+          "municipality_code": "day-3 city-2134222637",
           "start": "2020-10-09T08:06:00"
         },
         {
