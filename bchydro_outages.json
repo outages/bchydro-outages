@@ -7,29 +7,19 @@
           "area": "East of JOLAR RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "393",
-          "last_updated": "2020-10-11T01:35:00",
+          "last_updated": "2020-10-11T01:42:00",
           "municipality": "Wells",
           "municipality_code": "day-1 day-3 city-83462469",
           "start": "2020-10-11T01:33:00",
-          "status": "Crew status: No crew assigned yet"
+          "status": "Crew status: Crew assigned"
         }
       ],
       "region_code": "Central Interior",
       "region_id": "848340027"
     },
     "North VI": {
-      "customers_affected_14d": 115,
+      "customers_affected_14d": 104,
       "outages": [
-        {
-          "area": "200 block MCVICKERS ST, 300 block STANFORD AVE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Motor vehicle accident",
-          "customers_affected": "11",
-          "last_updated": "2020-10-11T01:30:00",
-          "municipality": "Parksville",
-          "municipality_code": "day-1 day-3 city--1370510519",
-          "start": "2020-10-11T00:49:00",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 11 2:00 a.m."
-        },
         {
           "area": "North of EVENSON RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
@@ -51,21 +41,21 @@
           "area": "South of STELLA RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "253",
-          "last_updated": "2020-10-11T00:06:00",
+          "last_updated": "2020-10-11T01:36:00",
           "municipality": "Fraser Lake",
           "municipality_code": "day-1 day-3 city--90749596",
           "start": "2020-10-10T23:45:00",
-          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 11 1:00 a.m."
+          "status": "Crew status: Crew on-site"
         },
         {
           "area": "400 block 3RD AVE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-11T00:07:00",
+          "last_updated": "2020-10-11T01:38:00",
           "municipality": "Vanderhoof",
           "municipality_code": "day-1 day-3 city-1041981516",
           "start": "2020-10-10T23:47:00",
-          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 11 1:00 a.m."
+          "status": "Crew status: Crew on-site"
         }
       ],
       "region_code": "Northern",
@@ -6256,7 +6246,7 @@
       "region_id": "521980323"
     },
     "North VI": {
-      "customers_affected_14d": 5057,
+      "customers_affected_14d": 5068,
       "outages": [
         {
           "area": "West of NOLE RD, South of RUDDER RD, North of GREEN RD, East of CAMPBELL RIVER-QUADRA FERRY",
@@ -6807,6 +6797,16 @@
           "municipality": "Parksville",
           "municipality_code": "city--1370510519",
           "start": "2020-10-04T07:48:00"
+        },
+        {
+          "area": "200 block MCVICKERS ST, 300 block STANFORD AVE",
+          "cause": "Motor vehicle accident",
+          "customers_affected": "11",
+          "end": "2020-10-11T02:00:00",
+          "last_updated": "2020-10-11T01:46:00",
+          "municipality": "Parksville",
+          "municipality_code": "day-1 day-3 city--1370510519",
+          "start": "2020-10-11T00:49:00"
         },
         {
           "area": "600 block E ISLAND HWY",
