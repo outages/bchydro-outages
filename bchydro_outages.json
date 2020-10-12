@@ -1,7 +1,7 @@
 {
   "current": {
     "Lower Mainland": {
-      "customers_affected_14d": 19,
+      "customers_affected_14d": 18,
       "outages": [
         {
           "area": "East of GORING ST, North of ROY ST, South-West of LOUGHEED HWY\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -22,24 +22,24 @@
           "municipality_code": "day-1 day-3 city--708005353",
           "start": "2020-10-11T17:52:00",
           "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 11 11:05 p.m."
-        },
-        {
-          "area": "6300 block TOWER RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Under investigation",
-          "customers_affected": "< 5",
-          "last_updated": "2020-10-11T21:55:00",
-          "municipality": "Sechelt",
-          "municipality_code": "day-1 day-3 city--660434186",
-          "start": "2020-10-11T20:52:00",
-          "status": "Crew status: Crew on-site"
         }
       ],
       "region_code": "Lower Mainland",
       "region_id": "521980323"
     },
     "North VI": {
-      "customers_affected_14d": 2109,
+      "customers_affected_14d": 2114,
       "outages": [
+        {
+          "area": "North-East of ISLAND HWY, South-West of SHORELINE DR\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Under investigation",
+          "customers_affected": "5",
+          "last_updated": "2020-10-11T22:18:00",
+          "municipality": "Campbell River",
+          "municipality_code": "day-1 day-3 city-1240464880",
+          "start": "2020-10-11T22:05:00",
+          "status": "Crew status: Crew assigned"
+        },
         {
           "area": "8500 block OWL CRS\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
@@ -54,7 +54,7 @@
           "area": "West of BERWICK RD, East of HORNE LAKE RD, North of KENTFORD RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "2108",
-          "last_updated": "2020-10-11T22:04:00",
+          "last_updated": "2020-10-11T22:18:00",
           "municipality": "Qualicum Beach",
           "municipality_code": "day-1 day-3 city--154309756",
           "start": "2020-10-11T21:28:00",
@@ -2909,7 +2909,7 @@
       "region_id": "848340027"
     },
     "Lower Mainland": {
-      "customers_affected_14d": 39801,
+      "customers_affected_14d": 39802,
       "outages": [
         {
           "area": "East of CLEARBROOK RD, South of NANAIMO CLS, North of PEARDONVILLE RD, West of MACLURE RD",
@@ -3928,7 +3928,7 @@
           "end": "2020-10-07T22:15:00",
           "last_updated": "2020-10-08T09:30:00",
           "municipality": "Delta",
-          "municipality_code": "day-3 city-65915800",
+          "municipality_code": "city-65915800",
           "start": "2020-10-07T19:40:00"
         },
         {
@@ -5310,6 +5310,16 @@
           "municipality": "Sechelt",
           "municipality_code": "day-1 day-3 city--660434186",
           "start": "2020-10-11T16:18:00"
+        },
+        {
+          "area": "6300 block TOWER RD",
+          "cause": "Under investigation",
+          "customers_affected": "< 5",
+          "end": "2020-10-11T23:07:00",
+          "last_updated": "2020-10-11T22:17:00",
+          "municipality": "Sechelt",
+          "municipality_code": "day-1 day-3 city--660434186",
+          "start": "2020-10-11T20:52:00"
         },
         {
           "area": "13400 block SUN CST HWY",
@@ -10398,10 +10408,10 @@
         },
         {
           "area": "North-South-East of TRANS CANADA HWY",
-          "cause": "Tree down across our wires",
+          "cause": "Equipment failure",
           "customers_affected": "111",
           "end": "2020-10-11T20:30:00",
-          "last_updated": "2020-10-11T19:37:00",
+          "last_updated": "2020-10-11T22:09:00",
           "municipality": "Cache Creek",
           "municipality_code": "day-1 day-3 city-720749214",
           "start": "2020-10-11T12:05:00"
