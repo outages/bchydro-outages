@@ -17,11 +17,11 @@
           "area": "7400 block REEDER RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Tree down across our wires",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-12T03:17:00",
+          "last_updated": "2020-10-12T04:16:00",
           "municipality": "Richmond",
           "municipality_code": "day-1 day-3 city--1486145068",
           "start": "2020-10-12T01:59:00",
-          "status": "Crew status: Crew assigned"
+          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 12 5:20 a.m."
         },
         {
           "area": "5700 - 5800 block ALMA ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -71,18 +71,18 @@
           "area": "South of HWY 16\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "49",
-          "last_updated": "2020-10-12T03:33:00",
+          "last_updated": "2020-10-12T04:15:00",
           "municipality": "Vanderhoof",
           "municipality_code": "day-1 day-3 city-1041981516",
           "start": "2020-10-12T03:23:00",
-          "status": "Crew status: Crew assigned"
+          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 12 5:15 a.m."
         }
       ],
       "region_code": "Northern",
       "region_id": "1602964060"
     },
     "South VI": {
-      "customers_affected_14d": 174,
+      "customers_affected_14d": 165,
       "outages": [
         {
           "area": "South of FURNESS RD, North-West of MUSGRAVE RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -93,16 +93,6 @@
           "municipality_code": "day-1 day-3 city-2125630497",
           "start": "2020-10-12T01:36:00",
           "status": "Crew status: Crew assigned"
-        },
-        {
-          "area": "700 block WILLING DR\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Under investigation",
-          "customers_affected": "9",
-          "last_updated": "2020-10-12T02:38:00",
-          "municipality": "Langford",
-          "municipality_code": "day-1 day-3 city--1549378615",
-          "start": "2020-10-12T00:31:00",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 12 4:00 a.m."
         },
         {
           "area": "West of SPALDING RD, South of AINSLIE POINT RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -8877,7 +8867,7 @@
       "region_id": "2072041405"
     },
     "South VI": {
-      "customers_affected_14d": 14075,
+      "customers_affected_14d": 14084,
       "outages": [
         {
           "area": "South-West of SAANICH RD, North-East of COOPERIDGE DR",
@@ -9288,6 +9278,16 @@
           "municipality": "Langford",
           "municipality_code": "day-3 city--1549378615",
           "start": "2020-10-08T14:31:00"
+        },
+        {
+          "area": "700 block WILLING DR",
+          "cause": "Tree down across our wires",
+          "customers_affected": "9",
+          "end": "2020-10-12T04:00:00",
+          "last_updated": "2020-10-12T04:15:00",
+          "municipality": "Langford",
+          "municipality_code": "day-1 day-3 city--1549378615",
+          "start": "2020-10-12T00:31:00"
         },
         {
           "area": "3700 block TRANS CAN HWY",
@@ -10453,7 +10453,7 @@
           "end": "2020-10-10T05:00:00",
           "last_updated": "2020-10-10T04:12:00",
           "municipality": "Kamloops",
-          "municipality_code": "day-1 day-3 city-979034872",
+          "municipality_code": "day-3 city-979034872",
           "start": "2020-10-09T15:48:00"
         },
         {
