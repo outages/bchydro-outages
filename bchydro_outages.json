@@ -1,13 +1,23 @@
 {
   "current": {
     "Lower Mainland": {
-      "customers_affected_14d": 190,
+      "customers_affected_14d": 203,
       "outages": [
+        {
+          "area": "8300 - 8600 block NO 5 RD, 8280 NO 5 RD TRAFFIC\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Under investigation",
+          "customers_affected": "13",
+          "last_updated": "2020-10-12T07:14:00",
+          "municipality": "Richmond",
+          "municipality_code": "day-1 day-3 city--1486145068",
+          "start": "2020-10-12T07:10:00",
+          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 12 8:15 a.m."
+        },
         {
           "area": "North of 26TH AVE, South of 32ND AVE, West of COUNTRY WOODS DR, East of 165 ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "190",
-          "last_updated": "2020-10-12T07:05:00",
+          "last_updated": "2020-10-12T07:12:00",
           "municipality": "Surrey",
           "municipality_code": "day-1 day-3 city--1807186826",
           "start": "2020-10-12T07:01:00",
@@ -24,11 +34,11 @@
           "area": "3700 block SHORELINE DR\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Tree down across our wires",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-12T07:05:00",
+          "last_updated": "2020-10-12T07:24:00",
           "municipality": "Campbell River",
           "municipality_code": "day-1 day-3 city-1240464880",
           "start": "2020-10-11T22:05:00",
-          "status": "Crew status: Crew assigned\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 12 8:30 a.m."
+          "status": "Crew status: Crew on-site"
         },
         {
           "area": "2100 block HALL RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -78,7 +88,7 @@
           "area": "South of FURNESS RD, North-West of MUSGRAVE RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "14",
-          "last_updated": "2020-10-12T07:05:00",
+          "last_updated": "2020-10-12T07:23:00",
           "municipality": "Ganges",
           "municipality_code": "day-1 day-3 city-2125630497",
           "start": "2020-10-12T01:36:00",
@@ -88,7 +98,7 @@
           "area": "North of BRUTUS RIDGE RD, West of KEMP LAKE RD, East of OTTER POINT RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Wire down",
           "customers_affected": "113",
-          "last_updated": "2020-10-12T06:33:00",
+          "last_updated": "2020-10-12T07:06:00",
           "municipality": "Victoria",
           "municipality_code": "day-1 day-3 city-1201273535",
           "start": "2020-10-12T05:01:00",
@@ -2889,7 +2899,7 @@
       "region_id": "848340027"
     },
     "Lower Mainland": {
-      "customers_affected_14d": 38453,
+      "customers_affected_14d": 38883,
       "outages": [
         {
           "area": "East of CLEARBROOK RD, South of NANAIMO CLS, North of PEARDONVILLE RD, West of MACLURE RD",
@@ -4040,6 +4050,16 @@
           "municipality": "Delta",
           "municipality_code": "city-65915800",
           "start": "2020-09-28T10:50:00"
+        },
+        {
+          "area": "North of BURNS DR, West of HWY 91 , East of 62B ST, South of DYKE RD",
+          "cause": "Tree down across our wires",
+          "customers_affected": "430",
+          "end": "2020-10-12T08:15:00",
+          "last_updated": "2020-10-12T07:17:00",
+          "municipality": "Delta, Richmond",
+          "municipality_code": "day-1 day-3 city-65915800 city--1486145068",
+          "start": "2020-10-12T04:31:00"
         },
         {
           "area": "600 block GLEN RD",
@@ -7232,7 +7252,7 @@
           "end": "2020-10-10T07:15:00",
           "last_updated": "2020-10-10T07:09:00",
           "municipality": "Dawson Creek",
-          "municipality_code": "day-1 day-3 city--1630954860",
+          "municipality_code": "day-3 city--1630954860",
           "start": "2020-10-10T05:56:00"
         },
         {
