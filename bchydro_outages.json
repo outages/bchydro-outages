@@ -17,11 +17,11 @@
           "area": "8300 - 8600 block NO 5 RD, 8280 NO 5 RD TRAFFIC\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "13",
-          "last_updated": "2020-10-12T07:49:00",
+          "last_updated": "2020-10-12T08:07:00",
           "municipality": "Richmond",
           "municipality_code": "day-1 day-3 city--1486145068",
           "start": "2020-10-12T07:10:00",
-          "status": "Crew status: Crew on-site"
+          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 12 9:10 a.m."
         },
         {
           "area": "North of 26TH AVE, South of 32ND AVE, West of COUNTRY WOODS DR, East of 165 ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -65,18 +65,8 @@
       "region_id": "1602896846"
     },
     "South VI": {
-      "customers_affected_14d": 139,
+      "customers_affected_14d": 14,
       "outages": [
-        {
-          "area": "East of HEALD AVE, South of LYALL ST, North of WYCHBURY AVE, West of JOFFRE ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Under investigation",
-          "customers_affected": "12",
-          "last_updated": "2020-10-12T08:00:00",
-          "municipality": "Esquimalt",
-          "municipality_code": "day-1 day-3 city--941955629",
-          "start": "2020-10-12T07:58:00",
-          "status": "Crew status: No crew assigned yet"
-        },
         {
           "area": "South of FURNESS RD, North-West of MUSGRAVE RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
@@ -86,16 +76,6 @@
           "municipality_code": "day-1 day-3 city-2125630497",
           "start": "2020-10-12T01:36:00",
           "status": "Crew status: Crew assigned"
-        },
-        {
-          "area": "North of BRUTUS RIDGE RD, West of KEMP LAKE RD, East of OTTER POINT RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Wire down",
-          "customers_affected": "113",
-          "last_updated": "2020-10-12T07:53:00",
-          "municipality": "Victoria",
-          "municipality_code": "day-1 day-3 city-1201273535",
-          "start": "2020-10-12T05:01:00",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 12 8:30 a.m."
         }
       ],
       "region_code": "South VI",
@@ -8930,7 +8910,7 @@
       "region_id": "2072041405"
     },
     "South VI": {
-      "customers_affected_14d": 14235,
+      "customers_affected_14d": 14360,
       "outages": [
         {
           "area": "South-West of SAANICH RD, North-East of COOPERIDGE DR",
@@ -9121,6 +9101,16 @@
           "municipality": "Esquimalt",
           "municipality_code": "city--941955629",
           "start": "2020-09-30T09:35:00"
+        },
+        {
+          "area": "East of HEALD AVE, South of LYALL ST, North of WYCHBURY AVE, West of JOFFRE ST",
+          "cause": "Under investigation",
+          "customers_affected": "12",
+          "end": "",
+          "last_updated": "2020-10-12T08:19:00",
+          "municipality": "Esquimalt",
+          "municipality_code": "day-1 day-3 city--941955629",
+          "start": "2020-10-12T07:58:00"
         },
         {
           "area": "1100 block HADFIELD AVE, 300 block KINVER ST",
@@ -9911,6 +9901,16 @@
           "municipality": "Victoria",
           "municipality_code": "city-1201273535",
           "start": "2020-10-06T09:56:00"
+        },
+        {
+          "area": "North of BRUTUS RIDGE RD, West of KEMP LAKE RD, East of OTTER POINT RD",
+          "cause": "Tree down across our wires",
+          "customers_affected": "113",
+          "end": "2020-10-12T08:30:00",
+          "last_updated": "2020-10-12T08:07:00",
+          "municipality": "Victoria",
+          "municipality_code": "day-1 day-3 city-1201273535",
+          "start": "2020-10-12T05:01:00"
         },
         {
           "area": "1300 block HILLSIDE AVE",
