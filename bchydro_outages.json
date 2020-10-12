@@ -34,11 +34,11 @@
           "area": "South of ARNICA LN, North of MONASHEE RD, West of MAIN ST, East of PINNACLES RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Tree down across our wires",
           "customers_affected": "27",
-          "last_updated": "2020-10-12T12:44:00",
+          "last_updated": "2020-10-12T13:04:00",
           "municipality": "Vernon",
           "municipality_code": "day-1 day-3 city--1736079254",
           "start": "2020-10-12T10:52:00",
-          "status": "Crew status: Crew assigned"
+          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 12 7:00 p.m."
         }
       ],
       "region_code": "Okanagan/Kootenay",
@@ -82,7 +82,7 @@
       "region_id": "1812901382"
     },
     "Thompson/Shuswap": {
-      "customers_affected_14d": 5,
+      "customers_affected_14d": -1,
       "outages": [
         {
           "area": "5800 block HILLTOP RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -93,16 +93,6 @@
           "municipality_code": "day-1 day-3 city-950857956",
           "start": "2020-10-12T09:13:00",
           "status": "Crew status: Crew assigned\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 12 9:45 a.m."
-        },
-        {
-          "area": "2900 block TRANS CANADA HWY\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Under investigation",
-          "customers_affected": "< 5",
-          "last_updated": "2020-10-12T12:32:00",
-          "municipality": "Cache Creek",
-          "municipality_code": "day-1 day-3 city-720749214",
-          "start": "2020-10-12T12:03:00",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 12 1:00 p.m."
         }
       ],
       "region_code": "Thompson/Shuswap",
@@ -8339,7 +8329,7 @@
           "end": "",
           "last_updated": "2020-10-08T13:40:00",
           "municipality": "Cranbrook",
-          "municipality_code": "day-3 city--591720257",
+          "municipality_code": "city--591720257",
           "start": "2020-10-08T09:53:00"
         },
         {
@@ -9126,7 +9116,7 @@
           "end": "2020-10-08T14:00:00",
           "last_updated": "2020-10-08T12:58:00",
           "municipality": "Duncan",
-          "municipality_code": "day-3 city-2058209491",
+          "municipality_code": "city-2058209491",
           "start": "2020-10-08T09:38:00"
         },
         {
@@ -10064,7 +10054,7 @@
       "region_id": "1812901382"
     },
     "Thompson/Shuswap": {
-      "customers_affected_14d": 11119,
+      "customers_affected_14d": 11123,
       "outages": [
         {
           "area": "East of WILCOX RD, North of TRIP RD",
@@ -10365,6 +10355,16 @@
           "municipality": "Cache Creek",
           "municipality_code": "day-1 day-3 city-720749214",
           "start": "2020-10-10T13:56:00"
+        },
+        {
+          "area": "2900 block TRANS CANADA HWY",
+          "cause": "Bird contacting our wires",
+          "customers_affected": "< 5",
+          "end": "2020-10-12T13:00:00",
+          "last_updated": "2020-10-12T12:51:00",
+          "municipality": "Cache Creek",
+          "municipality_code": "day-1 day-3 city-720749214",
+          "start": "2020-10-12T12:03:00"
         },
         {
           "area": "3800 block BARNES LAKE RD",
