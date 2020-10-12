@@ -45,17 +45,17 @@
       "region_id": "1602896846"
     },
     "Thompson/Shuswap": {
-      "customers_affected_14d": 5,
+      "customers_affected_14d": 7,
       "outages": [
         {
-          "area": "500 block AGATE BAY RD, 500 block AGATE BAY RD-IRR\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Tree down across our wires",
-          "customers_affected": "5",
-          "last_updated": "2020-10-11T23:27:00",
-          "municipality": "Kamloops",
-          "municipality_code": "day-1 day-3 city-979034872",
-          "start": "2020-10-11T20:30:00",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 12 12:00 a.m."
+          "area": "4503 HELENA LAKE RD, 4400 - 4500 block WRIGHT STATION RD, 4100 - 4500 block HELENA LAKE RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Under investigation",
+          "customers_affected": "7",
+          "last_updated": "2020-10-11T23:45:00",
+          "municipality": "100 Mile House",
+          "municipality_code": "day-1 day-3 city-950857956",
+          "start": "2020-10-11T23:40:00",
+          "status": "Crew status: Crew assigned"
         }
       ],
       "region_code": "Thompson/Shuswap",
@@ -9357,7 +9357,7 @@
           "cause": "Tree down across our wires",
           "customers_affected": "14",
           "end": "2020-10-11T21:30:00",
-          "last_updated": "2020-10-11T22:32:00",
+          "last_updated": "2020-10-11T23:40:00",
           "municipality": "Galiano Island",
           "municipality_code": "day-1 day-3 city--995767958",
           "start": "2020-10-11T16:43:00"
@@ -10127,7 +10127,7 @@
       "region_id": "1812901382"
     },
     "Thompson/Shuswap": {
-      "customers_affected_14d": 11112,
+      "customers_affected_14d": 11117,
       "outages": [
         {
           "area": "East of WILCOX RD, North of TRIP RD",
@@ -10748,6 +10748,16 @@
           "municipality": "Kamloops",
           "municipality_code": "city-979034872",
           "start": "2020-09-30T07:29:00"
+        },
+        {
+          "area": "500 block AGATE BAY RD, 500 block AGATE BAY RD-IRR",
+          "cause": "Tree down across our wires",
+          "customers_affected": "5",
+          "end": "2020-10-11T23:59:00",
+          "last_updated": "2020-10-11T23:37:00",
+          "municipality": "Kamloops",
+          "municipality_code": "day-1 day-3 city-979034872",
+          "start": "2020-10-11T20:30:00"
         },
         {
           "area": "3500 block TRANQUILLE RD",
