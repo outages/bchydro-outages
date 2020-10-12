@@ -1,17 +1,17 @@
 {
   "current": {
     "Lower Mainland": {
-      "customers_affected_14d": 170,
+      "customers_affected_14d": 168,
       "outages": [
         {
           "area": "East of GORING ST, North of ROY ST, South-West of LOUGHEED HWY\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Planned work being done on our equipment",
           "customers_affected": "17",
-          "last_updated": "2020-10-11T14:54:00",
+          "last_updated": "2020-10-11T19:11:00",
           "municipality": "Burnaby",
           "municipality_code": "day-1 day-3 city-1903966249",
           "start": "2020-10-11T08:51:00",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 11 9:00 p.m."
+          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 11 11:00 p.m."
         },
         {
           "area": "North of INDUSTRIAL WAY, West of PROGRESS WAY\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -37,21 +37,11 @@
           "area": "16200 block SUN CST HWY\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Tree down across our wires",
           "customers_affected": "7",
-          "last_updated": "2020-10-11T17:08:00",
+          "last_updated": "2020-10-11T19:25:00",
           "municipality": "Sechelt",
           "municipality_code": "day-1 day-3 city--660434186",
           "start": "2020-10-11T15:50:00",
-          "status": "Crew status: Crew assigned"
-        },
-        {
-          "area": "11100 block SUN CST HWY\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Tree down across our wires",
-          "customers_affected": "< 5",
-          "last_updated": "2020-10-11T18:17:00",
-          "municipality": "Sechelt",
-          "municipality_code": "day-1 day-3 city--660434186",
-          "start": "2020-10-11T16:18:00",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 11 7:00 p.m."
+          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 11 8:25 p.m."
         }
       ],
       "region_code": "Lower Mainland",
@@ -81,11 +71,11 @@
           "area": "West of SOUTH WIND DR\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "14",
-          "last_updated": "2020-10-11T17:09:00",
+          "last_updated": "2020-10-11T19:06:00",
           "municipality": "Galiano Island",
           "municipality_code": "day-1 day-3 city--995767958",
           "start": "2020-10-11T16:43:00",
-          "status": "Crew status: Crew assigned"
+          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 11 8:10 p.m."
         },
         {
           "area": "North of CAMPBELL BAY RD, East of WAUGH RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -2949,7 +2939,7 @@
       "region_id": "848340027"
     },
     "Lower Mainland": {
-      "customers_affected_14d": 39649,
+      "customers_affected_14d": 39651,
       "outages": [
         {
           "area": "East of CLEARBROOK RD, South of NANAIMO CLS, North of PEARDONVILLE RD, West of MACLURE RD",
@@ -3988,7 +3978,7 @@
           "end": "2020-10-09T19:35:00",
           "last_updated": "2020-10-09T20:50:00",
           "municipality": "Delta",
-          "municipality_code": "day-1 day-3 city-65915800",
+          "municipality_code": "day-3 city-65915800",
           "start": "2020-10-09T17:15:00"
         },
         {
@@ -5322,6 +5312,16 @@
           "start": "2020-09-27T17:00:00"
         },
         {
+          "area": "11100 block SUN CST HWY",
+          "cause": "Tree down across our wires",
+          "customers_affected": "< 5",
+          "end": "2020-10-11T19:00:00",
+          "last_updated": "2020-10-11T19:26:00",
+          "municipality": "Sechelt",
+          "municipality_code": "day-1 day-3 city--660434186",
+          "start": "2020-10-11T16:18:00"
+        },
+        {
           "area": "13400 block SUN CST HWY",
           "cause": "Voltage Problem or Overload",
           "customers_affected": "< 5",
@@ -5768,7 +5768,7 @@
           "end": "",
           "last_updated": "2020-10-07T19:22:00",
           "municipality": "Vancouver",
-          "municipality_code": "day-3 city--1786794435",
+          "municipality_code": "city--1786794435",
           "start": "2020-10-07T19:12:00"
         },
         {
@@ -6108,7 +6108,7 @@
           "end": "2020-10-07T20:00:00",
           "last_updated": "2020-10-07T19:23:00",
           "municipality": "Vancouver",
-          "municipality_code": "day-3 city--1786794435",
+          "municipality_code": "city--1786794435",
           "start": "2020-10-07T09:23:00"
         },
         {
@@ -6865,7 +6865,7 @@
           "end": "2020-10-09T19:45:00",
           "last_updated": "2020-10-09T19:19:00",
           "municipality": "Port Alberni",
-          "municipality_code": "day-1 day-3 city-383682720",
+          "municipality_code": "day-3 city-383682720",
           "start": "2020-10-09T18:41:00"
         },
         {
