@@ -1,22 +1,5 @@
 {
   "current": {
-    "Lower Mainland": {
-      "customers_affected_14d": 17,
-      "outages": [
-        {
-          "area": "East of GORING ST, North of ROY ST, South-West of LOUGHEED HWY\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Planned work being done on our equipment",
-          "customers_affected": "17",
-          "last_updated": "2020-10-11T22:55:00",
-          "municipality": "Burnaby",
-          "municipality_code": "day-1 day-3 city-1903966249",
-          "start": "2020-10-11T08:51:00",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 11 11:00 p.m."
-        }
-      ],
-      "region_code": "Lower Mainland",
-      "region_id": "521980323"
-    },
     "North VI": {
       "customers_affected_14d": -1,
       "outages": [
@@ -49,13 +32,13 @@
       "outages": [
         {
           "area": "West of PHILLIPS RD, South of YOUNG LAKE RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Under investigation",
+          "cause": "Tree down across our wires",
           "customers_affected": "2129",
-          "last_updated": "2020-10-12T00:04:00",
+          "last_updated": "2020-10-12T00:18:00",
           "municipality": "Sooke",
           "municipality_code": "day-1 day-3 city-80069133",
           "start": "2020-10-11T23:54:00",
-          "status": "Crew status: Crew assigned"
+          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 12 1:15 a.m."
         }
       ],
       "region_code": "South VI",
@@ -68,11 +51,11 @@
           "area": "4503 HELENA LAKE RD, 4400 - 4500 block WRIGHT STATION RD, 4100 - 4500 block HELENA LAKE RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "7",
-          "last_updated": "2020-10-11T23:46:00",
+          "last_updated": "2020-10-12T00:18:00",
           "municipality": "100 Mile House",
           "municipality_code": "day-1 day-3 city-950857956",
           "start": "2020-10-11T23:40:00",
-          "status": "Crew status: Crew assigned"
+          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 12 1:20 a.m."
         }
       ],
       "region_code": "Thompson/Shuswap",
@@ -2869,7 +2852,7 @@
       "region_id": "848340027"
     },
     "Lower Mainland": {
-      "customers_affected_14d": 38386,
+      "customers_affected_14d": 38403,
       "outages": [
         {
           "area": "East of CLEARBROOK RD, South of NANAIMO CLS, North of PEARDONVILLE RD, West of MACLURE RD",
@@ -3300,6 +3283,16 @@
           "municipality": "Burnaby",
           "municipality_code": "day-3 city-1903966249",
           "start": "2020-10-08T09:14:00"
+        },
+        {
+          "area": "East of GORING ST, North of ROY ST, South-West of LOUGHEED HWY",
+          "cause": "Planned work being done on our equipment",
+          "customers_affected": "17",
+          "end": "2020-10-11T23:00:00",
+          "last_updated": "2020-10-12T00:09:00",
+          "municipality": "Burnaby",
+          "municipality_code": "day-1 day-3 city-1903966249",
+          "start": "2020-10-11T08:51:00"
         },
         {
           "area": "West of COLBROOK CRT, East of GATENBY AVE, North of GILPIN ST, South of IVAR PL",
@@ -4218,7 +4211,7 @@
           "end": "2020-10-10T01:15:00",
           "last_updated": "2020-10-10T01:22:00",
           "municipality": "Langley",
-          "municipality_code": "day-1 day-3 city-1612593490",
+          "municipality_code": "day-3 city-1612593490",
           "start": "2020-10-09T21:46:00"
         },
         {
