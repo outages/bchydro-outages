@@ -1,13 +1,30 @@
 {
   "current": {
+    "Lower Mainland": {
+      "customers_affected_14d": 190,
+      "outages": [
+        {
+          "area": "North of 26TH AVE, South of 32ND AVE, West of COUNTRY WOODS DR, East of 165 ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Under investigation",
+          "customers_affected": "190",
+          "last_updated": "2020-10-12T07:05:00",
+          "municipality": "Surrey",
+          "municipality_code": "day-1 day-3 city--1807186826",
+          "start": "2020-10-12T07:01:00",
+          "status": "Crew status: Crew assigned"
+        }
+      ],
+      "region_code": "Lower Mainland",
+      "region_id": "521980323"
+    },
     "North VI": {
-      "customers_affected_14d": 55,
+      "customers_affected_14d": 7,
       "outages": [
         {
           "area": "3700 block SHORELINE DR\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Tree down across our wires",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-11T23:02:00",
+          "last_updated": "2020-10-12T07:05:00",
           "municipality": "Campbell River",
           "municipality_code": "day-1 day-3 city-1240464880",
           "start": "2020-10-11T22:05:00",
@@ -17,7 +34,7 @@
           "area": "2100 block HALL RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "5",
-          "last_updated": "2020-10-12T06:35:00",
+          "last_updated": "2020-10-12T07:06:00",
           "municipality": "Courtenay",
           "municipality_code": "day-1 day-3 city--824228212",
           "start": "2020-10-12T06:27:00",
@@ -27,21 +44,11 @@
           "area": "8500 block OWL CRS\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-12T06:36:00",
+          "last_updated": "2020-10-12T07:05:00",
           "municipality": "Courtenay",
           "municipality_code": "day-1 day-3 city--824228212",
           "start": "2020-10-11T14:39:00",
           "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 12 7:30 a.m."
-        },
-        {
-          "area": "North of LORENZEN LN, West of SOUTHWIND DR, South-East of ISLAND HWY\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Tree down across our wires",
-          "customers_affected": "48",
-          "last_updated": "2020-10-12T06:41:00",
-          "municipality": "Nanaimo, Qualicum Beach",
-          "municipality_code": "day-1 day-3 city--907547835 city--154309756",
-          "start": "2020-10-12T05:55:00",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 12 7:20 a.m."
         }
       ],
       "region_code": "North VI",
@@ -71,7 +78,7 @@
           "area": "South of FURNESS RD, North-West of MUSGRAVE RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "14",
-          "last_updated": "2020-10-12T05:43:00",
+          "last_updated": "2020-10-12T07:05:00",
           "municipality": "Ganges",
           "municipality_code": "day-1 day-3 city-2125630497",
           "start": "2020-10-12T01:36:00",
@@ -6119,7 +6126,7 @@
       "region_id": "521980323"
     },
     "North VI": {
-      "customers_affected_14d": 8125,
+      "customers_affected_14d": 8173,
       "outages": [
         {
           "area": "West of NOLE RD, South of RUDDER RD, North of GREEN RD, East of CAMPBELL RIVER-QUADRA FERRY",
@@ -6690,6 +6697,16 @@
           "municipality": "Nanaimo",
           "municipality_code": "city--907547835",
           "start": "2020-10-07T13:26:00"
+        },
+        {
+          "area": "North of LORENZEN LN, West of SOUTHWIND DR, South-East of ISLAND HWY",
+          "cause": "Tree down across our wires",
+          "customers_affected": "48",
+          "end": "2020-10-12T07:20:00",
+          "last_updated": "2020-10-12T07:03:00",
+          "municipality": "Nanaimo, Qualicum Beach",
+          "municipality_code": "day-1 day-3 city--907547835 city--154309756",
+          "start": "2020-10-12T05:55:00"
         },
         {
           "area": "East of COOMBS RD, West of ALBERNI HWY, North of LILLYDALE RD",
