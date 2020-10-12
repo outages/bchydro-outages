@@ -1,33 +1,23 @@
 {
   "current": {
     "Lower Mainland": {
-      "customers_affected_14d": 204,
+      "customers_affected_14d": 191,
       "outages": [
         {
           "area": "30700 block HUNTINGDON RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-12T07:50:00",
+          "last_updated": "2020-10-12T08:45:00",
           "municipality": "Abbotsford",
           "municipality_code": "day-1 day-3 city-1230363016",
           "start": "2020-10-12T07:48:00",
-          "status": "Crew status: Crew assigned"
-        },
-        {
-          "area": "8300 - 8600 block NO 5 RD, 8280 NO 5 RD TRAFFIC\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Under investigation",
-          "customers_affected": "13",
-          "last_updated": "2020-10-12T08:07:00",
-          "municipality": "Richmond",
-          "municipality_code": "day-1 day-3 city--1486145068",
-          "start": "2020-10-12T07:10:00",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 12 9:10 a.m."
+          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 12 9:05 a.m."
         },
         {
           "area": "North of 26TH AVE, South of 32ND AVE, West of COUNTRY WOODS DR, East of 165 ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "190",
-          "last_updated": "2020-10-12T08:28:00",
+          "last_updated": "2020-10-12T08:45:00",
           "municipality": "Surrey",
           "municipality_code": "day-1 day-3 city--1807186826",
           "start": "2020-10-12T07:01:00",
@@ -54,11 +44,11 @@
           "area": "2100 block HALL RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "5",
-          "last_updated": "2020-10-12T07:06:00",
+          "last_updated": "2020-10-12T08:41:00",
           "municipality": "Courtenay",
           "municipality_code": "day-1 day-3 city--824228212",
           "start": "2020-10-12T06:27:00",
-          "status": "Crew status: Crew assigned"
+          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 12 9:45 a.m."
         }
       ],
       "region_code": "North VI",
@@ -2872,7 +2862,7 @@
       "region_id": "848340027"
     },
     "Lower Mainland": {
-      "customers_affected_14d": 38883,
+      "customers_affected_14d": 38896,
       "outages": [
         {
           "area": "East of CLEARBROOK RD, South of NANAIMO CLS, North of PEARDONVILLE RD, West of MACLURE RD",
@@ -5123,6 +5113,16 @@
           "municipality": "Richmond",
           "municipality_code": "city--1486145068",
           "start": "2020-09-30T08:36:00"
+        },
+        {
+          "area": "8300 - 8600 block NO 5 RD, 8280 NO 5 RD TRAFFIC",
+          "cause": "Under investigation",
+          "customers_affected": "13",
+          "end": "2020-10-12T09:07:00",
+          "last_updated": "2020-10-12T08:39:00",
+          "municipality": "Richmond",
+          "municipality_code": "day-1 day-3 city--1486145068",
+          "start": "2020-10-12T07:10:00"
         },
         {
           "area": "11200 block 7TH AVE",
