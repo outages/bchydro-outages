@@ -7,7 +7,7 @@
           "area": "400 block BERRY POINT RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Wire down",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-12T11:23:00",
+          "last_updated": "2020-10-12T11:55:00",
           "municipality": "Nanaimo",
           "municipality_code": "day-1 day-3 city--907547835",
           "start": "2020-10-12T07:31:00",
@@ -51,7 +51,7 @@
           "area": "South of ARNICA LN, North of MONASHEE RD, West of MAIN ST, East of PINNACLES RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Tree down across our wires",
           "customers_affected": "27",
-          "last_updated": "2020-10-12T11:41:00",
+          "last_updated": "2020-10-12T12:04:00",
           "municipality": "Vernon",
           "municipality_code": "day-1 day-3 city--1736079254",
           "start": "2020-10-12T10:52:00",
@@ -62,7 +62,7 @@
       "region_id": "2072041405"
     },
     "South VI": {
-      "customers_affected_14d": 32,
+      "customers_affected_14d": 36,
       "outages": [
         {
           "area": "4700 - 4800 block HILLBANK RD, 2100 block COWICHAN BAY RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -73,6 +73,16 @@
           "municipality_code": "day-1 day-3 city-2058209491",
           "start": "2020-10-12T10:00:00",
           "status": "Crew status: Crew on-site"
+        },
+        {
+          "area": "100 - 200 block STICKS ALLISON RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Under investigation",
+          "customers_affected": "< 5",
+          "last_updated": "2020-10-12T11:57:00",
+          "municipality": "Galiano Island",
+          "municipality_code": "day-1 day-3 city--995767958",
+          "start": "2020-10-12T11:51:00",
+          "status": "Crew status: No crew assigned yet"
         },
         {
           "area": "1000 block STURDIES BAY RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -110,26 +120,6 @@
           "municipality_code": "day-1 day-3 city-950857956",
           "start": "2020-10-12T09:13:00",
           "status": "Crew status: Crew assigned\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 12 9:45 a.m."
-        },
-        {
-          "area": "2400 block N BONAPARTE RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Wire dug up",
-          "customers_affected": "< 5",
-          "last_updated": "2020-10-12T11:27:00",
-          "municipality": "100 Mile House",
-          "municipality_code": "day-1 day-3 city-950857956",
-          "start": "2020-10-12T10:24:00",
-          "status": "Crew status: Crew on-site"
-        },
-        {
-          "area": "1100 block HIGH ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Under investigation",
-          "customers_affected": "< 5",
-          "last_updated": "2020-10-12T11:36:00",
-          "municipality": "Enderby",
-          "municipality_code": "day-1 day-3 city-57924863",
-          "start": "2020-10-12T10:45:00",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 12 12:40 p.m."
         }
       ],
       "region_code": "Thompson/Shuswap",
@@ -2808,7 +2798,7 @@
           "end": "2020-10-10T12:12:00",
           "last_updated": "2020-10-10T11:55:00",
           "municipality": "Quesnel",
-          "municipality_code": "day-1 day-3 city--1975191965",
+          "municipality_code": "day-3 city--1975191965",
           "start": "2020-10-10T10:12:00"
         },
         {
@@ -6682,7 +6672,7 @@
           "end": "2020-10-10T12:00:00",
           "last_updated": "2020-10-10T12:07:00",
           "municipality": "Nanaimo",
-          "municipality_code": "day-1 day-3 city--907547835",
+          "municipality_code": "day-3 city--907547835",
           "start": "2020-10-10T09:01:00"
         },
         {
@@ -10071,7 +10061,7 @@
       "region_id": "1812901382"
     },
     "Thompson/Shuswap": {
-      "customers_affected_14d": 11118,
+      "customers_affected_14d": 11119,
       "outages": [
         {
           "area": "East of WILCOX RD, North of TRIP RD",
@@ -10542,6 +10532,16 @@
           "municipality": "Clearwater",
           "municipality_code": "city-1282265866",
           "start": "2020-10-02T09:25:00"
+        },
+        {
+          "area": "1100 block HIGH ST",
+          "cause": "Equipment failure",
+          "customers_affected": "< 5",
+          "end": "2020-10-12T12:36:00",
+          "last_updated": "2020-10-12T12:00:00",
+          "municipality": "Enderby",
+          "municipality_code": "day-1 day-3 city-57924863",
+          "start": "2020-10-12T10:45:00"
         },
         {
           "area": "700 block GRANVILLE AVE",
