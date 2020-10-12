@@ -75,7 +75,7 @@
       "region_id": "1602896846"
     },
     "South VI": {
-      "customers_affected_14d": 230,
+      "customers_affected_14d": 75,
       "outages": [
         {
           "area": "West of SOUTH WIND DR\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -98,24 +98,14 @@
           "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 11 8:30 p.m."
         },
         {
-          "area": "West of JOLLY ROGER CRS, East of SCHOONER WAY, South of CROWSNEST DR, North of BRIGADOON CRS\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Wire down",
-          "customers_affected": "155",
-          "last_updated": "2020-10-11T17:00:00",
-          "municipality": "Pender Island",
-          "municipality_code": "day-1 day-3 city--635217187",
-          "start": "2020-10-11T15:10:00",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 11 7:00 p.m."
-        },
-        {
           "area": "100 block CLIFFSIDE RD, 100 block CLIFFSIDE DR\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "22",
-          "last_updated": "2020-10-11T17:13:00",
+          "last_updated": "2020-10-11T19:00:00",
           "municipality": "Saturna Island",
           "municipality_code": "day-1 day-3 city-501274559",
           "start": "2020-10-11T16:09:00",
-          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 11 7:30 p.m."
+          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 11 8:00 p.m."
         }
       ],
       "region_code": "South VI",
@@ -9137,7 +9127,7 @@
       "region_id": "2072041405"
     },
     "South VI": {
-      "customers_affected_14d": 10813,
+      "customers_affected_14d": 10968,
       "outages": [
         {
           "area": "South-West of SAANICH RD, North-East of COOPERIDGE DR",
@@ -9718,6 +9708,16 @@
           "municipality": "Oak Bay",
           "municipality_code": "city--24788973",
           "start": "2020-10-01T19:27:00"
+        },
+        {
+          "area": "West of JOLLY ROGER CRS, East of SCHOONER WAY, South of CROWSNEST DR, North of BRIGADOON CRS",
+          "cause": "Tree down across our wires",
+          "customers_affected": "155",
+          "end": "2020-10-11T19:00:00",
+          "last_updated": "2020-10-11T19:06:00",
+          "municipality": "Pender Island",
+          "municipality_code": "day-1 day-3 city--635217187",
+          "start": "2020-10-11T15:10:00"
         },
         {
           "area": "South of NICHOLSON ST, East of MCLELLAN ST, West of CUMBERLAND RD, North of BRETT AVE",
