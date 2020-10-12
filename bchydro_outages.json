@@ -28,13 +28,23 @@
       "region_id": "1602896846"
     },
     "South VI": {
-      "customers_affected_14d": 2129,
+      "customers_affected_14d": 2138,
       "outages": [
+        {
+          "area": "700 block WILLING DR\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Under investigation",
+          "customers_affected": "9",
+          "last_updated": "2020-10-12T00:38:00",
+          "municipality": "Langford",
+          "municipality_code": "day-1 day-3 city--1549378615",
+          "start": "2020-10-12T00:31:00",
+          "status": "Crew status: Crew assigned"
+        },
         {
           "area": "West of PHILLIPS RD, South of YOUNG LAKE RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Tree down across our wires",
           "customers_affected": "2129",
-          "last_updated": "2020-10-12T00:18:00",
+          "last_updated": "2020-10-12T00:37:00",
           "municipality": "Sooke",
           "municipality_code": "day-1 day-3 city-80069133",
           "start": "2020-10-11T23:54:00",
