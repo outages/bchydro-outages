@@ -17,11 +17,11 @@
           "area": "North of INDUSTRIAL WAY, West of PROGRESS WAY\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Wire down",
           "customers_affected": "143",
-          "last_updated": "2020-10-11T18:44:00",
+          "last_updated": "2020-10-11T19:45:00",
           "municipality": "Chilliwack",
           "municipality_code": "day-1 day-3 city--708005353",
           "start": "2020-10-11T18:04:00",
-          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 11 7:45 p.m."
+          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 11 10:30 p.m."
         },
         {
           "area": "43700 block FROST RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -90,23 +90,6 @@
       ],
       "region_code": "South VI",
       "region_id": "1812901382"
-    },
-    "Thompson/Shuswap": {
-      "customers_affected_14d": 111,
-      "outages": [
-        {
-          "area": "North-South-East of TRANS CANADA HWY\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Tree down across our wires",
-          "customers_affected": "111",
-          "last_updated": "2020-10-11T16:32:00",
-          "municipality": "Cache Creek",
-          "municipality_code": "day-1 day-3 city-720749214",
-          "start": "2020-10-11T12:05:00",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 11 8:30 p.m."
-        }
-      ],
-      "region_code": "Thompson/Shuswap",
-      "region_id": "725364552"
     }
   },
   "planned": {
@@ -6305,7 +6288,7 @@
           "end": "2020-10-09T20:11:00",
           "last_updated": "2020-10-09T19:45:00",
           "municipality": "Campbell River",
-          "municipality_code": "day-1 day-3 city-1240464880",
+          "municipality_code": "day-3 city-1240464880",
           "start": "2020-10-09T17:10:00"
         },
         {
@@ -9117,7 +9100,7 @@
       "region_id": "2072041405"
     },
     "South VI": {
-      "customers_affected_14d": 10968,
+      "customers_affected_14d": 10990,
       "outages": [
         {
           "area": "South-West of SAANICH RD, North-East of COOPERIDGE DR",
@@ -9920,6 +9903,16 @@
           "start": "2020-10-05T10:25:00"
         },
         {
+          "area": "100 block CLIFFSIDE RD, 100 block CLIFFSIDE DR",
+          "cause": "Tree down across our wires",
+          "customers_affected": "22",
+          "end": "2020-10-11T20:00:00",
+          "last_updated": "2020-10-11T19:37:00",
+          "municipality": "Saturna Island",
+          "municipality_code": "day-1 day-3 city-501274559",
+          "start": "2020-10-11T16:09:00"
+        },
+        {
           "area": "100 - 200 block NARVAEZ BAY RD, SATURNA CAPMON",
           "cause": "Tree down across our wires",
           "customers_affected": "10",
@@ -10104,7 +10097,7 @@
       "region_id": "1812901382"
     },
     "Thompson/Shuswap": {
-      "customers_affected_14d": 11001,
+      "customers_affected_14d": 11112,
       "outages": [
         {
           "area": "East of WILCOX RD, North of TRIP RD",
@@ -10375,6 +10368,16 @@
           "municipality": "Cache Creek",
           "municipality_code": "city-720749214",
           "start": "2020-10-01T09:02:00"
+        },
+        {
+          "area": "North-South-East of TRANS CANADA HWY",
+          "cause": "Tree down across our wires",
+          "customers_affected": "111",
+          "end": "2020-10-11T20:30:00",
+          "last_updated": "2020-10-11T19:37:00",
+          "municipality": "Cache Creek",
+          "municipality_code": "day-1 day-3 city-720749214",
+          "start": "2020-10-11T12:05:00"
         },
         {
           "area": "DEADMAN CRK RD P346, 6500 block DEADMAN VIDETTE RD, 6700 block DEADMAN CRK RD, DEADMAN CRK RD P359",
