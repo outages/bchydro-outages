@@ -7,7 +7,7 @@
           "area": "4500 block GOSNELL CRS\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-12T10:45:00",
+          "last_updated": "2020-10-12T10:53:00",
           "municipality": "Stewart",
           "municipality_code": "day-1 day-3 city--228706672",
           "start": "2020-10-12T10:20:00",
@@ -18,7 +18,7 @@
       "region_id": "1602964060"
     },
     "Okanagan/Kootenay": {
-      "customers_affected_14d": 6,
+      "customers_affected_14d": 33,
       "outages": [
         {
           "area": "15600 - 15700 block SAWMILL RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -29,6 +29,16 @@
           "municipality_code": "day-1 day-3 city--443780603",
           "start": "2020-10-12T07:33:00",
           "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 12 5:00 p.m."
+        },
+        {
+          "area": "South of ARNICA LN, North of MONASHEE RD, West of MAIN ST, East of PINNACLES RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Under investigation",
+          "customers_affected": "27",
+          "last_updated": "2020-10-12T11:05:00",
+          "municipality": "Vernon",
+          "municipality_code": "day-1 day-3 city--1736079254",
+          "start": "2020-10-12T10:52:00",
+          "status": "Crew status: Crew assigned"
         }
       ],
       "region_code": "Okanagan/Kootenay",
@@ -78,31 +88,41 @@
           "area": "5800 block HILLTOP RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-12T10:43:00",
+          "last_updated": "2020-10-12T11:02:00",
           "municipality": "100 Mile House",
           "municipality_code": "day-1 day-3 city-950857956",
           "start": "2020-10-12T09:13:00",
-          "status": "Crew status: Crew on-site"
+          "status": "Crew status: Crew assigned\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 12 9:45 a.m."
         },
         {
           "area": "2400 block N BONAPARTE RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Wire dug up",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-12T10:43:00",
+          "last_updated": "2020-10-12T10:54:00",
           "municipality": "100 Mile House",
           "municipality_code": "day-1 day-3 city-950857956",
           "start": "2020-10-12T10:24:00",
+          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 12 11:55 a.m."
+        },
+        {
+          "area": "1100 block HIGH ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Under investigation",
+          "customers_affected": "< 5",
+          "last_updated": "2020-10-12T10:51:00",
+          "municipality": "Enderby",
+          "municipality_code": "day-1 day-3 city-57924863",
+          "start": "2020-10-12T10:45:00",
           "status": "Crew status: Crew assigned"
         },
         {
           "area": "2600 block HWY 5A\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-12T10:42:00",
+          "last_updated": "2020-10-12T10:56:00",
           "municipality": "Kamloops",
           "municipality_code": "day-1 day-3 city-979034872",
           "start": "2020-10-12T10:33:00",
-          "status": "Crew status: Crew assigned"
+          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 12 11:15 a.m."
         }
       ],
       "region_code": "Thompson/Shuswap",
@@ -6138,7 +6158,7 @@
           "end": "2020-10-08T17:00:00",
           "last_updated": "2020-10-08T11:17:00",
           "municipality": "Whistler",
-          "municipality_code": "day-3 city--2067392640",
+          "municipality_code": "city--2067392640",
           "start": "2020-10-08T09:42:00"
         },
         {
@@ -7075,7 +7095,7 @@
           "end": "2020-10-08T11:00:00",
           "last_updated": "2020-10-08T14:39:00",
           "municipality": "Ucluelet",
-          "municipality_code": "day-3 city--1313309491",
+          "municipality_code": "city--1313309491",
           "start": "2020-10-08T09:34:00"
         },
         {
@@ -7322,7 +7342,7 @@
           "end": "2020-10-08T11:30:00",
           "last_updated": "2020-10-08T10:59:00",
           "municipality": "Dawson Creek",
-          "municipality_code": "day-3 city--1630954860",
+          "municipality_code": "city--1630954860",
           "start": "2020-10-08T10:40:00"
         },
         {
@@ -7342,7 +7362,7 @@
           "end": "2020-10-10T11:00:00",
           "last_updated": "2020-10-10T10:50:00",
           "municipality": "Dawson Creek",
-          "municipality_code": "day-1 day-3 city--1630954860",
+          "municipality_code": "day-3 city--1630954860",
           "start": "2020-10-10T09:03:00"
         },
         {
