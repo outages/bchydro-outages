@@ -7,39 +7,29 @@
           "area": "30700 block HUNTINGDON RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-12T08:45:00",
+          "last_updated": "2020-10-12T08:47:00",
           "municipality": "Abbotsford",
           "municipality_code": "day-1 day-3 city-1230363016",
           "start": "2020-10-12T07:48:00",
-          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 12 9:05 a.m."
+          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 12 9:45 a.m."
         },
         {
           "area": "North of 26TH AVE, South of 32ND AVE, West of COUNTRY WOODS DR, East of 165 ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "190",
-          "last_updated": "2020-10-12T08:45:00",
+          "last_updated": "2020-10-12T09:01:00",
           "municipality": "Surrey",
           "municipality_code": "day-1 day-3 city--1807186826",
           "start": "2020-10-12T07:01:00",
-          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 12 9:00 a.m."
+          "status": "Crew status: Crew on-site"
         }
       ],
       "region_code": "Lower Mainland",
       "region_id": "521980323"
     },
     "North VI": {
-      "customers_affected_14d": 6,
+      "customers_affected_14d": 5,
       "outages": [
-        {
-          "area": "3700 block SHORELINE DR\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Tree down across our wires",
-          "customers_affected": "< 5",
-          "last_updated": "2020-10-12T07:24:00",
-          "municipality": "Campbell River",
-          "municipality_code": "day-1 day-3 city-1240464880",
-          "start": "2020-10-11T22:05:00",
-          "status": "Crew status: Crew on-site"
-        },
         {
           "area": "2100 block HALL RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
@@ -53,6 +43,23 @@
       ],
       "region_code": "North VI",
       "region_id": "1602896846"
+    },
+    "Okanagan/Kootenay": {
+      "customers_affected_14d": 100,
+      "outages": [
+        {
+          "area": "East of OYAMA RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Work being done on our equipment",
+          "customers_affected": "100",
+          "last_updated": "2020-10-12T08:57:00",
+          "municipality": "Lake Country",
+          "municipality_code": "day-1 day-3 city--443780603",
+          "start": "2020-10-12T07:33:00",
+          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 12 5:00 p.m."
+        }
+      ],
+      "region_code": "Okanagan/Kootenay",
+      "region_id": "2072041405"
     },
     "South VI": {
       "customers_affected_14d": 14,
@@ -2554,7 +2561,7 @@
           "end": "2020-10-10T09:15:00",
           "last_updated": "2020-10-10T09:08:00",
           "municipality": "Prince George",
-          "municipality_code": "day-1 day-3 city-1835674262",
+          "municipality_code": "day-3 city-1835674262",
           "start": "2020-10-10T07:32:00"
         },
         {
@@ -5116,10 +5123,10 @@
         },
         {
           "area": "8300 - 8600 block NO 5 RD, 8280 NO 5 RD TRAFFIC",
-          "cause": "Under investigation",
+          "cause": "Other",
           "customers_affected": "13",
           "end": "2020-10-12T09:07:00",
-          "last_updated": "2020-10-12T08:39:00",
+          "last_updated": "2020-10-12T08:50:00",
           "municipality": "Richmond",
           "municipality_code": "day-1 day-3 city--1486145068",
           "start": "2020-10-12T07:10:00"
@@ -6119,7 +6126,7 @@
       "region_id": "521980323"
     },
     "North VI": {
-      "customers_affected_14d": 8174,
+      "customers_affected_14d": 8175,
       "outages": [
         {
           "area": "West of NOLE RD, South of RUDDER RD, North of GREEN RD, East of CAMPBELL RIVER-QUADRA FERRY",
@@ -6210,6 +6217,16 @@
           "municipality": "Campbell River",
           "municipality_code": "day-3 city-1240464880",
           "start": "2020-10-09T17:10:00"
+        },
+        {
+          "area": "3700 block SHORELINE DR",
+          "cause": "Equipment failure",
+          "customers_affected": "< 5",
+          "end": "",
+          "last_updated": "2020-10-12T09:04:00",
+          "municipality": "Campbell River",
+          "municipality_code": "day-1 day-3 city-1240464880",
+          "start": "2020-10-11T22:05:00"
         },
         {
           "area": "1800 block ROBINSON RD",
