@@ -1,17 +1,27 @@
 {
   "current": {
     "Lower Mainland": {
-      "customers_affected_14d": 12,
+      "customers_affected_14d": 18,
       "outages": [
         {
           "area": "11800 block VOYAGEUR WAY\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Under investigation",
+          "cause": "Transformer burn out",
           "customers_affected": "12",
-          "last_updated": "2020-10-12T15:02:00",
+          "last_updated": "2020-10-12T15:23:00",
           "municipality": "Richmond",
           "municipality_code": "day-1 day-3 city--1486145068",
           "start": "2020-10-12T13:48:00",
-          "status": "Crew status: Crew on-site"
+          "status": "Crew status: No crew assigned yet"
+        },
+        {
+          "area": "3900 block COLLINGWOOD ST, 3500 block W 23RD AVE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Wire down",
+          "customers_affected": "6",
+          "last_updated": "2020-10-12T15:18:00",
+          "municipality": "Vancouver",
+          "municipality_code": "day-1 day-3 city--1786794435",
+          "start": "2020-10-12T14:47:00",
+          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 12 3:45 p.m."
         }
       ],
       "region_code": "Lower Mainland",
@@ -61,7 +71,7 @@
           "area": "1000 block STURDIES BAY RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-12T15:04:00",
+          "last_updated": "2020-10-12T15:25:00",
           "municipality": "Galiano Island",
           "municipality_code": "day-1 day-3 city--995767958",
           "start": "2020-10-12T09:28:00",
@@ -75,7 +85,7 @@
           "municipality": "Ganges",
           "municipality_code": "day-1 day-3 city-2125630497",
           "start": "2020-10-12T01:36:00",
-          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 12 3:30 p.m."
+          "status": "Crew status: Crew on-site"
         }
       ],
       "region_code": "South VI",
