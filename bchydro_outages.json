@@ -17,21 +17,21 @@
           "area": "11800 block WILLIAMS RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-12T15:26:00",
+          "last_updated": "2020-10-12T16:02:00",
           "municipality": "Richmond",
           "municipality_code": "day-1 day-3 city--1486145068",
           "start": "2020-10-12T15:18:00",
-          "status": "Crew status: Crew assigned"
+          "status": "Crew status: Crew on-site"
         },
         {
           "area": "3900 block COLLINGWOOD ST, 3500 block W 23RD AVE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Wire down",
           "customers_affected": "5",
-          "last_updated": "2020-10-12T15:44:00",
+          "last_updated": "2020-10-12T15:57:00",
           "municipality": "Vancouver",
           "municipality_code": "day-1 day-3 city--1786794435",
           "start": "2020-10-12T14:47:00",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 12 4:00 p.m."
+          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 12 5:00 p.m."
         }
       ],
       "region_code": "Lower Mainland",
@@ -121,7 +121,7 @@
   },
   "planned": {
     "Central Interior": {
-      "customers_affected_14d": 513,
+      "customers_affected_14d": 512,
       "outages": [
         {
           "area": "Alcock Rd; Armstrong Rd; Banner Rd; Bartels Rd; Brownmiller Rd; Burdis Rd; Cameron Rd; Campbell Crs; N Cariboo Hwy; Carradice Rd; Cave Rd; Couldwell Rd; Fisher Rd; Hartley Heights; Hwy 97; Hilborn Rd; Hilltop Dr; Keis Ave; Keis Rd; Kiwi Rd; Lear Rd; Long Rd; Mighton Rd; Mufford Rd; Pinecrest Rd; Price Rd; Quesnel Hixon Rd; Rau Rd; Robin Rd; Salton Rd; Scott Rd; Sharpe Rd; N. Ten Mile Lake; Trask Rd; Watt Rd",
@@ -142,16 +142,6 @@
           "municipality": "Quesnel",
           "municipality_code": "day-1 day-3 city--1975191965",
           "start": "2020-10-19T21:00:00"
-        },
-        {
-          "area": "200 Macleod Ave, Quesnel",
-          "cause": "Planned work being done on our equipment",
-          "customers_affected": "< 5",
-          "end": "2020-10-10T16:00:00",
-          "last_updated": "2020-10-07T12:45:00",
-          "municipality": "Quesnel",
-          "municipality_code": "day-1 day-3 city--1975191965",
-          "start": "2020-10-09T08:30:00"
         }
       ],
       "region_code": "Central Interior",
@@ -3208,7 +3198,7 @@
           "end": "",
           "last_updated": "2020-10-10T17:44:00",
           "municipality": "Burnaby",
-          "municipality_code": "day-1 day-3 city-1903966249",
+          "municipality_code": "day-3 city-1903966249",
           "start": "2020-10-10T12:45:00"
         },
         {
@@ -7133,7 +7123,7 @@
       "region_id": "1602896846"
     },
     "Northern": {
-      "customers_affected_14d": 19354,
+      "customers_affected_14d": 19355,
       "outages": [
         {
           "area": "North-South-East-West of HWY 20",
@@ -7812,7 +7802,7 @@
           "end": "2020-10-08T16:56:00",
           "last_updated": "2020-10-08T16:01:00",
           "municipality": "Hazelton",
-          "municipality_code": "day-3 city-411200875",
+          "municipality_code": "city-411200875",
           "start": "2020-10-08T14:52:00"
         },
         {
@@ -8114,6 +8104,16 @@
           "municipality": "Stewart",
           "municipality_code": "city--228706672",
           "start": "2020-09-28T10:54:00"
+        },
+        {
+          "area": "4500 block GOSNELL CRS",
+          "cause": "Bird contacting our wires",
+          "customers_affected": "< 5",
+          "end": "2020-10-12T14:30:00",
+          "last_updated": "2020-10-12T15:50:00",
+          "municipality": "Stewart",
+          "municipality_code": "day-1 day-3 city--228706672",
+          "start": "2020-10-12T10:20:00"
         },
         {
           "area": "South of ATLIN RD",
@@ -8579,7 +8579,7 @@
           "end": "",
           "last_updated": "2020-10-10T15:57:00",
           "municipality": "Invermere",
-          "municipality_code": "day-1 day-3 city--13155575",
+          "municipality_code": "day-3 city--13155575",
           "start": "2020-10-10T10:54:00"
         },
         {
@@ -9456,7 +9456,7 @@
           "end": "2020-10-08T16:30:00",
           "last_updated": "2020-10-08T16:06:00",
           "municipality": "Langford",
-          "municipality_code": "day-3 city--1549378615",
+          "municipality_code": "city--1549378615",
           "start": "2020-10-08T13:23:00"
         },
         {
@@ -9466,7 +9466,7 @@
           "end": "",
           "last_updated": "2020-10-08T15:50:00",
           "municipality": "Langford",
-          "municipality_code": "day-3 city--1549378615",
+          "municipality_code": "city--1549378615",
           "start": "2020-10-08T14:31:00"
         },
         {
@@ -11123,7 +11123,7 @@
           "end": "",
           "last_updated": "2020-10-09T08:15:00",
           "municipality": "Salmon Arm",
-          "municipality_code": "day-3 city-2118875562",
+          "municipality_code": "city-2118875562",
           "start": "2020-10-08T14:10:00"
         },
         {
