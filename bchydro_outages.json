@@ -54,7 +54,7 @@
           "area": "West of BERWICK RD, East of HORNE LAKE RD, North of KENTFORD RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "2108",
-          "last_updated": "2020-10-11T21:35:00",
+          "last_updated": "2020-10-11T21:43:00",
           "municipality": "Qualicum Beach",
           "municipality_code": "day-1 day-3 city--154309756",
           "start": "2020-10-11T21:28:00",
@@ -65,7 +65,7 @@
       "region_id": "1602896846"
     },
     "South VI": {
-      "customers_affected_14d": 53,
+      "customers_affected_14d": 14,
       "outages": [
         {
           "area": "West of SOUTH WIND DR\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -75,16 +75,6 @@
           "municipality": "Galiano Island",
           "municipality_code": "day-1 day-3 city--995767958",
           "start": "2020-10-11T16:43:00",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 11 9:30 p.m."
-        },
-        {
-          "area": "North of CAMPBELL BAY RD, East of WAUGH RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Wire down",
-          "customers_affected": "39",
-          "last_updated": "2020-10-11T20:45:00",
-          "municipality": "Mayne Island",
-          "municipality_code": "day-1 day-3 city-48997657",
-          "start": "2020-10-11T15:21:00",
           "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 11 9:30 p.m."
         }
       ],
@@ -9127,7 +9117,7 @@
       "region_id": "2072041405"
     },
     "South VI": {
-      "customers_affected_14d": 10990,
+      "customers_affected_14d": 11029,
       "outages": [
         {
           "area": "South-West of SAANICH RD, North-East of COOPERIDGE DR",
@@ -9548,6 +9538,16 @@
           "municipality": "Langford",
           "municipality_code": "city--1549378615",
           "start": "2020-09-30T15:31:00"
+        },
+        {
+          "area": "North of CAMPBELL BAY RD, East of WAUGH RD",
+          "cause": "Wire down",
+          "customers_affected": "39",
+          "end": "2020-10-11T21:30:00",
+          "last_updated": "2020-10-11T21:45:00",
+          "municipality": "Mayne Island",
+          "municipality_code": "day-1 day-3 city-48997657",
+          "start": "2020-10-11T15:21:00"
         },
         {
           "area": "North of BLUFF WAY, South-West of GLEN ECHO RD, East of Saturna Is-Mayne Is Ferry RD",
