@@ -7,11 +7,11 @@
           "area": "7400 block REEDER RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Tree down across our wires",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-12T02:15:00",
+          "last_updated": "2020-10-12T02:26:00",
           "municipality": "Richmond",
           "municipality_code": "day-1 day-3 city--1486145068",
           "start": "2020-10-12T01:59:00",
-          "status": "Crew status: Crew assigned"
+          "status": "Crew status: Crew assigned\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 12 4:00 a.m."
         }
       ],
       "region_code": "Lower Mainland",
@@ -80,23 +80,6 @@
       ],
       "region_code": "South VI",
       "region_id": "1812901382"
-    },
-    "Thompson/Shuswap": {
-      "customers_affected_14d": 7,
-      "outages": [
-        {
-          "area": "4503 HELENA LAKE RD, 4400 - 4500 block WRIGHT STATION RD, 4100 - 4500 block HELENA LAKE RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Under investigation",
-          "customers_affected": "7",
-          "last_updated": "2020-10-12T02:25:00",
-          "municipality": "100 Mile House",
-          "municipality_code": "day-1 day-3 city-950857956",
-          "start": "2020-10-11T23:40:00",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 12 3:00 a.m."
-        }
-      ],
-      "region_code": "Thompson/Shuswap",
-      "region_id": "725364552"
     }
   },
   "planned": {
@@ -9426,7 +9409,7 @@
           "end": "2020-10-08T02:15:00",
           "last_updated": "2020-10-08T14:10:00",
           "municipality": "North Saanich",
-          "municipality_code": "day-3 city-179964248",
+          "municipality_code": "city-179964248",
           "start": "2020-10-07T20:57:00"
         },
         {
@@ -9874,7 +9857,7 @@
       "region_id": "1812901382"
     },
     "Thompson/Shuswap": {
-      "customers_affected_14d": 11110,
+      "customers_affected_14d": 11117,
       "outages": [
         {
           "area": "East of WILCOX RD, North of TRIP RD",
@@ -9985,6 +9968,16 @@
           "municipality": "100 Mile House",
           "municipality_code": "day-1 day-3 city-950857956",
           "start": "2020-10-10T20:38:00"
+        },
+        {
+          "area": "4503 HELENA LAKE RD, 4400 - 4500 block WRIGHT STATION RD, 4100 - 4500 block HELENA LAKE RD",
+          "cause": "Other",
+          "customers_affected": "7",
+          "end": "2020-10-12T03:00:00",
+          "last_updated": "2020-10-12T02:34:00",
+          "municipality": "100 Mile House",
+          "municipality_code": "day-1 day-3 city-950857956",
+          "start": "2020-10-11T23:40:00"
         },
         {
           "area": "3700 block WRIGHT STATION RD",
