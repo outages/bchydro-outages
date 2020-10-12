@@ -1,17 +1,27 @@
 {
   "current": {
     "Lower Mainland": {
-      "customers_affected_14d": -1,
+      "customers_affected_14d": 15,
       "outages": [
         {
           "area": "7400 block REEDER RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Tree down across our wires",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-12T02:26:00",
+          "last_updated": "2020-10-12T03:00:00",
           "municipality": "Richmond",
           "municipality_code": "day-1 day-3 city--1486145068",
           "start": "2020-10-12T01:59:00",
-          "status": "Crew status: Crew assigned\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 12 4:00 a.m."
+          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 12 4:00 a.m."
+        },
+        {
+          "area": "5700 - 5800 block ALMA ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Under investigation",
+          "customers_affected": "14",
+          "last_updated": "2020-10-12T02:58:00",
+          "municipality": "Vancouver",
+          "municipality_code": "day-1 day-3 city--1786794435",
+          "start": "2020-10-12T02:51:00",
+          "status": "Crew status: Crew assigned"
         }
       ],
       "region_code": "Lower Mainland",
@@ -7235,7 +7245,7 @@
           "end": "2020-10-10T03:30:00",
           "last_updated": "2020-10-10T02:59:00",
           "municipality": "Dawson Creek",
-          "municipality_code": "day-1 day-3 city--1630954860",
+          "municipality_code": "day-3 city--1630954860",
           "start": "2020-10-09T23:38:00"
         },
         {
@@ -8045,7 +8055,7 @@
           "end": "",
           "last_updated": "2020-10-10T02:57:00",
           "municipality": "Vanderhoof",
-          "municipality_code": "day-1 day-3 city-1041981516",
+          "municipality_code": "day-3 city-1041981516",
           "start": "2020-10-10T00:29:00"
         },
         {
