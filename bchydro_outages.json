@@ -1,22 +1,5 @@
 {
   "current": {
-    "North VI": {
-      "customers_affected_14d": -1,
-      "outages": [
-        {
-          "area": "400 block BERRY POINT RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Wire down",
-          "customers_affected": "< 5",
-          "last_updated": "2020-10-12T11:55:00",
-          "municipality": "Nanaimo",
-          "municipality_code": "day-1 day-3 city--907547835",
-          "start": "2020-10-12T07:31:00",
-          "status": "Crew status: Crew on-site"
-        }
-      ],
-      "region_code": "North VI",
-      "region_id": "1602896846"
-    },
     "Northern": {
       "customers_affected_14d": -1,
       "outages": [
@@ -51,7 +34,7 @@
           "area": "South of ARNICA LN, North of MONASHEE RD, West of MAIN ST, East of PINNACLES RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Tree down across our wires",
           "customers_affected": "27",
-          "last_updated": "2020-10-12T12:20:00",
+          "last_updated": "2020-10-12T12:44:00",
           "municipality": "Vernon",
           "municipality_code": "day-1 day-3 city--1736079254",
           "start": "2020-10-12T10:52:00",
@@ -115,11 +98,11 @@
           "area": "2900 block TRANS CANADA HWY\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-12T12:23:00",
+          "last_updated": "2020-10-12T12:32:00",
           "municipality": "Cache Creek",
           "municipality_code": "day-1 day-3 city-720749214",
           "start": "2020-10-12T12:03:00",
-          "status": "Crew status: Crew on-site"
+          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 12 1:00 p.m."
         }
       ],
       "region_code": "Thompson/Shuswap",
@@ -6193,7 +6176,7 @@
       "region_id": "521980323"
     },
     "North VI": {
-      "customers_affected_14d": 8180,
+      "customers_affected_14d": 8182,
       "outages": [
         {
           "area": "West of NOLE RD, South of RUDDER RD, North of GREEN RD, East of CAMPBELL RIVER-QUADRA FERRY",
@@ -6754,6 +6737,16 @@
           "municipality": "Nanaimo",
           "municipality_code": "city--907547835",
           "start": "2020-10-05T15:11:00"
+        },
+        {
+          "area": "400 block BERRY POINT RD",
+          "cause": "Tree down across our wires",
+          "customers_affected": "< 5",
+          "end": "",
+          "last_updated": "2020-10-12T12:40:00",
+          "municipality": "Nanaimo",
+          "municipality_code": "day-1 day-3 city--907547835",
+          "start": "2020-10-12T07:31:00"
         },
         {
           "area": "7300 block AULDS RD",
@@ -8286,7 +8279,7 @@
           "end": "2020-10-10T13:26:00",
           "last_updated": "2020-10-10T13:27:00",
           "municipality": "Cranbrook",
-          "municipality_code": "day-1 day-3 city--591720257",
+          "municipality_code": "day-3 city--591720257",
           "start": "2020-10-10T10:37:00"
         },
         {
@@ -8526,7 +8519,7 @@
           "end": "2020-10-10T13:00:00",
           "last_updated": "2020-10-10T13:27:00",
           "municipality": "Invermere",
-          "municipality_code": "day-1 day-3 city--13155575",
+          "municipality_code": "day-3 city--13155575",
           "start": "2020-10-10T10:37:00"
         },
         {
@@ -8536,7 +8529,7 @@
           "end": "2020-10-10T13:00:00",
           "last_updated": "2020-10-10T13:26:00",
           "municipality": "Invermere",
-          "municipality_code": "day-1 day-3 city--13155575",
+          "municipality_code": "day-3 city--13155575",
           "start": "2020-10-10T10:37:00"
         },
         {
@@ -8546,7 +8539,7 @@
           "end": "2020-10-10T13:00:00",
           "last_updated": "2020-10-10T13:26:00",
           "municipality": "Invermere",
-          "municipality_code": "day-1 day-3 city--13155575",
+          "municipality_code": "day-3 city--13155575",
           "start": "2020-10-10T10:37:00"
         },
         {
@@ -9893,7 +9886,7 @@
           "end": "2020-10-08T12:33:00",
           "last_updated": "2020-10-09T09:26:00",
           "municipality": "Saturna Island",
-          "municipality_code": "day-3 city-501274559",
+          "municipality_code": "city-501274559",
           "start": "2020-10-08T11:29:00"
         },
         {
