@@ -1,7 +1,7 @@
 {
   "current": {
     "Lower Mainland": {
-      "customers_affected_14d": 253,
+      "customers_affected_14d": 170,
       "outages": [
         {
           "area": "East of GORING ST, North of ROY ST, South-West of LOUGHEED HWY\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -14,24 +14,24 @@
           "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 11 9:00 p.m."
         },
         {
-          "area": "North of GREENMOUNT AVE, West of SOBALL ST, East of BLUFF DR, South of LESTON AVE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "area": "North of INDUSTRIAL WAY, West of PROGRESS WAY\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
-          "customers_affected": "228",
-          "last_updated": "2020-10-11T16:53:00",
-          "municipality": "Coquitlam, Port Coquitlam",
-          "municipality_code": "day-1 day-3 city--3101987 city-1843021342",
-          "start": "2020-10-11T16:29:00",
-          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 11 5:20 p.m."
+          "customers_affected": "143",
+          "last_updated": "2020-10-11T18:10:00",
+          "municipality": "Chilliwack",
+          "municipality_code": "day-1 day-3 city--708005353",
+          "start": "2020-10-11T18:07:00",
+          "status": "Crew status: Crew assigned"
         },
         {
-          "area": "9400 block 263 ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "area": "43700 block FROST RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-11T17:19:00",
-          "municipality": "Maple Ridge",
-          "municipality_code": "day-1 day-3 city-598891104",
-          "start": "2020-10-11T14:37:00",
-          "status": "Crew status: Crew on-site"
+          "last_updated": "2020-10-11T17:56:00",
+          "municipality": "Chilliwack",
+          "municipality_code": "day-1 day-3 city--708005353",
+          "start": "2020-10-11T17:52:00",
+          "status": "Crew status: Crew assigned"
         },
         {
           "area": "16200 block SUN CST HWY\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -42,24 +42,24 @@
           "municipality_code": "day-1 day-3 city--660434186",
           "start": "2020-10-11T15:50:00",
           "status": "Crew status: Crew assigned"
+        },
+        {
+          "area": "11100 block SUN CST HWY\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Tree down across our wires",
+          "customers_affected": "< 5",
+          "last_updated": "2020-10-11T18:03:00",
+          "municipality": "Sechelt",
+          "municipality_code": "day-1 day-3 city--660434186",
+          "start": "2020-10-11T16:18:00",
+          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 11 6:30 p.m."
         }
       ],
       "region_code": "Lower Mainland",
       "region_id": "521980323"
     },
     "North VI": {
-      "customers_affected_14d": 19,
+      "customers_affected_14d": -1,
       "outages": [
-        {
-          "area": "West of FITZGERALD RD, East of FORTNUM RD, South of FARNHAM RD, North of MILMAN RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Wire down",
-          "customers_affected": "18",
-          "last_updated": "2020-10-11T17:05:00",
-          "municipality": "Courtenay",
-          "municipality_code": "day-1 day-3 city--824228212",
-          "start": "2020-10-11T14:05:00",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 11 5:30 p.m."
-        },
         {
           "area": "8500 block OWL CRS\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
@@ -75,7 +75,7 @@
       "region_id": "1602896846"
     },
     "South VI": {
-      "customers_affected_14d": 231,
+      "customers_affected_14d": 230,
       "outages": [
         {
           "area": "West of SOUTH WIND DR\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -95,7 +95,7 @@
           "municipality": "Mayne Island",
           "municipality_code": "day-1 day-3 city-48997657",
           "start": "2020-10-11T15:21:00",
-          "status": "Crew status: Crew assigned\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 11 8:30 p.m."
+          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 11 8:30 p.m."
         },
         {
           "area": "West of JOLLY ROGER CRS, East of SCHOONER WAY, South of CROWSNEST DR, North of BRIGADOON CRS\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -106,16 +106,6 @@
           "municipality_code": "day-1 day-3 city--635217187",
           "start": "2020-10-11T15:10:00",
           "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 11 7:00 p.m."
-        },
-        {
-          "area": "1100 block TIMBER LANE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Under investigation",
-          "customers_affected": "< 5",
-          "last_updated": "2020-10-11T16:58:00",
-          "municipality": "Saanich",
-          "municipality_code": "day-1 day-3 city--776615533",
-          "start": "2020-10-11T16:25:00",
-          "status": "Crew status: Crew on-site"
         },
         {
           "area": "100 block CLIFFSIDE RD, 100 block CLIFFSIDE DR\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -132,7 +122,7 @@
       "region_id": "1812901382"
     },
     "Thompson/Shuswap": {
-      "customers_affected_14d": 112,
+      "customers_affected_14d": 111,
       "outages": [
         {
           "area": "North-South-East of TRANS CANADA HWY\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -143,16 +133,6 @@
           "municipality_code": "day-1 day-3 city-720749214",
           "start": "2020-10-11T12:05:00",
           "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 11 8:30 p.m."
-        },
-        {
-          "area": "4800 block LEOPOLD RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Under investigation",
-          "customers_affected": "< 5",
-          "last_updated": "2020-10-11T17:09:00",
-          "municipality": "Salmon Arm",
-          "municipality_code": "day-1 day-3 city-2118875562",
-          "start": "2020-10-11T13:54:00",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 11 6:10 p.m."
         }
       ],
       "region_code": "Thompson/Shuswap",
@@ -198,7 +178,7 @@
       "region_id": "848340027"
     },
     "Lower Mainland": {
-      "customers_affected_14d": 4584,
+      "customers_affected_14d": 4553,
       "outages": [
         {
           "area": "1944, 1954, 1966, 1976 Albion St; 32666-32749 Cordova Ave; 325, 32760 Marshall Rd, 32414-32750 Pandora Ave; 1911-1944 Valencia Crt, Abbotsford",
@@ -309,16 +289,6 @@
           "municipality": "Burnaby",
           "municipality_code": "day-1 day-3 city-1903966249",
           "start": "2020-10-16T09:00:00"
-        },
-        {
-          "area": "7906-7970 Goodlad St",
-          "cause": "Pole replacement",
-          "customers_affected": "31",
-          "end": "2020-10-09T18:00:00",
-          "last_updated": "2020-09-29T14:37:00",
-          "municipality": "Burnaby",
-          "municipality_code": "day-1 day-3 city-1903966249",
-          "start": "2020-10-09T09:00:00"
         },
         {
           "area": "2999,3001,3001,3003,3005,3007,3009\r\n3010,3011,3012,3013,3014,3015,3016\r\n3017,3018,3019,3020,3021,3023,3025\r\n3027,3029,3031,3033,3035 Aries PL\r\nBurnaby",
@@ -2989,7 +2959,7 @@
       "region_id": "848340027"
     },
     "Lower Mainland": {
-      "customers_affected_14d": 39420,
+      "customers_affected_14d": 39649,
       "outages": [
         {
           "area": "East of CLEARBROOK RD, South of NANAIMO CLS, North of PEARDONVILLE RD, West of MACLURE RD",
@@ -3218,7 +3188,7 @@
           "end": "2020-10-09T18:15:00",
           "last_updated": "2020-10-09T18:07:00",
           "municipality": "Abbotsford, Langley",
-          "municipality_code": "day-1 day-3 city-1230363016 city-1612593490",
+          "municipality_code": "day-3 city-1230363016 city-1612593490",
           "start": "2020-10-09T16:36:00"
         },
         {
@@ -3288,7 +3258,7 @@
           "end": "2020-10-07T16:30:00",
           "last_updated": "2020-10-07T17:38:00",
           "municipality": "Burnaby",
-          "municipality_code": "day-3 city-1903966249",
+          "municipality_code": "city-1903966249",
           "start": "2020-10-07T09:25:00"
         },
         {
@@ -3962,6 +3932,16 @@
           "start": "2020-09-28T09:52:00"
         },
         {
+          "area": "North of GREENMOUNT AVE, West of SOBALL ST, East of BLUFF DR, South of LESTON AVE",
+          "cause": "Tree down across our wires",
+          "customers_affected": "228",
+          "end": "2020-10-11T18:00:00",
+          "last_updated": "2020-10-11T17:54:00",
+          "municipality": "Coquitlam, Port Coquitlam",
+          "municipality_code": "day-1 day-3 city--3101987 city-1843021342",
+          "start": "2020-10-11T16:29:00"
+        },
+        {
           "area": "South of 64A AVE, East of HWY 99 , West of KING GEORGE BLV",
           "cause": "Equipment failure",
           "customers_affected": "822",
@@ -4622,6 +4602,16 @@
           "start": "2020-10-09T20:22:00"
         },
         {
+          "area": "9400 block 263 ST",
+          "cause": "Tree down across our wires",
+          "customers_affected": "< 5",
+          "end": "",
+          "last_updated": "2020-10-11T17:47:00",
+          "municipality": "Maple Ridge",
+          "municipality_code": "day-1 day-3 city-598891104",
+          "start": "2020-10-11T14:37:00"
+        },
+        {
           "area": "12000 block GEE ST",
           "cause": "Other",
           "customers_affected": "< 5",
@@ -5238,7 +5228,7 @@
           "end": "2020-10-09T17:00:00",
           "last_updated": "2020-10-09T17:25:00",
           "municipality": "Richmond",
-          "municipality_code": "day-1 day-3 city--1486145068",
+          "municipality_code": "day-3 city--1486145068",
           "start": "2020-10-09T08:40:00"
         },
         {
@@ -5268,7 +5258,7 @@
           "end": "2020-10-09T17:41:00",
           "last_updated": "2020-10-09T17:33:00",
           "municipality": "Richmond",
-          "municipality_code": "day-1 day-3 city--1486145068",
+          "municipality_code": "day-3 city--1486145068",
           "start": "2020-10-09T15:47:00"
         },
         {
@@ -5568,7 +5558,7 @@
           "end": "2020-10-07T18:00:00",
           "last_updated": "2020-10-07T17:45:00",
           "municipality": "Surrey",
-          "municipality_code": "day-3 city--1807186826",
+          "municipality_code": "city--1807186826",
           "start": "2020-10-07T09:07:00"
         },
         {
@@ -6236,7 +6226,7 @@
       "region_id": "521980323"
     },
     "North VI": {
-      "customers_affected_14d": 6042,
+      "customers_affected_14d": 6060,
       "outages": [
         {
           "area": "West of NOLE RD, South of RUDDER RD, North of GREEN RD, East of CAMPBELL RIVER-QUADRA FERRY",
@@ -6449,6 +6439,16 @@
           "start": "2020-10-09T14:27:00"
         },
         {
+          "area": "West of FITZGERALD RD, East of FORTNUM RD, South of FARNHAM RD, North of MILMAN RD",
+          "cause": "Wire down",
+          "customers_affected": "18",
+          "end": "2020-10-11T17:30:00",
+          "last_updated": "2020-10-11T17:25:00",
+          "municipality": "Courtenay",
+          "municipality_code": "day-1 day-3 city--824228212",
+          "start": "2020-10-11T14:05:00"
+        },
+        {
           "area": "South of CAMPBELL RD, North-East of PORPOISE CRS",
           "cause": "Planned work being done on our equipment",
           "customers_affected": "14",
@@ -6595,7 +6595,7 @@
           "end": "",
           "last_updated": "2020-10-09T18:04:00",
           "municipality": "Courtenay",
-          "municipality_code": "day-1 day-3 city--824228212",
+          "municipality_code": "day-3 city--824228212",
           "start": "2020-10-09T16:44:00"
         },
         {
@@ -7442,7 +7442,7 @@
           "end": "2020-10-07T18:30:00",
           "last_updated": "2020-10-08T06:49:00",
           "municipality": "Dawson Creek",
-          "municipality_code": "day-3 city--1630954860",
+          "municipality_code": "city--1630954860",
           "start": "2020-10-07T16:18:00"
         },
         {
@@ -10114,7 +10114,7 @@
       "region_id": "1812901382"
     },
     "Thompson/Shuswap": {
-      "customers_affected_14d": 11000,
+      "customers_affected_14d": 11001,
       "outages": [
         {
           "area": "East of WILCOX RD, North of TRIP RD",
@@ -11085,6 +11085,16 @@
           "municipality": "Salmon Arm",
           "municipality_code": "day-3 city-2118875562",
           "start": "2020-10-08T14:10:00"
+        },
+        {
+          "area": "4800 block LEOPOLD RD",
+          "cause": "Bird contacting our wires",
+          "customers_affected": "< 5",
+          "end": "2020-10-11T18:08:00",
+          "last_updated": "2020-10-11T18:00:00",
+          "municipality": "Salmon Arm",
+          "municipality_code": "day-1 day-3 city-2118875562",
+          "start": "2020-10-11T13:54:00"
         },
         {
           "area": "3500 block OXBOW FTG RD",
