@@ -1,7 +1,7 @@
 {
   "current": {
     "Lower Mainland": {
-      "customers_affected_14d": 162,
+      "customers_affected_14d": 19,
       "outages": [
         {
           "area": "East of GORING ST, North of ROY ST, South-West of LOUGHEED HWY\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -12,16 +12,6 @@
           "municipality_code": "day-1 day-3 city-1903966249",
           "start": "2020-10-11T08:51:00",
           "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 11 11:00 p.m."
-        },
-        {
-          "area": "North of INDUSTRIAL WAY, West of PROGRESS WAY\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Wire down",
-          "customers_affected": "143",
-          "last_updated": "2020-10-11T20:40:00",
-          "municipality": "Chilliwack",
-          "municipality_code": "day-1 day-3 city--708005353",
-          "start": "2020-10-11T18:04:00",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 11 10:30 p.m."
         },
         {
           "area": "43700 block FROST RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -48,7 +38,7 @@
       "region_id": "521980323"
     },
     "North VI": {
-      "customers_affected_14d": -1,
+      "customers_affected_14d": 2109,
       "outages": [
         {
           "area": "8500 block OWL CRS\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -59,6 +49,16 @@
           "municipality_code": "day-1 day-3 city--824228212",
           "start": "2020-10-11T14:39:00",
           "status": "Crew status: Crew assigned\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 12 7:30 a.m."
+        },
+        {
+          "area": "West of BERWICK RD, East of HORNE LAKE RD, North of KENTFORD RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Under investigation",
+          "customers_affected": "2108",
+          "last_updated": "2020-10-11T21:35:00",
+          "municipality": "Qualicum Beach",
+          "municipality_code": "day-1 day-3 city--154309756",
+          "start": "2020-10-11T21:28:00",
+          "status": "Crew status: Crew assigned"
         }
       ],
       "region_code": "North VI",
@@ -2919,7 +2919,7 @@
       "region_id": "848340027"
     },
     "Lower Mainland": {
-      "customers_affected_14d": 39658,
+      "customers_affected_14d": 39801,
       "outages": [
         {
           "area": "East of CLEARBROOK RD, South of NANAIMO CLS, North of PEARDONVILLE RD, West of MACLURE RD",
@@ -3530,6 +3530,16 @@
           "municipality": "Chilliwack",
           "municipality_code": "city--708005353",
           "start": "2020-10-06T09:18:00"
+        },
+        {
+          "area": "North of INDUSTRIAL WAY, West of PROGRESS WAY",
+          "cause": "Tree down across our wires",
+          "customers_affected": "143",
+          "end": "2020-10-11T22:30:00",
+          "last_updated": "2020-10-11T21:34:00",
+          "municipality": "Chilliwack",
+          "municipality_code": "day-1 day-3 city--708005353",
+          "start": "2020-10-11T18:04:00"
         },
         {
           "area": "North-East of CHILLIWACK LAKE RD, South of SIEMENS RD",
