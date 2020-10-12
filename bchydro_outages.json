@@ -1,8 +1,18 @@
 {
   "current": {
     "Lower Mainland": {
-      "customers_affected_14d": 50,
+      "customers_affected_14d": 185,
       "outages": [
+        {
+          "area": "North of 17 HWY, East of 62B ST, South of PORTSIDE RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Under investigation",
+          "customers_affected": "135",
+          "last_updated": "2020-10-12T04:37:00",
+          "municipality": "Delta, Richmond",
+          "municipality_code": "day-1 day-3 city-65915800 city--1486145068",
+          "start": "2020-10-12T04:31:00",
+          "status": "Crew status: Crew assigned"
+        },
         {
           "area": "33000 - 33100 block MYRTLE AVE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
@@ -27,11 +37,11 @@
           "area": "5700 - 5800 block ALMA ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Tree down across our wires",
           "customers_affected": "14",
-          "last_updated": "2020-10-12T03:34:00",
+          "last_updated": "2020-10-12T04:32:00",
           "municipality": "Vancouver",
           "municipality_code": "day-1 day-3 city--1786794435",
           "start": "2020-10-12T02:51:00",
-          "status": "Crew status: Crew assigned"
+          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 12 5:35 a.m."
         }
       ],
       "region_code": "Lower Mainland",
