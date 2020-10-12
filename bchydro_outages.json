@@ -62,18 +62,8 @@
       "region_id": "2072041405"
     },
     "South VI": {
-      "customers_affected_14d": 36,
+      "customers_affected_14d": 19,
       "outages": [
-        {
-          "area": "4700 - 4800 block HILLBANK RD, 2100 block COWICHAN BAY RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Tree down across our wires",
-          "customers_affected": "17",
-          "last_updated": "2020-10-12T11:37:00",
-          "municipality": "Duncan",
-          "municipality_code": "day-1 day-3 city-2058209491",
-          "start": "2020-10-12T10:00:00",
-          "status": "Crew status: Crew on-site"
-        },
         {
           "area": "100 - 200 block STICKS ALLISON RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
@@ -98,7 +88,7 @@
           "area": "South of FURNESS RD, North-West of MUSGRAVE RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "14",
-          "last_updated": "2020-10-12T12:18:00",
+          "last_updated": "2020-10-12T12:22:00",
           "municipality": "Ganges",
           "municipality_code": "day-1 day-3 city-2125630497",
           "start": "2020-10-12T01:36:00",
@@ -125,11 +115,11 @@
           "area": "2900 block TRANS CANADA HWY\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-12T12:20:00",
+          "last_updated": "2020-10-12T12:23:00",
           "municipality": "Cache Creek",
           "municipality_code": "day-1 day-3 city-720749214",
           "start": "2020-10-12T12:03:00",
-          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 12 12:45 p.m."
+          "status": "Crew status: Crew on-site"
         }
       ],
       "region_code": "Thompson/Shuswap",
@@ -4945,7 +4935,7 @@
           "end": "2020-10-10T12:30:00",
           "last_updated": "2020-10-10T12:41:00",
           "municipality": "Pemberton",
-          "municipality_code": "day-1 day-3 city--2076154532",
+          "municipality_code": "day-3 city--2076154532",
           "start": "2020-10-10T10:33:00"
         },
         {
@@ -6195,7 +6185,7 @@
           "end": "",
           "last_updated": "2020-10-10T13:09:00",
           "municipality": "Whistler",
-          "municipality_code": "day-1 day-3 city--2067392640",
+          "municipality_code": "day-3 city--2067392640",
           "start": "2020-10-10T10:40:00"
         }
       ],
@@ -9014,7 +9004,7 @@
       "region_id": "2072041405"
     },
     "South VI": {
-      "customers_affected_14d": 14360,
+      "customers_affected_14d": 14377,
       "outages": [
         {
           "area": "South-West of SAANICH RD, North-East of COOPERIDGE DR",
@@ -9115,6 +9105,16 @@
           "municipality": "Duncan",
           "municipality_code": "city-2058209491",
           "start": "2020-10-06T12:16:00"
+        },
+        {
+          "area": "4700 - 4800 block HILLBANK RD, 2100 block COWICHAN BAY RD",
+          "cause": "Tree down across our wires",
+          "customers_affected": "17",
+          "end": "",
+          "last_updated": "2020-10-12T12:31:00",
+          "municipality": "Duncan",
+          "municipality_code": "day-1 day-3 city-2058209491",
+          "start": "2020-10-12T10:00:00"
         },
         {
           "area": "6600 - 6700 block FORESTRY RD, 6700 block BEAR LAKE RD",
