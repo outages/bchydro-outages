@@ -7,11 +7,11 @@
           "area": "33000 - 33100 block MYRTLE AVE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "35",
-          "last_updated": "2020-10-12T03:09:00",
+          "last_updated": "2020-10-12T03:45:00",
           "municipality": "Mission",
           "municipality_code": "day-1 day-3 city--1560864404",
           "start": "2020-10-12T03:02:00",
-          "status": "Crew status: Crew assigned"
+          "status": "Crew status: Crew on-site"
         },
         {
           "area": "7400 block REEDER RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -25,9 +25,9 @@
         },
         {
           "area": "5700 - 5800 block ALMA ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Under investigation",
+          "cause": "Tree down across our wires",
           "customers_affected": "14",
-          "last_updated": "2020-10-12T02:58:00",
+          "last_updated": "2020-10-12T03:34:00",
           "municipality": "Vancouver",
           "municipality_code": "day-1 day-3 city--1786794435",
           "start": "2020-10-12T02:51:00",
@@ -63,6 +63,23 @@
       ],
       "region_code": "North VI",
       "region_id": "1602896846"
+    },
+    "Northern": {
+      "customers_affected_14d": 49,
+      "outages": [
+        {
+          "area": "South of HWY 16\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Under investigation",
+          "customers_affected": "49",
+          "last_updated": "2020-10-12T03:33:00",
+          "municipality": "Vanderhoof",
+          "municipality_code": "day-1 day-3 city-1041981516",
+          "start": "2020-10-12T03:23:00",
+          "status": "Crew status: Crew assigned"
+        }
+      ],
+      "region_code": "Northern",
+      "region_id": "1602964060"
     },
     "South VI": {
       "customers_affected_14d": 174,
