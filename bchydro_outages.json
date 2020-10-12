@@ -1,34 +1,44 @@
 {
   "current": {
     "Lower Mainland": {
-      "customers_affected_14d": 203,
+      "customers_affected_14d": 204,
       "outages": [
+        {
+          "area": "30700 block HUNTINGDON RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Under investigation",
+          "customers_affected": "< 5",
+          "last_updated": "2020-10-12T07:50:00",
+          "municipality": "Abbotsford",
+          "municipality_code": "day-1 day-3 city-1230363016",
+          "start": "2020-10-12T07:48:00",
+          "status": "Crew status: Crew assigned"
+        },
         {
           "area": "8300 - 8600 block NO 5 RD, 8280 NO 5 RD TRAFFIC\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "13",
-          "last_updated": "2020-10-12T07:14:00",
+          "last_updated": "2020-10-12T07:49:00",
           "municipality": "Richmond",
           "municipality_code": "day-1 day-3 city--1486145068",
           "start": "2020-10-12T07:10:00",
-          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 12 8:15 a.m."
+          "status": "Crew status: Crew on-site"
         },
         {
           "area": "North of 26TH AVE, South of 32ND AVE, West of COUNTRY WOODS DR, East of 165 ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "190",
-          "last_updated": "2020-10-12T07:41:00",
+          "last_updated": "2020-10-12T07:46:00",
           "municipality": "Surrey",
           "municipality_code": "day-1 day-3 city--1807186826",
           "start": "2020-10-12T07:01:00",
-          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 12 8:15 a.m."
+          "status": "Crew status: Crew assigned\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 12 8:15 a.m."
         }
       ],
       "region_code": "Lower Mainland",
       "region_id": "521980323"
     },
     "North VI": {
-      "customers_affected_14d": 7,
+      "customers_affected_14d": 6,
       "outages": [
         {
           "area": "3700 block SHORELINE DR\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -49,41 +59,24 @@
           "municipality_code": "day-1 day-3 city--824228212",
           "start": "2020-10-12T06:27:00",
           "status": "Crew status: Crew assigned"
-        },
-        {
-          "area": "8500 block OWL CRS\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Under investigation",
-          "customers_affected": "< 5",
-          "last_updated": "2020-10-12T07:27:00",
-          "municipality": "Courtenay",
-          "municipality_code": "day-1 day-3 city--824228212",
-          "start": "2020-10-11T14:39:00",
-          "status": "Crew status: Crew on-site"
         }
       ],
       "region_code": "North VI",
       "region_id": "1602896846"
     },
-    "Northern": {
-      "customers_affected_14d": 49,
+    "South VI": {
+      "customers_affected_14d": 139,
       "outages": [
         {
-          "area": "South of HWY 16\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Wire down",
-          "customers_affected": "49",
-          "last_updated": "2020-10-12T07:34:00",
-          "municipality": "Vanderhoof",
-          "municipality_code": "day-1 day-3 city-1041981516",
-          "start": "2020-10-12T03:23:00",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 12 8:30 a.m."
-        }
-      ],
-      "region_code": "Northern",
-      "region_id": "1602964060"
-    },
-    "South VI": {
-      "customers_affected_14d": 127,
-      "outages": [
+          "area": "East of HEALD AVE, South of LYALL ST, North of WYCHBURY AVE, West of JOFFRE ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Under investigation",
+          "customers_affected": "12",
+          "last_updated": "2020-10-12T08:00:00",
+          "municipality": "Esquimalt",
+          "municipality_code": "day-1 day-3 city--941955629",
+          "start": "2020-10-12T07:58:00",
+          "status": "Crew status: No crew assigned yet"
+        },
         {
           "area": "South of FURNESS RD, North-West of MUSGRAVE RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
@@ -98,11 +91,11 @@
           "area": "North of BRUTUS RIDGE RD, West of KEMP LAKE RD, East of OTTER POINT RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Wire down",
           "customers_affected": "113",
-          "last_updated": "2020-10-12T07:06:00",
+          "last_updated": "2020-10-12T07:53:00",
           "municipality": "Victoria",
           "municipality_code": "day-1 day-3 city-1201273535",
           "start": "2020-10-12T05:01:00",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 12 9:30 a.m."
+          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 12 8:30 a.m."
         }
       ],
       "region_code": "South VI",
@@ -6146,7 +6139,7 @@
       "region_id": "521980323"
     },
     "North VI": {
-      "customers_affected_14d": 8173,
+      "customers_affected_14d": 8174,
       "outages": [
         {
           "area": "West of NOLE RD, South of RUDDER RD, North of GREEN RD, East of CAMPBELL RIVER-QUADRA FERRY",
@@ -6497,6 +6490,16 @@
           "municipality": "Courtenay",
           "municipality_code": "day-3 city--824228212",
           "start": "2020-10-09T16:44:00"
+        },
+        {
+          "area": "8500 block OWL CRS",
+          "cause": "Equipment failure",
+          "customers_affected": "< 5",
+          "end": "",
+          "last_updated": "2020-10-12T07:55:00",
+          "municipality": "Courtenay",
+          "municipality_code": "day-1 day-3 city--824228212",
+          "start": "2020-10-11T14:39:00"
         },
         {
           "area": "South-East-West of RYAN RD, North of ISLAND HWY",
@@ -7033,7 +7036,7 @@
       "region_id": "1602896846"
     },
     "Northern": {
-      "customers_affected_14d": 19305,
+      "customers_affected_14d": 19354,
       "outages": [
         {
           "area": "North-South-East-West of HWY 20",
@@ -8094,6 +8097,16 @@
           "municipality": "Vanderhoof",
           "municipality_code": "day-1 day-3 city-1041981516",
           "start": "2020-10-11T06:01:00"
+        },
+        {
+          "area": "South of HWY 16",
+          "cause": "equipment contact",
+          "customers_affected": "49",
+          "end": "2020-10-12T08:30:00",
+          "last_updated": "2020-10-12T07:56:00",
+          "municipality": "Vanderhoof",
+          "municipality_code": "day-1 day-3 city-1041981516",
+          "start": "2020-10-12T03:23:00"
         },
         {
           "area": "North of VANDERVIEW DR, South-West of NORTHSIDE RD, East of HARGRAVES RD",
