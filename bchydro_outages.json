@@ -1,7 +1,7 @@
 {
   "current": {
     "Lower Mainland": {
-      "customers_affected_14d": 168,
+      "customers_affected_14d": 162,
       "outages": [
         {
           "area": "East of GORING ST, North of ROY ST, South-West of LOUGHEED HWY\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -34,14 +34,14 @@
           "status": "Crew status: Crew assigned"
         },
         {
-          "area": "16200 block SUN CST HWY\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Tree down across our wires",
-          "customers_affected": "7",
-          "last_updated": "2020-10-11T20:35:00",
+          "area": "6300 block TOWER RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Under investigation",
+          "customers_affected": "< 5",
+          "last_updated": "2020-10-11T21:05:00",
           "municipality": "Sechelt",
           "municipality_code": "day-1 day-3 city--660434186",
-          "start": "2020-10-11T15:50:00",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 11 9:35 p.m."
+          "start": "2020-10-11T20:52:00",
+          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 11 10:05 p.m."
         }
       ],
       "region_code": "Lower Mainland",
@@ -2919,7 +2919,7 @@
       "region_id": "848340027"
     },
     "Lower Mainland": {
-      "customers_affected_14d": 39651,
+      "customers_affected_14d": 39658,
       "outages": [
         {
           "area": "East of CLEARBROOK RD, South of NANAIMO CLS, North of PEARDONVILLE RD, West of MACLURE RD",
@@ -5270,6 +5270,16 @@
           "municipality": "Sechelt",
           "municipality_code": "city--660434186",
           "start": "2020-10-07T14:06:00"
+        },
+        {
+          "area": "16200 block SUN CST HWY",
+          "cause": "Tree down across our wires",
+          "customers_affected": "7",
+          "end": "2020-10-11T21:35:00",
+          "last_updated": "2020-10-11T20:57:00",
+          "municipality": "Sechelt",
+          "municipality_code": "day-1 day-3 city--660434186",
+          "start": "2020-10-11T15:50:00"
         },
         {
           "area": "2000 block THORNBOROUGH RD",
@@ -9436,7 +9446,7 @@
           "end": "2020-10-07T21:30:00",
           "last_updated": "2020-10-08T08:40:00",
           "municipality": "Ganges",
-          "municipality_code": "day-3 city-2125630497",
+          "municipality_code": "city-2125630497",
           "start": "2020-10-07T18:27:00"
         },
         {
