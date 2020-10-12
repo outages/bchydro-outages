@@ -1,7 +1,7 @@
 {
   "current": {
     "Lower Mainland": {
-      "customers_affected_14d": 18,
+      "customers_affected_14d": 17,
       "outages": [
         {
           "area": "East of GORING ST, North of ROY ST, South-West of LOUGHEED HWY\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -12,16 +12,6 @@
           "municipality_code": "day-1 day-3 city-1903966249",
           "start": "2020-10-11T08:51:00",
           "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 11 11:00 p.m."
-        },
-        {
-          "area": "43700 block FROST RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Under investigation",
-          "customers_affected": "< 5",
-          "last_updated": "2020-10-11T22:59:00",
-          "municipality": "Chilliwack",
-          "municipality_code": "day-1 day-3 city--708005353",
-          "start": "2020-10-11T17:52:00",
-          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 11 11:05 p.m."
         }
       ],
       "region_code": "Lower Mainland",
@@ -61,11 +51,11 @@
           "area": "500 block AGATE BAY RD, 500 block AGATE BAY RD-IRR\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Tree down across our wires",
           "customers_affected": "5",
-          "last_updated": "2020-10-11T22:55:00",
+          "last_updated": "2020-10-11T23:27:00",
           "municipality": "Kamloops",
           "municipality_code": "day-1 day-3 city-979034872",
           "start": "2020-10-11T20:30:00",
-          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 11 10:40 p.m."
+          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 12 12:00 a.m."
         }
       ],
       "region_code": "Thompson/Shuswap",
@@ -2882,7 +2872,7 @@
       "region_id": "848340027"
     },
     "Lower Mainland": {
-      "customers_affected_14d": 39802,
+      "customers_affected_14d": 39803,
       "outages": [
         {
           "area": "East of CLEARBROOK RD, South of NANAIMO CLS, North of PEARDONVILLE RD, West of MACLURE RD",
@@ -3695,6 +3685,16 @@
           "start": "2020-10-08T09:28:00"
         },
         {
+          "area": "43700 block FROST RD",
+          "cause": "Tree down across our wires",
+          "customers_affected": "< 5",
+          "end": "",
+          "last_updated": "2020-10-11T23:27:00",
+          "municipality": "Chilliwack",
+          "municipality_code": "day-1 day-3 city--708005353",
+          "start": "2020-10-11T17:52:00"
+        },
+        {
           "area": "41600 block YALE RD",
           "cause": "Motor vehicle accident",
           "customers_affected": "< 5",
@@ -4191,7 +4191,7 @@
           "end": "2020-10-09T23:10:00",
           "last_updated": "2020-10-09T23:27:00",
           "municipality": "Langley",
-          "municipality_code": "day-1 day-3 city-1612593490",
+          "municipality_code": "day-3 city-1612593490",
           "start": "2020-10-09T19:04:00"
         },
         {
@@ -6608,7 +6608,7 @@
           "end": "",
           "last_updated": "2020-10-09T23:20:00",
           "municipality": "Cumberland",
-          "municipality_code": "day-1 day-3 city--531324801",
+          "municipality_code": "day-3 city--531324801",
           "start": "2020-10-09T22:08:00"
         },
         {
