@@ -27,23 +27,6 @@
       "region_code": "Lower Mainland",
       "region_id": "521980323"
     },
-    "North VI": {
-      "customers_affected_14d": 5,
-      "outages": [
-        {
-          "area": "2100 block HALL RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Under investigation",
-          "customers_affected": "5",
-          "last_updated": "2020-10-12T09:28:00",
-          "municipality": "Courtenay",
-          "municipality_code": "day-1 day-3 city--824228212",
-          "start": "2020-10-12T06:27:00",
-          "status": "Crew status: Crew on-site"
-        }
-      ],
-      "region_code": "North VI",
-      "region_id": "1602896846"
-    },
     "Okanagan/Kootenay": {
       "customers_affected_14d": 100,
       "outages": [
@@ -51,7 +34,7 @@
           "area": "East of OYAMA RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Work being done on our equipment",
           "customers_affected": "100",
-          "last_updated": "2020-10-12T09:29:00",
+          "last_updated": "2020-10-12T09:33:00",
           "municipality": "Lake Country",
           "municipality_code": "day-1 day-3 city--443780603",
           "start": "2020-10-12T07:33:00",
@@ -62,13 +45,23 @@
       "region_id": "2072041405"
     },
     "South VI": {
-      "customers_affected_14d": 14,
+      "customers_affected_14d": 17,
       "outages": [
+        {
+          "area": "1000 block STURDIES BAY RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Under investigation",
+          "customers_affected": "< 5",
+          "last_updated": "2020-10-12T09:37:00",
+          "municipality": "Galiano Island",
+          "municipality_code": "day-1 day-3 city--995767958",
+          "start": "2020-10-12T09:28:00",
+          "status": "Crew status: No crew assigned yet"
+        },
         {
           "area": "South of FURNESS RD, North-West of MUSGRAVE RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "14",
-          "last_updated": "2020-10-12T07:23:00",
+          "last_updated": "2020-10-12T09:33:00",
           "municipality": "Ganges",
           "municipality_code": "day-1 day-3 city-2125630497",
           "start": "2020-10-12T01:36:00",
@@ -4495,7 +4488,7 @@
           "end": "2020-10-10T10:02:00",
           "last_updated": "2020-10-10T09:48:00",
           "municipality": "Maple Ridge",
-          "municipality_code": "day-1 day-3 city-598891104",
+          "municipality_code": "day-3 city-598891104",
           "start": "2020-10-10T07:25:00"
         },
         {
@@ -6143,7 +6136,7 @@
       "region_id": "521980323"
     },
     "North VI": {
-      "customers_affected_14d": 8175,
+      "customers_affected_14d": 8180,
       "outages": [
         {
           "area": "West of NOLE RD, South of RUDDER RD, North of GREEN RD, East of CAMPBELL RIVER-QUADRA FERRY",
@@ -6424,6 +6417,16 @@
           "municipality": "Courtenay",
           "municipality_code": "city--824228212",
           "start": "2020-09-28T09:43:00"
+        },
+        {
+          "area": "2100 block HALL RD",
+          "cause": "Under investigation",
+          "customers_affected": "5",
+          "end": "2020-10-12T10:00:00",
+          "last_updated": "2020-10-12T09:42:00",
+          "municipality": "Courtenay",
+          "municipality_code": "day-1 day-3 city--824228212",
+          "start": "2020-10-12T06:27:00"
         },
         {
           "area": "8300 block S ISLAND HWY, RT 19 AT LUND RD",
