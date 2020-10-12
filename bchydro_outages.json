@@ -1,26 +1,26 @@
 {
   "current": {
     "Lower Mainland": {
-      "customers_affected_14d": 3769,
+      "customers_affected_14d": 3770,
       "outages": [
-        {
-          "area": "600 block GOWER POINT RD, 200 - 300 block COCHRANE RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Under investigation",
-          "customers_affected": "10",
-          "last_updated": "2020-10-12T13:41:00",
-          "municipality": "Gibsons",
-          "municipality_code": "day-1 day-3 city-1688353985",
-          "start": "2020-10-12T13:08:00",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 12 3:00 p.m."
-        },
         {
           "area": "West of 244TH ST, East of 216TH ST, South of 129TH AVE, North of LOUGHEED HWY\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Industrial accident",
           "customers_affected": "3747",
-          "last_updated": "2020-10-12T14:05:00",
+          "last_updated": "2020-10-12T14:22:00",
           "municipality": "Maple Ridge",
           "municipality_code": "day-1 day-3 city-598891104",
           "start": "2020-10-12T14:02:00",
+          "status": "Crew status: Crew assigned"
+        },
+        {
+          "area": "12200 - 12300 block 234 ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Under investigation",
+          "customers_affected": "11",
+          "last_updated": "2020-10-12T14:21:00",
+          "municipality": "Maple Ridge",
+          "municipality_code": "day-1 day-3 city-598891104",
+          "start": "2020-10-12T14:06:00",
           "status": "Crew status: Crew assigned"
         },
         {
@@ -44,7 +44,7 @@
           "area": "4500 block GOSNELL CRS\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-12T13:42:00",
+          "last_updated": "2020-10-12T14:24:00",
           "municipality": "Stewart",
           "municipality_code": "day-1 day-3 city--228706672",
           "start": "2020-10-12T10:20:00",
@@ -108,11 +108,11 @@
           "area": "South of FURNESS RD, North-West of MUSGRAVE RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "14",
-          "last_updated": "2020-10-12T13:07:00",
+          "last_updated": "2020-10-12T14:20:00",
           "municipality": "Ganges",
           "municipality_code": "day-1 day-3 city-2125630497",
           "start": "2020-10-12T01:36:00",
-          "status": "Crew status: Crew assigned"
+          "status": "Crew status: Crew assigned\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 12 3:30 p.m."
         }
       ],
       "region_code": "South VI",
@@ -2926,7 +2926,7 @@
       "region_id": "848340027"
     },
     "Lower Mainland": {
-      "customers_affected_14d": 39087,
+      "customers_affected_14d": 39097,
       "outages": [
         {
           "area": "East of CLEARBROOK RD, South of NANAIMO CLS, North of PEARDONVILLE RD, West of MACLURE RD",
@@ -3695,7 +3695,7 @@
           "end": "",
           "last_updated": "2020-10-08T14:11:00",
           "municipality": "Chilliwack",
-          "municipality_code": "day-3 city--708005353",
+          "municipality_code": "city--708005353",
           "start": "2020-10-08T14:07:00"
         },
         {
@@ -4065,7 +4065,7 @@
           "end": "2020-10-10T14:26:00",
           "last_updated": "2020-10-12T11:29:00",
           "municipality": "Delta",
-          "municipality_code": "day-1 day-3 city-65915800",
+          "municipality_code": "day-3 city-65915800",
           "start": "2020-10-10T10:34:00"
         },
         {
@@ -4097,6 +4097,16 @@
           "municipality": "Delta, Richmond",
           "municipality_code": "day-1 day-3 city-65915800 city--1486145068",
           "start": "2020-10-12T04:31:00"
+        },
+        {
+          "area": "600 block GOWER POINT RD, 200 - 300 block COCHRANE RD",
+          "cause": "Voltage Problem or Overload",
+          "customers_affected": "10",
+          "end": "2020-10-12T15:00:00",
+          "last_updated": "2020-10-12T14:11:00",
+          "municipality": "Gibsons",
+          "municipality_code": "day-1 day-3 city-1688353985",
+          "start": "2020-10-12T13:08:00"
         },
         {
           "area": "600 block GLEN RD",
@@ -5355,7 +5365,7 @@
           "end": "2020-10-08T14:30:00",
           "last_updated": "2020-10-08T14:10:00",
           "municipality": "Squamish",
-          "municipality_code": "day-3 city--724385413",
+          "municipality_code": "city--724385413",
           "start": "2020-10-08T08:40:00"
         },
         {
@@ -5585,7 +5595,7 @@
           "end": "2020-10-08T15:00:00",
           "last_updated": "2020-10-09T14:03:00",
           "municipality": "Surrey",
-          "municipality_code": "day-3 city--1807186826",
+          "municipality_code": "city--1807186826",
           "start": "2020-10-08T12:09:00"
         },
         {
@@ -6442,7 +6452,7 @@
           "end": "2020-10-08T15:00:00",
           "last_updated": "2020-10-08T14:53:00",
           "municipality": "Courtenay",
-          "municipality_code": "day-3 city--824228212",
+          "municipality_code": "city--824228212",
           "start": "2020-10-08T10:02:00"
         },
         {
@@ -8287,7 +8297,7 @@
       "region_id": "1602964060"
     },
     "Okanagan/Kootenay": {
-      "customers_affected_14d": 25076,
+      "customers_affected_14d": 25086,
       "outages": [
         {
           "area": "3200 block ROSEDALE AVE",
@@ -8588,6 +8598,16 @@
           "municipality": "Invermere",
           "municipality_code": "city--13155575",
           "start": "2020-10-07T21:18:00"
+        },
+        {
+          "area": "North of STEVENS AVE, East of DUNN ST, South of SPRUCE AVE, West of ARBUCKLE ST",
+          "cause": "Under investigation",
+          "customers_affected": "10",
+          "end": "",
+          "last_updated": "2020-10-12T14:24:00",
+          "municipality": "Invermere",
+          "municipality_code": "day-1 day-3 city--13155575",
+          "start": "2020-10-12T14:14:00"
         },
         {
           "area": "1200 - 1400 block WINDERMERE LOOP RD",
@@ -9243,7 +9263,7 @@
           "end": "2020-10-08T14:00:00",
           "last_updated": "2020-10-08T14:54:00",
           "municipality": "Esquimalt",
-          "municipality_code": "day-3 city--941955629",
+          "municipality_code": "city--941955629",
           "start": "2020-10-08T09:41:00"
         },
         {
@@ -9403,7 +9423,7 @@
           "end": "",
           "last_updated": "2020-10-10T14:17:00",
           "municipality": "Highlands, Saanich, View Royal",
-          "municipality_code": "day-1 day-3 city-1322525542 city--776615533 city--1360221748",
+          "municipality_code": "day-3 city-1322525542 city--776615533 city--1360221748",
           "start": "2020-10-10T09:56:00"
         },
         {
