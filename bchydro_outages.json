@@ -1,5 +1,22 @@
 {
   "current": {
+    "Lower Mainland": {
+      "customers_affected_14d": 10,
+      "outages": [
+        {
+          "area": "600 block GOWER POINT RD, 200 - 300 block COCHRANE RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Under investigation",
+          "customers_affected": "10",
+          "last_updated": "2020-10-12T13:16:00",
+          "municipality": "Gibsons",
+          "municipality_code": "day-1 day-3 city-1688353985",
+          "start": "2020-10-12T13:08:00",
+          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 12 2:15 p.m."
+        }
+      ],
+      "region_code": "Lower Mainland",
+      "region_id": "521980323"
+    },
     "Northern": {
       "customers_affected_14d": -1,
       "outages": [
@@ -34,7 +51,7 @@
           "area": "South of ARNICA LN, North of MONASHEE RD, West of MAIN ST, East of PINNACLES RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Tree down across our wires",
           "customers_affected": "27",
-          "last_updated": "2020-10-12T13:04:00",
+          "last_updated": "2020-10-12T13:15:00",
           "municipality": "Vernon",
           "municipality_code": "day-1 day-3 city--1736079254",
           "start": "2020-10-12T10:52:00",
@@ -51,7 +68,7 @@
           "area": "100 - 200 block STICKS ALLISON RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-12T12:06:00",
+          "last_updated": "2020-10-12T13:08:00",
           "municipality": "Galiano Island",
           "municipality_code": "day-1 day-3 city--995767958",
           "start": "2020-10-12T11:51:00",
@@ -71,7 +88,7 @@
           "area": "South of FURNESS RD, North-West of MUSGRAVE RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "14",
-          "last_updated": "2020-10-12T12:22:00",
+          "last_updated": "2020-10-12T13:07:00",
           "municipality": "Ganges",
           "municipality_code": "day-1 day-3 city-2125630497",
           "start": "2020-10-12T01:36:00",
@@ -88,7 +105,7 @@
           "area": "5800 block HILLTOP RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-12T11:02:00",
+          "last_updated": "2020-10-12T13:13:00",
           "municipality": "100 Mile House",
           "municipality_code": "day-1 day-3 city-950857956",
           "start": "2020-10-12T09:13:00",
@@ -7442,7 +7459,7 @@
           "end": "2020-10-10T13:45:00",
           "last_updated": "2020-10-10T13:14:00",
           "municipality": "Dawson Creek",
-          "municipality_code": "day-1 day-3 city--1630954860",
+          "municipality_code": "day-3 city--1630954860",
           "start": "2020-10-10T10:15:00"
         },
         {
