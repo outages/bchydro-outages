@@ -18,7 +18,7 @@
       "region_id": "848340027"
     },
     "Lower Mainland": {
-      "customers_affected_14d": 2426,
+      "customers_affected_14d": 807,
       "outages": [
         {
           "area": "West of SUMAS MOUNTAIN RD, South of DAWSON RD, North of MCKEE RD, East of STRAITON RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -31,14 +31,14 @@
           "status": "Crew status: Crew on-site"
         },
         {
-          "area": "West of Seton Portage RD, East of PEMBERTON PORTAGE RD, North-South of Duffy Lake RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Bird contacting our wires",
-          "customers_affected": "1744",
-          "last_updated": "2020-10-12T21:13:00",
-          "municipality": "Pemberton",
-          "municipality_code": "day-1 day-3 city--2076154532",
-          "start": "2020-10-12T19:29:00",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 12 10:30 p.m."
+          "area": "West of SUMAS MOUNTAIN RD, East of SHADBOLT AVE, South of ATWOOD CRS, North of HIGH GROVE PLACE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Under investigation",
+          "customers_affected": "125",
+          "last_updated": "2020-10-12T21:35:00",
+          "municipality": "Abbotsford",
+          "municipality_code": "day-1 day-3 city-1230363016",
+          "start": "2020-10-12T21:31:00",
+          "status": "Crew status: Crew on-site"
         }
       ],
       "region_code": "Lower Mainland",
@@ -2484,7 +2484,7 @@
           "end": "2020-10-10T22:00:00",
           "last_updated": "2020-10-10T21:34:00",
           "municipality": "Prince George",
-          "municipality_code": "day-1 day-3 city-1835674262",
+          "municipality_code": "day-3 city-1835674262",
           "start": "2020-10-10T18:52:00"
         },
         {
@@ -5911,7 +5911,7 @@
           "end": "2020-10-10T21:30:00",
           "last_updated": "2020-10-10T21:57:00",
           "municipality": "Vancouver",
-          "municipality_code": "day-1 day-3 city--1786794435",
+          "municipality_code": "day-3 city--1786794435",
           "start": "2020-10-10T13:51:00"
         },
         {
