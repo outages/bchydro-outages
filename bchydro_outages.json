@@ -7,19 +7,29 @@
           "area": "56200 block HWY 97 P946\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-12T19:27:00",
+          "last_updated": "2020-10-12T19:32:00",
           "municipality": "Mackenzie",
           "municipality_code": "day-1 day-3 city-642381361",
           "start": "2020-10-12T19:23:00",
-          "status": "Crew status: No crew assigned yet"
+          "status": "Crew status: Crew assigned"
         }
       ],
       "region_code": "Central Interior",
       "region_id": "848340027"
     },
     "Lower Mainland": {
-      "customers_affected_14d": 12,
+      "customers_affected_14d": 1756,
       "outages": [
+        {
+          "area": "West of Seton Portage RD, East of PEMBERTON PORTAGE RD, North-South of Duffy Lake RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Under investigation",
+          "customers_affected": "1744",
+          "last_updated": "2020-10-12T19:32:00",
+          "municipality": "Pemberton",
+          "municipality_code": "day-1 day-3 city--2076154532",
+          "start": "2020-10-12T19:29:00",
+          "status": "Crew status: No crew assigned yet"
+        },
         {
           "area": "11800 block VOYAGEUR WAY\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Transformer burn out",
@@ -51,11 +61,11 @@
           "area": "3400 block COLDSTREAM AVE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-12T19:09:00",
+          "last_updated": "2020-10-12T19:35:00",
           "municipality": "Vernon",
           "municipality_code": "day-1 day-3 city--1736079254",
           "start": "2020-10-12T18:54:00",
-          "status": "Crew status: Crew assigned"
+          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 12 8:00 p.m."
         }
       ],
       "region_code": "Okanagan/Kootenay",
@@ -10146,7 +10156,7 @@
           "end": "2020-10-10T19:45:00",
           "last_updated": "2020-10-10T20:12:00",
           "municipality": "100 Mile House",
-          "municipality_code": "day-1 day-3 city-950857956",
+          "municipality_code": "day-3 city-950857956",
           "start": "2020-10-10T13:10:00"
         },
         {
@@ -10156,7 +10166,7 @@
           "end": "",
           "last_updated": "2020-10-10T19:38:00",
           "municipality": "100 Mile House",
-          "municipality_code": "day-1 day-3 city-950857956",
+          "municipality_code": "day-3 city-950857956",
           "start": "2020-10-10T12:42:00"
         },
         {
@@ -11006,7 +11016,7 @@
           "end": "2020-10-08T19:00:00",
           "last_updated": "2020-10-09T09:19:00",
           "municipality": "Merritt",
-          "municipality_code": "day-3 city--1676334159",
+          "municipality_code": "city--1676334159",
           "start": "2020-10-08T15:12:00"
         },
         {
