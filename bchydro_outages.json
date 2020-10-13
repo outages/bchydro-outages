@@ -18,13 +18,13 @@
       "region_id": "848340027"
     },
     "Lower Mainland": {
-      "customers_affected_14d": 227,
+      "customers_affected_14d": 925,
       "outages": [
         {
           "area": "North of Malin Creek RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Tree down across our wires",
           "customers_affected": "200",
-          "last_updated": "2020-10-13T06:59:00",
+          "last_updated": "2020-10-13T07:25:00",
           "municipality": "Bowen Island",
           "municipality_code": "day-1 day-3 city-1522211618",
           "start": "2020-10-13T04:27:00",
@@ -34,7 +34,7 @@
           "area": "West of HEADLANDS RD, East of COCHRANE RD, North of FRANKLIN RD, South of DOUGALL RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Wire down",
           "customers_affected": "24",
-          "last_updated": "2020-10-13T07:03:00",
+          "last_updated": "2020-10-13T07:24:00",
           "municipality": "Gibsons",
           "municipality_code": "day-1 day-3 city-1688353985",
           "start": "2020-10-13T03:58:00",
@@ -48,6 +48,26 @@
           "municipality": "Pemberton",
           "municipality_code": "day-1 day-3 city--2076154532",
           "start": "2020-10-13T06:25:00",
+          "status": "Crew status: Crew assigned"
+        },
+        {
+          "area": "GILLIES BAY RD P242, ALDER ST 1, 4700 - 4800 block ALDER AVE, SANDERSON RD P33, 4800 block DICK ISLAND, CENTRAL RD P10/7, TEXADA REACTOR SITE, 5100 block BALLPARK RD, 4500 - 4800 block ALDER ST, 3000 - 3300 block OAK ST...\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Under investigation",
+          "customers_affected": "454",
+          "last_updated": "2020-10-13T07:22:00",
+          "municipality": "Powell River",
+          "municipality_code": "day-1 day-3 city-1665178489",
+          "start": "2020-10-13T07:22:00",
+          "status": "Crew status: No crew assigned yet"
+        },
+        {
+          "area": "South-West of SUNSHINE COAST HWY\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Under investigation",
+          "customers_affected": "244",
+          "last_updated": "2020-10-13T07:19:00",
+          "municipality": "Sechelt",
+          "municipality_code": "day-1 day-3 city--660434186",
+          "start": "2020-10-13T07:12:00",
           "status": "Crew status: Crew assigned"
         },
         {
@@ -65,13 +85,13 @@
       "region_id": "521980323"
     },
     "North VI": {
-      "customers_affected_14d": 4276,
+      "customers_affected_14d": 4410,
       "outages": [
         {
           "area": "East of LACON RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "1580",
-          "last_updated": "2020-10-13T06:34:00",
+          "last_updated": "2020-10-13T07:09:00",
           "municipality": "Courtenay",
           "municipality_code": "day-1 day-3 city--824228212",
           "start": "2020-10-13T05:59:00",
@@ -81,7 +101,7 @@
           "area": "West of GREENHILL RD, South of MCFARLANE RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "68",
-          "last_updated": "2020-10-13T06:35:00",
+          "last_updated": "2020-10-13T07:09:00",
           "municipality": "Courtenay",
           "municipality_code": "day-1 day-3 city--824228212",
           "start": "2020-10-13T06:27:00",
@@ -91,7 +111,7 @@
           "area": "East of SOUTH RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Wire down",
           "customers_affected": "1004",
-          "last_updated": "2020-10-13T05:59:00",
+          "last_updated": "2020-10-13T07:14:00",
           "municipality": "Nanaimo",
           "municipality_code": "day-1 day-3 city--907547835",
           "start": "2020-10-13T03:56:00",
@@ -101,27 +121,37 @@
           "area": "East of BURNSIDE DR\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Wire down",
           "customers_affected": "782",
-          "last_updated": "2020-10-13T06:49:00",
+          "last_updated": "2020-10-13T07:14:00",
           "municipality": "Nanaimo",
           "municipality_code": "day-1 day-3 city--907547835",
           "start": "2020-10-13T04:10:00",
           "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 13 7:50 a.m."
         },
         {
-          "area": "South of Gabriola Is-Mudge Is Ferry , West of SOUTH RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "area": "North of INGRAM RD, East of KIRKSTONE WAY, South of BARNES RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
-          "customers_affected": "118",
-          "last_updated": "2020-10-13T07:05:00",
+          "customers_affected": "126",
+          "last_updated": "2020-10-13T07:13:00",
           "municipality": "Nanaimo",
           "municipality_code": "day-1 day-3 city--907547835",
-          "start": "2020-10-13T04:54:00",
+          "start": "2020-10-13T03:48:00",
+          "status": "Crew status: Crew on-site"
+        },
+        {
+          "area": "West of SOUTH RD, East of SOCKEYE DR, South of EL VERANO DR\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Under investigation",
+          "customers_affected": "120",
+          "last_updated": "2020-10-13T07:06:00",
+          "municipality": "Nanaimo",
+          "municipality_code": "day-1 day-3 city--907547835",
+          "start": "2020-10-13T04:37:00",
           "status": "Crew status: Crew assigned"
         },
         {
           "area": "East of CHARTWELL RD, West of LANTERN RD, North of HOLDEN CORSO RD, South of WHITE RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "69",
-          "last_updated": "2020-10-13T05:24:00",
+          "last_updated": "2020-10-13T07:09:00",
           "municipality": "Nanaimo",
           "municipality_code": "day-1 day-3 city--907547835",
           "start": "2020-10-13T03:24:00",
@@ -131,7 +161,7 @@
           "area": "West of KEG RD, East of DECOURCY DR, North of RICARDO RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "45",
-          "last_updated": "2020-10-13T05:59:00",
+          "last_updated": "2020-10-13T07:14:00",
           "municipality": "Nanaimo",
           "municipality_code": "day-1 day-3 city--907547835",
           "start": "2020-10-13T04:11:00",
@@ -141,27 +171,47 @@
           "area": "3700 block YELLOW POINT RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "6",
-          "last_updated": "2020-10-13T05:06:00",
+          "last_updated": "2020-10-13T07:15:00",
           "municipality": "Nanaimo",
           "municipality_code": "day-1 day-3 city--907547835",
           "start": "2020-10-13T04:27:00",
           "status": "Crew status: Crew assigned"
         },
         {
+          "area": "1800 - 2000 block CEDAR RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Under investigation",
+          "customers_affected": "5",
+          "last_updated": "2020-10-13T07:17:00",
+          "municipality": "Nanaimo",
+          "municipality_code": "day-1 day-3 city--907547835",
+          "start": "2020-10-13T06:51:00",
+          "status": "Crew status: No crew assigned yet"
+        },
+        {
           "area": "2100 block MUNDIE RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Wire down",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-13T05:43:00",
+          "last_updated": "2020-10-13T07:14:00",
           "municipality": "Nanaimo",
           "municipality_code": "day-1 day-3 city--907547835",
           "start": "2020-10-13T05:40:00",
           "status": "Crew status: Crew assigned"
         },
         {
+          "area": "LONG LAKE/ROSS RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Under investigation",
+          "customers_affected": "< 5",
+          "last_updated": "2020-10-13T07:09:00",
+          "municipality": "Nanaimo",
+          "municipality_code": "day-1 day-3 city--907547835",
+          "start": "2020-10-13T06:41:00",
+          "status": "Crew status: No crew assigned yet"
+        },
+        {
           "area": "South of HOLBERG RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "397",
-          "last_updated": "2020-10-13T06:25:00",
+          "last_updated": "2020-10-13T07:08:00",
           "municipality": "Port Hardy",
           "municipality_code": "day-1 day-3 city-368562319",
           "start": "2020-10-13T06:23:00",
@@ -171,7 +221,7 @@
           "area": "East of 1ST ST, North of 15TH AVE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "118",
-          "last_updated": "2020-10-13T05:36:00",
+          "last_updated": "2020-10-13T07:08:00",
           "municipality": "Port Hardy",
           "municipality_code": "day-1 day-3 city-368562319",
           "start": "2020-10-13T05:31:00",
@@ -181,7 +231,7 @@
           "area": "North-East of COAL HARBOUR RD, South-West of ISLAND HWY\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "85",
-          "last_updated": "2020-10-13T07:04:00",
+          "last_updated": "2020-10-13T07:08:00",
           "municipality": "Port Hardy",
           "municipality_code": "day-1 day-3 city-368562319",
           "start": "2020-10-13T04:27:00",
@@ -198,7 +248,7 @@
           "area": "East of SUNSET DR, North-West of CLANTON RD, South of PORLIER PASS RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "464",
-          "last_updated": "2020-10-13T06:37:00",
+          "last_updated": "2020-10-13T07:09:00",
           "municipality": "Galiano Island",
           "municipality_code": "day-1 day-3 city--995767958",
           "start": "2020-10-13T04:00:00",
@@ -208,7 +258,7 @@
           "area": "North of BLUFF RD, West of GOSSIP RD, East of CLANTON RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Wire down",
           "customers_affected": "95",
-          "last_updated": "2020-10-13T06:09:00",
+          "last_updated": "2020-10-13T07:09:00",
           "municipality": "Galiano Island",
           "municipality_code": "day-1 day-3 city--995767958",
           "start": "2020-10-13T03:38:00",
@@ -218,11 +268,11 @@
           "area": "West of TRIMMER PL\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Wire down",
           "customers_affected": "375",
-          "last_updated": "2020-10-13T06:40:00",
+          "last_updated": "2020-10-13T07:18:00",
           "municipality": "Victoria",
           "municipality_code": "day-1 day-3 city-1201273535",
           "start": "2020-10-13T04:11:00",
-          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 13 7:25 a.m."
+          "status": "Crew status: Crew on-site"
         }
       ],
       "region_code": "South VI",
@@ -6162,7 +6212,7 @@
           "end": "2020-10-09T07:30:00",
           "last_updated": "2020-10-09T08:33:00",
           "municipality": "Comox",
-          "municipality_code": "day-3 city-65291018",
+          "municipality_code": "city-65291018",
           "start": "2020-10-09T06:20:00"
         },
         {
@@ -7017,7 +7067,7 @@
           "cause": "Equipment failure",
           "customers_affected": "528",
           "end": "2020-10-10T23:00:00",
-          "last_updated": "2020-10-10T23:16:00",
+          "last_updated": "2020-10-13T07:18:00",
           "municipality": "Dawson Creek",
           "municipality_code": "day-3 city--1630954860",
           "start": "2020-10-10T18:39:00"
@@ -7057,7 +7107,7 @@
           "cause": "Other",
           "customers_affected": "48",
           "end": "2020-10-10T07:15:00",
-          "last_updated": "2020-10-10T07:09:00",
+          "last_updated": "2020-10-13T07:18:00",
           "municipality": "Dawson Creek",
           "municipality_code": "day-3 city--1630954860",
           "start": "2020-10-10T05:56:00"
@@ -7087,7 +7137,7 @@
           "cause": "equipment contact",
           "customers_affected": "28",
           "end": "2020-10-10T11:00:00",
-          "last_updated": "2020-10-10T10:50:00",
+          "last_updated": "2020-10-13T07:17:00",
           "municipality": "Dawson Creek",
           "municipality_code": "day-3 city--1630954860",
           "start": "2020-10-10T09:03:00"
@@ -7107,7 +7157,7 @@
           "cause": "Equipment failure",
           "customers_affected": "19",
           "end": "2020-10-10T03:30:00",
-          "last_updated": "2020-10-10T02:59:00",
+          "last_updated": "2020-10-13T07:17:00",
           "municipality": "Dawson Creek",
           "municipality_code": "day-3 city--1630954860",
           "start": "2020-10-09T23:38:00"
@@ -7157,7 +7207,7 @@
           "cause": "Construction",
           "customers_affected": "< 5",
           "end": "2020-10-10T13:45:00",
-          "last_updated": "2020-10-10T13:14:00",
+          "last_updated": "2020-10-13T07:20:00",
           "municipality": "Dawson Creek",
           "municipality_code": "day-3 city--1630954860",
           "start": "2020-10-10T10:15:00"
@@ -7177,7 +7227,7 @@
           "cause": "Customer's equipment",
           "customers_affected": "< 5",
           "end": "",
-          "last_updated": "2020-10-09T16:42:00",
+          "last_updated": "2020-10-13T07:17:00",
           "municipality": "Dawson Creek",
           "municipality_code": "day-3 city--1630954860",
           "start": "2020-10-09T15:42:00"
@@ -7677,7 +7727,7 @@
           "cause": "Bird contacting our wires",
           "customers_affected": "< 5",
           "end": "2020-10-12T14:30:00",
-          "last_updated": "2020-10-12T15:50:00",
+          "last_updated": "2020-10-13T07:19:00",
           "municipality": "Stewart",
           "municipality_code": "day-1 day-3 city--228706672",
           "start": "2020-10-12T10:20:00"
@@ -7717,7 +7767,7 @@
           "cause": "Bird contacting our wires",
           "customers_affected": "5",
           "end": "",
-          "last_updated": "2020-10-11T16:10:00",
+          "last_updated": "2020-10-13T07:19:00",
           "municipality": "Terrace",
           "municipality_code": "day-1 day-3 city-241216082",
           "start": "2020-10-11T13:40:00"
