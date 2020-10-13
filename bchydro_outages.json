@@ -18,7 +18,7 @@
       "region_id": "848340027"
     },
     "Lower Mainland": {
-      "customers_affected_14d": 942,
+      "customers_affected_14d": 3713,
       "outages": [
         {
           "area": "North of Malin Creek RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -54,7 +54,7 @@
           "area": "GILLIES BAY RD P242, ALDER ST 1, 4700 - 4800 block ALDER AVE, SANDERSON RD P33, 4800 block DICK ISLAND, CENTRAL RD P10/7, TEXADA REACTOR SITE, 5100 block BALLPARK RD, 4500 - 4800 block ALDER ST, 3000 - 3300 block OAK ST...\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "454",
-          "last_updated": "2020-10-13T07:34:00",
+          "last_updated": "2020-10-13T07:36:00",
           "municipality": "Powell River",
           "municipality_code": "day-1 day-3 city-1665178489",
           "start": "2020-10-13T07:22:00",
@@ -62,9 +62,9 @@
         },
         {
           "area": "South-West of SUNSHINE COAST HWY\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Under investigation",
+          "cause": "Wire down",
           "customers_affected": "244",
-          "last_updated": "2020-10-13T07:31:00",
+          "last_updated": "2020-10-13T07:39:00",
           "municipality": "Sechelt",
           "municipality_code": "day-1 day-3 city--660434186",
           "start": "2020-10-13T07:12:00",
@@ -78,6 +78,16 @@
           "municipality": "Sechelt",
           "municipality_code": "day-1 day-3 city--660434186",
           "start": "2020-10-13T07:09:00",
+          "status": "Crew status: Crew assigned"
+        },
+        {
+          "area": "1200 - 1800 block LOCKYER RD, 1000 - 1200 block TIMBERLAND RD, 1300 - 1500 block PARK AVE, 1100 - 1200 block NEILSON RD, 800 - 1000 block JOE RD, 1900 - 3400 block CRYSTAL RD, 3700 block DAVID DR, 3200 block CRYSTAL ROAD, 2500 block MILES RD, 2600 - 2800 block ROBINSON RD...\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Under investigation",
+          "customers_affected": "2771",
+          "last_updated": "2020-10-13T07:45:00",
+          "municipality": "Sechelt, Sechelt Indian Gover",
+          "municipality_code": "day-1 day-3 city--660434186 city--775866532",
+          "start": "2020-10-13T07:40:00",
           "status": "Crew status: Crew assigned"
         },
         {
@@ -105,17 +115,17 @@
       "region_id": "521980323"
     },
     "North VI": {
-      "customers_affected_14d": 9399,
+      "customers_affected_14d": 9797,
       "outages": [
         {
           "area": "North of ROYSTON RD, East of INLAND ISLAND HWY, South of 10TH ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Tree down across our wires",
           "customers_affected": "3501",
-          "last_updated": "2020-10-13T07:30:00",
+          "last_updated": "2020-10-13T07:40:00",
           "municipality": "Comox, Courtenay, Cumberland",
           "municipality_code": "day-1 day-3 city-65291018 city--824228212 city--531324801",
           "start": "2020-10-13T06:38:00",
-          "status": "Crew status: Crew assigned"
+          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 13 8:40 a.m."
         },
         {
           "area": "East of LACON RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -126,6 +136,26 @@
           "municipality_code": "day-1 day-3 city--824228212",
           "start": "2020-10-13T05:59:00",
           "status": "Crew status: Crew assigned"
+        },
+        {
+          "area": "North of WOODHAM RD, East of CHICKADEE RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Under investigation",
+          "customers_affected": "285",
+          "last_updated": "2020-10-13T07:41:00",
+          "municipality": "Courtenay",
+          "municipality_code": "day-1 day-3 city--824228212",
+          "start": "2020-10-13T07:36:00",
+          "status": "Crew status: Crew assigned"
+        },
+        {
+          "area": "West of JEMINA RD, South of DENMAN RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Under investigation",
+          "customers_affected": "105",
+          "last_updated": "2020-10-13T07:45:00",
+          "municipality": "Courtenay",
+          "municipality_code": "day-1 day-3 city--824228212",
+          "start": "2020-10-13T07:35:00",
+          "status": "Crew status: No crew assigned yet"
         },
         {
           "area": "West of THE POINT RD, North of NORTHWEST RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -141,11 +171,21 @@
           "area": "West of GREENHILL RD, South of MCFARLANE RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "68",
-          "last_updated": "2020-10-13T07:09:00",
+          "last_updated": "2020-10-13T07:37:00",
           "municipality": "Courtenay",
           "municipality_code": "day-1 day-3 city--824228212",
           "start": "2020-10-13T06:27:00",
-          "status": "Crew status: Crew assigned"
+          "status": "Crew status: Crew on-site"
+        },
+        {
+          "area": "1100 block 2ND AVE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Under investigation",
+          "customers_affected": "< 5",
+          "last_updated": "2020-10-13T07:40:00",
+          "municipality": "Ladysmith",
+          "municipality_code": "day-1 day-3 city--543936167",
+          "start": "2020-10-13T07:37:00",
+          "status": "Crew status: No crew assigned yet"
         },
         {
           "area": "East of SOUTH RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -181,7 +221,7 @@
           "area": "West of SOUTH RD, East of SOCKEYE DR, South of EL VERANO DR\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "120",
-          "last_updated": "2020-10-13T07:06:00",
+          "last_updated": "2020-10-13T07:37:00",
           "municipality": "Nanaimo",
           "municipality_code": "day-1 day-3 city--907547835",
           "start": "2020-10-13T04:37:00",
@@ -208,6 +248,16 @@
           "status": "Crew status: Crew assigned"
         },
         {
+          "area": "4800 block PROSPECT DR\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Under investigation",
+          "customers_affected": "6",
+          "last_updated": "2020-10-13T07:46:00",
+          "municipality": "Nanaimo",
+          "municipality_code": "day-1 day-3 city--907547835",
+          "start": "2020-10-13T07:24:00",
+          "status": "Crew status: No crew assigned yet"
+        },
+        {
           "area": "3700 block YELLOW POINT RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "6",
@@ -221,11 +271,11 @@
           "area": "1800 - 2000 block CEDAR RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "5",
-          "last_updated": "2020-10-13T07:17:00",
+          "last_updated": "2020-10-13T07:46:00",
           "municipality": "Nanaimo",
           "municipality_code": "day-1 day-3 city--907547835",
           "start": "2020-10-13T06:51:00",
-          "status": "Crew status: No crew assigned yet"
+          "status": "Crew status: Crew assigned"
         },
         {
           "area": "2100 block MUNDIE RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -285,6 +335,16 @@
           "municipality": "Port Mcneill",
           "municipality_code": "day-1 day-3 city--2097763811",
           "start": "2020-10-13T07:26:00",
+          "status": "Crew status: Crew assigned"
+        },
+        {
+          "area": "500 block GROVEHILL RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Under investigation",
+          "customers_affected": "< 5",
+          "last_updated": "2020-10-13T07:43:00",
+          "municipality": "Qualicum Beach",
+          "municipality_code": "day-1 day-3 city--154309756",
+          "start": "2020-10-13T07:35:00",
           "status": "Crew status: Crew assigned"
         }
       ],
