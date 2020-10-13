@@ -7,11 +7,11 @@
           "area": "56200 block HWY 97 P946\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-12T19:32:00",
+          "last_updated": "2020-10-12T20:09:00",
           "municipality": "Mackenzie",
           "municipality_code": "day-1 day-3 city-642381361",
           "start": "2020-10-12T19:23:00",
-          "status": "Crew status: Crew assigned"
+          "status": "Crew status: Crew on their way"
         }
       ],
       "region_code": "Central Interior",
@@ -34,11 +34,11 @@
           "area": "West of Seton Portage RD, East of PEMBERTON PORTAGE RD, North-South of Duffy Lake RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Bird contacting our wires",
           "customers_affected": "1744",
-          "last_updated": "2020-10-12T19:49:00",
+          "last_updated": "2020-10-12T20:18:00",
           "municipality": "Pemberton",
           "municipality_code": "day-1 day-3 city--2076154532",
           "start": "2020-10-12T19:29:00",
-          "status": "Crew status: Crew assigned\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 12 9:00 p.m."
+          "status": "Crew status: Crew on-site"
         },
         {
           "area": "11800 block VOYAGEUR WAY\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -55,7 +55,7 @@
       "region_id": "521980323"
     },
     "Okanagan/Kootenay": {
-      "customers_affected_14d": 29,
+      "customers_affected_14d": 27,
       "outages": [
         {
           "area": "South of ARNICA LN, North of MONASHEE RD, West of MAIN ST, East of PINNACLES RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -66,16 +66,6 @@
           "municipality_code": "day-1 day-3 city--1736079254",
           "start": "2020-10-12T10:52:00",
           "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 12 10:00 p.m."
-        },
-        {
-          "area": "3400 block COLDSTREAM AVE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Under investigation",
-          "customers_affected": "< 5",
-          "last_updated": "2020-10-12T19:50:00",
-          "municipality": "Vernon",
-          "municipality_code": "day-1 day-3 city--1736079254",
-          "start": "2020-10-12T18:54:00",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 12 8:30 p.m."
         }
       ],
       "region_code": "Okanagan/Kootenay",
@@ -2862,7 +2852,7 @@
       "region_id": "848340027"
     },
     "Lower Mainland": {
-      "customers_affected_14d": 39115,
+      "customers_affected_14d": 42862,
       "outages": [
         {
           "area": "East of CLEARBROOK RD, South of NANAIMO CLS, North of PEARDONVILLE RD, West of MACLURE RD",
@@ -3301,7 +3291,7 @@
           "end": "2020-10-08T21:00:00",
           "last_updated": "2020-10-08T20:18:00",
           "municipality": "Burnaby",
-          "municipality_code": "day-3 city-1903966249",
+          "municipality_code": "city-1903966249",
           "start": "2020-10-08T09:14:00"
         },
         {
@@ -4433,6 +4423,16 @@
           "municipality": "Lions Bay",
           "municipality_code": "day-3 city-1368997905",
           "start": "2020-10-10T13:12:00"
+        },
+        {
+          "area": "West of 244TH ST, East of 216TH ST, South of 129TH AVE, North of LOUGHEED HWY",
+          "cause": "Other",
+          "customers_affected": "3747",
+          "end": "2020-10-12T15:00:00",
+          "last_updated": "2020-10-12T20:07:00",
+          "municipality": "Maple Ridge",
+          "municipality_code": "day-1 day-3 city-598891104",
+          "start": "2020-10-12T14:02:00"
         },
         {
           "area": "20500 - 20600 block 125 AVE",
@@ -5791,7 +5791,7 @@
           "end": "2020-10-08T21:00:00",
           "last_updated": "2020-10-08T20:25:00",
           "municipality": "Vancouver",
-          "municipality_code": "day-3 city--1786794435",
+          "municipality_code": "city--1786794435",
           "start": "2020-10-08T09:14:00"
         },
         {
@@ -8273,7 +8273,7 @@
       "region_id": "1602964060"
     },
     "Okanagan/Kootenay": {
-      "customers_affected_14d": 25186,
+      "customers_affected_14d": 25188,
       "outages": [
         {
           "area": "3200 block ROSEDALE AVE",
@@ -8884,6 +8884,16 @@
           "municipality": "Vernon",
           "municipality_code": "day-1 day-3 city--1736079254",
           "start": "2020-10-10T21:23:00"
+        },
+        {
+          "area": "3400 block COLDSTREAM AVE",
+          "cause": "Equipment failure",
+          "customers_affected": "< 5",
+          "end": "2020-10-12T20:30:00",
+          "last_updated": "2020-10-12T20:15:00",
+          "municipality": "Vernon",
+          "municipality_code": "day-1 day-3 city--1736079254",
+          "start": "2020-10-12T18:54:00"
         },
         {
           "area": "0 block SCHWARTZ RD",
@@ -11066,7 +11076,7 @@
           "end": "2020-10-10T20:30:00",
           "last_updated": "2020-10-10T20:15:00",
           "municipality": "Revelstoke",
-          "municipality_code": "day-1 day-3 city-1039954398",
+          "municipality_code": "day-3 city-1039954398",
           "start": "2020-10-10T17:01:00"
         },
         {
