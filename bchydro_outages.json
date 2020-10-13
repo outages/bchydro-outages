@@ -18,13 +18,13 @@
       "region_id": "848340027"
     },
     "Lower Mainland": {
-      "customers_affected_14d": 925,
+      "customers_affected_14d": 942,
       "outages": [
         {
           "area": "North of Malin Creek RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Tree down across our wires",
           "customers_affected": "200",
-          "last_updated": "2020-10-13T07:25:00",
+          "last_updated": "2020-10-13T07:30:00",
           "municipality": "Bowen Island",
           "municipality_code": "day-1 day-3 city-1522211618",
           "start": "2020-10-13T04:27:00",
@@ -44,30 +44,40 @@
           "area": "7500 block PEM PORTAGE RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-13T06:59:00",
+          "last_updated": "2020-10-13T07:28:00",
           "municipality": "Pemberton",
           "municipality_code": "day-1 day-3 city--2076154532",
           "start": "2020-10-13T06:25:00",
-          "status": "Crew status: Crew assigned"
+          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 13 8:30 a.m."
         },
         {
           "area": "GILLIES BAY RD P242, ALDER ST 1, 4700 - 4800 block ALDER AVE, SANDERSON RD P33, 4800 block DICK ISLAND, CENTRAL RD P10/7, TEXADA REACTOR SITE, 5100 block BALLPARK RD, 4500 - 4800 block ALDER ST, 3000 - 3300 block OAK ST...\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "454",
-          "last_updated": "2020-10-13T07:22:00",
+          "last_updated": "2020-10-13T07:34:00",
           "municipality": "Powell River",
           "municipality_code": "day-1 day-3 city-1665178489",
           "start": "2020-10-13T07:22:00",
-          "status": "Crew status: No crew assigned yet"
+          "status": "Crew status: Crew assigned"
         },
         {
           "area": "South-West of SUNSHINE COAST HWY\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "244",
-          "last_updated": "2020-10-13T07:19:00",
+          "last_updated": "2020-10-13T07:31:00",
           "municipality": "Sechelt",
           "municipality_code": "day-1 day-3 city--660434186",
           "start": "2020-10-13T07:12:00",
+          "status": "Crew status: Crew assigned"
+        },
+        {
+          "area": "700 block LEEK RD, 1900 - 2000 block COACH RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Under investigation",
+          "customers_affected": "16",
+          "last_updated": "2020-10-13T07:30:00",
+          "municipality": "Sechelt",
+          "municipality_code": "day-1 day-3 city--660434186",
+          "start": "2020-10-13T07:09:00",
           "status": "Crew status: Crew assigned"
         },
         {
@@ -79,14 +89,34 @@
           "municipality_code": "day-1 day-3 city--1807186826",
           "start": "2020-10-13T01:21:00",
           "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 13 8:30 a.m."
+        },
+        {
+          "area": "11500 block BAILEY CRES\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Tree down across our wires",
+          "customers_affected": "< 5",
+          "last_updated": "2020-10-13T07:32:00",
+          "municipality": "Surrey",
+          "municipality_code": "day-1 day-3 city--1807186826",
+          "start": "2020-10-13T07:27:00",
+          "status": "Crew status: Crew assigned"
         }
       ],
       "region_code": "Lower Mainland",
       "region_id": "521980323"
     },
     "North VI": {
-      "customers_affected_14d": 4410,
+      "customers_affected_14d": 9399,
       "outages": [
+        {
+          "area": "North of ROYSTON RD, East of INLAND ISLAND HWY, South of 10TH ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Tree down across our wires",
+          "customers_affected": "3501",
+          "last_updated": "2020-10-13T07:30:00",
+          "municipality": "Comox, Courtenay, Cumberland",
+          "municipality_code": "day-1 day-3 city-65291018 city--824228212 city--531324801",
+          "start": "2020-10-13T06:38:00",
+          "status": "Crew status: Crew assigned"
+        },
         {
           "area": "East of LACON RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
@@ -96,6 +126,16 @@
           "municipality_code": "day-1 day-3 city--824228212",
           "start": "2020-10-13T05:59:00",
           "status": "Crew status: Crew assigned"
+        },
+        {
+          "area": "West of THE POINT RD, North of NORTHWEST RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Under investigation",
+          "customers_affected": "92",
+          "last_updated": "2020-10-13T07:32:00",
+          "municipality": "Courtenay",
+          "municipality_code": "day-1 day-3 city--824228212",
+          "start": "2020-10-13T07:29:00",
+          "status": "Crew status: No crew assigned yet"
         },
         {
           "area": "West of GREENHILL RD, South of MCFARLANE RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -131,11 +171,11 @@
           "area": "North of INGRAM RD, East of KIRKSTONE WAY, South of BARNES RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "126",
-          "last_updated": "2020-10-13T07:13:00",
+          "last_updated": "2020-10-13T07:33:00",
           "municipality": "Nanaimo",
           "municipality_code": "day-1 day-3 city--907547835",
           "start": "2020-10-13T03:48:00",
-          "status": "Crew status: Crew on-site"
+          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 13 8:35 a.m."
         },
         {
           "area": "West of SOUTH RD, East of SOCKEYE DR, South of EL VERANO DR\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -171,7 +211,7 @@
           "area": "3700 block YELLOW POINT RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "6",
-          "last_updated": "2020-10-13T07:15:00",
+          "last_updated": "2020-10-13T07:35:00",
           "municipality": "Nanaimo",
           "municipality_code": "day-1 day-3 city--907547835",
           "start": "2020-10-13T04:27:00",
@@ -191,7 +231,7 @@
           "area": "2100 block MUNDIE RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Wire down",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-13T07:14:00",
+          "last_updated": "2020-10-13T07:35:00",
           "municipality": "Nanaimo",
           "municipality_code": "day-1 day-3 city--907547835",
           "start": "2020-10-13T05:40:00",
@@ -236,10 +276,37 @@
           "municipality_code": "day-1 day-3 city-368562319",
           "start": "2020-10-13T04:27:00",
           "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 13 7:25 a.m."
+        },
+        {
+          "area": "East of MAIN RD, South of Port McNeil-Alert Bay Ferry , West of MINE RD, North of HWY 19\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Under investigation",
+          "customers_affected": "1396",
+          "last_updated": "2020-10-13T07:34:00",
+          "municipality": "Port Mcneill",
+          "municipality_code": "day-1 day-3 city--2097763811",
+          "start": "2020-10-13T07:26:00",
+          "status": "Crew status: Crew assigned"
         }
       ],
       "region_code": "North VI",
       "region_id": "1602896846"
+    },
+    "Northern": {
+      "customers_affected_14d": 49,
+      "outages": [
+        {
+          "area": "East of RD 261\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Under investigation",
+          "customers_affected": "49",
+          "last_updated": "2020-10-13T07:32:00",
+          "municipality": "Fort St. John",
+          "municipality_code": "day-1 day-3 city-205572915",
+          "start": "2020-10-13T07:13:00",
+          "status": "Crew status: Crew assigned"
+        }
+      ],
+      "region_code": "Northern",
+      "region_id": "1602964060"
     },
     "South VI": {
       "customers_affected_14d": 934,
@@ -248,11 +315,11 @@
           "area": "East of SUNSET DR, North-West of CLANTON RD, South of PORLIER PASS RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "464",
-          "last_updated": "2020-10-13T07:09:00",
+          "last_updated": "2020-10-13T07:32:00",
           "municipality": "Galiano Island",
           "municipality_code": "day-1 day-3 city--995767958",
           "start": "2020-10-13T04:00:00",
-          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 13 7:35 a.m."
+          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 13 9:30 a.m."
         },
         {
           "area": "North of BLUFF RD, West of GOSSIP RD, East of CLANTON RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -325,7 +392,7 @@
       "region_id": "848340027"
     },
     "Lower Mainland": {
-      "customers_affected_14d": 4532,
+      "customers_affected_14d": 4569,
       "outages": [
         {
           "area": "1944, 1954, 1966, 1976 Albion St; 32666-32749 Cordova Ave; 325, 32760 Marshall Rd, 32414-32750 Pandora Ave; 1911-1944 Valencia Crt, Abbotsford",
@@ -558,11 +625,11 @@
           "start": "2020-10-20T09:00:00"
         },
         {
-          "area": "43255-43840 Adams Rd, 7045,7121 Lickman Rd, Chilliwack",
+          "area": "** CANCELLED **43255-43840 Adams Rd, 7045,7121 Lickman Rd, Chilliwack",
           "cause": "Planned work being done on our equipment",
           "customers_affected": "27",
           "end": "2020-10-13T12:30:00",
-          "last_updated": "2020-10-01T11:44:00",
+          "last_updated": "2020-10-13T07:34:00",
           "municipality": "Chilliwack",
           "municipality_code": "day-1 day-3 city--708005353",
           "start": "2020-10-13T08:30:00"
@@ -1206,6 +1273,16 @@
           "municipality": "Surrey",
           "municipality_code": "day-1 day-3 city--1807186826",
           "start": "2020-10-16T09:00:00"
+        },
+        {
+          "area": "14110-14165 57 Ave; 14113, 14133, 14153, 14163 56A Ave; 14014-14167 57A Ave, 5682, 5734 Bradford Pl; 14055, 14058, 14078, 14083 Halifax Pl, Surrey",
+          "cause": "Planned work being done on our equipment",
+          "customers_affected": "37",
+          "end": "2020-10-21T12:00:00",
+          "last_updated": "2020-10-13T07:30:00",
+          "municipality": "Surrey",
+          "municipality_code": "day-1 day-3 city--1807186826",
+          "start": "2020-10-21T08:30:00"
         },
         {
           "area": "**Emergent**14429,14440,14445,14446,14455,14458\r\n14465,14472,14474,14475,14484,14485\r\n14494,14495,14505,14510,14519,14520\r\n14525,14530,14539,14540,14546,14547\r\n14556,14557,14566,14567,14576,14577\r\n89a Ave., 8937, 8969 146 St., Surrey",
