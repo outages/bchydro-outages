@@ -1,7 +1,24 @@
 {
   "current": {
+    "Central Interior": {
+      "customers_affected_14d": 5,
+      "outages": [
+        {
+          "area": "0 block S THIRD AVE, 0 block S FOURTH AVE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Under investigation",
+          "customers_affected": "5",
+          "last_updated": "2020-10-12T18:08:00",
+          "municipality": "Williams Lake",
+          "municipality_code": "day-1 day-3 city--1905642465",
+          "start": "2020-10-12T18:05:00",
+          "status": "Crew status: Crew assigned\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 12 6:45 p.m."
+        }
+      ],
+      "region_code": "Central Interior",
+      "region_id": "848340027"
+    },
     "Lower Mainland": {
-      "customers_affected_14d": 14,
+      "customers_affected_14d": 13,
       "outages": [
         {
           "area": "11800 block VOYAGEUR WAY\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -14,24 +31,14 @@
           "status": "Crew status: Crew assigned"
         },
         {
-          "area": "11800 block WILLIAMS RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Under investigation",
-          "customers_affected": "< 5",
-          "last_updated": "2020-10-12T16:40:00",
-          "municipality": "Richmond",
-          "municipality_code": "day-1 day-3 city--1486145068",
-          "start": "2020-10-12T15:18:00",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 12 6:40 p.m."
-        },
-        {
           "area": "400 block E 29TH AVE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-12T17:12:00",
+          "last_updated": "2020-10-12T17:49:00",
           "municipality": "Vancouver",
           "municipality_code": "day-1 day-3 city--1786794435",
           "start": "2020-10-12T17:05:00",
-          "status": "Crew status: Crew assigned"
+          "status": "Crew status: Crew on-site"
         }
       ],
       "region_code": "Lower Mainland",
@@ -44,79 +51,52 @@
           "area": "South of ARNICA LN, North of MONASHEE RD, West of MAIN ST, East of PINNACLES RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Tree down across our wires",
           "customers_affected": "27",
-          "last_updated": "2020-10-12T14:58:00",
+          "last_updated": "2020-10-12T17:29:00",
           "municipality": "Vernon",
           "municipality_code": "day-1 day-3 city--1736079254",
           "start": "2020-10-12T10:52:00",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 12 7:00 p.m."
+          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 12 10:00 p.m."
         }
       ],
       "region_code": "Okanagan/Kootenay",
       "region_id": "2072041405"
     },
     "South VI": {
-      "customers_affected_14d": 26,
+      "customers_affected_14d": 25,
       "outages": [
         {
           "area": "2900 block CAMERON TAGGART RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "7",
-          "last_updated": "2020-10-12T16:59:00",
+          "last_updated": "2020-10-12T17:36:00",
           "municipality": "Duncan",
           "municipality_code": "day-1 day-3 city-2058209491",
           "start": "2020-10-12T16:04:00",
-          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 12 6:00 p.m."
+          "status": "Crew status: Crew on-site"
         },
         {
           "area": "100 - 200 block STICKS ALLISON RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-12T15:26:00",
+          "last_updated": "2020-10-12T17:36:00",
           "municipality": "Galiano Island",
           "municipality_code": "day-1 day-3 city--995767958",
           "start": "2020-10-12T11:51:00",
-          "status": "Crew status: Crew assigned"
-        },
-        {
-          "area": "1000 block STURDIES BAY RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Under investigation",
-          "customers_affected": "< 5",
-          "last_updated": "2020-10-12T15:40:00",
-          "municipality": "Galiano Island",
-          "municipality_code": "day-1 day-3 city--995767958",
-          "start": "2020-10-12T09:28:00",
-          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 12 4:40 p.m."
+          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 12 7:40 p.m."
         },
         {
           "area": "South of FURNESS RD, North-West of MUSGRAVE RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "14",
-          "last_updated": "2020-10-12T15:02:00",
+          "last_updated": "2020-10-12T17:39:00",
           "municipality": "Ganges",
           "municipality_code": "day-1 day-3 city-2125630497",
           "start": "2020-10-12T01:36:00",
-          "status": "Crew status: Crew on-site"
+          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 12 6:30 p.m."
         }
       ],
       "region_code": "South VI",
       "region_id": "1812901382"
-    },
-    "Thompson/Shuswap": {
-      "customers_affected_14d": -1,
-      "outages": [
-        {
-          "area": "5800 block HILLTOP RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Under investigation",
-          "customers_affected": "< 5",
-          "last_updated": "2020-10-12T17:20:00",
-          "municipality": "100 Mile House",
-          "municipality_code": "day-1 day-3 city-950857956",
-          "start": "2020-10-12T09:13:00",
-          "status": "Crew status: Crew on-site"
-        }
-      ],
-      "region_code": "Thompson/Shuswap",
-      "region_id": "725364552"
     }
   },
   "planned": {
@@ -2899,7 +2879,7 @@
       "region_id": "848340027"
     },
     "Lower Mainland": {
-      "customers_affected_14d": 39108,
+      "customers_affected_14d": 39115,
       "outages": [
         {
           "area": "East of CLEARBROOK RD, South of NANAIMO CLS, North of PEARDONVILLE RD, West of MACLURE RD",
@@ -2958,7 +2938,7 @@
           "end": "2020-10-10T18:10:00",
           "last_updated": "2020-10-10T18:08:00",
           "municipality": "Abbotsford",
-          "municipality_code": "day-1 day-3 city-1230363016",
+          "municipality_code": "day-3 city-1230363016",
           "start": "2020-10-10T14:34:00"
         },
         {
@@ -3518,7 +3498,7 @@
           "end": "2020-10-10T17:30:00",
           "last_updated": "2020-10-10T19:16:00",
           "municipality": "Chilliwack",
-          "municipality_code": "day-1 day-3 city--708005353",
+          "municipality_code": "day-3 city--708005353",
           "start": "2020-10-10T09:34:00"
         },
         {
@@ -3728,7 +3708,7 @@
           "end": "2020-10-08T18:00:00",
           "last_updated": "2020-10-08T18:01:00",
           "municipality": "Chilliwack",
-          "municipality_code": "day-3 city--708005353",
+          "municipality_code": "city--708005353",
           "start": "2020-10-08T09:28:00"
         },
         {
@@ -4018,7 +3998,7 @@
           "end": "2020-10-08T18:00:00",
           "last_updated": "2020-10-08T18:07:00",
           "municipality": "Delta",
-          "municipality_code": "day-3 city-65915800",
+          "municipality_code": "city-65915800",
           "start": "2020-10-08T17:24:00"
         },
         {
@@ -4468,7 +4448,7 @@
           "end": "2020-10-10T18:00:00",
           "last_updated": "2020-10-10T17:49:00",
           "municipality": "Lions Bay",
-          "municipality_code": "day-1 day-3 city-1368997905",
+          "municipality_code": "day-3 city-1368997905",
           "start": "2020-10-10T13:12:00"
         },
         {
@@ -5108,7 +5088,7 @@
           "end": "2020-10-08T19:30:00",
           "last_updated": "2020-10-08T18:06:00",
           "municipality": "Richmond",
-          "municipality_code": "day-3 city--1486145068",
+          "municipality_code": "city--1486145068",
           "start": "2020-10-08T17:48:00"
         },
         {
@@ -5118,7 +5098,7 @@
           "end": "2020-10-08T19:30:00",
           "last_updated": "2020-10-08T18:06:00",
           "municipality": "Richmond",
-          "municipality_code": "day-3 city--1486145068",
+          "municipality_code": "city--1486145068",
           "start": "2020-10-08T08:18:00"
         },
         {
@@ -5250,6 +5230,16 @@
           "municipality": "Richmond",
           "municipality_code": "day-1 day-3 city--1486145068",
           "start": "2020-10-12T01:59:00"
+        },
+        {
+          "area": "11800 block WILLIAMS RD",
+          "cause": "Under investigation",
+          "customers_affected": "< 5",
+          "end": "2020-10-12T18:39:00",
+          "last_updated": "2020-10-12T17:52:00",
+          "municipality": "Richmond",
+          "municipality_code": "day-1 day-3 city--1486145068",
+          "start": "2020-10-12T15:18:00"
         },
         {
           "area": "7200 block LINDSAY RD",
@@ -5558,7 +5548,7 @@
           "end": "2020-10-08T18:00:00",
           "last_updated": "2020-10-08T18:11:00",
           "municipality": "Surrey",
-          "municipality_code": "day-3 city--1807186826",
+          "municipality_code": "city--1807186826",
           "start": "2020-10-08T08:44:00"
         },
         {
@@ -5728,7 +5718,7 @@
           "end": "2020-10-10T18:00:00",
           "last_updated": "2020-10-10T17:56:00",
           "municipality": "Vancouver",
-          "municipality_code": "day-1 day-3 city--1786794435",
+          "municipality_code": "day-3 city--1786794435",
           "start": "2020-10-10T12:08:00"
         },
         {
@@ -6000,6 +5990,16 @@
           "municipality": "Vancouver",
           "municipality_code": "city--1786794435",
           "start": "2020-10-06T08:59:00"
+        },
+        {
+          "area": "3900 block COLLINGWOOD ST, 3500 block W 23RD AVE",
+          "cause": "Motor vehicle accident",
+          "customers_affected": "6",
+          "end": "2020-10-12T17:00:00",
+          "last_updated": "2020-10-12T17:27:00",
+          "municipality": "Vancouver",
+          "municipality_code": "day-1 day-3 city--1786794435",
+          "start": "2020-10-12T14:47:00"
         },
         {
           "area": "4400 block WELWYN ST",
@@ -6535,7 +6535,7 @@
           "end": "2020-10-08T17:15:00",
           "last_updated": "2020-10-09T08:34:00",
           "municipality": "Courtenay",
-          "municipality_code": "day-3 city--824228212",
+          "municipality_code": "city--824228212",
           "start": "2020-10-08T13:43:00"
         },
         {
@@ -8644,10 +8644,10 @@
         },
         {
           "area": "East of OYAMA RD",
-          "cause": "Work being done on our equipment",
+          "cause": "Bird contacting our wires",
           "customers_affected": "100",
           "end": "2020-10-12T17:30:00",
-          "last_updated": "2020-10-12T17:06:00",
+          "last_updated": "2020-10-12T17:29:00",
           "municipality": "Lake Country",
           "municipality_code": "day-1 day-3 city--443780603",
           "start": "2020-10-12T07:33:00"
@@ -9047,7 +9047,7 @@
       "region_id": "2072041405"
     },
     "South VI": {
-      "customers_affected_14d": 14377,
+      "customers_affected_14d": 14378,
       "outages": [
         {
           "area": "South-West of SAANICH RD, North-East of COOPERIDGE DR",
@@ -9340,6 +9340,16 @@
           "start": "2020-10-01T10:07:00"
         },
         {
+          "area": "1000 block STURDIES BAY RD",
+          "cause": "Other",
+          "customers_affected": "< 5",
+          "end": "2020-10-12T17:34:00",
+          "last_updated": "2020-10-12T17:35:00",
+          "municipality": "Galiano Island",
+          "municipality_code": "day-1 day-3 city--995767958",
+          "start": "2020-10-12T09:28:00"
+        },
+        {
           "area": "100 block WHALER BAY RD",
           "cause": "Tree down across our wires",
           "customers_affected": "< 5",
@@ -9556,7 +9566,7 @@
           "end": "2020-10-10T18:00:00",
           "last_updated": "2020-10-10T18:05:00",
           "municipality": "Metchosin",
-          "municipality_code": "day-1 day-3 city-1000109226",
+          "municipality_code": "day-3 city-1000109226",
           "start": "2020-10-10T15:22:00"
         },
         {
@@ -10114,7 +10124,7 @@
       "region_id": "1812901382"
     },
     "Thompson/Shuswap": {
-      "customers_affected_14d": 11123,
+      "customers_affected_14d": 11124,
       "outages": [
         {
           "area": "East of WILCOX RD, North of TRIP RD",
@@ -10283,8 +10293,18 @@
           "end": "",
           "last_updated": "2020-10-10T17:47:00",
           "municipality": "100 Mile House",
-          "municipality_code": "day-1 day-3 city-950857956",
+          "municipality_code": "day-3 city-950857956",
           "start": "2020-10-10T13:25:00"
+        },
+        {
+          "area": "5800 block HILLTOP RD",
+          "cause": "Voltage Problem or Overload",
+          "customers_affected": "< 5",
+          "end": "2020-10-12T18:00:00",
+          "last_updated": "2020-10-12T17:46:00",
+          "municipality": "100 Mile House",
+          "municipality_code": "day-1 day-3 city-950857956",
+          "start": "2020-10-12T09:13:00"
         },
         {
           "area": "8900 block EAGAN LAKE CRS",
@@ -10643,7 +10663,7 @@
           "end": "2020-10-08T18:00:00",
           "last_updated": "2020-10-08T17:41:00",
           "municipality": "Kamloops",
-          "municipality_code": "day-3 city-979034872",
+          "municipality_code": "city-979034872",
           "start": "2020-10-08T08:03:00"
         },
         {
@@ -11053,7 +11073,7 @@
           "end": "2020-10-10T17:54:00",
           "last_updated": "2020-10-10T18:51:00",
           "municipality": "Salmon Arm",
-          "municipality_code": "day-1 day-3 city-2118875562",
+          "municipality_code": "day-3 city-2118875562",
           "start": "2020-10-10T15:13:00"
         },
         {
@@ -11073,7 +11093,7 @@
           "end": "2020-10-10T17:20:00",
           "last_updated": "2020-10-10T17:31:00",
           "municipality": "Salmon Arm",
-          "municipality_code": "day-1 day-3 city-2118875562",
+          "municipality_code": "day-3 city-2118875562",
           "start": "2020-10-10T15:36:00"
         },
         {
