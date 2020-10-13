@@ -24,18 +24,28 @@
           "area": "300 block BURNS RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Wire down",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-13T04:03:00",
+          "last_updated": "2020-10-13T04:10:00",
           "municipality": "Gibsons",
           "municipality_code": "day-1 day-3 city-1688353985",
           "start": "2020-10-13T03:58:00",
           "status": "Crew status: Crew assigned"
+        },
+        {
+          "area": "10000 block 152 ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Under investigation",
+          "customers_affected": "< 5",
+          "last_updated": "2020-10-13T04:18:00",
+          "municipality": "Surrey",
+          "municipality_code": "day-1 day-3 city--1807186826",
+          "start": "2020-10-13T01:21:00",
+          "status": "Crew status: Suspended\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 13 4:20 a.m."
         }
       ],
       "region_code": "Lower Mainland",
       "region_id": "521980323"
     },
     "North VI": {
-      "customers_affected_14d": 1372,
+      "customers_affected_14d": 2533,
       "outages": [
         {
           "area": "East of SOUTH RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -45,6 +55,26 @@
           "municipality": "Nanaimo",
           "municipality_code": "day-1 day-3 city--907547835",
           "start": "2020-10-13T03:59:00",
+          "status": "Crew status: Crew assigned"
+        },
+        {
+          "area": "East of BURNSIDE DR\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Under investigation",
+          "customers_affected": "782",
+          "last_updated": "2020-10-13T04:14:00",
+          "municipality": "Nanaimo",
+          "municipality_code": "day-1 day-3 city--907547835",
+          "start": "2020-10-13T04:13:00",
+          "status": "Crew status: No crew assigned yet"
+        },
+        {
+          "area": "West of HOLDEN CORSO RD, East of BEADALL RD, South of Naniamo-Gabriola Is Ferry , North of TRANS CANADA HWY\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Under investigation",
+          "customers_affected": "334",
+          "last_updated": "2020-10-13T04:10:00",
+          "municipality": "Nanaimo",
+          "municipality_code": "day-1 day-3 city--907547835",
+          "start": "2020-10-13T04:08:00",
           "status": "Crew status: Crew assigned"
         },
         {
@@ -68,6 +98,16 @@
           "status": "Crew status: Crew assigned"
         },
         {
+          "area": "West of KEG RD, East of DECOURCY DR, North of RICARDO RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Under investigation",
+          "customers_affected": "45",
+          "last_updated": "2020-10-13T04:15:00",
+          "municipality": "Nanaimo",
+          "municipality_code": "day-1 day-3 city--907547835",
+          "start": "2020-10-13T04:11:00",
+          "status": "Crew status: No crew assigned yet"
+        },
+        {
           "area": "West of TUAN RD, East of DESPARD AVE, South of ISLAND HWY, North of FOURNEAU WAY\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "36",
@@ -81,28 +121,28 @@
           "area": "North of HELEN RD, West of BARKLEY MAIN RD, East of SEA PLANE BASE RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "164",
-          "last_updated": "2020-10-13T03:07:00",
+          "last_updated": "2020-10-13T04:07:00",
           "municipality": "Ucluelet",
           "municipality_code": "day-1 day-3 city--1313309491",
           "start": "2020-10-13T02:54:00",
-          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 13 4:10 a.m."
+          "status": "Crew status: Crew on-site"
         }
       ],
       "region_code": "North VI",
       "region_id": "1602896846"
     },
     "South VI": {
-      "customers_affected_14d": 992,
+      "customers_affected_14d": 1367,
       "outages": [
         {
           "area": "North of CHURCH RD, West of STAUTW RD, East of TETAYUT RD, South of MT NEWTON XRD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Wire down",
           "customers_affected": "156",
-          "last_updated": "2020-10-13T03:51:00",
+          "last_updated": "2020-10-13T04:18:00",
           "municipality": "Central Saanich",
           "municipality_code": "day-1 day-3 city--769735224",
           "start": "2020-10-13T03:05:00",
-          "status": "Crew status: Crew on-site"
+          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 13 5:00 a.m."
         },
         {
           "area": "East of SUNSET DR, North-West of CLANTON RD, South of PORLIER PASS RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -118,11 +158,21 @@
           "area": "North of Long Harbour-Mayne Is Ferry RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "372",
-          "last_updated": "2020-10-13T04:05:00",
+          "last_updated": "2020-10-13T04:07:00",
           "municipality": "Galiano Island, Mayne Island",
           "municipality_code": "day-1 day-3 city--995767958 city-48997657",
           "start": "2020-10-13T03:38:00",
           "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 13 4:55 a.m."
+        },
+        {
+          "area": "West of TRIMMER PL\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Under investigation",
+          "customers_affected": "375",
+          "last_updated": "2020-10-13T04:18:00",
+          "municipality": "Victoria",
+          "municipality_code": "day-1 day-3 city-1201273535",
+          "start": "2020-10-13T04:11:00",
+          "status": "Crew status: Crew assigned"
         }
       ],
       "region_code": "South VI",
@@ -2869,7 +2919,7 @@
       "region_id": "848340027"
     },
     "Lower Mainland": {
-      "customers_affected_14d": 39217,
+      "customers_affected_14d": 37026,
       "outages": [
         {
           "area": "West of SUMAS MOUNTAIN RD, South of DAWSON RD, North of MCKEE RD, East of STRAITON RD",
@@ -5080,16 +5130,6 @@
           "municipality": "Squamish",
           "municipality_code": "city--724385413",
           "start": "2020-10-08T08:40:00"
-        },
-        {
-          "area": "North of 96TH AVE, East of 148TH ST, South of 104TH AVE, West of 156TH ST",
-          "cause": "Under investigation",
-          "customers_affected": "2191",
-          "end": "2020-10-13T04:00:00",
-          "last_updated": "2020-10-13T03:53:00",
-          "municipality": "Surrey",
-          "municipality_code": "day-1 day-3 city--1807186826",
-          "start": "2020-10-13T01:23:00"
         },
         {
           "area": "East of 116TH AVE, North of 112A AVE, West of 130TH ST",
