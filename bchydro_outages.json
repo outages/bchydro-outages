@@ -18,25 +18,45 @@
       "region_id": "848340027"
     },
     "Lower Mainland": {
-      "customers_affected_14d": 2191,
+      "customers_affected_14d": -1,
       "outages": [
         {
-          "area": "North of 96TH AVE, East of 148TH ST, South of 104TH AVE, West of 156TH ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Under investigation",
-          "customers_affected": "2191",
-          "last_updated": "2020-10-13T02:17:00",
-          "municipality": "Surrey",
-          "municipality_code": "day-1 day-3 city--1807186826",
-          "start": "2020-10-13T01:23:00",
-          "status": "Crew status: Crew on-site"
+          "area": "300 block BURNS RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Wire down",
+          "customers_affected": "< 5",
+          "last_updated": "2020-10-13T04:03:00",
+          "municipality": "Gibsons",
+          "municipality_code": "day-1 day-3 city-1688353985",
+          "start": "2020-10-13T03:58:00",
+          "status": "Crew status: Crew assigned"
         }
       ],
       "region_code": "Lower Mainland",
       "region_id": "521980323"
     },
     "North VI": {
-      "customers_affected_14d": 269,
+      "customers_affected_14d": 1372,
       "outages": [
+        {
+          "area": "East of SOUTH RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Under investigation",
+          "customers_affected": "1004",
+          "last_updated": "2020-10-13T04:02:00",
+          "municipality": "Nanaimo",
+          "municipality_code": "day-1 day-3 city--907547835",
+          "start": "2020-10-13T03:59:00",
+          "status": "Crew status: Crew assigned"
+        },
+        {
+          "area": "North of INGRAM RD, East of KIRKSTONE WAY, South of BARNES RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Under investigation",
+          "customers_affected": "99",
+          "last_updated": "2020-10-13T03:50:00",
+          "municipality": "Nanaimo",
+          "municipality_code": "day-1 day-3 city--907547835",
+          "start": "2020-10-13T03:47:00",
+          "status": "Crew status: Crew assigned"
+        },
         {
           "area": "East of CHARTWELL RD, West of LANTERN RD, North of HOLDEN CORSO RD, South of WHITE RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
@@ -72,37 +92,37 @@
       "region_id": "1602896846"
     },
     "South VI": {
-      "customers_affected_14d": 560,
+      "customers_affected_14d": 992,
       "outages": [
         {
           "area": "North of CHURCH RD, West of STAUTW RD, East of TETAYUT RD, South of MT NEWTON XRD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Wire down",
           "customers_affected": "156",
-          "last_updated": "2020-10-13T03:36:00",
+          "last_updated": "2020-10-13T03:51:00",
           "municipality": "Central Saanich",
           "municipality_code": "day-1 day-3 city--769735224",
           "start": "2020-10-13T03:05:00",
           "status": "Crew status: Crew on-site"
         },
         {
-          "area": "North of Long Harbour-Mayne Is Ferry RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "area": "East of SUNSET DR, North-West of CLANTON RD, South of PORLIER PASS RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
-          "customers_affected": "372",
-          "last_updated": "2020-10-13T03:42:00",
-          "municipality": "Galiano Island, Mayne Island",
-          "municipality_code": "day-1 day-3 city--995767958 city-48997657",
-          "start": "2020-10-13T03:38:00",
+          "customers_affected": "464",
+          "last_updated": "2020-10-13T04:05:00",
+          "municipality": "Galiano Island",
+          "municipality_code": "day-1 day-3 city--995767958",
+          "start": "2020-10-13T04:00:00",
           "status": "Crew status: Crew assigned"
         },
         {
-          "area": "North of Long Harbour-Pender Is Ferry RD, East of NOSE POINT RD, West of Long Harbour-Mayne Is Ferry RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Tree down across our wires",
-          "customers_affected": "32",
-          "last_updated": "2020-10-13T03:42:00",
-          "municipality": "Ganges",
-          "municipality_code": "day-1 day-3 city-2125630497",
-          "start": "2020-10-13T01:42:00",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 13 4:15 a.m."
+          "area": "North of Long Harbour-Mayne Is Ferry RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Under investigation",
+          "customers_affected": "372",
+          "last_updated": "2020-10-13T04:05:00",
+          "municipality": "Galiano Island, Mayne Island",
+          "municipality_code": "day-1 day-3 city--995767958 city-48997657",
+          "start": "2020-10-13T03:38:00",
+          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 13 4:55 a.m."
         }
       ],
       "region_code": "South VI",
@@ -2849,7 +2869,7 @@
       "region_id": "848340027"
     },
     "Lower Mainland": {
-      "customers_affected_14d": 37026,
+      "customers_affected_14d": 39217,
       "outages": [
         {
           "area": "West of SUMAS MOUNTAIN RD, South of DAWSON RD, North of MCKEE RD, East of STRAITON RD",
@@ -5060,6 +5080,16 @@
           "municipality": "Squamish",
           "municipality_code": "city--724385413",
           "start": "2020-10-08T08:40:00"
+        },
+        {
+          "area": "North of 96TH AVE, East of 148TH ST, South of 104TH AVE, West of 156TH ST",
+          "cause": "Under investigation",
+          "customers_affected": "2191",
+          "end": "2020-10-13T04:00:00",
+          "last_updated": "2020-10-13T03:53:00",
+          "municipality": "Surrey",
+          "municipality_code": "day-1 day-3 city--1807186826",
+          "start": "2020-10-13T01:23:00"
         },
         {
           "area": "East of 116TH AVE, North of 112A AVE, West of 130TH ST",
@@ -8367,7 +8397,7 @@
       "region_id": "2072041405"
     },
     "South VI": {
-      "customers_affected_14d": 12134,
+      "customers_affected_14d": 12166,
       "outages": [
         {
           "area": "South-West of SAANICH RD, North-East of COOPERIDGE DR",
@@ -8698,6 +8728,16 @@
           "municipality": "Ganges",
           "municipality_code": "city-2125630497",
           "start": "2020-10-02T10:34:00"
+        },
+        {
+          "area": "North of Long Harbour-Pender Is Ferry RD, East of NOSE POINT RD, West of Long Harbour-Mayne Is Ferry RD",
+          "cause": "Tree down across our wires",
+          "customers_affected": "32",
+          "end": "2020-10-13T04:15:00",
+          "last_updated": "2020-10-13T04:05:00",
+          "municipality": "Ganges",
+          "municipality_code": "day-1 day-3 city-2125630497",
+          "start": "2020-10-13T01:42:00"
         },
         {
           "area": "1000 block ISABELLA POINT RD, 100 - 300 block HOLMES RD",
