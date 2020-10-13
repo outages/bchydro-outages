@@ -18,13 +18,23 @@
       "region_id": "848340027"
     },
     "Lower Mainland": {
-      "customers_affected_14d": 1756,
+      "customers_affected_14d": 2438,
       "outages": [
         {
-          "area": "West of Seton Portage RD, East of PEMBERTON PORTAGE RD, North-South of Duffy Lake RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "area": "West of SUMAS MOUNTAIN RD, South of DAWSON RD, North of MCKEE RD, East of STRAITON RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
+          "customers_affected": "682",
+          "last_updated": "2020-10-12T20:00:00",
+          "municipality": "Abbotsford",
+          "municipality_code": "day-1 day-3 city-1230363016",
+          "start": "2020-10-12T19:40:00",
+          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 12 9:00 p.m."
+        },
+        {
+          "area": "West of Seton Portage RD, East of PEMBERTON PORTAGE RD, North-South of Duffy Lake RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Bird contacting our wires",
           "customers_affected": "1744",
-          "last_updated": "2020-10-12T19:43:00",
+          "last_updated": "2020-10-12T19:49:00",
           "municipality": "Pemberton",
           "municipality_code": "day-1 day-3 city--2076154532",
           "start": "2020-10-12T19:29:00",
@@ -61,11 +71,11 @@
           "area": "3400 block COLDSTREAM AVE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-12T19:35:00",
+          "last_updated": "2020-10-12T19:50:00",
           "municipality": "Vernon",
           "municipality_code": "day-1 day-3 city--1736079254",
           "start": "2020-10-12T18:54:00",
-          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 12 8:00 p.m."
+          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 12 8:30 p.m."
         }
       ],
       "region_code": "Okanagan/Kootenay",
@@ -101,7 +111,7 @@
       "region_id": "848340027"
     },
     "Lower Mainland": {
-      "customers_affected_14d": 4465,
+      "customers_affected_14d": 4460,
       "outages": [
         {
           "area": "1944, 1954, 1966, 1976 Albion St; 32666-32749 Cordova Ave; 325, 32760 Marshall Rd, 32414-32750 Pandora Ave; 1911-1944 Valencia Crt, Abbotsford",
@@ -292,16 +302,6 @@
           "municipality": "Burnaby",
           "municipality_code": "day-1 day-3 city-1903966249",
           "start": "2020-10-23T09:00:00"
-        },
-        {
-          "area": "**CANCELLED**2300 Madison Ave",
-          "cause": "Planned work being done on our equipment",
-          "customers_affected": "5",
-          "end": "2020-10-10T20:00:00",
-          "last_updated": "2020-10-07T10:41:00",
-          "municipality": "Burnaby",
-          "municipality_code": "day-1 day-3 city-1903966249",
-          "start": "2020-10-10T09:00:00"
         },
         {
           "area": "**Emergent**2685 Gilmore Ave., Burnaby",
@@ -4291,7 +4291,7 @@
           "end": "2020-10-08T20:10:00",
           "last_updated": "2020-10-09T14:18:00",
           "municipality": "Langley",
-          "municipality_code": "day-3 city-1612593490",
+          "municipality_code": "city-1612593490",
           "start": "2020-10-08T18:06:00"
         },
         {
@@ -6908,7 +6908,7 @@
           "end": "",
           "last_updated": "2020-10-10T20:07:00",
           "municipality": "Port Alice",
-          "municipality_code": "day-1 day-3 city-362416673",
+          "municipality_code": "day-3 city-362416673",
           "start": "2020-10-10T08:27:00"
         },
         {
