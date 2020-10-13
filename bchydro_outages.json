@@ -1,7 +1,7 @@
 {
   "current": {
     "Lower Mainland": {
-      "customers_affected_14d": 18,
+      "customers_affected_14d": 14,
       "outages": [
         {
           "area": "11800 block VOYAGEUR WAY\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -24,32 +24,22 @@
           "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 12 6:40 p.m."
         },
         {
-          "area": "3900 block COLLINGWOOD ST, 3500 block W 23RD AVE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Wire down",
-          "customers_affected": "5",
-          "last_updated": "2020-10-12T15:57:00",
+          "area": "400 block E 29TH AVE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Under investigation",
+          "customers_affected": "< 5",
+          "last_updated": "2020-10-12T17:12:00",
           "municipality": "Vancouver",
           "municipality_code": "day-1 day-3 city--1786794435",
-          "start": "2020-10-12T14:47:00",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 12 5:00 p.m."
+          "start": "2020-10-12T17:05:00",
+          "status": "Crew status: Crew assigned"
         }
       ],
       "region_code": "Lower Mainland",
       "region_id": "521980323"
     },
     "Okanagan/Kootenay": {
-      "customers_affected_14d": 33,
+      "customers_affected_14d": 27,
       "outages": [
-        {
-          "area": "15600 - 15700 block SAWMILL RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Work being done on our equipment",
-          "customers_affected": "6",
-          "last_updated": "2020-10-12T14:58:00",
-          "municipality": "Lake Country",
-          "municipality_code": "day-1 day-3 city--443780603",
-          "start": "2020-10-12T07:33:00",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 12 5:00 p.m."
-        },
         {
           "area": "South of ARNICA LN, North of MONASHEE RD, West of MAIN ST, East of PINNACLES RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Tree down across our wires",
@@ -71,11 +61,11 @@
           "area": "2900 block CAMERON TAGGART RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "7",
-          "last_updated": "2020-10-12T16:14:00",
+          "last_updated": "2020-10-12T16:59:00",
           "municipality": "Duncan",
           "municipality_code": "day-1 day-3 city-2058209491",
           "start": "2020-10-12T16:04:00",
-          "status": "Crew status: Crew assigned"
+          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 12 6:00 p.m."
         },
         {
           "area": "100 - 200 block STICKS ALLISON RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -118,11 +108,11 @@
           "area": "5800 block HILLTOP RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-12T15:38:00",
+          "last_updated": "2020-10-12T17:20:00",
           "municipality": "100 Mile House",
           "municipality_code": "day-1 day-3 city-950857956",
           "start": "2020-10-12T09:13:00",
-          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 12 5:20 p.m."
+          "status": "Crew status: Crew on-site"
         }
       ],
       "region_code": "Thompson/Shuswap",
@@ -4828,7 +4818,7 @@
           "end": "2020-10-08T18:00:00",
           "last_updated": "2020-10-08T17:21:00",
           "municipality": "North Vancouver",
-          "municipality_code": "day-3 city--1636626238",
+          "municipality_code": "city--1636626238",
           "start": "2020-10-08T09:35:00"
         },
         {
@@ -6975,7 +6965,7 @@
           "end": "2020-10-10T17:00:00",
           "last_updated": "2020-10-10T16:58:00",
           "municipality": "Port Hardy",
-          "municipality_code": "day-1 day-3 city-368562319",
+          "municipality_code": "day-3 city-368562319",
           "start": "2020-10-10T14:55:00"
         },
         {
@@ -8300,7 +8290,7 @@
       "region_id": "1602964060"
     },
     "Okanagan/Kootenay": {
-      "customers_affected_14d": 25086,
+      "customers_affected_14d": 25186,
       "outages": [
         {
           "area": "3200 block ROSEDALE AVE",
@@ -8651,6 +8641,16 @@
           "municipality": "Kimberley",
           "municipality_code": "city-1047449248",
           "start": "2020-10-02T10:26:00"
+        },
+        {
+          "area": "East of OYAMA RD",
+          "cause": "Work being done on our equipment",
+          "customers_affected": "100",
+          "end": "2020-10-12T17:30:00",
+          "last_updated": "2020-10-12T17:06:00",
+          "municipality": "Lake Country",
+          "municipality_code": "day-1 day-3 city--443780603",
+          "start": "2020-10-12T07:33:00"
         },
         {
           "area": "11100 - 11200 block DARLENE RD",
@@ -9736,7 +9736,7 @@
           "end": "",
           "last_updated": "2020-10-08T16:54:00",
           "municipality": "Saanich",
-          "municipality_code": "day-3 city--776615533",
+          "municipality_code": "city--776615533",
           "start": "2020-10-08T16:19:00"
         },
         {
@@ -10183,7 +10183,7 @@
           "end": "2020-10-10T18:00:00",
           "last_updated": "2020-10-10T17:33:00",
           "municipality": "100 Mile House",
-          "municipality_code": "day-1 day-3 city-950857956",
+          "municipality_code": "day-3 city-950857956",
           "start": "2020-10-10T12:08:00"
         },
         {
