@@ -1,34 +1,24 @@
 {
   "current": {
     "Lower Mainland": {
-      "customers_affected_14d": 13,
+      "customers_affected_14d": 12,
       "outages": [
         {
           "area": "11800 block VOYAGEUR WAY\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Transformer burn out",
           "customers_affected": "12",
-          "last_updated": "2020-10-12T18:49:00",
+          "last_updated": "2020-10-12T18:52:00",
           "municipality": "Richmond",
           "municipality_code": "day-1 day-3 city--1486145068",
           "start": "2020-10-12T13:48:00",
-          "status": "Crew status: Crew on-site"
-        },
-        {
-          "area": "400 block E 29TH AVE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Under investigation",
-          "customers_affected": "< 5",
-          "last_updated": "2020-10-12T17:49:00",
-          "municipality": "Vancouver",
-          "municipality_code": "day-1 day-3 city--1786794435",
-          "start": "2020-10-12T17:05:00",
-          "status": "Crew status: Crew on-site"
+          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 12 10:00 p.m."
         }
       ],
       "region_code": "Lower Mainland",
       "region_id": "521980323"
     },
     "Okanagan/Kootenay": {
-      "customers_affected_14d": 27,
+      "customers_affected_14d": 29,
       "outages": [
         {
           "area": "South of ARNICA LN, North of MONASHEE RD, West of MAIN ST, East of PINNACLES RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -39,6 +29,16 @@
           "municipality_code": "day-1 day-3 city--1736079254",
           "start": "2020-10-12T10:52:00",
           "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 12 10:00 p.m."
+        },
+        {
+          "area": "3400 block COLDSTREAM AVE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Under investigation",
+          "customers_affected": "< 5",
+          "last_updated": "2020-10-12T19:05:00",
+          "municipality": "Vernon",
+          "municipality_code": "day-1 day-3 city--1736079254",
+          "start": "2020-10-12T18:54:00",
+          "status": "Crew status: Crew assigned"
         }
       ],
       "region_code": "Okanagan/Kootenay",
@@ -4701,7 +4701,7 @@
           "end": "",
           "last_updated": "2020-10-10T19:25:00",
           "municipality": "Mission",
-          "municipality_code": "day-1 day-3 city--1560864404",
+          "municipality_code": "day-3 city--1560864404",
           "start": "2020-10-10T17:01:00"
         },
         {
@@ -9979,7 +9979,7 @@
           "end": "2020-10-10T18:59:00",
           "last_updated": "2020-10-10T18:57:00",
           "municipality": "Sooke",
-          "municipality_code": "day-1 day-3 city-80069133",
+          "municipality_code": "day-3 city-80069133",
           "start": "2020-10-10T15:07:00"
         },
         {
@@ -10476,7 +10476,7 @@
           "end": "2020-10-10T19:00:00",
           "last_updated": "2020-10-10T19:05:00",
           "municipality": "Clearwater",
-          "municipality_code": "day-1 day-3 city-1282265866",
+          "municipality_code": "day-3 city-1282265866",
           "start": "2020-10-10T13:33:00"
         },
         {
