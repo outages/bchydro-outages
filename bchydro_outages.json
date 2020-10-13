@@ -1,5 +1,22 @@
 {
   "current": {
+    "Central Interior": {
+      "customers_affected_14d": -1,
+      "outages": [
+        {
+          "area": "56200 block HWY 97 P946\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Under investigation",
+          "customers_affected": "< 5",
+          "last_updated": "2020-10-12T19:27:00",
+          "municipality": "Mackenzie",
+          "municipality_code": "day-1 day-3 city-642381361",
+          "start": "2020-10-12T19:23:00",
+          "status": "Crew status: No crew assigned yet"
+        }
+      ],
+      "region_code": "Central Interior",
+      "region_id": "848340027"
+    },
     "Lower Mainland": {
       "customers_affected_14d": 12,
       "outages": [
@@ -34,7 +51,7 @@
           "area": "3400 block COLDSTREAM AVE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-12T19:05:00",
+          "last_updated": "2020-10-12T19:09:00",
           "municipality": "Vernon",
           "municipality_code": "day-1 day-3 city--1736079254",
           "start": "2020-10-12T18:54:00",
@@ -43,23 +60,6 @@
       ],
       "region_code": "Okanagan/Kootenay",
       "region_id": "2072041405"
-    },
-    "South VI": {
-      "customers_affected_14d": -1,
-      "outages": [
-        {
-          "area": "100 - 200 block STICKS ALLISON RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Under investigation",
-          "customers_affected": "< 5",
-          "last_updated": "2020-10-12T17:36:00",
-          "municipality": "Galiano Island",
-          "municipality_code": "day-1 day-3 city--995767958",
-          "start": "2020-10-12T11:51:00",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 12 7:40 p.m."
-        }
-      ],
-      "region_code": "South VI",
-      "region_id": "1812901382"
     }
   },
   "planned": {
@@ -8642,7 +8642,7 @@
           "end": "2020-10-10T19:30:00",
           "last_updated": "2020-10-10T19:20:00",
           "municipality": "Lake Country",
-          "municipality_code": "day-1 day-3 city--443780603",
+          "municipality_code": "day-3 city--443780603",
           "start": "2020-10-10T17:44:00"
         },
         {
@@ -9020,7 +9020,7 @@
       "region_id": "2072041405"
     },
     "South VI": {
-      "customers_affected_14d": 14399,
+      "customers_affected_14d": 14403,
       "outages": [
         {
           "area": "South-West of SAANICH RD, North-East of COOPERIDGE DR",
@@ -9311,6 +9311,16 @@
           "municipality": "Galiano Island",
           "municipality_code": "day-1 day-3 city--995767958",
           "start": "2020-10-11T13:24:00"
+        },
+        {
+          "area": "100 - 200 block STICKS ALLISON RD",
+          "cause": "Tree down across our wires",
+          "customers_affected": "< 5",
+          "end": "2020-10-12T19:36:00",
+          "last_updated": "2020-10-12T19:16:00",
+          "municipality": "Galiano Island",
+          "municipality_code": "day-1 day-3 city--995767958",
+          "start": "2020-10-12T11:51:00"
         },
         {
           "area": "HAUL BACK RD, 500 block STICKS ALLISON RD",
