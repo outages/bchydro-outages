@@ -44,11 +44,11 @@
           "area": "1800 - 3800 block SUN CST HWY, 1600 - 1800 block TYSON RD, SUN CST HWY P209, RTE 101 & ROBERTS CREEK RD, 1400 - 1600 block ELPHINSTONE RD, 1000 - 1100 block FLUME RD, 3100 - 3200 block HANSEN RD, 1000 - 3100 block LOWER RD, 3300 block LYNWOOD RD, 1800 - 1900 block CRYSTAL CRS...\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "1827",
-          "last_updated": "2020-10-13T04:28:00",
+          "last_updated": "2020-10-13T04:53:00",
           "municipality": "Sechelt",
           "municipality_code": "day-1 day-3 city--660434186",
           "start": "2020-10-13T04:22:00",
-          "status": "Crew status: Crew assigned"
+          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 13 5:55 a.m."
         },
         {
           "area": "10000 block 152 ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -65,23 +65,23 @@
       "region_id": "521980323"
     },
     "North VI": {
-      "customers_affected_14d": 2603,
+      "customers_affected_14d": 2613,
       "outages": [
         {
           "area": "East of SOUTH RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Under investigation",
+          "cause": "Wire down",
           "customers_affected": "1004",
-          "last_updated": "2020-10-13T04:26:00",
+          "last_updated": "2020-10-13T05:01:00",
           "municipality": "Nanaimo",
           "municipality_code": "day-1 day-3 city--907547835",
-          "start": "2020-10-13T03:59:00",
+          "start": "2020-10-13T03:56:00",
           "status": "Crew status: No crew assigned yet"
         },
         {
           "area": "East of BURNSIDE DR\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Under investigation",
+          "cause": "Wire down",
           "customers_affected": "782",
-          "last_updated": "2020-10-13T04:21:00",
+          "last_updated": "2020-10-13T05:08:00",
           "municipality": "Nanaimo",
           "municipality_code": "day-1 day-3 city--907547835",
           "start": "2020-10-13T04:10:00",
@@ -91,11 +91,11 @@
           "area": "West of HOLDEN CORSO RD, East of BEADALL RD, South of Naniamo-Gabriola Is Ferry , North of TRANS CANADA HWY\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "334",
-          "last_updated": "2020-10-13T04:38:00",
+          "last_updated": "2020-10-13T04:55:00",
           "municipality": "Nanaimo",
           "municipality_code": "day-1 day-3 city--907547835",
           "start": "2020-10-13T04:06:00",
-          "status": "Crew status: Crew assigned"
+          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 13 5:55 a.m."
         },
         {
           "area": "South of ROCK CITY RD, West of ROBINHOOD DR, North of DEPARTURE BAY RD, East of BARRINGTON RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -121,7 +121,7 @@
           "area": "East of CHARTWELL RD, West of LANTERN RD, North of HOLDEN CORSO RD, South of WHITE RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "69",
-          "last_updated": "2020-10-13T03:29:00",
+          "last_updated": "2020-10-13T05:10:00",
           "municipality": "Nanaimo",
           "municipality_code": "day-1 day-3 city--907547835",
           "start": "2020-10-13T03:24:00",
@@ -148,10 +148,20 @@
           "status": "Crew status: No crew assigned yet"
         },
         {
+          "area": "North-East-West of SALAL DR, South of APPLE ORCHARD WAY\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Under investigation",
+          "customers_affected": "10",
+          "last_updated": "2020-10-13T05:04:00",
+          "municipality": "Nanaimo",
+          "municipality_code": "day-1 day-3 city--907547835",
+          "start": "2020-10-13T04:54:00",
+          "status": "Crew status: No crew assigned yet"
+        },
+        {
           "area": "3700 block YELLOW POINT RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "6",
-          "last_updated": "2020-10-13T04:43:00",
+          "last_updated": "2020-10-13T05:06:00",
           "municipality": "Nanaimo",
           "municipality_code": "day-1 day-3 city--907547835",
           "start": "2020-10-13T04:27:00",
@@ -182,18 +192,8 @@
       "region_id": "1602896846"
     },
     "South VI": {
-      "customers_affected_14d": 1367,
+      "customers_affected_14d": 1211,
       "outages": [
-        {
-          "area": "North of CHURCH RD, West of STAUTW RD, East of TETAYUT RD, South of MT NEWTON XRD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Wire down",
-          "customers_affected": "156",
-          "last_updated": "2020-10-13T04:18:00",
-          "municipality": "Central Saanich",
-          "municipality_code": "day-1 day-3 city--769735224",
-          "start": "2020-10-13T03:05:00",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 13 5:00 a.m."
-        },
         {
           "area": "East of SUNSET DR, North-West of CLANTON RD, South of PORLIER PASS RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
@@ -208,7 +208,7 @@
           "area": "North of Long Harbour-Mayne Is Ferry RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "372",
-          "last_updated": "2020-10-13T04:07:00",
+          "last_updated": "2020-10-13T04:59:00",
           "municipality": "Galiano Island, Mayne Island",
           "municipality_code": "day-1 day-3 city--995767958 city-48997657",
           "start": "2020-10-13T03:38:00",
@@ -218,7 +218,7 @@
           "area": "West of TRIMMER PL\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "375",
-          "last_updated": "2020-10-13T04:35:00",
+          "last_updated": "2020-10-13T04:51:00",
           "municipality": "Victoria",
           "municipality_code": "day-1 day-3 city-1201273535",
           "start": "2020-10-13T04:11:00",
@@ -4278,7 +4278,7 @@
           "end": "",
           "last_updated": "2020-10-09T14:22:00",
           "municipality": "Langley",
-          "municipality_code": "day-3 city-1612593490",
+          "municipality_code": "city-1612593490",
           "start": "2020-10-09T02:08:00"
         },
         {
@@ -4888,7 +4888,7 @@
           "end": "2020-10-09T06:00:00",
           "last_updated": "2020-10-09T07:41:00",
           "municipality": "Powell River",
-          "municipality_code": "day-3 city-1665178489",
+          "municipality_code": "city-1665178489",
           "start": "2020-10-08T21:43:00"
         },
         {
@@ -8507,8 +8507,18 @@
       "region_id": "2072041405"
     },
     "South VI": {
-      "customers_affected_14d": 12166,
+      "customers_affected_14d": 12322,
       "outages": [
+        {
+          "area": "North of CHURCH RD, West of STAUTW RD, East of TETAYUT RD, South of MT NEWTON XRD",
+          "cause": "Tree down across our wires",
+          "customers_affected": "156",
+          "end": "2020-10-13T05:00:00",
+          "last_updated": "2020-10-13T04:54:00",
+          "municipality": "Central Saanich",
+          "municipality_code": "day-1 day-3 city--769735224",
+          "start": "2020-10-13T03:05:00"
+        },
         {
           "area": "South-West of SAANICH RD, North-East of COOPERIDGE DR",
           "cause": "Planned work being done on our equipment",
