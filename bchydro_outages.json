@@ -7,7 +7,7 @@
           "area": "56200 block HWY 97 P946\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-12T22:26:00",
+          "last_updated": "2020-10-12T22:42:00",
           "municipality": "Mackenzie",
           "municipality_code": "day-1 day-3 city-642381361",
           "start": "2020-10-12T19:23:00",
@@ -16,23 +16,6 @@
       ],
       "region_code": "Central Interior",
       "region_id": "848340027"
-    },
-    "Okanagan/Kootenay": {
-      "customers_affected_14d": 27,
-      "outages": [
-        {
-          "area": "South of ARNICA LN, North of MONASHEE RD, West of MAIN ST, East of PINNACLES RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Tree down across our wires",
-          "customers_affected": "27",
-          "last_updated": "2020-10-12T21:25:00",
-          "municipality": "Vernon",
-          "municipality_code": "day-1 day-3 city--1736079254",
-          "start": "2020-10-12T10:52:00",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 12 11:00 p.m."
-        }
-      ],
-      "region_code": "Okanagan/Kootenay",
-      "region_id": "2072041405"
     }
   },
   "planned": {
@@ -2815,7 +2798,7 @@
       "region_id": "848340027"
     },
     "Lower Mainland": {
-      "customers_affected_14d": 43681,
+      "customers_affected_14d": 45425,
       "outages": [
         {
           "area": "East of CLEARBROOK RD, South of NANAIMO CLS, North of PEARDONVILLE RD, West of MACLURE RD",
@@ -4866,6 +4849,16 @@
           "municipality": "North Vancouver",
           "municipality_code": "day-3 city--1636626238",
           "start": "2020-10-10T08:06:00"
+        },
+        {
+          "area": "West of Seton Portage RD, East of PEMBERTON PORTAGE RD, North-South of Duffy Lake RD",
+          "cause": "Bird contacting our wires",
+          "customers_affected": "1744",
+          "end": "2020-10-12T21:30:00",
+          "last_updated": "2020-10-12T22:39:00",
+          "municipality": "Pemberton",
+          "municipality_code": "day-1 day-3 city--2076154532",
+          "start": "2020-10-12T19:29:00"
         },
         {
           "area": "7844 PEM MEADOWS RD,, 800 - 900 block ERICKSON RD, 200 - 300 block DILL RD, PEMBERTON OUTDOOR SCH, 0 - 9400 block GEESE RD, 3000 block LOIS RD, 8000 block RYAN CREEK RD, 8200 block PEM MEADOW, 8600 block PEMBERTON MEADOW, 9200 block PEMBERTON MEADO RD...",
@@ -8266,7 +8259,7 @@
       "region_id": "1602964060"
     },
     "Okanagan/Kootenay": {
-      "customers_affected_14d": 25188,
+      "customers_affected_14d": 25215,
       "outages": [
         {
           "area": "3200 block ROSEDALE AVE",
@@ -8819,6 +8812,16 @@
           "start": "2020-09-29T09:13:00"
         },
         {
+          "area": "South of ARNICA LN, North of MONASHEE RD, West of MAIN ST, East of PINNACLES RD",
+          "cause": "Tree down across our wires",
+          "customers_affected": "27",
+          "end": "2020-10-12T23:00:00",
+          "last_updated": "2020-10-12T22:40:00",
+          "municipality": "Vernon",
+          "municipality_code": "day-1 day-3 city--1736079254",
+          "start": "2020-10-12T10:52:00"
+        },
+        {
           "area": "3800 block 15 AVE",
           "cause": "Motor vehicle accident",
           "customers_affected": "22",
@@ -8875,7 +8878,7 @@
           "end": "2020-10-10T23:00:00",
           "last_updated": "2020-10-10T22:50:00",
           "municipality": "Vernon",
-          "municipality_code": "day-1 day-3 city--1736079254",
+          "municipality_code": "day-3 city--1736079254",
           "start": "2020-10-10T21:23:00"
         },
         {
