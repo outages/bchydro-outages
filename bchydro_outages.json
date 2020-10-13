@@ -17,33 +17,6 @@
       "region_code": "Central Interior",
       "region_id": "848340027"
     },
-    "Lower Mainland": {
-      "customers_affected_14d": 807,
-      "outages": [
-        {
-          "area": "West of SUMAS MOUNTAIN RD, South of DAWSON RD, North of MCKEE RD, East of STRAITON RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Under investigation",
-          "customers_affected": "682",
-          "last_updated": "2020-10-12T20:37:00",
-          "municipality": "Abbotsford",
-          "municipality_code": "day-1 day-3 city-1230363016",
-          "start": "2020-10-12T19:40:00",
-          "status": "Crew status: Crew on-site"
-        },
-        {
-          "area": "West of SUMAS MOUNTAIN RD, East of SHADBOLT AVE, South of ATWOOD CRS, North of HIGH GROVE PLACE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Under investigation",
-          "customers_affected": "125",
-          "last_updated": "2020-10-12T21:35:00",
-          "municipality": "Abbotsford",
-          "municipality_code": "day-1 day-3 city-1230363016",
-          "start": "2020-10-12T21:31:00",
-          "status": "Crew status: Crew on-site"
-        }
-      ],
-      "region_code": "Lower Mainland",
-      "region_id": "521980323"
-    },
     "Okanagan/Kootenay": {
       "customers_affected_14d": 27,
       "outages": [
@@ -2842,7 +2815,7 @@
       "region_id": "848340027"
     },
     "Lower Mainland": {
-      "customers_affected_14d": 42874,
+      "customers_affected_14d": 43681,
       "outages": [
         {
           "area": "East of CLEARBROOK RD, South of NANAIMO CLS, North of PEARDONVILLE RD, West of MACLURE RD",
@@ -2875,6 +2848,16 @@
           "start": "2020-09-28T18:13:00"
         },
         {
+          "area": "West of SUMAS MOUNTAIN RD, South of DAWSON RD, North of MCKEE RD, East of STRAITON RD",
+          "cause": "Under investigation",
+          "customers_affected": "682",
+          "end": "",
+          "last_updated": "2020-10-12T21:47:00",
+          "municipality": "Abbotsford",
+          "municipality_code": "day-1 day-3 city-1230363016",
+          "start": "2020-10-12T19:40:00"
+        },
+        {
           "area": "3000 block TRETHEWEY ST",
           "cause": "Equipment failure",
           "customers_affected": "141",
@@ -2883,6 +2866,16 @@
           "municipality": "Abbotsford",
           "municipality_code": "city-1230363016",
           "start": "2020-09-28T12:52:00"
+        },
+        {
+          "area": "West of SUMAS MOUNTAIN RD, East of SHADBOLT AVE, South of ATWOOD CRS, North of HIGH GROVE PLACE",
+          "cause": "Equipment failure",
+          "customers_affected": "125",
+          "end": "",
+          "last_updated": "2020-10-12T21:58:00",
+          "municipality": "Abbotsford",
+          "municipality_code": "day-1 day-3 city-1230363016",
+          "start": "2020-10-12T21:31:00"
         },
         {
           "area": "32800 block GEORGE FERGUSON WAY",
@@ -3631,7 +3624,7 @@
           "end": "",
           "last_updated": "2020-10-08T21:55:00",
           "municipality": "Chilliwack",
-          "municipality_code": "day-3 city--708005353",
+          "municipality_code": "city--708005353",
           "start": "2020-10-08T19:17:00"
         },
         {
@@ -8942,7 +8935,7 @@
           "end": "",
           "last_updated": "2020-10-10T22:08:00",
           "municipality": "Vernon",
-          "municipality_code": "day-1 day-3 city--1736079254",
+          "municipality_code": "day-3 city--1736079254",
           "start": "2020-10-10T20:43:00"
         },
         {
@@ -9879,7 +9872,7 @@
           "end": "2020-10-10T22:00:00",
           "last_updated": "2020-10-10T21:58:00",
           "municipality": "Saanich",
-          "municipality_code": "day-1 day-3 city--776615533",
+          "municipality_code": "day-3 city--776615533",
           "start": "2020-10-10T16:53:00"
         },
         {
@@ -10786,7 +10779,7 @@
           "end": "",
           "last_updated": "2020-10-08T22:04:00",
           "municipality": "Kamloops",
-          "municipality_code": "day-3 city-979034872",
+          "municipality_code": "city-979034872",
           "start": "2020-10-08T18:52:00"
         },
         {
