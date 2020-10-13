@@ -72,23 +72,33 @@
       "region_id": "1602896846"
     },
     "South VI": {
-      "customers_affected_14d": 188,
+      "customers_affected_14d": 560,
       "outages": [
         {
           "area": "North of CHURCH RD, West of STAUTW RD, East of TETAYUT RD, South of MT NEWTON XRD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Wire down",
           "customers_affected": "156",
-          "last_updated": "2020-10-13T03:21:00",
+          "last_updated": "2020-10-13T03:36:00",
           "municipality": "Central Saanich",
           "municipality_code": "day-1 day-3 city--769735224",
           "start": "2020-10-13T03:05:00",
-          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 13 4:25 a.m."
+          "status": "Crew status: Crew on-site"
+        },
+        {
+          "area": "North of Long Harbour-Mayne Is Ferry RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Under investigation",
+          "customers_affected": "372",
+          "last_updated": "2020-10-13T03:42:00",
+          "municipality": "Galiano Island, Mayne Island",
+          "municipality_code": "day-1 day-3 city--995767958 city-48997657",
+          "start": "2020-10-13T03:38:00",
+          "status": "Crew status: Crew assigned"
         },
         {
           "area": "North of Long Harbour-Pender Is Ferry RD, East of NOSE POINT RD, West of Long Harbour-Mayne Is Ferry RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Under investigation",
+          "cause": "Tree down across our wires",
           "customers_affected": "32",
-          "last_updated": "2020-10-13T03:16:00",
+          "last_updated": "2020-10-13T03:42:00",
           "municipality": "Ganges",
           "municipality_code": "day-1 day-3 city-2125630497",
           "start": "2020-10-13T01:42:00",
