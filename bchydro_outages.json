@@ -34,14 +34,41 @@
       "region_code": "Lower Mainland",
       "region_id": "521980323"
     },
+    "North VI": {
+      "customers_affected_14d": 200,
+      "outages": [
+        {
+          "area": "West of TUAN RD, East of DESPARD AVE, South of ISLAND HWY, North of FOURNEAU WAY\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Under investigation",
+          "customers_affected": "36",
+          "last_updated": "2020-10-13T02:56:00",
+          "municipality": "Parksville",
+          "municipality_code": "day-1 day-3 city--1370510519",
+          "start": "2020-10-13T02:50:00",
+          "status": "Crew status: Crew assigned"
+        },
+        {
+          "area": "North of HELEN RD, West of BARKLEY MAIN RD, East of SEA PLANE BASE RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Under investigation",
+          "customers_affected": "164",
+          "last_updated": "2020-10-13T02:59:00",
+          "municipality": "Ucluelet",
+          "municipality_code": "day-1 day-3 city--1313309491",
+          "start": "2020-10-13T02:54:00",
+          "status": "Crew status: Crew assigned"
+        }
+      ],
+      "region_code": "North VI",
+      "region_id": "1602896846"
+    },
     "South VI": {
-      "customers_affected_14d": 31,
+      "customers_affected_14d": 32,
       "outages": [
         {
           "area": "North of Long Harbour-Pender Is Ferry RD, East of NOSE POINT RD, West of Long Harbour-Mayne Is Ferry RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
-          "customers_affected": "31",
-          "last_updated": "2020-10-13T02:13:00",
+          "customers_affected": "32",
+          "last_updated": "2020-10-13T02:57:00",
           "municipality": "Ganges",
           "municipality_code": "day-1 day-3 city-2125630497",
           "start": "2020-10-13T01:42:00",
