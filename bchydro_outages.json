@@ -7,11 +7,11 @@
           "area": "0 block S THIRD AVE, 0 block S FOURTH AVE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "5",
-          "last_updated": "2020-10-12T18:08:00",
+          "last_updated": "2020-10-12T18:32:00",
           "municipality": "Williams Lake",
           "municipality_code": "day-1 day-3 city--1905642465",
           "start": "2020-10-12T18:05:00",
-          "status": "Crew status: Crew assigned\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 12 6:45 p.m."
+          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 12 7:35 p.m."
         }
       ],
       "region_code": "Central Interior",
@@ -24,11 +24,11 @@
           "area": "11800 block VOYAGEUR WAY\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Transformer burn out",
           "customers_affected": "12",
-          "last_updated": "2020-10-12T15:43:00",
+          "last_updated": "2020-10-12T18:28:00",
           "municipality": "Richmond",
           "municipality_code": "day-1 day-3 city--1486145068",
           "start": "2020-10-12T13:48:00",
-          "status": "Crew status: Crew assigned"
+          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 12 7:30 p.m."
         },
         {
           "area": "400 block E 29TH AVE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -62,7 +62,7 @@
       "region_id": "2072041405"
     },
     "South VI": {
-      "customers_affected_14d": 25,
+      "customers_affected_14d": 11,
       "outages": [
         {
           "area": "2900 block CAMERON TAGGART RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -83,16 +83,6 @@
           "municipality_code": "day-1 day-3 city--995767958",
           "start": "2020-10-12T11:51:00",
           "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 12 7:40 p.m."
-        },
-        {
-          "area": "South of FURNESS RD, North-West of MUSGRAVE RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Under investigation",
-          "customers_affected": "14",
-          "last_updated": "2020-10-12T17:39:00",
-          "municipality": "Ganges",
-          "municipality_code": "day-1 day-3 city-2125630497",
-          "start": "2020-10-12T01:36:00",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 12 6:30 p.m."
         }
       ],
       "region_code": "South VI",
@@ -4348,7 +4338,7 @@
           "end": "2020-10-10T18:50:00",
           "last_updated": "2020-10-12T11:31:00",
           "municipality": "Langley",
-          "municipality_code": "day-1 day-3 city-1612593490",
+          "municipality_code": "day-3 city-1612593490",
           "start": "2020-10-10T16:33:00"
         },
         {
@@ -4888,7 +4878,7 @@
           "end": "2020-10-08T19:00:00",
           "last_updated": "2020-10-09T07:36:00",
           "municipality": "North Vancouver",
-          "municipality_code": "day-3 city--1636626238",
+          "municipality_code": "city--1636626238",
           "start": "2020-10-08T14:14:00"
         },
         {
@@ -4928,7 +4918,7 @@
           "end": "",
           "last_updated": "2020-10-10T18:26:00",
           "municipality": "Pemberton",
-          "municipality_code": "day-1 day-3 city--2076154532",
+          "municipality_code": "day-3 city--2076154532",
           "start": "2020-10-10T13:07:00"
         },
         {
@@ -8719,7 +8709,7 @@
           "end": "2020-10-10T18:30:00",
           "last_updated": "2020-10-10T19:01:00",
           "municipality": "Nakusp",
-          "municipality_code": "day-1 day-3 city--1969008230",
+          "municipality_code": "day-3 city--1969008230",
           "start": "2020-10-10T15:02:00"
         },
         {
@@ -9047,7 +9037,7 @@
       "region_id": "2072041405"
     },
     "South VI": {
-      "customers_affected_14d": 14378,
+      "customers_affected_14d": 14392,
       "outages": [
         {
           "area": "South-West of SAANICH RD, North-East of COOPERIDGE DR",
@@ -9388,6 +9378,16 @@
           "municipality": "Ganges",
           "municipality_code": "city-2125630497",
           "start": "2020-10-05T17:07:00"
+        },
+        {
+          "area": "South of FURNESS RD, North-West of MUSGRAVE RD",
+          "cause": "Other",
+          "customers_affected": "14",
+          "end": "2020-10-12T18:30:00",
+          "last_updated": "2020-10-12T18:22:00",
+          "municipality": "Ganges",
+          "municipality_code": "day-1 day-3 city-2125630497",
+          "start": "2020-10-12T01:36:00"
         },
         {
           "area": "1400 - 1500 block BEDDIS RD",
@@ -10843,7 +10843,7 @@
           "end": "2020-10-10T20:00:00",
           "last_updated": "2020-10-10T18:32:00",
           "municipality": "Kamloops",
-          "municipality_code": "day-1 day-3 city-979034872",
+          "municipality_code": "day-3 city-979034872",
           "start": "2020-10-10T14:50:00"
         },
         {
@@ -11193,7 +11193,7 @@
           "end": "2020-10-10T18:35:00",
           "last_updated": "2020-10-10T18:37:00",
           "municipality": "Sicamous",
-          "municipality_code": "day-1 day-3 city-250200852",
+          "municipality_code": "day-3 city-250200852",
           "start": "2020-10-10T15:51:00"
         },
         {
@@ -11213,7 +11213,7 @@
           "end": "",
           "last_updated": "2020-10-10T18:28:00",
           "municipality": "Valemount",
-          "municipality_code": "day-1 day-3 city-788397333",
+          "municipality_code": "day-3 city-788397333",
           "start": "2020-10-10T15:10:00"
         },
         {
