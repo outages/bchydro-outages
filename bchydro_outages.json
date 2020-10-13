@@ -18,7 +18,7 @@
       "region_id": "848340027"
     },
     "Lower Mainland": {
-      "customers_affected_14d": 769,
+      "customers_affected_14d": 316,
       "outages": [
         {
           "area": "North of ROCKMOYNE PL\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -34,47 +34,57 @@
           "area": "300 block BURNS RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Wire down",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-13T04:25:00",
+          "last_updated": "2020-10-13T06:39:00",
           "municipality": "Gibsons",
           "municipality_code": "day-1 day-3 city-1688353985",
           "start": "2020-10-13T03:58:00",
-          "status": "Crew status: Crew assigned"
+          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 13 7:40 a.m."
         },
         {
-          "area": "West of OCEANVIEW DR, South of PIXTON RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "area": "7500 block PEM PORTAGE RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
-          "customers_affected": "455",
-          "last_updated": "2020-10-13T06:09:00",
-          "municipality": "Sechelt",
-          "municipality_code": "day-1 day-3 city--660434186",
-          "start": "2020-10-13T05:58:00",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 13 7:10 a.m."
+          "customers_affected": "< 5",
+          "last_updated": "2020-10-13T06:43:00",
+          "municipality": "Pemberton",
+          "municipality_code": "day-1 day-3 city--2076154532",
+          "start": "2020-10-13T06:25:00",
+          "status": "Crew status: No crew assigned yet"
         },
         {
           "area": "10000 block 152 ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Equipment failure",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-13T06:16:00",
+          "last_updated": "2020-10-13T06:32:00",
           "municipality": "Surrey",
           "municipality_code": "day-1 day-3 city--1807186826",
           "start": "2020-10-13T01:21:00",
-          "status": "Crew status: Crew assigned\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 13 7:00 a.m."
+          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 13 7:00 a.m."
         }
       ],
       "region_code": "Lower Mainland",
       "region_id": "521980323"
     },
     "North VI": {
-      "customers_affected_14d": 4821,
+      "customers_affected_14d": 4732,
       "outages": [
         {
           "area": "East of LACON RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "1580",
-          "last_updated": "2020-10-13T06:13:00",
+          "last_updated": "2020-10-13T06:34:00",
           "municipality": "Courtenay",
           "municipality_code": "day-1 day-3 city--824228212",
           "start": "2020-10-13T05:59:00",
+          "status": "Crew status: Crew assigned"
+        },
+        {
+          "area": "West of GREENHILL RD, South of MCFARLANE RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Under investigation",
+          "customers_affected": "68",
+          "last_updated": "2020-10-13T06:35:00",
+          "municipality": "Courtenay",
+          "municipality_code": "day-1 day-3 city--824228212",
+          "start": "2020-10-13T06:27:00",
           "status": "Crew status: Crew assigned"
         },
         {
@@ -106,16 +116,6 @@
           "municipality_code": "day-1 day-3 city--907547835",
           "start": "2020-10-13T04:06:00",
           "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 13 5:55 a.m."
-        },
-        {
-          "area": "South of ROCK CITY RD, West of ROBINHOOD DR, North of DEPARTURE BAY RD, East of BARRINGTON RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Under investigation",
-          "customers_affected": "157",
-          "last_updated": "2020-10-13T06:13:00",
-          "municipality": "Nanaimo",
-          "municipality_code": "day-1 day-3 city--907547835",
-          "start": "2020-10-13T04:19:00",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 13 6:45 a.m."
         },
         {
           "area": "West of SOUTH RD, East of SOCKEYE DR, South of EL VERANO DR\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -161,11 +161,11 @@
           "area": "100 - 200 block COLUMBIA ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Wire down",
           "customers_affected": "21",
-          "last_updated": "2020-10-13T05:57:00",
+          "last_updated": "2020-10-13T06:33:00",
           "municipality": "Nanaimo",
           "municipality_code": "day-1 day-3 city--907547835",
           "start": "2020-10-13T04:18:00",
-          "status": "Crew status: Crew assigned"
+          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 13 7:35 a.m."
         },
         {
           "area": "3700 block YELLOW POINT RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -228,11 +228,11 @@
           "area": "East of SUNSET DR, North-West of CLANTON RD, South of PORLIER PASS RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "464",
-          "last_updated": "2020-10-13T05:22:00",
+          "last_updated": "2020-10-13T06:37:00",
           "municipality": "Galiano Island",
           "municipality_code": "day-1 day-3 city--995767958",
           "start": "2020-10-13T04:00:00",
-          "status": "Crew status: Crew assigned"
+          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 13 7:35 a.m."
         },
         {
           "area": "North of BLUFF RD, West of GOSSIP RD, East of CLANTON RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -246,9 +246,9 @@
         },
         {
           "area": "West of TRIMMER PL\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Under investigation",
+          "cause": "Wire down",
           "customers_affected": "375",
-          "last_updated": "2020-10-13T06:24:00",
+          "last_updated": "2020-10-13T06:40:00",
           "municipality": "Victoria",
           "municipality_code": "day-1 day-3 city-1201273535",
           "start": "2020-10-13T04:11:00",
@@ -1475,7 +1475,7 @@
       "region_id": "521980323"
     },
     "North VI": {
-      "customers_affected_14d": 613,
+      "customers_affected_14d": 632,
       "outages": [
         {
           "area": "5300 - 6200 Race Point Rd; Lt15, Lt19, L20 Race Point Rd; 5502 - 5582 Raceway Rd",
@@ -1536,6 +1536,16 @@
           "municipality": "Courtenay",
           "municipality_code": "day-1 day-3 city--824228212",
           "start": "2020-10-22T09:00:00"
+        },
+        {
+          "area": "*Rescheduled from Thursday, October 22, 20203780 Colake Rd; Comox Dam; 4623 Forbidden Plateau Rd; 4701, 4787, 4791 Lake Trail Rd; Nymph Falls; Puntledge Div; Temp Powerhousen Rd",
+          "cause": "Planned work being done on our equipment",
+          "customers_affected": "19",
+          "end": "2020-10-24T15:00:00",
+          "last_updated": "2020-10-13T06:42:00",
+          "municipality": "Courtenay",
+          "municipality_code": "day-1 day-3 city--824228212",
+          "start": "2020-10-24T09:00:00"
         },
         {
           "area": "420, 467, 480, 491 Cumberland Rd; 480 6th St; 777 Fitzgerald Ave., Courtenay",
@@ -2999,7 +3009,7 @@
       "region_id": "848340027"
     },
     "Lower Mainland": {
-      "customers_affected_14d": 39233,
+      "customers_affected_14d": 39688,
       "outages": [
         {
           "area": "West of SUMAS MOUNTAIN RD, South of DAWSON RD, North of MCKEE RD, East of STRAITON RD",
@@ -5152,6 +5162,16 @@
           "start": "2020-10-13T04:22:00"
         },
         {
+          "area": "West of OCEANVIEW DR, South of PIXTON RD",
+          "cause": "Tree down across our wires",
+          "customers_affected": "455",
+          "end": "2020-10-13T07:09:00",
+          "last_updated": "2020-10-13T06:40:00",
+          "municipality": "Sechelt",
+          "municipality_code": "day-1 day-3 city--660434186",
+          "start": "2020-10-13T05:58:00"
+        },
+        {
           "area": "AUSTIN RD P1, 700 - 1100 block WEST BAY RD, AUSTIN RD P17, NEW BRIGHTON RD P29, ANDY BAY RD P101, GROVE RD P12, 900 block ANDY BAY RD, 2400 block COTTON BAY RD, SHAWANABE RD 6, GROVE RD P15TO P8...",
           "cause": "Planned work being done on our equipment",
           "customers_affected": "237",
@@ -6006,7 +6026,7 @@
       "region_id": "521980323"
     },
     "North VI": {
-      "customers_affected_14d": 8327,
+      "customers_affected_14d": 8621,
       "outages": [
         {
           "area": "West of NOLE RD, South of RUDDER RD, North of GREEN RD, East of CAMPBELL RIVER-QUADRA FERRY",
@@ -6417,6 +6437,16 @@
           "municipality": "Cumberland",
           "municipality_code": "day-3 city--531324801",
           "start": "2020-10-09T22:08:00"
+        },
+        {
+          "area": "South of ROCK CITY RD, West of ROBINHOOD DR, North of DEPARTURE BAY RD, East of BARRINGTON RD",
+          "cause": "Tree down across our wires",
+          "customers_affected": "294",
+          "end": "2020-10-13T06:45:00",
+          "last_updated": "2020-10-13T06:33:00",
+          "municipality": "Nanaimo",
+          "municipality_code": "day-1 day-3 city--907547835",
+          "start": "2020-10-13T04:19:00"
         },
         {
           "area": "West of BARRETT RD, East of HORSESHOE RD, North of NORTH RD",
