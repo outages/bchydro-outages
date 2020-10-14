@@ -1,7 +1,7 @@
 {
   "current": {
     "Lower Mainland": {
-      "customers_affected_14d": 3191,
+      "customers_affected_14d": 3162,
       "outages": [
         {
           "area": "36400 - 36500 block DAWSON RD, 4900 - 5000 block MATHERS WAY\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -142,16 +142,6 @@
           "municipality_code": "day-1 day-3 city-1230363016 city--708005353",
           "start": "2020-10-13T22:56:00",
           "status": "Crew status: Crew on-site"
-        },
-        {
-          "area": "North of 0 AVE, East of 264TH ST, West of BRADNER RD, South of FRASER HWY\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Tree down across our wires",
-          "customers_affected": "29",
-          "last_updated": "2020-10-14T02:48:00",
-          "municipality": "Abbotsford, Langley",
-          "municipality_code": "day-1 day-3 city-1230363016 city-1612593490",
-          "start": "2020-10-13T13:59:00",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 14 3:45 a.m."
         },
         {
           "area": "East-West of CHILLIWACK LAKE RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -1061,7 +1051,7 @@
           "area": "South of GARNETT RD, North of CHAPMAN RD, East of FISHER RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Tree down across our wires",
           "customers_affected": "1041",
-          "last_updated": "2020-10-14T02:18:00",
+          "last_updated": "2020-10-14T03:36:00",
           "municipality": "Duncan",
           "municipality_code": "day-1 day-3 city-2058209491",
           "start": "2020-10-13T13:59:00",
@@ -1071,7 +1061,7 @@
           "area": "East of TRANS CAN HWY, North of SHOREWOOD RD, South of PINE RIDGE PL\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "318",
-          "last_updated": "2020-10-13T20:22:00",
+          "last_updated": "2020-10-14T03:37:00",
           "municipality": "Duncan",
           "municipality_code": "day-1 day-3 city-2058209491",
           "start": "2020-10-13T14:03:00",
@@ -1311,11 +1301,11 @@
           "area": "11300 block NITINAT RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-14T03:18:00",
+          "last_updated": "2020-10-14T03:37:00",
           "municipality": "North Saanich",
           "municipality_code": "day-1 day-3 city-179964248",
           "start": "2020-10-14T01:46:00",
-          "status": "Crew status: Crew assigned"
+          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 14 4:35 a.m."
         },
         {
           "area": "East of PLUMPER WAY, South of SPALDING RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -4402,7 +4392,7 @@
       "region_id": "848340027"
     },
     "Lower Mainland": {
-      "customers_affected_14d": 134061,
+      "customers_affected_14d": 134624,
       "outages": [
         {
           "area": "North of MACLURE RD, East of MT LEHMAN RD, West of Hwy 11",
@@ -4793,6 +4783,16 @@
           "municipality": "Abbotsford, Langley",
           "municipality_code": "city-1230363016 city-1612593490",
           "start": "2020-10-09T16:36:00"
+        },
+        {
+          "area": "North of 0 AVE, East of 264TH ST, West of BRADNER RD, South of FRASER HWY",
+          "cause": "Tree down across our wires",
+          "customers_affected": "563",
+          "end": "2020-10-14T03:45:00",
+          "last_updated": "2020-10-14T03:45:00",
+          "municipality": "Abbotsford, Langley",
+          "municipality_code": "day-1 day-3 city-1230363016 city-1612593490",
+          "start": "2020-10-13T13:59:00"
         },
         {
           "area": "North of Trans Can , South of 80TH AVE, West of LEFEUVRE RD, East of 258TH ST",
