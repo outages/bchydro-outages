@@ -1,7 +1,7 @@
 {
   "current": {
     "Lower Mainland": {
-      "customers_affected_14d": 3165,
+      "customers_affected_14d": 3186,
       "outages": [
         {
           "area": "36400 - 36500 block DAWSON RD, 4900 - 5000 block MATHERS WAY\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -137,7 +137,7 @@
           "area": "East of COLE RD, West of COLUMBIA VALLEY RD, South of NO 3 RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Tree down across our wires",
           "customers_affected": "1302",
-          "last_updated": "2020-10-14T02:59:00",
+          "last_updated": "2020-10-14T04:08:00",
           "municipality": "Abbotsford, Chilliwack",
           "municipality_code": "day-1 day-3 city-1230363016 city--708005353",
           "start": "2020-10-13T22:56:00",
@@ -174,6 +174,16 @@
           "status": "Crew status: Crew assigned"
         },
         {
+          "area": "West of EVANS RD, North of SUMAS CENTRAL RD, East of LICKMAN RD, South of TRANS CANADA HWY\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Tree down across our wires",
+          "customers_affected": "26",
+          "last_updated": "2020-10-14T04:11:00",
+          "municipality": "Chilliwack",
+          "municipality_code": "day-1 day-3 city--708005353",
+          "start": "2020-10-13T19:55:00",
+          "status": "Crew status: Crew on-site"
+        },
+        {
           "area": "7600 - 50100 block PATTERSON RD, 7660 PATTERSON RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Tree down across our wires",
           "customers_affected": "17",
@@ -207,11 +217,11 @@
           "area": "7700 - 7800 block ORR RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "10",
-          "last_updated": "2020-10-13T23:21:00",
+          "last_updated": "2020-10-14T04:11:00",
           "municipality": "Chilliwack",
           "municipality_code": "day-1 day-3 city--708005353",
           "start": "2020-10-13T20:10:00",
-          "status": "Crew status: Crew assigned"
+          "status": "Crew status: Crew on-site"
         },
         {
           "area": "8200 - 8300 block BANFORD RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -221,16 +231,6 @@
           "municipality": "Chilliwack",
           "municipality_code": "day-1 day-3 city--708005353",
           "start": "2020-10-13T22:02:00",
-          "status": "Crew status: Crew assigned"
-        },
-        {
-          "area": "44200 block LUCKAKUCK WAY\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Tree down across our wires",
-          "customers_affected": "5",
-          "last_updated": "2020-10-14T03:56:00",
-          "municipality": "Chilliwack",
-          "municipality_code": "day-1 day-3 city--708005353",
-          "start": "2020-10-13T19:55:00",
           "status": "Crew status: Crew assigned"
         },
         {
@@ -437,11 +437,11 @@
           "area": "6800 - 6900 block 204 ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Tree down across our wires",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-14T04:00:00",
+          "last_updated": "2020-10-14T04:16:00",
           "municipality": "Langley",
           "municipality_code": "day-1 day-3 city-1612593490",
           "start": "2020-10-13T20:20:00",
-          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 14 5:00 a.m."
+          "status": "Crew status: Crew on-site"
         },
         {
           "area": "0 block 264 ST, 0 AVE @ 264 ST,\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -467,7 +467,7 @@
           "area": "25200 block 56 AVE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Tree down across our wires",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-14T03:20:00",
+          "last_updated": "2020-10-14T04:20:00",
           "municipality": "Langley",
           "municipality_code": "day-1 day-3 city-1612593490",
           "start": "2020-10-13T13:55:00",
@@ -527,11 +527,11 @@
           "area": "9400 block 266 ST, 26500 block LOUGHEED HWY\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Tree down across our wires",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-14T02:34:00",
+          "last_updated": "2020-10-14T04:15:00",
           "municipality": "Maple Ridge",
           "municipality_code": "day-1 day-3 city-598891104",
           "start": "2020-10-13T18:15:00",
-          "status": "Crew status: Crew assigned"
+          "status": "Crew status: Crew assigned\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 14 10:00 a.m."
         },
         {
           "area": "South of SCHOOL AVE, North of FOULDS ST, East of MANZER ST, West of KEYSTONE AVE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -1081,7 +1081,7 @@
           "area": "1200 - 1300 block MILE END RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Tree down across our wires",
           "customers_affected": "23",
-          "last_updated": "2020-10-13T21:02:00",
+          "last_updated": "2020-10-14T04:15:00",
           "municipality": "Duncan",
           "municipality_code": "day-1 day-3 city-2058209491",
           "start": "2020-10-13T15:25:00",
@@ -1101,7 +1101,7 @@
           "area": "4200 block TRANS CAN HWY, 3900 block COBBLE HILL RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "16",
-          "last_updated": "2020-10-13T20:23:00",
+          "last_updated": "2020-10-14T04:10:00",
           "municipality": "Duncan",
           "municipality_code": "day-1 day-3 city-2058209491",
           "start": "2020-10-13T15:15:00",
@@ -1131,7 +1131,7 @@
           "area": "4700 block WATERS RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-13T20:21:00",
+          "last_updated": "2020-10-14T04:10:00",
           "municipality": "Duncan",
           "municipality_code": "day-1 day-3 city-2058209491",
           "start": "2020-10-13T12:40:00",
@@ -1221,7 +1221,7 @@
           "area": "7500 - 7900 block BABINE PL\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-14T00:54:00",
+          "last_updated": "2020-10-14T04:08:00",
           "municipality": "North Cowichan",
           "municipality_code": "day-1 day-3 city--666037877",
           "start": "2020-10-14T00:44:00",
@@ -1231,7 +1231,7 @@
           "area": "8200 - 8300 block CROFTON RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-14T02:02:00",
+          "last_updated": "2020-10-14T04:09:00",
           "municipality": "North Cowichan",
           "municipality_code": "day-1 day-3 city--666037877",
           "start": "2020-10-14T01:50:00",
@@ -1241,7 +1241,7 @@
           "area": "3000 block COWICHAN VALLEY HWY\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Transformer burn out",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-13T20:23:00",
+          "last_updated": "2020-10-14T04:06:00",
           "municipality": "North Cowichan",
           "municipality_code": "day-1 day-3 city--666037877",
           "start": "2020-10-13T15:45:00",
@@ -1251,7 +1251,7 @@
           "area": "1700 block HERD RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-13T20:23:00",
+          "last_updated": "2020-10-14T04:06:00",
           "municipality": "North Cowichan",
           "municipality_code": "day-1 day-3 city--666037877",
           "start": "2020-10-13T16:18:00",
@@ -1261,7 +1261,7 @@
           "area": "8800 block STONEY HILL RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-13T20:23:00",
+          "last_updated": "2020-10-14T04:08:00",
           "municipality": "North Cowichan",
           "municipality_code": "day-1 day-3 city--666037877",
           "start": "2020-10-13T17:54:00",
@@ -1281,11 +1281,11 @@
           "area": "11300 block NITINAT RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-14T03:59:00",
+          "last_updated": "2020-10-14T04:15:00",
           "municipality": "North Saanich",
           "municipality_code": "day-1 day-3 city-179964248",
           "start": "2020-10-14T01:46:00",
-          "status": "Crew status: Crew on-site"
+          "status": "Crew status: Crew assigned\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 14 4:00 a.m."
         },
         {
           "area": "South of SPALDING RD, North of SOUTHLANDS DR, East of BEDWELL DR\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -13419,7 +13419,7 @@
           "end": "2020-10-12T04:00:00",
           "last_updated": "2020-10-12T04:15:00",
           "municipality": "Langford",
-          "municipality_code": "day-1 day-3 city--1549378615",
+          "municipality_code": "day-3 city--1549378615",
           "start": "2020-10-12T00:31:00"
         },
         {
@@ -15046,7 +15046,7 @@
           "end": "2020-10-10T05:00:00",
           "last_updated": "2020-10-10T04:12:00",
           "municipality": "Kamloops",
-          "municipality_code": "day-3 city-979034872",
+          "municipality_code": "city-979034872",
           "start": "2020-10-09T15:48:00"
         },
         {
