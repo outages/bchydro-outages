@@ -1,7 +1,7 @@
 {
   "current": {
     "Lower Mainland": {
-      "customers_affected_14d": 3183,
+      "customers_affected_14d": 3062,
       "outages": [
         {
           "area": "34200 block SOUTH FRASER WAY\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -37,7 +37,7 @@
           "area": "34200 block MARSHALL RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "6",
-          "last_updated": "2020-10-14T03:30:00",
+          "last_updated": "2020-10-14T05:32:00",
           "municipality": "Abbotsford",
           "municipality_code": "day-1 day-3 city-1230363016",
           "start": "2020-10-14T00:15:00",
@@ -147,21 +147,11 @@
           "area": "South of JASPER DR, East of SUNSHINE DR, North-West of HAIG DR\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Tree down across our wires",
           "customers_affected": "36",
-          "last_updated": "2020-10-14T00:43:00",
+          "last_updated": "2020-10-14T05:21:00",
           "municipality": "Chilliwack",
           "municipality_code": "day-1 day-3 city--708005353",
           "start": "2020-10-13T13:10:00",
-          "status": "Crew status: Crew assigned"
-        },
-        {
-          "area": "West of EVANS RD, North of SUMAS CENTRAL RD, East of LICKMAN RD, South of TRANS CANADA HWY\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Tree down across our wires",
-          "customers_affected": "26",
-          "last_updated": "2020-10-14T04:11:00",
-          "municipality": "Chilliwack",
-          "municipality_code": "day-1 day-3 city--708005353",
-          "start": "2020-10-13T19:55:00",
-          "status": "Crew status: Crew on-site"
+          "status": "Crew status: Suspended"
         },
         {
           "area": "7600 - 50100 block PATTERSON RD, 7660 PATTERSON RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -182,26 +172,6 @@
           "municipality_code": "day-1 day-3 city--708005353",
           "start": "2020-10-13T16:06:00",
           "status": "Crew status: Suspended"
-        },
-        {
-          "area": "7700 - 7800 block ORR RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Under investigation",
-          "customers_affected": "10",
-          "last_updated": "2020-10-14T04:11:00",
-          "municipality": "Chilliwack",
-          "municipality_code": "day-1 day-3 city--708005353",
-          "start": "2020-10-13T20:10:00",
-          "status": "Crew status: Crew on-site"
-        },
-        {
-          "area": "8200 - 8300 block BANFORD RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Under investigation",
-          "customers_affected": "6",
-          "last_updated": "2020-10-13T22:42:00",
-          "municipality": "Chilliwack",
-          "municipality_code": "day-1 day-3 city--708005353",
-          "start": "2020-10-13T22:02:00",
-          "status": "Crew status: Crew assigned"
         },
         {
           "area": "49400 - 49500 block VOIGHT RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -267,11 +237,11 @@
           "area": "West of EDWARDS RD, North of YALE RD, East of STANDEVEN RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Wire down",
           "customers_affected": "194",
-          "last_updated": "2020-10-14T03:22:00",
+          "last_updated": "2020-10-14T05:16:00",
           "municipality": "Chilliwack, Kent",
           "municipality_code": "day-1 day-3 city--708005353 city-2334912",
           "start": "2020-10-13T12:46:00",
-          "status": "Crew status: Suspended\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 14 3:25 a.m."
+          "status": "Crew status: Suspended"
         },
         {
           "area": "11500 - 11800 block LADNER TRUNK RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -354,10 +324,10 @@
           "status": "Crew status: No crew assigned yet"
         },
         {
-          "area": "East of LOUGHEED HWY\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "area": "JONES HILL RECTIFIER, 56000 - 56100 block TRANS CAN HWY, HWY 1 ORN, WAHLEACH GS ACCESS RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Wind storm",
-          "customers_affected": "97",
-          "last_updated": "2020-10-14T00:32:00",
+          "customers_affected": "7",
+          "last_updated": "2020-10-14T05:34:00",
           "municipality": "Kent",
           "municipality_code": "day-1 day-3 city-2334912",
           "start": "2020-10-13T12:50:00",
@@ -387,7 +357,7 @@
           "area": "East of 264TH ST, South of 80TH AVE, North of 64TH AVE, West of 272ND ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Tree down across our wires",
           "customers_affected": "37",
-          "last_updated": "2020-10-14T03:58:00",
+          "last_updated": "2020-10-14T05:19:00",
           "municipality": "Langley",
           "municipality_code": "day-1 day-3 city-1612593490",
           "start": "2020-10-13T23:06:00",
@@ -467,11 +437,11 @@
           "area": "500 block 232 ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Wire down",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-14T04:39:00",
+          "last_updated": "2020-10-14T05:25:00",
           "municipality": "Langley",
           "municipality_code": "day-1 day-3 city-1612593490",
           "start": "2020-10-13T14:26:00",
-          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 14 5:40 a.m."
+          "status": "Crew status: Crew on-site"
         },
         {
           "area": "800 block 256 ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -497,7 +467,7 @@
           "area": "South of SCHOOL AVE, North of FOULDS ST, East of MANZER ST, West of KEYSTONE AVE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Wire down",
           "customers_affected": "44",
-          "last_updated": "2020-10-14T01:39:00",
+          "last_updated": "2020-10-14T05:16:00",
           "municipality": "Mission",
           "municipality_code": "day-1 day-3 city--1560864404",
           "start": "2020-10-13T14:46:00",
@@ -507,11 +477,21 @@
           "area": "40800 - 41400 block TAYLOR RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Tree down across our wires",
           "customers_affected": "14",
-          "last_updated": "2020-10-14T01:40:00",
+          "last_updated": "2020-10-14T05:19:00",
           "municipality": "Mission",
           "municipality_code": "day-1 day-3 city--1560864404",
           "start": "2020-10-13T17:52:00",
           "status": "Crew status: No crew assigned yet"
+        },
+        {
+          "area": "16600 - 16800 block E MORRIS VALLEY RD, 16600 - 17900 block MORRIS VALLEY RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Under investigation",
+          "customers_affected": "11",
+          "last_updated": "2020-10-14T05:28:00",
+          "municipality": "Mission",
+          "municipality_code": "day-1 day-3 city--1560864404",
+          "start": "2020-10-14T05:14:00",
+          "status": "Crew status: Crew assigned"
         },
         {
           "area": "40800 block CARTER RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -558,7 +538,7 @@
       "region_id": "521980323"
     },
     "North VI": {
-      "customers_affected_14d": 2558,
+      "customers_affected_14d": 2493,
       "outages": [
         {
           "area": "South-East of MARY POINT RD, West of SPECTRUM RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -779,16 +759,6 @@
           "municipality_code": "day-1 day-3 city--154309756",
           "start": "2020-10-13T22:53:00",
           "status": "Crew status: Crew assigned\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 14 6:00 a.m."
-        },
-        {
-          "area": "South of ALLSBROOK RD, West of PETERSON RD, North of RIVERS EDGE DR\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Tree down across our wires",
-          "customers_affected": "65",
-          "last_updated": "2020-10-14T04:48:00",
-          "municipality": "Qualicum Beach",
-          "municipality_code": "day-1 day-3 city--154309756",
-          "start": "2020-10-13T13:42:00",
-          "status": "Crew status: Crew on-site"
         },
         {
           "area": "1000 - 1300 block RUFFELS RD, 1100 block BELLEVUE RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -4322,7 +4292,7 @@
       "region_id": "848340027"
     },
     "Lower Mainland": {
-      "customers_affected_14d": 134641,
+      "customers_affected_14d": 134693,
       "outages": [
         {
           "area": "North of MACLURE RD, East of MT LEHMAN RD, West of Hwy 11",
@@ -5255,6 +5225,16 @@
           "start": "2020-10-13T10:13:00"
         },
         {
+          "area": "West of EVANS RD, North of SUMAS CENTRAL RD, East of LICKMAN RD, South of TRANS CANADA HWY",
+          "cause": "Tree down across our wires",
+          "customers_affected": "36",
+          "end": "",
+          "last_updated": "2020-10-14T05:18:00",
+          "municipality": "Chilliwack",
+          "municipality_code": "day-1 day-3 city--708005353",
+          "start": "2020-10-13T19:55:00"
+        },
+        {
           "area": "7100 - 7300 block RAMSAY PL, 6900 - 7100 block MARBLE HILL RD",
           "cause": "Equipment failure",
           "customers_affected": "19",
@@ -5283,6 +5263,16 @@
           "municipality": "Chilliwack",
           "municipality_code": "city--708005353",
           "start": "2020-10-06T10:47:00"
+        },
+        {
+          "area": "7700 - 7800 block ORR RD",
+          "cause": "Under investigation",
+          "customers_affected": "10",
+          "end": "",
+          "last_updated": "2020-10-14T05:16:00",
+          "municipality": "Chilliwack",
+          "municipality_code": "day-1 day-3 city--708005353",
+          "start": "2020-10-13T20:10:00"
         },
         {
           "area": "East of CHILLIWACK RIVER RD, South-West of HAKWELES RD, North of SMOKEHOUSE RD",
@@ -5323,6 +5313,16 @@
           "municipality": "Chilliwack",
           "municipality_code": "city--708005353",
           "start": "2020-10-02T10:35:00"
+        },
+        {
+          "area": "8200 - 8300 block BANFORD RD",
+          "cause": "Under investigation",
+          "customers_affected": "6",
+          "end": "",
+          "last_updated": "2020-10-14T05:30:00",
+          "municipality": "Chilliwack",
+          "municipality_code": "day-1 day-3 city--708005353",
+          "start": "2020-10-13T22:02:00"
         },
         {
           "area": "50500 block OBYRNE RD, 3900 block SLESSE RD",
@@ -7171,7 +7171,7 @@
           "end": "",
           "last_updated": "2020-10-13T12:54:00",
           "municipality": "Mission",
-          "municipality_code": "day-1 day-3 city--1560864404",
+          "municipality_code": "day-3 city--1560864404",
           "start": "2020-10-12T03:02:00"
         },
         {
@@ -7921,7 +7921,7 @@
           "end": "",
           "last_updated": "2020-10-13T12:40:00",
           "municipality": "Richmond",
-          "municipality_code": "day-1 day-3 city--1486145068",
+          "municipality_code": "day-3 city--1486145068",
           "start": "2020-10-12T01:59:00"
         },
         {
@@ -9239,7 +9239,7 @@
       "region_id": "521980323"
     },
     "North VI": {
-      "customers_affected_14d": 58547,
+      "customers_affected_14d": 58612,
       "outages": [
         {
           "area": "West of MILLER RD",
@@ -10690,6 +10690,16 @@
           "municipality": "Qualicum Beach",
           "municipality_code": "day-1 day-3 city--154309756",
           "start": "2020-10-13T19:21:00"
+        },
+        {
+          "area": "South of ALLSBROOK RD, West of PETERSON RD, North of RIVERS EDGE DR",
+          "cause": "Tree down across our wires",
+          "customers_affected": "65",
+          "end": "",
+          "last_updated": "2020-10-14T05:24:00",
+          "municipality": "Qualicum Beach",
+          "municipality_code": "day-1 day-3 city--154309756",
+          "start": "2020-10-13T13:42:00"
         },
         {
           "area": "3000 - 3100 block RINVOLD RD",
@@ -13879,7 +13889,7 @@
           "end": "2020-10-12T05:30:00",
           "last_updated": "2020-10-13T09:27:00",
           "municipality": "Pender Island",
-          "municipality_code": "day-1 day-3 city--635217187",
+          "municipality_code": "day-3 city--635217187",
           "start": "2020-10-12T01:39:00"
         },
         {
