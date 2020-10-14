@@ -1,7 +1,7 @@
 {
   "current": {
     "Lower Mainland": {
-      "customers_affected_14d": 1060,
+      "customers_affected_14d": 576,
       "outages": [
         {
           "area": "North of EDWARDS RD, East of PRIVATE RD , West of FARNHAM RD, South of CHURCHILL PKY\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -97,7 +97,7 @@
           "area": "JONES HILL RECTIFIER, 56000 - 56100 block TRANS CAN HWY, HWY 1 ORN, WAHLEACH GS ACCESS RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Wind storm",
           "customers_affected": "7",
-          "last_updated": "2020-10-14T15:18:00",
+          "last_updated": "2020-10-14T15:30:00",
           "municipality": "Kent",
           "municipality_code": "day-1 day-3 city-2334912",
           "start": "2020-10-13T12:50:00",
@@ -122,16 +122,6 @@
           "municipality_code": "day-1 day-3 city-1612593490",
           "start": "2020-10-14T14:34:00",
           "status": "Crew status: Crew assigned"
-        },
-        {
-          "area": "South of ROAD A , North of 102ND AVE, East of 240TH ST, West of 243RD ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Under investigation",
-          "customers_affected": "188",
-          "last_updated": "2020-10-14T15:11:00",
-          "municipality": "Maple Ridge",
-          "municipality_code": "day-1 day-3 city-598891104",
-          "start": "2020-10-14T15:01:00",
-          "status": "Crew status: Crew on their way"
         },
         {
           "area": "South of SCHOOL AVE, North of FOULDS ST, East of MANZER ST, West of KEYSTONE AVE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -194,41 +184,21 @@
           "status": "Crew status: Crew assigned"
         },
         {
-          "area": "2300 block RIVER RD, 2300 block W RIVER RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Bird contacting our wires",
-          "customers_affected": "< 5",
-          "last_updated": "2020-10-14T15:09:00",
-          "municipality": "Richmond",
-          "municipality_code": "day-1 day-3 city--1486145068",
-          "start": "2020-10-14T09:53:00",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 14 4:05 p.m."
-        },
-        {
-          "area": "North of 15A AVE, South of 21A AVE, West of 128TH ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Equipment failure",
-          "customers_affected": "294",
-          "last_updated": "2020-10-14T15:12:00",
-          "municipality": "Surrey",
-          "municipality_code": "day-1 day-3 city--1807186826",
-          "start": "2020-10-14T08:19:00",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 14 4:00 p.m."
-        },
-        {
           "area": "10300 block 152ND ST, 10300 block 152 ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Cable fault",
           "customers_affected": "31",
-          "last_updated": "2020-10-14T15:21:00",
+          "last_updated": "2020-10-14T15:28:00",
           "municipality": "Surrey",
           "municipality_code": "day-1 day-3 city--1807186826",
           "start": "2020-10-14T12:03:00",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 14 6:30 p.m."
+          "status": "Crew status: Crew assigned\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 14 2:05 p.m."
         }
       ],
       "region_code": "Lower Mainland",
       "region_id": "521980323"
     },
     "North VI": {
-      "customers_affected_14d": 758,
+      "customers_affected_14d": 756,
       "outages": [
         {
           "area": "1500 block ANTLER RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -351,24 +321,14 @@
           "status": "Crew status: Crew assigned"
         },
         {
-          "area": "2700 block GRAFTON AVE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Under investigation",
-          "customers_affected": "< 5",
-          "last_updated": "2020-10-14T12:01:00",
-          "municipality": "Qualicum Beach",
-          "municipality_code": "day-1 day-3 city--154309756",
-          "start": "2020-10-13T19:02:00",
-          "status": "Crew status: Crew assigned"
-        },
-        {
           "area": "1700 block GRAFTON AVE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Wire down",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-14T15:25:00",
+          "last_updated": "2020-10-14T15:27:00",
           "municipality": "Qualicum Beach",
           "municipality_code": "day-1 day-3 city--154309756",
           "start": "2020-10-14T09:48:00",
-          "status": "Crew status: Crew on-site"
+          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 14 4:25 p.m."
         },
         {
           "area": "1400 block BRADDOCK RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -384,21 +344,21 @@
           "area": "600 block KENO CRE, INDIAN RESERVE L9, INDIAN RESERVE L7, OCLUCJE RESERVE LOT 3, INDIAN RESERVE L4, INDIAN RESERVE L1, PUMP SERVICE, INDIAN RESERVE L2, 400 block FERRIS RD, INDIAN RESERVE L6...\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Tree down across our wires",
           "customers_affected": "199",
-          "last_updated": "2020-10-14T12:13:00",
+          "last_updated": "2020-10-14T15:28:00",
           "municipality": "Tahsis, Zeballos",
           "municipality_code": "day-1 day-3 city--1797324926 city-281261870",
           "start": "2020-10-13T08:28:00",
-          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 14 1:45 p.m."
+          "status": "Crew status: Crew on-site"
         },
         {
           "area": "0 block MUUCHININK RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-14T14:54:00",
+          "last_updated": "2020-10-14T15:27:00",
           "municipality": "Ucluelet",
           "municipality_code": "day-1 day-3 city--1313309491",
           "start": "2020-10-14T13:53:00",
-          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 14 3:55 p.m."
+          "status": "Crew status: Crew on-site"
         }
       ],
       "region_code": "North VI",
@@ -3916,7 +3876,7 @@
       "region_id": "848340027"
     },
     "Lower Mainland": {
-      "customers_affected_14d": 139489,
+      "customers_affected_14d": 139973,
       "outages": [
         {
           "area": "North of MACLURE RD, East of MT LEHMAN RD, West of Hwy 11",
@@ -6999,6 +6959,16 @@
           "start": "2020-10-13T15:25:00"
         },
         {
+          "area": "South of ROAD A , North of 102ND AVE, East of 240TH ST, West of 243RD ST",
+          "cause": "Tree down across our wires",
+          "customers_affected": "188",
+          "end": "2020-10-14T15:45:00",
+          "last_updated": "2020-10-14T15:30:00",
+          "municipality": "Maple Ridge",
+          "municipality_code": "day-1 day-3 city-598891104",
+          "start": "2020-10-14T15:01:00"
+        },
+        {
           "area": "East of 240TH ST, West of 256TH ST, North of MARSHALL AVE",
           "cause": "Tree down across our wires",
           "customers_affected": "106",
@@ -8199,6 +8169,16 @@
           "start": "2020-10-14T07:58:00"
         },
         {
+          "area": "2300 block RIVER RD, 2300 block W RIVER RD",
+          "cause": "Bird contacting our wires",
+          "customers_affected": "< 5",
+          "end": "2020-10-14T16:05:00",
+          "last_updated": "2020-10-14T15:31:00",
+          "municipality": "Richmond",
+          "municipality_code": "day-1 day-3 city--1486145068",
+          "start": "2020-10-14T09:53:00"
+        },
+        {
           "area": "2400 block SHELL RD",
           "cause": "Tree down across our wires",
           "customers_affected": "< 5",
@@ -8517,6 +8497,16 @@
           "municipality": "Surrey",
           "municipality_code": "city--1807186826",
           "start": "2020-10-02T13:19:00"
+        },
+        {
+          "area": "North of 15A AVE, South of 21A AVE, West of 128TH ST",
+          "cause": "Equipment failure",
+          "customers_affected": "294",
+          "end": "2020-10-14T16:00:00",
+          "last_updated": "2020-10-14T15:31:00",
+          "municipality": "Surrey",
+          "municipality_code": "day-1 day-3 city--1807186826",
+          "start": "2020-10-14T08:19:00"
         },
         {
           "area": "7100 block HALL RD, 13400 block 71 AVE",
@@ -9603,7 +9593,7 @@
       "region_id": "521980323"
     },
     "North VI": {
-      "customers_affected_14d": 61912,
+      "customers_affected_14d": 61914,
       "outages": [
         {
           "area": "West of MILLER RD",
@@ -11586,6 +11576,16 @@
           "start": "2020-10-14T06:25:00"
         },
         {
+          "area": "2700 block GRAFTON AVE",
+          "cause": "Tree down across our wires",
+          "customers_affected": "< 5",
+          "end": "",
+          "last_updated": "2020-10-14T15:29:00",
+          "municipality": "Qualicum Beach",
+          "municipality_code": "day-1 day-3 city--154309756",
+          "start": "2020-10-13T19:02:00"
+        },
+        {
           "area": "3200 block MELON RD",
           "cause": "Tree down across our wires",
           "customers_affected": "< 5",
@@ -13116,7 +13116,7 @@
           "end": "2020-10-10T16:00:00",
           "last_updated": "2020-10-10T15:38:00",
           "municipality": "Sparwood",
-          "municipality_code": "day-3 city-2126498587",
+          "municipality_code": "city-2126498587",
           "start": "2020-10-10T15:20:00"
         },
         {
@@ -13126,7 +13126,7 @@
           "end": "2020-10-10T16:00:00",
           "last_updated": "2020-10-10T15:38:00",
           "municipality": "Sparwood",
-          "municipality_code": "day-3 city-2126498587",
+          "municipality_code": "city-2126498587",
           "start": "2020-10-10T15:20:00"
         },
         {
@@ -13256,7 +13256,7 @@
           "end": "2020-10-10T15:20:00",
           "last_updated": "2020-10-13T08:30:00",
           "municipality": "Vernon",
-          "municipality_code": "day-3 city--1736079254",
+          "municipality_code": "city--1736079254",
           "start": "2020-10-10T13:14:00"
         },
         {
