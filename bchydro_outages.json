@@ -1,7 +1,7 @@
 {
   "current": {
     "Lower Mainland": {
-      "customers_affected_14d": 3024,
+      "customers_affected_14d": 3008,
       "outages": [
         {
           "area": "34200 block SOUTH FRASER WAY\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -116,8 +116,8 @@
         {
           "area": "East of COLE RD, West of COLUMBIA VALLEY RD, South of NO 3 RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Tree down across our wires",
-          "customers_affected": "1302",
-          "last_updated": "2020-10-14T04:23:00",
+          "customers_affected": "1296",
+          "last_updated": "2020-10-14T05:53:00",
           "municipality": "Abbotsford, Chilliwack",
           "municipality_code": "day-1 day-3 city-1230363016 city--708005353",
           "start": "2020-10-13T22:56:00",
@@ -212,6 +212,16 @@
           "municipality_code": "day-1 day-3 city--708005353",
           "start": "2020-10-13T13:28:00",
           "status": "Crew status: Suspended"
+        },
+        {
+          "area": "4200 block 1ST AVE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Wire down",
+          "customers_affected": "< 5",
+          "last_updated": "2020-10-14T05:47:00",
+          "municipality": "Chilliwack",
+          "municipality_code": "day-1 day-3 city--708005353",
+          "start": "2020-10-14T05:46:00",
+          "status": "Crew status: No crew assigned yet"
         },
         {
           "area": "50500 block CASTLEMAN RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -377,11 +387,11 @@
           "area": "6800 - 6900 block 204 ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Tree down across our wires",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-14T04:42:00",
+          "last_updated": "2020-10-14T06:00:00",
           "municipality": "Langley",
           "municipality_code": "day-1 day-3 city-1612593490",
           "start": "2020-10-13T20:20:00",
-          "status": "Crew status: Crew assigned\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 14 4:15 a.m."
+          "status": "Crew status: Crew assigned"
         },
         {
           "area": "0 block 264 ST, 0 AVE @ 264 ST,\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -472,16 +482,6 @@
           "municipality_code": "day-1 day-3 city--1560864404",
           "start": "2020-10-13T17:52:00",
           "status": "Crew status: No crew assigned yet"
-        },
-        {
-          "area": "16600 - 16800 block E MORRIS VALLEY RD, 16600 - 17900 block MORRIS VALLEY RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Under investigation",
-          "customers_affected": "11",
-          "last_updated": "2020-10-14T05:28:00",
-          "municipality": "Mission",
-          "municipality_code": "day-1 day-3 city--1560864404",
-          "start": "2020-10-14T05:14:00",
-          "status": "Crew status: Crew assigned"
         },
         {
           "area": "40800 block CARTER RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -744,11 +744,11 @@
           "area": "South of ISLAND HWY, West of BOORMAN RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Tree down across our wires",
           "customers_affected": "511",
-          "last_updated": "2020-10-14T05:39:00",
+          "last_updated": "2020-10-14T06:05:00",
           "municipality": "Qualicum Beach",
           "municipality_code": "day-1 day-3 city--154309756",
           "start": "2020-10-13T22:53:00",
-          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 14 6:00 a.m."
+          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 14 7:30 a.m."
         },
         {
           "area": "1000 - 1300 block RUFFELS RD, 1100 block BELLEVUE RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -945,7 +945,7 @@
       "region_id": "1602896846"
     },
     "South VI": {
-      "customers_affected_14d": 2169,
+      "customers_affected_14d": 2167,
       "outages": [
         {
           "area": "South of GARNETT RD, North of CHAPMAN RD, East of FISHER RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -1191,21 +1191,11 @@
           "area": "1000 block QUATSINO DR, 11300 block NITINAT RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Tree down across our wires",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-14T03:16:00",
+          "last_updated": "2020-10-14T05:59:00",
           "municipality": "North Saanich",
           "municipality_code": "day-1 day-3 city-179964248",
           "start": "2020-10-13T20:36:00",
-          "status": "Crew status: No crew assigned yet"
-        },
-        {
-          "area": "11300 block NITINAT RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Under investigation",
-          "customers_affected": "< 5",
-          "last_updated": "2020-10-14T04:24:00",
-          "municipality": "North Saanich",
-          "municipality_code": "day-1 day-3 city-179964248",
-          "start": "2020-10-14T01:46:00",
-          "status": "Crew status: Crew assigned\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 14 4:00 a.m."
+          "status": "Crew status: No crew assigned yet\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 14 9:00 a.m."
         },
         {
           "area": "1900 block KALTASIN RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -4292,7 +4282,7 @@
       "region_id": "848340027"
     },
     "Lower Mainland": {
-      "customers_affected_14d": 134731,
+      "customers_affected_14d": 134742,
       "outages": [
         {
           "area": "North of MACLURE RD, East of MT LEHMAN RD, West of Hwy 11",
@@ -7243,6 +7233,16 @@
           "municipality": "Mission",
           "municipality_code": "day-3 city--1560864404",
           "start": "2020-10-11T09:55:00"
+        },
+        {
+          "area": "16600 - 16800 block E MORRIS VALLEY RD, 16600 - 17900 block MORRIS VALLEY RD",
+          "cause": "Under investigation",
+          "customers_affected": "11",
+          "end": "",
+          "last_updated": "2020-10-14T05:49:00",
+          "municipality": "Mission",
+          "municipality_code": "day-1 day-3 city--1560864404",
+          "start": "2020-10-14T05:14:00"
         },
         {
           "area": "30100 - 30400 block SCHOOL AVE",
@@ -12440,7 +12440,7 @@
       "region_id": "2072041405"
     },
     "South VI": {
-      "customers_affected_14d": 54172,
+      "customers_affected_14d": 54174,
       "outages": [
         {
           "area": "North of CHURCH RD, West of STAUTW RD, East of TETAYUT RD, South of MT NEWTON XRD",
@@ -13761,6 +13761,16 @@
           "municipality": "North Saanich",
           "municipality_code": "day-1 day-3 city-179964248",
           "start": "2020-10-13T17:43:00"
+        },
+        {
+          "area": "11300 block NITINAT RD",
+          "cause": "Tree down across our wires",
+          "customers_affected": "< 5",
+          "end": "2020-10-14T06:30:00",
+          "last_updated": "2020-10-14T05:54:00",
+          "municipality": "North Saanich",
+          "municipality_code": "day-1 day-3 city-179964248",
+          "start": "2020-10-14T01:46:00"
         },
         {
           "area": "1500 block MCTAVISH RD",
