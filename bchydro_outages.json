@@ -525,7 +525,7 @@
       "region_id": "521980323"
     },
     "North VI": {
-      "customers_affected_14d": 2079,
+      "customers_affected_14d": 2082,
       "outages": [
         {
           "area": "South-East of MARY POINT RD, West of SPECTRUM RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -661,7 +661,7 @@
           "area": "West of Chemanus-Thetis Is Ferry , North of ELM ST, East of VICTORIA RD, South of DANIEL ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Tree down across our wires",
           "customers_affected": "792",
-          "last_updated": "2020-10-14T01:58:00",
+          "last_updated": "2020-10-14T06:28:00",
           "municipality": "North Cowichan",
           "municipality_code": "day-1 day-3 city--666037877",
           "start": "2020-10-13T12:50:00",
@@ -671,7 +671,7 @@
           "area": "South of PANORAMA RIDGE RD, West of TRANS CANADA HWY\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Tree down across our wires",
           "customers_affected": "55",
-          "last_updated": "2020-10-13T20:52:00",
+          "last_updated": "2020-10-14T06:28:00",
           "municipality": "North Cowichan",
           "municipality_code": "day-1 day-3 city--666037877",
           "start": "2020-10-13T14:14:00",
@@ -681,7 +681,7 @@
           "area": "North of ALDER ST, South of PINE ST, East of CEDAR ST, West of MAPLE ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "18",
-          "last_updated": "2020-10-13T19:02:00",
+          "last_updated": "2020-10-14T06:30:00",
           "municipality": "North Cowichan",
           "municipality_code": "day-1 day-3 city--666037877",
           "start": "2020-10-13T15:44:00",
@@ -858,6 +858,16 @@
           "status": "Crew status: No crew assigned yet"
         },
         {
+          "area": "500 block GROVEHILL RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Under investigation",
+          "customers_affected": "< 5",
+          "last_updated": "2020-10-14T06:29:00",
+          "municipality": "Qualicum Beach",
+          "municipality_code": "day-1 day-3 city--154309756",
+          "start": "2020-10-14T06:25:00",
+          "status": "Crew status: No crew assigned yet"
+        },
+        {
           "area": "2700 block GRAFTON AVE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "< 5",
@@ -896,6 +906,16 @@
           "municipality_code": "day-1 day-3 city--154309756",
           "start": "2020-10-13T08:08:00",
           "status": "Crew status: Suspended"
+        },
+        {
+          "area": "1000 block HOWARD RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Under investigation",
+          "customers_affected": "< 5",
+          "last_updated": "2020-10-14T06:28:00",
+          "municipality": "Qualicum Beach",
+          "municipality_code": "day-1 day-3 city--154309756",
+          "start": "2020-10-14T06:20:00",
+          "status": "Crew status: No crew assigned yet"
         },
         {
           "area": "1400 block BRADDOCK RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -1218,11 +1238,11 @@
           "area": "South-West of SOOKE RD, East of MARINA DR, North of MARINA CRS\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-14T06:16:00",
+          "last_updated": "2020-10-14T06:26:00",
           "municipality": "Victoria",
           "municipality_code": "day-1 day-3 city-1201273535",
           "start": "2020-10-14T05:21:00",
-          "status": "Crew status: Crew assigned"
+          "status": "Crew status: Crew assigned\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 14 10:00 a.m."
         },
         {
           "area": "2400 block STAPLER RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
