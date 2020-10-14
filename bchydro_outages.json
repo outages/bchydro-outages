@@ -1,8 +1,18 @@
 {
   "current": {
     "Lower Mainland": {
-      "customers_affected_14d": 3181,
+      "customers_affected_14d": 3183,
       "outages": [
+        {
+          "area": "34200 block SOUTH FRASER WAY\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Under investigation",
+          "customers_affected": "17",
+          "last_updated": "2020-10-14T04:51:00",
+          "municipality": "Abbotsford",
+          "municipality_code": "day-1 day-3 city-1230363016",
+          "start": "2020-10-14T04:34:00",
+          "status": "Crew status: No crew assigned yet"
+        },
         {
           "area": "36400 - 36500 block DAWSON RD, 4900 - 5000 block MATHERS WAY\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
@@ -54,26 +64,6 @@
           "status": "Crew status: No crew assigned yet"
         },
         {
-          "area": "4700 block CHARLIE SPRUCE PL\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Under investigation",
-          "customers_affected": "< 5",
-          "last_updated": "2020-10-13T19:41:00",
-          "municipality": "Abbotsford",
-          "municipality_code": "day-1 day-3 city-1230363016",
-          "start": "2020-10-13T19:28:00",
-          "status": "Crew status: No crew assigned yet"
-        },
-        {
-          "area": "5000 block LEFEUVRE RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Under investigation",
-          "customers_affected": "< 5",
-          "last_updated": "2020-10-13T19:21:00",
-          "municipality": "Abbotsford",
-          "municipality_code": "day-1 day-3 city-1230363016",
-          "start": "2020-10-13T13:14:00",
-          "status": "Crew status: No crew assigned yet"
-        },
-        {
           "area": "32000 block CEDAR LANE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Wind storm",
           "customers_affected": "< 5",
@@ -114,16 +104,6 @@
           "status": "Crew status: No crew assigned yet"
         },
         {
-          "area": "4000 block PRAIRIE ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Under investigation",
-          "customers_affected": "< 5",
-          "last_updated": "2020-10-13T20:37:00",
-          "municipality": "Abbotsford",
-          "municipality_code": "day-1 day-3 city-1230363016",
-          "start": "2020-10-13T20:07:00",
-          "status": "Crew status: Crew assigned"
-        },
-        {
           "area": "30100 block TOWNSHIPLINE RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "< 5",
@@ -147,11 +127,11 @@
           "area": "East-West of CHILLIWACK LAKE RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Wire down",
           "customers_affected": "824",
-          "last_updated": "2020-10-14T03:18:00",
+          "last_updated": "2020-10-14T04:47:00",
           "municipality": "Chilliwack",
           "municipality_code": "day-1 day-3 city--708005353",
           "start": "2020-10-13T11:12:00",
-          "status": "Crew status: Suspended"
+          "status": "Crew status: Crew assigned"
         },
         {
           "area": "North of EDWARDS RD, East of PRIVATE RD , West of FARNHAM RD, South of CHURCHILL PKY\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -457,11 +437,11 @@
           "area": "26000 block 84 AVE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-14T01:44:00",
+          "last_updated": "2020-10-14T04:51:00",
           "municipality": "Langley",
           "municipality_code": "day-1 day-3 city-1612593490",
           "start": "2020-10-13T12:49:00",
-          "status": "Crew status: Suspended"
+          "status": "Crew status: No crew assigned yet"
         },
         {
           "area": "4800 block 275 ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -502,16 +482,6 @@
           "municipality_code": "day-1 day-3 city-1612593490",
           "start": "2020-10-13T16:37:00",
           "status": "Crew status: No crew assigned yet"
-        },
-        {
-          "area": "26400 - 26500 block 100 AVE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Transformer burn out",
-          "customers_affected": "11",
-          "last_updated": "2020-10-14T04:30:00",
-          "municipality": "Maple Ridge",
-          "municipality_code": "day-1 day-3 city-598891104",
-          "start": "2020-10-13T19:28:00",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 14 5:30 a.m."
         },
         {
           "area": "9400 block 266 ST, 26500 block LOUGHEED HWY\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -814,11 +784,11 @@
           "area": "South of ALLSBROOK RD, West of PETERSON RD, North of RIVERS EDGE DR\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Tree down across our wires",
           "customers_affected": "65",
-          "last_updated": "2020-10-14T02:56:00",
+          "last_updated": "2020-10-14T04:48:00",
           "municipality": "Qualicum Beach",
           "municipality_code": "day-1 day-3 city--154309756",
           "start": "2020-10-13T13:42:00",
-          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 14 3:55 a.m."
+          "status": "Crew status: Crew on-site"
         },
         {
           "area": "1000 - 1300 block RUFFELS RD, 1100 block BELLEVUE RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -1015,7 +985,7 @@
       "region_id": "1602896846"
     },
     "South VI": {
-      "customers_affected_14d": 2176,
+      "customers_affected_14d": 2165,
       "outages": [
         {
           "area": "South of GARNETT RD, North of CHAPMAN RD, East of FISHER RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -1276,16 +1246,6 @@
           "municipality_code": "day-1 day-3 city-179964248",
           "start": "2020-10-14T01:46:00",
           "status": "Crew status: Crew assigned\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 14 4:00 a.m."
-        },
-        {
-          "area": "South of SPALDING RD, North of SOUTHLANDS DR, East of BEDWELL DR\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Wire down",
-          "customers_affected": "11",
-          "last_updated": "2020-10-14T03:54:00",
-          "municipality": "Pender Island",
-          "municipality_code": "day-1 day-3 city--635217187",
-          "start": "2020-10-13T16:41:00",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 14 5:00 a.m."
         },
         {
           "area": "1900 block KALTASIN RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -4362,7 +4322,7 @@
       "region_id": "848340027"
     },
     "Lower Mainland": {
-      "customers_affected_14d": 134626,
+      "customers_affected_14d": 134641,
       "outages": [
         {
           "area": "North of MACLURE RD, East of MT LEHMAN RD, West of Hwy 11",
@@ -4635,6 +4595,16 @@
           "start": "2020-10-07T14:49:00"
         },
         {
+          "area": "4700 block CHARLIE SPRUCE PL",
+          "cause": "Under investigation",
+          "customers_affected": "< 5",
+          "end": "",
+          "last_updated": "2020-10-14T04:47:00",
+          "municipality": "Abbotsford",
+          "municipality_code": "day-1 day-3 city-1230363016",
+          "start": "2020-10-13T19:28:00"
+        },
+        {
           "area": "31800 - 31900 block DOWNES RD",
           "cause": "Planned work being done on our equipment",
           "customers_affected": "< 5",
@@ -4653,6 +4623,26 @@
           "municipality": "Abbotsford",
           "municipality_code": "city-1230363016",
           "start": "2020-10-05T12:26:00"
+        },
+        {
+          "area": "5000 block LEFEUVRE RD",
+          "cause": "Under investigation",
+          "customers_affected": "< 5",
+          "end": "",
+          "last_updated": "2020-10-14T04:54:00",
+          "municipality": "Abbotsford",
+          "municipality_code": "day-1 day-3 city-1230363016",
+          "start": "2020-10-13T13:14:00"
+        },
+        {
+          "area": "4000 block PRAIRIE ST",
+          "cause": "Under investigation",
+          "customers_affected": "< 5",
+          "end": "",
+          "last_updated": "2020-10-14T05:01:00",
+          "municipality": "Abbotsford",
+          "municipality_code": "day-1 day-3 city-1230363016",
+          "start": "2020-10-13T20:07:00"
         },
         {
           "area": "32000 block HALLERT RD",
@@ -6853,6 +6843,16 @@
           "municipality": "Maple Ridge",
           "municipality_code": "day-1 day-3 city-598891104",
           "start": "2020-10-13T16:54:00"
+        },
+        {
+          "area": "26400 - 26500 block 100 AVE",
+          "cause": "Equipment failure",
+          "customers_affected": "11",
+          "end": "2020-10-14T05:30:00",
+          "last_updated": "2020-10-14T04:50:00",
+          "municipality": "Maple Ridge",
+          "municipality_code": "day-1 day-3 city-598891104",
+          "start": "2020-10-13T19:28:00"
         },
         {
           "area": "12200 - 12300 block 234 ST",
@@ -9239,7 +9239,7 @@
       "region_id": "521980323"
     },
     "North VI": {
-      "customers_affected_14d": 57844,
+      "customers_affected_14d": 58547,
       "outages": [
         {
           "area": "West of MILLER RD",
@@ -10612,6 +10612,16 @@
           "start": "2020-10-13T12:29:00"
         },
         {
+          "area": "West of CHALLONER RD, East of WHISTLER RD, North of ALLGARD RD",
+          "cause": "Tree down across our wires",
+          "customers_affected": "481",
+          "end": "2020-10-13T23:30:00",
+          "last_updated": "2020-10-14T05:04:00",
+          "municipality": "Qualicum Beach",
+          "municipality_code": "day-1 day-3 city--154309756",
+          "start": "2020-10-13T21:26:00"
+        },
+        {
           "area": "South of BELLEVUE RD",
           "cause": "Tree down across our wires",
           "customers_affected": "404",
@@ -10620,6 +10630,16 @@
           "municipality": "Qualicum Beach",
           "municipality_code": "day-1 day-3 city--154309756",
           "start": "2020-10-13T18:34:00"
+        },
+        {
+          "area": "West of HILLIERS RD, East of QUICKSILVER RD, North of ALBERNI HWY, South of KAPLAR RD",
+          "cause": "Tree down across our wires",
+          "customers_affected": "222",
+          "end": "",
+          "last_updated": "2020-10-14T05:03:00",
+          "municipality": "Qualicum Beach",
+          "municipality_code": "day-1 day-3 city--154309756",
+          "start": "2020-10-13T12:11:00"
         },
         {
           "area": "East of NW BAY LOG RD, South-West of ISLAND HWY",
@@ -12400,7 +12420,7 @@
       "region_id": "2072041405"
     },
     "South VI": {
-      "customers_affected_14d": 54083,
+      "customers_affected_14d": 54172,
       "outages": [
         {
           "area": "North of CHURCH RD, West of STAUTW RD, East of TETAYUT RD, South of MT NEWTON XRD",
@@ -13861,6 +13881,16 @@
           "municipality": "Pender Island",
           "municipality_code": "day-1 day-3 city--635217187",
           "start": "2020-10-12T01:39:00"
+        },
+        {
+          "area": "East of PLUMPER WAY, South of SPALDING RD",
+          "cause": "Tree down across our wires",
+          "customers_affected": "89",
+          "end": "2020-10-14T05:00:00",
+          "last_updated": "2020-10-14T04:57:00",
+          "municipality": "Pender Island",
+          "municipality_code": "day-1 day-3 city--635217187",
+          "start": "2020-10-13T16:41:00"
         },
         {
           "area": "South of NICHOLSON ST, East of MCLELLAN ST, West of CUMBERLAND RD, North of BRETT AVE",
