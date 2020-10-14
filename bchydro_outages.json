@@ -1,7 +1,7 @@
 {
   "current": {
     "Lower Mainland": {
-      "customers_affected_14d": 3431,
+      "customers_affected_14d": 3381,
       "outages": [
         {
           "area": "36400 - 36500 block DAWSON RD, 4900 - 5000 block MATHERS WAY\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -167,11 +167,11 @@
           "area": "East-West of CHILLIWACK LAKE RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Wire down",
           "customers_affected": "824",
-          "last_updated": "2020-10-14T01:09:00",
+          "last_updated": "2020-10-14T02:30:00",
           "municipality": "Chilliwack",
           "municipality_code": "day-1 day-3 city--708005353",
           "start": "2020-10-13T11:12:00",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 14 2:00 a.m."
+          "status": "Crew status: Suspended\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 14 2:35 a.m."
         },
         {
           "area": "North of EDWARDS RD, East of PRIVATE RD , West of FARNHAM RD, South of CHURCHILL PKY\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -434,24 +434,14 @@
           "status": "Crew status: Crew assigned"
         },
         {
-          "area": "West of 264TH ST, South of 12TH AVE, East of 256TH ST, North of 10TH AVE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Wind storm",
-          "customers_affected": "16",
-          "last_updated": "2020-10-14T01:43:00",
-          "municipality": "Langley",
-          "municipality_code": "day-1 day-3 city-1612593490",
-          "start": "2020-10-13T12:22:00",
-          "status": "Crew status: Crew assigned"
-        },
-        {
           "area": "6000 - 6100 block 256 ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Wind storm",
           "customers_affected": "11",
-          "last_updated": "2020-10-14T00:45:00",
+          "last_updated": "2020-10-14T02:32:00",
           "municipality": "Langley",
           "municipality_code": "day-1 day-3 city-1612593490",
           "start": "2020-10-13T13:50:00",
-          "status": "Crew status: No crew assigned yet"
+          "status": "Crew status: Crew assigned"
         },
         {
           "area": "6300 block 264 ST, 26300 block 64 AVE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -497,11 +487,11 @@
           "area": "25200 block 56 AVE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Tree down across our wires",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-14T01:11:00",
+          "last_updated": "2020-10-14T02:31:00",
           "municipality": "Langley",
           "municipality_code": "day-1 day-3 city-1612593490",
           "start": "2020-10-13T13:55:00",
-          "status": "Crew status: No crew assigned yet"
+          "status": "Crew status: Crew assigned"
         },
         {
           "area": "4800 block 275 ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -544,20 +534,10 @@
           "status": "Crew status: No crew assigned yet"
         },
         {
-          "area": "East of 256TH ST, South of 104TH AVE, West of 262ND ST, North of 100TH AVE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Tree down across our wires",
-          "customers_affected": "33",
-          "last_updated": "2020-10-13T23:07:00",
-          "municipality": "Maple Ridge",
-          "municipality_code": "day-1 day-3 city-598891104",
-          "start": "2020-10-13T18:34:00",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 14 4:00 a.m."
-        },
-        {
           "area": "26500 block 100 AVE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Transformer burn out",
           "customers_affected": "8",
-          "last_updated": "2020-10-14T01:59:00",
+          "last_updated": "2020-10-14T02:28:00",
           "municipality": "Maple Ridge",
           "municipality_code": "day-1 day-3 city-598891104",
           "start": "2020-10-13T19:28:00",
@@ -567,21 +547,11 @@
           "area": "9400 block 266 ST, 26500 block LOUGHEED HWY\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Tree down across our wires",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-13T23:07:00",
+          "last_updated": "2020-10-14T02:34:00",
           "municipality": "Maple Ridge",
           "municipality_code": "day-1 day-3 city-598891104",
           "start": "2020-10-13T18:15:00",
-          "status": "Crew status: Crew assigned\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 14 5:00 a.m."
-        },
-        {
-          "area": "9400 block 263 ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Under investigation",
-          "customers_affected": "< 5",
-          "last_updated": "2020-10-14T02:14:00",
-          "municipality": "Maple Ridge",
-          "municipality_code": "day-1 day-3 city-598891104",
-          "start": "2020-10-13T17:42:00",
-          "status": "Crew status: Crew on-site"
+          "status": "Crew status: Crew assigned"
         },
         {
           "area": "South of SCHOOL AVE, North of FOULDS ST, East of MANZER ST, West of KEYSTONE AVE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -1135,7 +1105,7 @@
       "region_id": "1602896846"
     },
     "South VI": {
-      "customers_affected_14d": 2323,
+      "customers_affected_14d": 2307,
       "outages": [
         {
           "area": "South of GARNETT RD, North of CHAPMAN RD, East of FISHER RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -1318,16 +1288,6 @@
           "status": "Crew status: Crew assigned"
         },
         {
-          "area": "1100 block FINLAYSON ARM RD, 1700 block FALCON HTS RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Tree down across our wires",
-          "customers_affected": "16",
-          "last_updated": "2020-10-14T02:18:00",
-          "municipality": "Langford",
-          "municipality_code": "day-1 day-3 city--1549378615",
-          "start": "2020-10-13T23:22:00",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 14 3:00 a.m."
-        },
-        {
           "area": "East of MT SICKER RD, North of WESTHOLME RD, South of HASTINGS RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Tree down across our wires",
           "customers_affected": "263",
@@ -1441,21 +1401,21 @@
           "area": "2400 block STAPLER RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-14T01:22:00",
+          "last_updated": "2020-10-14T02:27:00",
           "municipality": "Victoria",
           "municipality_code": "day-1 day-3 city-1201273535",
           "start": "2020-10-13T20:06:00",
-          "status": "Crew status: Suspended"
+          "status": "Crew status: Crew assigned\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 14 9:00 a.m."
         },
         {
           "area": "VALENTINE RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-13T23:48:00",
+          "last_updated": "2020-10-14T02:27:00",
           "municipality": "Victoria",
           "municipality_code": "day-1 day-3 city-1201273535",
           "start": "2020-10-13T23:44:00",
-          "status": "Crew status: No crew assigned yet"
+          "status": "Crew status: Crew assigned\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 14 10:00 a.m."
         }
       ],
       "region_code": "South VI",
@@ -4502,7 +4462,7 @@
       "region_id": "848340027"
     },
     "Lower Mainland": {
-      "customers_affected_14d": 133821,
+      "customers_affected_14d": 133871,
       "outages": [
         {
           "area": "North of MACLURE RD, East of MT LEHMAN RD, West of Hwy 11",
@@ -6385,6 +6345,16 @@
           "start": "2020-10-07T08:26:00"
         },
         {
+          "area": "West of 264TH ST, South of 12TH AVE, East of 256TH ST, North of 10TH AVE",
+          "cause": "Tree down across our wires",
+          "customers_affected": "16",
+          "end": "",
+          "last_updated": "2020-10-14T02:28:00",
+          "municipality": "Langley",
+          "municipality_code": "day-1 day-3 city-1612593490",
+          "start": "2020-10-13T12:22:00"
+        },
+        {
           "area": "East of 248TH ST, North of 20TH AVE, West of 252ND ST, South of 24TH AVE",
           "cause": "Tree down across our wires",
           "customers_affected": "16",
@@ -6915,6 +6885,16 @@
           "start": "2020-10-13T17:41:00"
         },
         {
+          "area": "East of 256TH ST, South of 104TH AVE, West of 262ND ST, North of 100TH AVE",
+          "cause": "Tree down across our wires",
+          "customers_affected": "33",
+          "end": "2020-10-14T03:00:00",
+          "last_updated": "2020-10-14T02:36:00",
+          "municipality": "Maple Ridge",
+          "municipality_code": "day-1 day-3 city-598891104",
+          "start": "2020-10-13T18:34:00"
+        },
+        {
           "area": "24800 - 25500 block 102 AVE, 25400 block 102ND AVE",
           "cause": "Tree down across our wires",
           "customers_affected": "23",
@@ -7083,6 +7063,16 @@
           "municipality": "Maple Ridge",
           "municipality_code": "day-1 day-3 city-598891104",
           "start": "2020-10-13T20:02:00"
+        },
+        {
+          "area": "9400 block 263 ST",
+          "cause": "Under investigation",
+          "customers_affected": "< 5",
+          "end": "",
+          "last_updated": "2020-10-14T02:34:00",
+          "municipality": "Maple Ridge",
+          "municipality_code": "day-1 day-3 city-598891104",
+          "start": "2020-10-13T17:42:00"
         },
         {
           "area": "GOLDEN EARS PARK",
@@ -12290,7 +12280,7 @@
           "cause": "Tree down across our wires",
           "customers_affected": "< 5",
           "end": "2020-10-14T02:30:00",
-          "last_updated": "2020-10-14T02:23:00",
+          "last_updated": "2020-10-14T02:31:00",
           "municipality": "Vernon",
           "municipality_code": "day-1 day-3 city--1736079254",
           "start": "2020-10-13T20:48:00"
@@ -12410,7 +12400,7 @@
       "region_id": "2072041405"
     },
     "South VI": {
-      "customers_affected_14d": 54014,
+      "customers_affected_14d": 54030,
       "outages": [
         {
           "area": "North of CHURCH RD, West of STAUTW RD, East of TETAYUT RD, South of MT NEWTON XRD",
@@ -13391,6 +13381,16 @@
           "municipality": "Langford",
           "municipality_code": "city--1549378615",
           "start": "2020-10-08T14:31:00"
+        },
+        {
+          "area": "1100 block FINLAYSON ARM RD, 1700 block FALCON HTS RD",
+          "cause": "Tree down across our wires",
+          "customers_affected": "16",
+          "end": "2020-10-14T03:00:00",
+          "last_updated": "2020-10-14T02:34:00",
+          "municipality": "Langford",
+          "municipality_code": "day-1 day-3 city--1549378615",
+          "start": "2020-10-13T23:22:00"
         },
         {
           "area": "2600 block WENTWICH RD, 2600 block JODRELL CRT",
@@ -14586,7 +14586,7 @@
           "end": "2020-10-12T03:00:00",
           "last_updated": "2020-10-13T13:39:00",
           "municipality": "100 Mile House",
-          "municipality_code": "day-1 day-3 city-950857956",
+          "municipality_code": "day-3 city-950857956",
           "start": "2020-10-11T23:40:00"
         },
         {
