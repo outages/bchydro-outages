@@ -64,7 +64,7 @@
           "area": "0 block LANDSEND RD, 200 - 2300 block MITCHELL BAY, 0 block HAMILL RD, 0 block LANDS END RD, OLD GREEN SCHOOLHOUSE, 100 - 300 block MITCHELL BAY RD, DONEGAL HEAD, SVC FRM 381480 2819\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "45",
-          "last_updated": "2020-10-15T03:52:00",
+          "last_updated": "2020-10-15T05:06:00",
           "municipality": "Port Hardy",
           "municipality_code": "day-1 day-3 city-368562319",
           "start": "2020-10-15T02:27:00",
@@ -83,23 +83,6 @@
       ],
       "region_code": "North VI",
       "region_id": "1602896846"
-    },
-    "Northern": {
-      "customers_affected_14d": 49,
-      "outages": [
-        {
-          "area": "South of HWY 16\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Wire down",
-          "customers_affected": "49",
-          "last_updated": "2020-10-15T01:33:00",
-          "municipality": "Vanderhoof",
-          "municipality_code": "day-1 day-3 city-1041981516",
-          "start": "2020-10-14T23:22:00",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 15 5:00 a.m."
-        }
-      ],
-      "region_code": "Northern",
-      "region_id": "1602964060"
     },
     "Thompson/Shuswap": {
       "customers_affected_14d": 13,
@@ -11373,7 +11356,7 @@
       "region_id": "1602896846"
     },
     "Northern": {
-      "customers_affected_14d": 11603,
+      "customers_affected_14d": 11652,
       "outages": [
         {
           "area": "North-South-East-West of HWY 20",
@@ -12214,6 +12197,16 @@
           "municipality": "Vanderhoof",
           "municipality_code": "city-1041981516",
           "start": "2020-10-09T04:36:00"
+        },
+        {
+          "area": "South of HWY 16",
+          "cause": "Wire down",
+          "customers_affected": "49",
+          "end": "2020-10-15T05:00:00",
+          "last_updated": "2020-10-15T04:47:00",
+          "municipality": "Vanderhoof",
+          "municipality_code": "day-1 day-3 city-1041981516",
+          "start": "2020-10-14T23:22:00"
         },
         {
           "area": "South of HWY 16",
