@@ -205,7 +205,7 @@
       "region_id": "1602896846"
     },
     "Northern": {
-      "customers_affected_14d": 87,
+      "customers_affected_14d": 14,
       "outages": [
         {
           "area": "5100 block 230 RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -226,16 +226,6 @@
           "municipality_code": "day-1 day-3 city-205572915",
           "start": "2020-10-15T08:11:00",
           "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 15 5:00 p.m."
-        },
-        {
-          "area": "North-East of WALCOTT RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Work being done on our equipment",
-          "customers_affected": "73",
-          "last_updated": "2020-10-15T10:25:00",
-          "municipality": "Smithers",
-          "municipality_code": "day-1 day-3 city--305588573",
-          "start": "2020-10-15T10:15:00",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 15 11:00 a.m."
         }
       ],
       "region_code": "Northern",
@@ -316,18 +306,8 @@
       "region_id": "1812901382"
     },
     "Thompson/Shuswap": {
-      "customers_affected_14d": 12,
+      "customers_affected_14d": 10,
       "outages": [
-        {
-          "area": "100 block SHUSWAP AVE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Planned work being done on our equipment",
-          "customers_affected": "< 5",
-          "last_updated": "2020-10-15T08:46:00",
-          "municipality": "Chase",
-          "municipality_code": "day-1 day-3 city-65071054",
-          "start": "2020-10-15T08:37:00",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 15 11:30 a.m."
-        },
         {
           "area": "North-East of RAFT RIVER RD, South-West of HWY 5\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Planned work being done on our equipment",
@@ -2530,7 +2510,7 @@
       "region_id": "2072041405"
     },
     "South VI": {
-      "customers_affected_14d": 2253,
+      "customers_affected_14d": 2174,
       "outages": [
         {
           "area": "1746 Verling Ave; 1763 Sean Hts, Saanichton",
@@ -2551,16 +2531,6 @@
           "municipality": "Duncan",
           "municipality_code": "day-1 day-3 city-2058209491",
           "start": "2020-10-14T11:00:00"
-        },
-        {
-          "area": "8790 - 9122 Cranko Rd; 2852 - 2984 Holman Rd; 2870 - 3720 Mt Sicker Rd; 8601 - 8660 Sweeney Rd, CHEMAINUS",
-          "cause": "Planned work being done on our equipment",
-          "customers_affected": "79",
-          "end": "2020-10-13T10:30:00",
-          "last_updated": "2020-09-25T17:56:00",
-          "municipality": "Duncan",
-          "municipality_code": "day-1 day-3 city-2058209491",
-          "start": "2020-10-13T08:30:00"
         },
         {
           "area": "4741 Koksilah Rd; 4705-4798 Fairbridge Dr, Duncan",
@@ -3813,7 +3783,7 @@
       "region_id": "848340027"
     },
     "Lower Mainland": {
-      "customers_affected_14d": 140707,
+      "customers_affected_14d": 140719,
       "outages": [
         {
           "area": "North of MACLURE RD, East of MT LEHMAN RD, West of Hwy 11",
@@ -9186,6 +9156,16 @@
           "start": "2020-10-05T08:44:00"
         },
         {
+          "area": "West of BLENHEIM ST, South of 27TH AVE, East of COLLINGWOOD ST, North of 28TH AVE",
+          "cause": "Other",
+          "customers_affected": "12",
+          "end": "2020-10-15T10:00:00",
+          "last_updated": "2020-10-15T10:31:00",
+          "municipality": "Vancouver",
+          "municipality_code": "day-1 day-3 city--1786794435",
+          "start": "2020-10-15T08:08:00"
+        },
+        {
           "area": "4300 block DUNBAR ST, 3600 block W 27TH AVE",
           "cause": "Tree down across our wires",
           "customers_affected": "10",
@@ -11717,7 +11697,7 @@
       "region_id": "1602896846"
     },
     "Northern": {
-      "customers_affected_14d": 11904,
+      "customers_affected_14d": 11977,
       "outages": [
         {
           "area": "North-South-East-West of HWY 20",
@@ -12458,6 +12438,16 @@
           "municipality": "Smithers",
           "municipality_code": "city--305588573",
           "start": "2020-10-09T13:00:00"
+        },
+        {
+          "area": "North-East of WALCOTT RD",
+          "cause": "Work being done on our equipment",
+          "customers_affected": "73",
+          "end": "2020-10-15T11:00:00",
+          "last_updated": "2020-10-15T10:30:00",
+          "municipality": "Smithers",
+          "municipality_code": "day-1 day-3 city--305588573",
+          "start": "2020-10-15T10:15:00"
         },
         {
           "area": "East of HUDSON BAY MOUNTAIN RD, West of TATLOW RD",
@@ -13468,7 +13458,7 @@
           "cause": "Tree down across our wires",
           "customers_affected": "891",
           "end": "2020-10-13T18:37:00",
-          "last_updated": "2020-10-13T19:27:00",
+          "last_updated": "2020-10-15T10:29:00",
           "municipality": "Duncan",
           "municipality_code": "day-1 day-3 city-2058209491",
           "start": "2020-10-13T10:11:00"
@@ -15728,7 +15718,7 @@
       "region_id": "1812901382"
     },
     "Thompson/Shuswap": {
-      "customers_affected_14d": 15452,
+      "customers_affected_14d": 15454,
       "outages": [
         {
           "area": "East of WILCOX RD, North of TRIP RD",
@@ -16029,6 +16019,16 @@
           "municipality": "Chase",
           "municipality_code": "day-1 day-3 city-65071054",
           "start": "2020-10-14T13:37:00"
+        },
+        {
+          "area": "100 block SHUSWAP AVE",
+          "cause": "Planned work being done on our equipment",
+          "customers_affected": "< 5",
+          "end": "2020-10-15T11:30:00",
+          "last_updated": "2020-10-15T10:27:00",
+          "municipality": "Chase",
+          "municipality_code": "day-1 day-3 city-65071054",
+          "start": "2020-10-15T08:37:00"
         },
         {
           "area": "200 block SHUSWAP AVE",
