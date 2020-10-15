@@ -7,7 +7,7 @@
           "area": "ANAHAM RES GAS BAR\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Motor vehicle accident",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-15T12:55:00",
+          "last_updated": "2020-10-15T14:51:00",
           "municipality": "Williams Lake",
           "municipality_code": "day-1 day-3 city--1905642465",
           "start": "2020-10-15T12:36:00",
@@ -18,7 +18,7 @@
       "region_id": "848340027"
     },
     "Lower Mainland": {
-      "customers_affected_14d": 139,
+      "customers_affected_14d": 143,
       "outages": [
         {
           "area": "4800 block BESSBOROUGH DR, 4800 block ETON ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -34,7 +34,7 @@
           "area": "South-East of COLUMBIA VALLEY RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Tree down across our wires",
           "customers_affected": "5",
-          "last_updated": "2020-10-15T13:41:00",
+          "last_updated": "2020-10-15T14:56:00",
           "municipality": "Chilliwack",
           "municipality_code": "day-1 day-3 city--708005353",
           "start": "2020-10-14T09:12:00",
@@ -44,7 +44,7 @@
           "area": "40800 block CARTER RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Wire down",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-15T14:32:00",
+          "last_updated": "2020-10-15T14:56:00",
           "municipality": "Mission",
           "municipality_code": "day-1 day-3 city--1560864404",
           "start": "2020-10-13T15:39:00",
@@ -54,21 +54,31 @@
           "area": "18800 - 18900 block 119B AVE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Planned work being done on our equipment",
           "customers_affected": "20",
-          "last_updated": "2020-10-15T13:55:00",
+          "last_updated": "2020-10-15T14:57:00",
           "municipality": "Pitt Meadows",
           "municipality_code": "day-1 day-3 city--253788407",
           "start": "2020-10-15T08:35:00",
           "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 15 5:30 p.m."
         },
         {
+          "area": "2000 block LANG BAY RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Under investigation",
+          "customers_affected": "< 5",
+          "last_updated": "2020-10-15T14:55:00",
+          "municipality": "Powell River",
+          "municipality_code": "day-1 day-3 city-1665178489",
+          "start": "2020-10-15T14:46:00",
+          "status": "Crew status: Crew assigned"
+        },
+        {
           "area": "5000 block 160 ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-15T14:39:00",
+          "last_updated": "2020-10-15T14:57:00",
           "municipality": "Surrey",
           "municipality_code": "day-1 day-3 city--1807186826",
           "start": "2020-10-15T14:36:00",
-          "status": "Crew status: Crew assigned"
+          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 15 3:50 p.m."
         },
         {
           "area": "400 block W 23RD AVE, 4000 block CAMBIE ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -138,6 +148,23 @@
       "region_code": "Northern",
       "region_id": "1602964060"
     },
+    "Okanagan/Kootenay": {
+      "customers_affected_14d": 12,
+      "outages": [
+        {
+          "area": "1300 - 1400 block STODDART AVE, 1400 block STODDART BLV\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Under investigation",
+          "customers_affected": "12",
+          "last_updated": "2020-10-15T15:06:00",
+          "municipality": "Invermere",
+          "municipality_code": "day-1 day-3 city--13155575",
+          "start": "2020-10-15T14:59:00",
+          "status": "Crew status: Crew assigned"
+        }
+      ],
+      "region_code": "Okanagan/Kootenay",
+      "region_id": "2072041405"
+    },
     "South VI": {
       "customers_affected_14d": -1,
       "outages": [
@@ -166,8 +193,18 @@
       "region_id": "1812901382"
     },
     "Thompson/Shuswap": {
-      "customers_affected_14d": 6,
+      "customers_affected_14d": 29,
       "outages": [
+        {
+          "area": "East of COLLINS RD, North of TRANS CANADA HWY, South of OLD CARIBOO RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Pole replacement",
+          "customers_affected": "23",
+          "last_updated": "2020-10-15T14:47:00",
+          "municipality": "Cache Creek",
+          "municipality_code": "day-1 day-3 city-720749214",
+          "start": "2020-10-15T13:18:00",
+          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 15 5:00 p.m."
+        },
         {
           "area": "1500 - 1600 block ABITIBI AVE, 2400 block OMINECA DR\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Planned work being done on our equipment",
@@ -222,7 +259,7 @@
       "region_id": "848340027"
     },
     "Lower Mainland": {
-      "customers_affected_14d": 7290,
+      "customers_affected_14d": 7286,
       "outages": [
         {
           "area": "1944, 1954, 1966, 1976 Albion St; 32666-32749 Cordova Ave; 325, 32760 Marshall Rd, 32414-32750 Pandora Ave; 1911-1944 Valencia Crt, Abbotsford",
@@ -1425,16 +1462,6 @@
           "start": "2020-10-13T09:00:00"
         },
         {
-          "area": "15582,15586, 15590, 15596 34th Ave\r\nSurrey",
-          "cause": "Planned work being done on our equipment",
-          "customers_affected": "< 5",
-          "end": "2020-10-13T15:00:00",
-          "last_updated": "2020-09-30T11:36:00",
-          "municipality": "Surrey",
-          "municipality_code": "day-1 day-3 city--1807186826",
-          "start": "2020-10-13T09:00:00"
-        },
-        {
           "area": "6140, 6156, 6172, 6180 188 St.",
           "cause": "Planned work being done on our equipment",
           "customers_affected": "< 5",
@@ -1739,7 +1766,7 @@
       "region_id": "521980323"
     },
     "North VI": {
-      "customers_affected_14d": 645,
+      "customers_affected_14d": 618,
       "outages": [
         {
           "area": "**CANCELLLED** - to be rescheduled5300 - 6200 Race Point Rd; Lt15, Lt19, L20 Race Point Rd; 5502 - 5582 Raceway Rd",
@@ -1760,16 +1787,6 @@
           "municipality": "Campbell River",
           "municipality_code": "day-1 day-3 city-1240464880",
           "start": "2020-10-14T08:30:00"
-        },
-        {
-          "area": "***EMERGENT***124 Bathurst Rd., 92,97,105,110,115\r\n120,127,132,141,144,153,156,165,168\r\n177,180,191,194,207,208 Mclean St., 194 Thulin St  Campbell River",
-          "cause": "Planned work being done on our equipment",
-          "customers_affected": "23",
-          "end": "2020-10-13T15:00:00",
-          "last_updated": "2020-09-28T13:20:00",
-          "municipality": "Campbell River",
-          "municipality_code": "day-1 day-3 city-1240464880",
-          "start": "2020-10-13T09:30:00"
         },
         {
           "area": "Outage location is on Quadra Island1527,1528,1530 Antler Rd; 714 Cramer Rd; 725 Esplanade Rd, Quadra Island",
@@ -1860,16 +1877,6 @@
           "municipality": "Gold River",
           "municipality_code": "day-1 day-3 city--1035423156",
           "start": "2020-10-21T10:00:00"
-        },
-        {
-          "area": "** CANCELLED **179,180,184,185 Black Powder Trail\r\nNanaimo",
-          "cause": "Planned work being done on our equipment",
-          "customers_affected": "< 5",
-          "end": "2020-10-13T15:00:00",
-          "last_updated": "2020-10-13T08:01:00",
-          "municipality": "Nanaimo",
-          "municipality_code": "day-1 day-3 city--907547835",
-          "start": "2020-10-13T09:30:00"
         },
         {
           "area": "** Outage is not Cancelled **3514-3586 10th Ave; 3870-3996 3rd Ave; 3836-3998 4th Ave; 3627-3995 5th Ave; 3513-3988 6th Ave; 3512-3588 7th Ave; 3521-3581 8th Ave; 3517-3591 9th Ave; 4306-4804 Burde St; 4710-4805 Bute St; 4710-4974 Maitland St; 4714-4987 Morton St; 4311-4741 North Park Dr; 4701-4975 Reford St",
@@ -3037,7 +3044,7 @@
       "region_id": "1812901382"
     },
     "Thompson/Shuswap": {
-      "customers_affected_14d": 4131,
+      "customers_affected_14d": 4130,
       "outages": [
         {
           "area": "160 - 330 Birch Ave; 175, 255, 315 Hwy 97",
@@ -3118,16 +3125,6 @@
           "municipality": "Kamloops",
           "municipality_code": "day-1 day-3 city-979034872",
           "start": "2020-10-20T09:30:00"
-        },
-        {
-          "area": "1250 W. Trans Canada HWY",
-          "cause": "Planned work being done on our equipment",
-          "customers_affected": "< 5",
-          "end": "2020-10-13T15:00:00",
-          "last_updated": "2020-09-25T08:13:00",
-          "municipality": "Kamloops",
-          "municipality_code": "day-1 day-3 city-979034872",
-          "start": "2020-10-13T09:00:00"
         },
         {
           "area": "SETON PORTAGE and SHALALTH AREAS - 2nd of 2 Short Duration OutagesSeton Portage and Shalalth Area",
@@ -6022,7 +6019,7 @@
           "end": "",
           "last_updated": "2020-10-14T11:39:00",
           "municipality": "Langley",
-          "municipality_code": "day-1 day-3 city-1612593490",
+          "municipality_code": "day-3 city-1612593490",
           "start": "2020-10-13T12:28:00"
         },
         {
@@ -6862,7 +6859,7 @@
           "end": "2020-10-13T15:30:00",
           "last_updated": "2020-10-13T15:36:00",
           "municipality": "Maple Ridge",
-          "municipality_code": "day-1 day-3 city-598891104",
+          "municipality_code": "day-3 city-598891104",
           "start": "2020-10-13T12:33:00"
         },
         {
@@ -7142,7 +7139,7 @@
           "end": "2020-10-13T15:00:00",
           "last_updated": "2020-10-13T15:36:00",
           "municipality": "Maple Ridge, Pitt Meadows",
-          "municipality_code": "day-1 day-3 city-598891104 city--253788407",
+          "municipality_code": "day-3 city-598891104 city--253788407",
           "start": "2020-10-13T12:23:00"
         },
         {
@@ -9162,7 +9159,7 @@
           "end": "2020-10-13T15:00:00",
           "last_updated": "2020-10-14T10:07:00",
           "municipality": "Vancouver",
-          "municipality_code": "day-1 day-3 city--1786794435",
+          "municipality_code": "day-3 city--1786794435",
           "start": "2020-10-13T12:16:00"
         },
         {
@@ -10359,7 +10356,7 @@
           "end": "2020-10-13T14:45:00",
           "last_updated": "2020-10-15T07:27:00",
           "municipality": "Nanaimo",
-          "municipality_code": "day-1 day-3 city--907547835",
+          "municipality_code": "day-3 city--907547835",
           "start": "2020-10-13T04:11:00"
         },
         {
@@ -10919,7 +10916,7 @@
           "end": "",
           "last_updated": "2020-10-13T15:00:00",
           "municipality": "Parksville, Qualicum Beach",
-          "municipality_code": "day-1 day-3 city--1370510519 city--154309756",
+          "municipality_code": "day-3 city--1370510519 city--154309756",
           "start": "2020-10-13T13:17:00"
         },
         {
@@ -13423,7 +13420,7 @@
           "end": "",
           "last_updated": "2020-10-14T14:18:00",
           "municipality": "West Kelowna",
-          "municipality_code": "day-1 day-3 city-1974628732",
+          "municipality_code": "day-3 city-1974628732",
           "start": "2020-10-13T12:38:00"
         },
         {
@@ -14230,7 +14227,7 @@
           "end": "",
           "last_updated": "2020-10-15T10:42:00",
           "municipality": "Ganges",
-          "municipality_code": "day-1 day-3 city-2125630497",
+          "municipality_code": "day-3 city-2125630497",
           "start": "2020-10-13T11:23:00"
         },
         {
