@@ -1,7 +1,7 @@
 {
   "current": {
     "Lower Mainland": {
-      "customers_affected_14d": 101,
+      "customers_affected_14d": 83,
       "outages": [
         {
           "area": "30200 block NICHOLSON AVE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -12,16 +12,6 @@
           "municipality_code": "day-1 day-3 city-1230363016",
           "start": "2020-10-14T17:18:00",
           "status": "Crew status: Crew on their way"
-        },
-        {
-          "area": "10400 - 10700 block MCGRATH RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Wire down",
-          "customers_affected": "18",
-          "last_updated": "2020-10-14T17:21:00",
-          "municipality": "Chilliwack",
-          "municipality_code": "day-1 day-3 city--708005353",
-          "start": "2020-10-13T12:46:00",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 14 8:00 p.m."
         },
         {
           "area": "South-East of COLUMBIA VALLEY RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -47,11 +37,11 @@
           "area": "40800 - 41400 block TAYLOR RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Tree down across our wires",
           "customers_affected": "14",
-          "last_updated": "2020-10-14T15:16:00",
+          "last_updated": "2020-10-14T19:49:00",
           "municipality": "Mission",
           "municipality_code": "day-1 day-3 city--1560864404",
           "start": "2020-10-13T17:52:00",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 14 7:00 p.m."
+          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 14 11:00 p.m."
         },
         {
           "area": "40700 - 40800 block TAYLOR RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -151,11 +141,11 @@
           "area": "WOLVERINE FSR KM 18, MINE SITE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-14T19:11:00",
+          "last_updated": "2020-10-14T19:59:00",
           "municipality": "Tumbler Ridge",
           "municipality_code": "day-1 day-3 city-53995150",
           "start": "2020-10-14T17:55:00",
-          "status": "Crew status: Crew assigned"
+          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 14 9:30 p.m."
         }
       ],
       "region_code": "Northern",
@@ -168,7 +158,7 @@
           "area": "200 block BECHER BAY RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Wire down",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-14T19:46:00",
+          "last_updated": "2020-10-14T19:54:00",
           "municipality": "Victoria",
           "municipality_code": "day-1 day-3 city-1201273535",
           "start": "2020-10-14T18:54:00",
@@ -3539,7 +3529,7 @@
       "region_id": "848340027"
     },
     "Lower Mainland": {
-      "customers_affected_14d": 141172,
+      "customers_affected_14d": 141546,
       "outages": [
         {
           "area": "North of MACLURE RD, East of MT LEHMAN RD, West of Hwy 11",
@@ -4590,6 +4580,16 @@
           "municipality": "Chilliwack",
           "municipality_code": "city--708005353",
           "start": "2020-10-10T09:34:00"
+        },
+        {
+          "area": "10400 - 10700 block MCGRATH RD",
+          "cause": "Wire down",
+          "customers_affected": "374",
+          "end": "2020-10-14T20:00:00",
+          "last_updated": "2020-10-14T19:57:00",
+          "municipality": "Chilliwack",
+          "municipality_code": "day-1 day-3 city--708005353",
+          "start": "2020-10-13T12:46:00"
         },
         {
           "area": "East of LAKESHORE DR, South-West of COLUMBIA VALLEY RD",
@@ -6363,10 +6363,10 @@
         },
         {
           "area": "25400 block FRASER HWY",
-          "cause": "Under investigation",
+          "cause": "Tree down across our wires",
           "customers_affected": "< 5",
           "end": "2020-10-14T19:56:00",
-          "last_updated": "2020-10-14T19:42:00",
+          "last_updated": "2020-10-14T19:53:00",
           "municipality": "Langley",
           "municipality_code": "day-1 day-3 city-1612593490",
           "start": "2020-10-14T17:56:00"
@@ -6526,7 +6526,7 @@
           "cause": "Tree down across our wires",
           "customers_affected": "< 5",
           "end": "",
-          "last_updated": "2020-10-14T10:50:00",
+          "last_updated": "2020-10-14T19:48:00",
           "municipality": "Langley",
           "municipality_code": "day-1 day-3 city-1612593490",
           "start": "2020-10-14T08:53:00"
@@ -8006,7 +8006,7 @@
           "cause": "Other",
           "customers_affected": "< 5",
           "end": "2020-10-14T13:51:00",
-          "last_updated": "2020-10-14T14:14:00",
+          "last_updated": "2020-10-14T19:47:00",
           "municipality": "Richmond",
           "municipality_code": "day-1 day-3 city--1486145068",
           "start": "2020-10-14T07:55:00"
@@ -8316,7 +8316,7 @@
           "cause": "Equipment failure",
           "customers_affected": "294",
           "end": "2020-10-14T16:00:00",
-          "last_updated": "2020-10-14T15:31:00",
+          "last_updated": "2020-10-14T19:48:00",
           "municipality": "Surrey",
           "municipality_code": "day-1 day-3 city--1807186826",
           "start": "2020-10-14T08:19:00"
@@ -8736,7 +8736,7 @@
           "cause": "Equipment failure",
           "customers_affected": "< 5",
           "end": "",
-          "last_updated": "2020-10-14T15:34:00",
+          "last_updated": "2020-10-14T19:47:00",
           "municipality": "Surrey",
           "municipality_code": "day-1 day-3 city--1807186826",
           "start": "2020-10-14T06:39:00"
@@ -10945,7 +10945,7 @@
           "end": "",
           "last_updated": "2020-10-13T08:52:00",
           "municipality": "Port Alice",
-          "municipality_code": "day-3 city-362416673",
+          "municipality_code": "city-362416673",
           "start": "2020-10-10T08:27:00"
         },
         {
