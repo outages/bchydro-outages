@@ -1,7 +1,7 @@
 {
   "current": {
     "Lower Mainland": {
-      "customers_affected_14d": 1649,
+      "customers_affected_14d": 1821,
       "outages": [
         {
           "area": "South-East of COLUMBIA VALLEY RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -21,6 +21,16 @@
           "municipality": "Chilliwack",
           "municipality_code": "day-1 day-3 city--708005353",
           "start": "2020-10-15T08:11:00",
+          "status": "Crew status: Crew assigned"
+        },
+        {
+          "area": "West of 5TH AVE, North of OLD HOPE PRINCETON HWY, South of 4TH AVE, East of 3RD AVE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Under investigation",
+          "customers_affected": "13",
+          "last_updated": "2020-10-15T09:50:00",
+          "municipality": "Hope",
+          "municipality_code": "day-1 day-3 city-2255196",
+          "start": "2020-10-15T09:47:00",
           "status": "Crew status: Crew assigned"
         },
         {
@@ -104,6 +114,36 @@
           "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 15 2:00 p.m."
         },
         {
+          "area": "West of 194TH ST, South of 25TH AVE, East of 190TH ST, North of 20TH AVE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Under investigation",
+          "customers_affected": "138",
+          "last_updated": "2020-10-15T09:42:00",
+          "municipality": "Surrey",
+          "municipality_code": "day-1 day-3 city--1807186826",
+          "start": "2020-10-15T09:25:00",
+          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 15 10:00 a.m."
+        },
+        {
+          "area": "6000 block E GREENSIDE DR\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Planned work being done on our equipment",
+          "customers_affected": "8",
+          "last_updated": "2020-10-15T09:45:00",
+          "municipality": "Surrey",
+          "municipality_code": "day-1 day-3 city--1807186826",
+          "start": "2020-10-15T09:44:00",
+          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 15 1:00 p.m."
+        },
+        {
+          "area": "400 block W 23RD AVE, 4000 block CAMBIE ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Fire",
+          "customers_affected": "13",
+          "last_updated": "2020-10-15T09:47:00",
+          "municipality": "Vancouver",
+          "municipality_code": "day-1 day-3 city--1786794435",
+          "start": "2020-10-15T02:09:00",
+          "status": "Crew status: Crew assigned\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 15 9:45 a.m."
+        },
+        {
           "area": "1300 block JOHNSTON ST, 1200 block CARTWRIGHT ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Planned work being done on our equipment",
           "customers_affected": "7",
@@ -134,11 +174,11 @@
           "area": "0 block LANDSEND RD, 200 - 2300 block MITCHELL BAY, 0 block HAMILL RD, 0 block LANDS END RD, OLD GREEN SCHOOLHOUSE, 100 - 300 block MITCHELL BAY RD, DONEGAL HEAD, SVC FRM 381480 2819\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "45",
-          "last_updated": "2020-10-15T07:02:00",
+          "last_updated": "2020-10-15T09:48:00",
           "municipality": "Port Hardy",
           "municipality_code": "day-1 day-3 city-368562319",
           "start": "2020-10-15T02:27:00",
-          "status": "Crew status: Crew assigned\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 15 8:30 a.m."
+          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 15 10:30 a.m."
         },
         {
           "area": "West of ZEBALLOS MAIN RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -1996,7 +2036,7 @@
       "region_id": "1602896846"
     },
     "Northern": {
-      "customers_affected_14d": 6542,
+      "customers_affected_14d": 6653,
       "outages": [
         {
           "area": "Burns Lake Substation - Burns Lake; Danskin; Decker Lake; Endako; Francois Lake, Fraser Lake; Grassy Plains; Houston; Noralee; Ootsa Lake; Priestley; Southbank; Takysie Lake; Tchesinkut Lake; Topley",
@@ -2017,6 +2057,16 @@
           "municipality": "Chetwynd",
           "municipality_code": "day-1 day-3 city-1617615372",
           "start": "2020-10-25T07:00:00"
+        },
+        {
+          "area": "**Emergent**18 St; Aspen Dr., Dawson Creek",
+          "cause": "Pole replacement",
+          "customers_affected": "111",
+          "end": "2020-10-22T16:00:00",
+          "last_updated": "2020-10-15T09:51:00",
+          "municipality": "Dawson Creek",
+          "municipality_code": "day-1 day-3 city--1630954860",
+          "start": "2020-10-22T10:00:00"
         },
         {
           "area": "*EMERGENT WORK*209 - 98 AVE; 209 - 99 AVE; 9713 TO 9917 - 2 ST *ODD NUMBERS ONLY* (9713\r\n9717 9721 9801 9805 9805 9809 9813 9817 9901 9901 9905 9909 9913 AND 9917)",
@@ -5990,7 +6040,7 @@
           "cause": "Other",
           "customers_affected": "241",
           "end": "2020-10-13T22:30:00",
-          "last_updated": "2020-10-13T23:27:00",
+          "last_updated": "2020-10-15T09:49:00",
           "municipality": "Langley",
           "municipality_code": "day-1 day-3 city-1612593490",
           "start": "2020-10-13T14:12:00"
@@ -6110,7 +6160,7 @@
           "cause": "Tree down across our wires",
           "customers_affected": "16",
           "end": "",
-          "last_updated": "2020-10-14T02:28:00",
+          "last_updated": "2020-10-15T09:48:00",
           "municipality": "Langley",
           "municipality_code": "day-1 day-3 city-1612593490",
           "start": "2020-10-13T12:22:00"
@@ -6120,7 +6170,7 @@
           "cause": "Tree down across our wires",
           "customers_affected": "16",
           "end": "2020-10-13T22:30:00",
-          "last_updated": "2020-10-13T21:37:00",
+          "last_updated": "2020-10-15T09:48:00",
           "municipality": "Langley",
           "municipality_code": "day-1 day-3 city-1612593490",
           "start": "2020-10-13T13:48:00"
@@ -6220,7 +6270,7 @@
           "cause": "Tree down across our wires",
           "customers_affected": "9",
           "end": "",
-          "last_updated": "2020-10-14T06:15:00",
+          "last_updated": "2020-10-15T09:51:00",
           "municipality": "Langley",
           "municipality_code": "day-1 day-3 city-1612593490",
           "start": "2020-10-13T13:50:00"
@@ -6270,7 +6320,7 @@
           "cause": "Tree down across our wires",
           "customers_affected": "5",
           "end": "",
-          "last_updated": "2020-10-14T01:31:00",
+          "last_updated": "2020-10-15T09:51:00",
           "municipality": "Langley",
           "municipality_code": "day-1 day-3 city-1612593490",
           "start": "2020-10-13T12:09:00"
@@ -6300,7 +6350,7 @@
           "cause": "Tree down across our wires",
           "customers_affected": "< 5",
           "end": "",
-          "last_updated": "2020-10-14T11:51:00",
+          "last_updated": "2020-10-15T09:46:00",
           "municipality": "Langley",
           "municipality_code": "day-1 day-3 city-1612593490",
           "start": "2020-10-14T10:32:00"
@@ -6410,7 +6460,7 @@
           "cause": "Tree down across our wires",
           "customers_affected": "< 5",
           "end": "2020-10-14T18:23:00",
-          "last_updated": "2020-10-14T17:26:00",
+          "last_updated": "2020-10-15T09:48:00",
           "municipality": "Langley",
           "municipality_code": "day-1 day-3 city-1612593490",
           "start": "2020-10-14T14:34:00"
@@ -6500,7 +6550,7 @@
           "cause": "Tree down across our wires",
           "customers_affected": "< 5",
           "end": "",
-          "last_updated": "2020-10-13T20:42:00",
+          "last_updated": "2020-10-15T09:49:00",
           "municipality": "Langley",
           "municipality_code": "day-1 day-3 city-1612593490",
           "start": "2020-10-13T13:55:00"
@@ -6560,7 +6610,7 @@
           "cause": "Tree down across our wires",
           "customers_affected": "< 5",
           "end": "",
-          "last_updated": "2020-10-14T12:19:00",
+          "last_updated": "2020-10-15T09:47:00",
           "municipality": "Langley",
           "municipality_code": "day-1 day-3 city-1612593490",
           "start": "2020-10-14T07:06:00"
@@ -6580,7 +6630,7 @@
           "cause": "Tree down across our wires",
           "customers_affected": "< 5",
           "end": "2020-10-14T12:05:00",
-          "last_updated": "2020-10-14T11:23:00",
+          "last_updated": "2020-10-15T09:50:00",
           "municipality": "Langley",
           "municipality_code": "day-1 day-3 city-1612593490",
           "start": "2020-10-13T16:37:00"
@@ -7910,7 +7960,7 @@
           "cause": "Other",
           "customers_affected": "< 5",
           "end": "2020-10-14T16:05:00",
-          "last_updated": "2020-10-14T16:24:00",
+          "last_updated": "2020-10-15T09:46:00",
           "municipality": "Richmond",
           "municipality_code": "day-1 day-3 city--1486145068",
           "start": "2020-10-14T09:53:00"
@@ -8260,7 +8310,7 @@
           "cause": "Other",
           "customers_affected": "233",
           "end": "2020-10-14T13:54:00",
-          "last_updated": "2020-10-14T13:09:00",
+          "last_updated": "2020-10-15T09:47:00",
           "municipality": "Surrey",
           "municipality_code": "day-1 day-3 city--1807186826",
           "start": "2020-10-14T12:14:00"
@@ -8300,7 +8350,7 @@
           "cause": "Equipment failure",
           "customers_affected": "51",
           "end": "2020-10-14T18:30:00",
-          "last_updated": "2020-10-14T18:02:00",
+          "last_updated": "2020-10-15T09:47:00",
           "municipality": "Surrey",
           "municipality_code": "day-1 day-3 city--1807186826",
           "start": "2020-10-14T12:03:00"
@@ -8492,7 +8542,7 @@
           "end": "2020-10-13T14:00:00",
           "last_updated": "2020-10-13T14:11:00",
           "municipality": "Surrey",
-          "municipality_code": "day-1 day-3 city--1807186826",
+          "municipality_code": "day-3 city--1807186826",
           "start": "2020-10-13T08:50:00"
         },
         {
@@ -8730,7 +8780,7 @@
           "cause": "Customer's equipment",
           "customers_affected": "< 5",
           "end": "2020-10-14T21:23:00",
-          "last_updated": "2020-10-14T20:10:00",
+          "last_updated": "2020-10-15T09:49:00",
           "municipality": "Surrey",
           "municipality_code": "day-1 day-3 city--1807186826",
           "start": "2020-10-14T18:33:00"
@@ -12436,7 +12486,7 @@
           "end": "2020-10-11T10:30:00",
           "last_updated": "2020-10-13T09:04:00",
           "municipality": "Vanderhoof",
-          "municipality_code": "day-3 city-1041981516",
+          "municipality_code": "city-1041981516",
           "start": "2020-10-11T06:01:00"
         },
         {
@@ -13141,7 +13191,7 @@
       "region_id": "2072041405"
     },
     "South VI": {
-      "customers_affected_14d": 58248,
+      "customers_affected_14d": 60686,
       "outages": [
         {
           "area": "North of CHURCH RD, West of STAUTW RD, East of TETAYUT RD, South of MT NEWTON XRD",
@@ -13324,6 +13374,16 @@
           "start": "2020-10-13T10:11:00"
         },
         {
+          "area": "West of STRATHCONA HEIGHTS RD, South of RIVERSIDE RD",
+          "cause": "Tree down across our wires",
+          "customers_affected": "786",
+          "end": "2020-10-14T15:15:00",
+          "last_updated": "2020-10-15T09:44:00",
+          "municipality": "Duncan",
+          "municipality_code": "day-1 day-3 city-2058209491",
+          "start": "2020-10-13T13:12:00"
+        },
+        {
           "area": "West of BELLENDEAN RD, East of CEYLON RD, North of MCKEAN RD",
           "cause": "Tree down across our wires",
           "customers_affected": "506",
@@ -13364,16 +13424,6 @@
           "start": "2020-10-10T12:45:00"
         },
         {
-          "area": "West of STRATHCONA HEIGHTS RD, South of RIVERSIDE RD",
-          "cause": "Tree down across our wires",
-          "customers_affected": "101",
-          "end": "2020-10-14T15:15:00",
-          "last_updated": "2020-10-14T16:15:00",
-          "municipality": "Duncan",
-          "municipality_code": "day-1 day-3 city-2058209491",
-          "start": "2020-10-13T13:12:00"
-        },
-        {
           "area": "North-East of TRANS CANADA HWY, South of BOYS RD",
           "cause": "Tree down across our wires",
           "customers_affected": "85",
@@ -13388,7 +13438,7 @@
           "cause": "Tree down across our wires",
           "customers_affected": "65",
           "end": "2020-10-13T19:00:00",
-          "last_updated": "2020-10-13T18:46:00",
+          "last_updated": "2020-10-15T09:47:00",
           "municipality": "Duncan",
           "municipality_code": "day-1 day-3 city-2058209491",
           "start": "2020-10-13T14:50:00"
@@ -13408,7 +13458,7 @@
           "cause": "Tree down across our wires",
           "customers_affected": "47",
           "end": "2020-10-14T11:30:00",
-          "last_updated": "2020-10-14T10:51:00",
+          "last_updated": "2020-10-15T09:45:00",
           "municipality": "Duncan",
           "municipality_code": "day-1 day-3 city-2058209491",
           "start": "2020-10-13T13:39:00"
@@ -13628,7 +13678,7 @@
           "cause": "Tree down across our wires",
           "customers_affected": "< 5",
           "end": "2020-10-13T20:00:00",
-          "last_updated": "2020-10-13T19:48:00",
+          "last_updated": "2020-10-15T09:47:00",
           "municipality": "Duncan",
           "municipality_code": "day-1 day-3 city-2058209491",
           "start": "2020-10-13T14:57:00"
@@ -14434,6 +14484,16 @@
           "start": "2020-10-13T10:58:00"
         },
         {
+          "area": "North of MAYS RD",
+          "cause": "Tree down across our wires",
+          "customers_affected": "2016",
+          "end": "2020-10-14T11:26:00",
+          "last_updated": "2020-10-15T09:42:00",
+          "municipality": "North Cowichan",
+          "municipality_code": "day-1 day-3 city--666037877",
+          "start": "2020-10-13T13:08:00"
+        },
+        {
           "area": "North of ROAD A RD, South of BLACKBURN RD, West of SOUTH RD",
           "cause": "Tree down across our wires",
           "customers_affected": "1018",
@@ -14452,16 +14512,6 @@
           "municipality": "North Cowichan",
           "municipality_code": "day-1 day-3 city--666037877",
           "start": "2020-10-13T20:50:00"
-        },
-        {
-          "area": "North of MAYS RD",
-          "cause": "Tree down across our wires",
-          "customers_affected": "263",
-          "end": "2020-10-14T11:26:00",
-          "last_updated": "2020-10-14T11:25:00",
-          "municipality": "North Cowichan",
-          "municipality_code": "day-1 day-3 city--666037877",
-          "start": "2020-10-13T13:08:00"
         },
         {
           "area": "East of MT SICKER RD, South of HENRY RD, West of TRANS CANADA HWY",
@@ -15480,7 +15530,7 @@
           "end": "2020-10-13T16:00:00",
           "last_updated": "2020-10-13T09:58:00",
           "municipality": "Victoria",
-          "municipality_code": "day-1 day-3 city-1201273535",
+          "municipality_code": "day-3 city-1201273535",
           "start": "2020-10-13T09:23:00"
         },
         {
@@ -15605,7 +15655,7 @@
           "cause": "Tree down across our wires",
           "customers_affected": "78",
           "end": "",
-          "last_updated": "2020-10-10T19:38:00",
+          "last_updated": "2020-10-15T09:43:00",
           "municipality": "100 Mile House",
           "municipality_code": "city-950857956",
           "start": "2020-10-10T12:42:00"
@@ -15945,7 +15995,7 @@
           "cause": "Tree down across our wires",
           "customers_affected": "7",
           "end": "2020-10-11T01:00:00",
-          "last_updated": "2020-10-11T00:53:00",
+          "last_updated": "2020-10-15T09:49:00",
           "municipality": "Clearwater",
           "municipality_code": "city-1282265866",
           "start": "2020-10-10T22:16:00"
@@ -15985,7 +16035,7 @@
           "cause": "Tree down across our wires",
           "customers_affected": "5",
           "end": "2020-10-11T12:30:00",
-          "last_updated": "2020-10-11T11:25:00",
+          "last_updated": "2020-10-15T09:46:00",
           "municipality": "Clearwater",
           "municipality_code": "day-3 city-1282265866",
           "start": "2020-10-10T14:13:00"
