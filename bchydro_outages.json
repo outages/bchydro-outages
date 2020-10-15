@@ -1,7 +1,7 @@
 {
   "current": {
     "Lower Mainland": {
-      "customers_affected_14d": 114,
+      "customers_affected_14d": 236,
       "outages": [
         {
           "area": "South-East of COLUMBIA VALLEY RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -54,6 +54,26 @@
           "status": "Crew status: Crew assigned\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 15 10:00 a.m."
         },
         {
+          "area": "East of BAYNES RD, West of 190A ST, North of 119TH AVE, South of FORD RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Planned work being done on our equipment",
+          "customers_affected": "102",
+          "last_updated": "2020-10-15T08:39:00",
+          "municipality": "Pitt Meadows",
+          "municipality_code": "day-1 day-3 city--253788407",
+          "start": "2020-10-15T08:37:00",
+          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 15 10:00 a.m."
+        },
+        {
+          "area": "18800 - 18900 block 119B AVE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Planned work being done on our equipment",
+          "customers_affected": "20",
+          "last_updated": "2020-10-15T08:36:00",
+          "municipality": "Pitt Meadows",
+          "municipality_code": "day-1 day-3 city--253788407",
+          "start": "2020-10-15T08:35:00",
+          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 15 5:30 p.m."
+        },
+        {
           "area": "South of GOLDEN BEAR PL, North of MUIRFIELD CRS, East of HWY 99\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Planned work being done on our equipment",
           "customers_affected": "81",
@@ -74,11 +94,11 @@
           "area": "400 block KENNEDY ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-15T07:07:00",
+          "last_updated": "2020-10-15T08:34:00",
           "municipality": "Nanaimo",
           "municipality_code": "day-1 day-3 city--907547835",
           "start": "2020-10-13T10:15:00",
-          "status": "Crew status: Crew assigned\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 15 10:00 a.m."
+          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 15 10:00 a.m."
         },
         {
           "area": "0 block LANDSEND RD, 200 - 2300 block MITCHELL BAY, 0 block HAMILL RD, 0 block LANDS END RD, OLD GREEN SCHOOLHOUSE, 100 - 300 block MITCHELL BAY RD, DONEGAL HEAD, SVC FRM 381480 2819\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -115,8 +135,18 @@
       "region_id": "1602896846"
     },
     "Northern": {
-      "customers_affected_14d": 12,
+      "customers_affected_14d": 264,
       "outages": [
+        {
+          "area": "West of 86th ST, South of 112th AVE, North of 101st AVE, East of 90th ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Planned work being done on our equipment",
+          "customers_affected": "252",
+          "last_updated": "2020-10-15T08:40:00",
+          "municipality": "Fort St. John",
+          "municipality_code": "day-1 day-3 city-205572915",
+          "start": "2020-10-15T08:31:00",
+          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 15 9:00 a.m."
+        },
         {
           "area": "10500 block 88A ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Planned work being done on our equipment",
@@ -159,17 +189,17 @@
       "region_id": "2072041405"
     },
     "Thompson/Shuswap": {
-      "customers_affected_14d": 62,
+      "customers_affected_14d": -1,
       "outages": [
         {
-          "area": "West of BRINK ST, South of 2ND ST, North of 7TH ST, East of ASHCROFT MANOR HWY\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Under investigation",
-          "customers_affected": "61",
-          "last_updated": "2020-10-15T08:25:00",
-          "municipality": "Ashcroft",
-          "municipality_code": "day-1 day-3 city--625370600",
-          "start": "2020-10-15T07:40:00",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 15 8:45 a.m."
+          "area": "100 block SHUSWAP AVE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Planned work being done on our equipment",
+          "customers_affected": "< 5",
+          "last_updated": "2020-10-15T08:38:00",
+          "municipality": "Chase",
+          "municipality_code": "day-1 day-3 city-65071054",
+          "start": "2020-10-15T08:37:00",
+          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 15 11:30 a.m."
         },
         {
           "area": "100 block PUETT RANCH RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -12754,7 +12784,7 @@
           "cause": "Other",
           "customers_affected": "32",
           "end": "2020-10-14T11:30:00",
-          "last_updated": "2020-10-15T08:08:00",
+          "last_updated": "2020-10-15T08:37:00",
           "municipality": "Nakusp",
           "municipality_code": "day-1 day-3 city--1969008230",
           "start": "2020-10-14T10:59:00"
@@ -15481,7 +15511,7 @@
       "region_id": "1812901382"
     },
     "Thompson/Shuswap": {
-      "customers_affected_14d": 15390,
+      "customers_affected_14d": 15451,
       "outages": [
         {
           "area": "East of WILCOX RD, North of TRIP RD",
@@ -15692,6 +15722,16 @@
           "municipality": "Ashcroft",
           "municipality_code": "city--625370600",
           "start": "2020-10-10T19:12:00"
+        },
+        {
+          "area": "West of BRINK ST, South of 2ND ST, North of 7TH ST, East of ASHCROFT MANOR HWY",
+          "cause": "Under investigation",
+          "customers_affected": "61",
+          "end": "2020-10-15T08:45:00",
+          "last_updated": "2020-10-15T08:35:00",
+          "municipality": "Ashcroft",
+          "municipality_code": "day-1 day-3 city--625370600",
+          "start": "2020-10-15T07:40:00"
         },
         {
           "area": "North of 97C HWY, South-East of HWY 97 , West of TRANS CANADA HWY",
