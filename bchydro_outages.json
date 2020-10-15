@@ -18,17 +18,17 @@
       "region_id": "848340027"
     },
     "Lower Mainland": {
-      "customers_affected_14d": 151,
+      "customers_affected_14d": 139,
       "outages": [
         {
           "area": "4800 block BESSBOROUGH DR, 4800 block ETON ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Work being done on our equipment",
           "customers_affected": "10",
-          "last_updated": "2020-10-15T14:05:00",
+          "last_updated": "2020-10-15T14:38:00",
           "municipality": "Burnaby",
           "municipality_code": "day-1 day-3 city-1903966249",
           "start": "2020-10-15T11:13:00",
-          "status": "Crew status: Crew on their way"
+          "status": "Crew status: Crew on-site"
         },
         {
           "area": "South-East of COLUMBIA VALLEY RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -44,11 +44,11 @@
           "area": "40800 block CARTER RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Wire down",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-15T13:47:00",
+          "last_updated": "2020-10-15T14:32:00",
           "municipality": "Mission",
           "municipality_code": "day-1 day-3 city--1560864404",
           "start": "2020-10-13T15:39:00",
-          "status": "Crew status: Crew assigned\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 15 2:00 p.m."
+          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 15 3:00 p.m."
         },
         {
           "area": "18800 - 18900 block 119B AVE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -61,14 +61,14 @@
           "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 15 5:30 p.m."
         },
         {
-          "area": "North-West of SANDY HOOK RD, South-East of PORPOISE DR\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Tree down across our wires",
-          "customers_affected": "14",
-          "last_updated": "2020-10-15T14:09:00",
-          "municipality": "Sechelt",
-          "municipality_code": "day-1 day-3 city--660434186",
-          "start": "2020-10-15T12:38:00",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 15 2:45 p.m."
+          "area": "5000 block 160 ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Under investigation",
+          "customers_affected": "< 5",
+          "last_updated": "2020-10-15T14:39:00",
+          "municipality": "Surrey",
+          "municipality_code": "day-1 day-3 city--1807186826",
+          "start": "2020-10-15T14:36:00",
+          "status": "Crew status: Crew assigned"
         },
         {
           "area": "400 block W 23RD AVE, 4000 block CAMBIE ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -122,18 +122,8 @@
       "region_id": "1602896846"
     },
     "Northern": {
-      "customers_affected_14d": 16,
+      "customers_affected_14d": 12,
       "outages": [
-        {
-          "area": "South of ELM ST, West of BIRCH ST, North-East of STUART DR\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Planned work being done on our equipment",
-          "customers_affected": "< 5",
-          "last_updated": "2020-10-15T13:11:00",
-          "municipality": "Fort St. James",
-          "municipality_code": "day-1 day-3 city-2077380636",
-          "start": "2020-10-15T11:15:00",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 15 1:00 p.m."
-        },
         {
           "area": "10500 block 88A ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Planned work being done on our equipment",
@@ -148,41 +138,14 @@
       "region_code": "Northern",
       "region_id": "1602964060"
     },
-    "Okanagan/Kootenay": {
-      "customers_affected_14d": 11,
-      "outages": [
-        {
-          "area": "4700 - 4900 block HWY 97, 3900 - 4100 block DEAR RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Planned work being done on our equipment",
-          "customers_affected": "11",
-          "last_updated": "2020-10-15T14:00:00",
-          "municipality": "Vernon",
-          "municipality_code": "day-1 day-3 city--1736079254",
-          "start": "2020-10-15T08:20:00",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 15 4:00 p.m."
-        }
-      ],
-      "region_code": "Okanagan/Kootenay",
-      "region_id": "2072041405"
-    },
     "South VI": {
-      "customers_affected_14d": 5,
+      "customers_affected_14d": -1,
       "outages": [
-        {
-          "area": "6400 block CENTRAL SAANICH RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Under investigation",
-          "customers_affected": "< 5",
-          "last_updated": "2020-10-15T14:13:00",
-          "municipality": "Central Saanich",
-          "municipality_code": "day-1 day-3 city--769735224",
-          "start": "2020-10-15T13:20:00",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 15 2:45 p.m."
-        },
         {
           "area": "200 block S WARBLER RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Tree down across our wires",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-15T14:29:00",
+          "last_updated": "2020-10-15T14:33:00",
           "municipality": "Galiano Island",
           "municipality_code": "day-1 day-3 city--995767958",
           "start": "2020-10-15T11:32:00",
@@ -192,11 +155,11 @@
           "area": "1400 - 1500 block DALLAS RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Planned work being done on our equipment",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-15T10:43:00",
+          "last_updated": "2020-10-15T14:32:00",
           "municipality": "Victoria",
           "municipality_code": "day-1 day-3 city-1201273535",
           "start": "2020-10-15T10:34:00",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 15 2:00 p.m."
+          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 15 4:00 p.m."
         }
       ],
       "region_code": "South VI",
@@ -259,7 +222,7 @@
       "region_id": "848340027"
     },
     "Lower Mainland": {
-      "customers_affected_14d": 7257,
+      "customers_affected_14d": 7290,
       "outages": [
         {
           "area": "1944, 1954, 1966, 1976 Albion St; 32666-32749 Cordova Ave; 325, 32760 Marshall Rd, 32414-32750 Pandora Ave; 1911-1944 Valencia Crt, Abbotsford",
@@ -790,6 +753,16 @@
           "municipality": "Langley",
           "municipality_code": "day-1 day-3 city-1612593490",
           "start": "2020-10-14T09:00:00"
+        },
+        {
+          "area": "19373, 19749, 19760, 19789 55 Ave., Langley",
+          "cause": "Planned work being done on our equipment",
+          "customers_affected": "33",
+          "end": "2020-10-23T16:00:00",
+          "last_updated": "2020-10-15T14:32:00",
+          "municipality": "Langley",
+          "municipality_code": "day-1 day-3 city-1612593490",
+          "start": "2020-10-23T09:00:00"
         },
         {
           "area": "19890 55A Ave; 5415-5521 Brydon Cres, Langley",
@@ -3492,7 +3465,7 @@
           "end": "2020-10-13T14:30:00",
           "last_updated": "2020-10-14T09:09:00",
           "municipality": "Prince George, Vanderhoof",
-          "municipality_code": "day-1 day-3 city-1835674262 city-1041981516",
+          "municipality_code": "day-3 city-1835674262 city-1041981516",
           "start": "2020-10-13T12:15:00"
         },
         {
@@ -3690,7 +3663,7 @@
       "region_id": "848340027"
     },
     "Lower Mainland": {
-      "customers_affected_14d": 142399,
+      "customers_affected_14d": 142422,
       "outages": [
         {
           "area": "North of MACLURE RD, East of MT LEHMAN RD, West of Hwy 11",
@@ -7829,7 +7802,7 @@
           "end": "2020-10-13T15:30:00",
           "last_updated": "2020-10-14T12:41:00",
           "municipality": "Powell River",
-          "municipality_code": "day-1 day-3 city-1665178489",
+          "municipality_code": "day-3 city-1665178489",
           "start": "2020-10-13T11:18:00"
         },
         {
@@ -8021,6 +7994,16 @@
           "municipality": "Richmond",
           "municipality_code": "city--1486145068",
           "start": "2020-10-09T08:40:00"
+        },
+        {
+          "area": "10400 - 10500 block NO 1 RD",
+          "cause": "Planned work being done on our equipment",
+          "customers_affected": "9",
+          "end": "2020-10-15T14:00:00",
+          "last_updated": "2020-10-15T14:32:00",
+          "municipality": "Richmond",
+          "municipality_code": "day-1 day-3 city--1486145068",
+          "start": "2020-10-15T10:08:00"
         },
         {
           "area": "5800 block NO 7 RD, 16100 block WESTMINSTER HWY",
@@ -8231,6 +8214,16 @@
           "municipality": "Sechelt",
           "municipality_code": "day-3 city--660434186",
           "start": "2020-10-13T07:09:00"
+        },
+        {
+          "area": "North-West of SANDY HOOK RD, South-East of PORPOISE DR",
+          "cause": "Tree down across our wires",
+          "customers_affected": "14",
+          "end": "2020-10-15T14:45:00",
+          "last_updated": "2020-10-15T14:46:00",
+          "municipality": "Sechelt",
+          "municipality_code": "day-1 day-3 city--660434186",
+          "start": "2020-10-15T12:38:00"
         },
         {
           "area": "North of MCKENZIE RD, East-West of WESCAN RD, South of SAN SOUCI RD",
@@ -10146,7 +10139,7 @@
           "end": "2020-10-13T14:50:00",
           "last_updated": "2020-10-13T14:54:00",
           "municipality": "Courtenay, Qualicum Beach",
-          "municipality_code": "day-1 day-3 city--824228212 city--154309756",
+          "municipality_code": "day-3 city--824228212 city--154309756",
           "start": "2020-10-13T12:52:00"
         },
         {
@@ -11814,7 +11807,7 @@
       "region_id": "1602896846"
     },
     "Northern": {
-      "customers_affected_14d": 11984,
+      "customers_affected_14d": 11988,
       "outages": [
         {
           "area": "North-South-East-West of HWY 20",
@@ -12145,6 +12138,16 @@
           "municipality": "Fort St. James",
           "municipality_code": "city-2077380636",
           "start": "2020-10-04T15:15:00"
+        },
+        {
+          "area": "South of ELM ST, West of BIRCH ST, North-East of STUART DR",
+          "cause": "Planned work being done on our equipment",
+          "customers_affected": "< 5",
+          "end": "2020-10-15T13:00:00",
+          "last_updated": "2020-10-15T14:46:00",
+          "municipality": "Fort St. James",
+          "municipality_code": "day-1 day-3 city-2077380636",
+          "start": "2020-10-15T11:15:00"
         },
         {
           "area": "North of RD 277 , West of ROSE PRAIRIE RD",
@@ -12821,7 +12824,7 @@
       "region_id": "1602964060"
     },
     "Okanagan/Kootenay": {
-      "customers_affected_14d": 15676,
+      "customers_affected_14d": 15687,
       "outages": [
         {
           "area": "South of LEARMOUTH RD, West of COACHWOOD CRS, East of BREWER RD",
@@ -13274,6 +13277,16 @@
           "start": "2020-10-09T12:59:00"
         },
         {
+          "area": "4700 - 4900 block HWY 97, 3900 - 4100 block DEAR RD",
+          "cause": "Planned work being done on our equipment",
+          "customers_affected": "11",
+          "end": "2020-10-15T16:00:00",
+          "last_updated": "2020-10-15T14:40:00",
+          "municipality": "Vernon",
+          "municipality_code": "day-1 day-3 city--1736079254",
+          "start": "2020-10-15T08:20:00"
+        },
+        {
           "area": "3300 block 20A ST, 3400 - 3500 block 20 ST",
           "cause": "Planned work being done on our equipment",
           "customers_affected": "7",
@@ -13448,7 +13461,7 @@
       "region_id": "2072041405"
     },
     "South VI": {
-      "customers_affected_14d": 61628,
+      "customers_affected_14d": 61630,
       "outages": [
         {
           "area": "North of CHURCH RD, West of STAUTW RD, East of TETAYUT RD, South of MT NEWTON XRD",
@@ -13509,6 +13522,16 @@
           "municipality": "Central Saanich",
           "municipality_code": "day-1 day-3 city--769735224",
           "start": "2020-10-13T18:34:00"
+        },
+        {
+          "area": "6400 block CENTRAL SAANICH RD",
+          "cause": "Bird contacting our wires",
+          "customers_affected": "< 5",
+          "end": "2020-10-15T14:45:00",
+          "last_updated": "2020-10-15T14:35:00",
+          "municipality": "Central Saanich",
+          "municipality_code": "day-1 day-3 city--769735224",
+          "start": "2020-10-15T13:20:00"
         },
         {
           "area": "1900 block VENROSS PL",
@@ -13835,7 +13858,7 @@
           "cause": "Tree down across our wires",
           "customers_affected": "7",
           "end": "2020-10-14T19:30:00",
-          "last_updated": "2020-10-14T18:56:00",
+          "last_updated": "2020-10-15T14:33:00",
           "municipality": "Duncan",
           "municipality_code": "day-1 day-3 city-2058209491",
           "start": "2020-10-14T16:17:00"
@@ -13935,7 +13958,7 @@
           "cause": "Tree down across our wires",
           "customers_affected": "< 5",
           "end": "",
-          "last_updated": "2020-10-13T19:01:00",
+          "last_updated": "2020-10-15T14:37:00",
           "municipality": "Duncan",
           "municipality_code": "day-1 day-3 city-2058209491",
           "start": "2020-10-13T13:13:00"
@@ -14795,7 +14818,7 @@
           "cause": "Tree down across our wires",
           "customers_affected": "335",
           "end": "",
-          "last_updated": "2020-10-13T21:49:00",
+          "last_updated": "2020-10-15T14:35:00",
           "municipality": "North Cowichan",
           "municipality_code": "day-1 day-3 city--666037877",
           "start": "2020-10-13T20:50:00"
@@ -14955,7 +14978,7 @@
           "cause": "Tree down across our wires",
           "customers_affected": "< 5",
           "end": "",
-          "last_updated": "2020-10-14T16:41:00",
+          "last_updated": "2020-10-15T14:33:00",
           "municipality": "North Cowichan",
           "municipality_code": "day-1 day-3 city--666037877",
           "start": "2020-10-14T15:58:00"
