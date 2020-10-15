@@ -102,23 +102,13 @@
       "region_id": "1602964060"
     },
     "Thompson/Shuswap": {
-      "customers_affected_14d": 396,
+      "customers_affected_14d": 13,
       "outages": [
-        {
-          "area": "East of CANYON RD, South of ENDERBY MABEL LAKE RD, North of STEPNEY RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Wire down",
-          "customers_affected": "383",
-          "last_updated": "2020-10-15T02:55:00",
-          "municipality": "Enderby, Spallumcheen",
-          "municipality_code": "day-1 day-3 city-57924863 city-2134222637",
-          "start": "2020-10-15T00:51:00",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 15 4:30 a.m."
-        },
         {
           "area": "9000 - 9700 block BARNHARTVALE RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Motor vehicle accident",
           "customers_affected": "13",
-          "last_updated": "2020-10-15T02:28:00",
+          "last_updated": "2020-10-15T04:10:00",
           "municipality": "Kamloops",
           "municipality_code": "day-1 day-3 city-979034872",
           "start": "2020-10-14T22:55:00",
@@ -15374,7 +15364,7 @@
       "region_id": "1812901382"
     },
     "Thompson/Shuswap": {
-      "customers_affected_14d": 13199,
+      "customers_affected_14d": 15377,
       "outages": [
         {
           "area": "East of WILCOX RD, North of TRIP RD",
@@ -15865,6 +15855,16 @@
           "municipality": "Enderby",
           "municipality_code": "city-57924863",
           "start": "2020-10-03T12:09:00"
+        },
+        {
+          "area": "East of CANYON RD, South of ENDERBY MABEL LAKE RD, North of STEPNEY RD",
+          "cause": "Equipment failure",
+          "customers_affected": "2178",
+          "end": "2020-10-15T04:30:00",
+          "last_updated": "2020-10-15T04:08:00",
+          "municipality": "Enderby, Spallumcheen",
+          "municipality_code": "day-1 day-3 city-57924863 city-2134222637",
+          "start": "2020-10-15T00:51:00"
         },
         {
           "area": "South of HWY 5 , East of WESTSYDE RD, North-West of PAUL LAKE RD",
