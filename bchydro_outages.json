@@ -1,7 +1,24 @@
 {
   "current": {
+    "Central Interior": {
+      "customers_affected_14d": -1,
+      "outages": [
+        {
+          "area": "4900 block N CARIBOO HWY\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Planned work being done on our equipment",
+          "customers_affected": "< 5",
+          "last_updated": "2020-10-15T16:31:00",
+          "municipality": "Quesnel",
+          "municipality_code": "day-1 day-3 city--1975191965",
+          "start": "2020-10-15T16:22:00",
+          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 15 4:45 p.m."
+        }
+      ],
+      "region_code": "Central Interior",
+      "region_id": "848340027"
+    },
     "Lower Mainland": {
-      "customers_affected_14d": 257,
+      "customers_affected_14d": 110,
       "outages": [
         {
           "area": "South-East of COLUMBIA VALLEY RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -12,16 +29,6 @@
           "municipality_code": "day-1 day-3 city--708005353",
           "start": "2020-10-14T09:12:00",
           "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 15 5:30 p.m."
-        },
-        {
-          "area": "East of WESTVIEW DR, South of 27TH ST, North of TRANS CANADA HWY, West of CHESTERFIELD AVE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Planned work being done on our equipment",
-          "customers_affected": "147",
-          "last_updated": "2020-10-15T15:42:00",
-          "municipality": "North Vancouver",
-          "municipality_code": "day-1 day-3 city--1636626238",
-          "start": "2020-10-15T15:36:00",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 15 4:00 p.m."
         },
         {
           "area": "2000 block LANG BAY RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -37,11 +44,11 @@
           "area": "400 block W 23RD AVE, 4000 block CAMBIE ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Fire",
           "customers_affected": "13",
-          "last_updated": "2020-10-15T15:40:00",
+          "last_updated": "2020-10-15T16:37:00",
           "municipality": "Vancouver",
           "municipality_code": "day-1 day-3 city--1786794435",
           "start": "2020-10-15T02:09:00",
-          "status": "Crew status: Crew assigned\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 15 11:05 a.m."
+          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 15 5:40 p.m."
         },
         {
           "area": "1300 block JOHNSTON ST, 1200 block CARTWRIGHT ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -98,10 +105,10 @@
           "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 15 6:00 p.m."
         },
         {
-          "area": "West of OREGON AVE, South of QUEENS AVE, East of BLANSHARD ST, North of NORTH PARK ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "area": "South of SUMMIT AVE, North of BALMORAL RD, West of ROSEBERRY AVE, East of GOVERNMENT ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Equipment failure",
           "customers_affected": "636",
-          "last_updated": "2020-10-15T16:23:00",
+          "last_updated": "2020-10-15T16:39:00",
           "municipality": "Victoria",
           "municipality_code": "day-1 day-3 city-1201273535",
           "start": "2020-10-15T08:24:00",
@@ -2296,7 +2303,7 @@
       "region_id": "2072041405"
     },
     "South VI": {
-      "customers_affected_14d": 2031,
+      "customers_affected_14d": 2033,
       "outages": [
         {
           "area": "1746 Verling Ave; 1763 Sean Hts, Saanichton",
@@ -2457,6 +2464,16 @@
           "municipality": "Sidney",
           "municipality_code": "day-1 day-3 city--1818689996",
           "start": "2020-10-16T09:30:00"
+        },
+        {
+          "area": "657 Ardmore Dr",
+          "cause": "Planned work being done on our equipment",
+          "customers_affected": "< 5",
+          "end": "2020-10-29T12:00:00",
+          "last_updated": "2020-10-15T16:37:00",
+          "municipality": "Sidney",
+          "municipality_code": "day-1 day-3 city--1818689996",
+          "start": "2020-10-29T09:30:00"
         },
         {
           "area": "*1 HOUR OUTAGE BETWEEN 10AM - 1PM OCT 16*2200 BLOCK OF TOWNSEND RD; 6600 BLOCK RHODONITE DR; 6700 BLOCK OF NOTT PL; 6495, 6499, 6500 BLOCK OF CALLUMWOOD LANE; 2351 TO 2412 CAFFREY PL; 6500 BLOCK OF ARRANWOOD DR;",
@@ -3549,7 +3566,7 @@
       "region_id": "848340027"
     },
     "Lower Mainland": {
-      "customers_affected_14d": 142485,
+      "customers_affected_14d": 142632,
       "outages": [
         {
           "area": "North of MACLURE RD, East of MT LEHMAN RD, West of Hwy 11",
@@ -4388,7 +4405,7 @@
           "end": "2020-10-13T16:30:00",
           "last_updated": "2020-10-14T10:00:00",
           "municipality": "Burnaby",
-          "municipality_code": "day-1 day-3 city-1903966249",
+          "municipality_code": "day-3 city-1903966249",
           "start": "2020-10-13T12:56:00"
         },
         {
@@ -5308,7 +5325,7 @@
           "end": "2020-10-11T17:00:00",
           "last_updated": "2020-10-13T09:04:00",
           "municipality": "Coquitlam",
-          "municipality_code": "day-3 city--3101987",
+          "municipality_code": "city--3101987",
           "start": "2020-10-11T15:06:00"
         },
         {
@@ -6548,7 +6565,7 @@
           "end": "",
           "last_updated": "2020-10-14T09:45:00",
           "municipality": "Langley",
-          "municipality_code": "day-1 day-3 city-1612593490",
+          "municipality_code": "day-3 city-1612593490",
           "start": "2020-10-13T13:15:00"
         },
         {
@@ -7352,6 +7369,16 @@
           "start": "2020-10-13T16:05:00"
         },
         {
+          "area": "East of WESTVIEW DR, South of 27TH ST, North of TRANS CANADA HWY, West of CHESTERFIELD AVE",
+          "cause": "Planned work being done on our equipment",
+          "customers_affected": "147",
+          "end": "2020-10-15T16:00:00",
+          "last_updated": "2020-10-15T16:33:00",
+          "municipality": "North Vancouver",
+          "municipality_code": "day-1 day-3 city--1636626238",
+          "start": "2020-10-15T15:36:00"
+        },
+        {
           "area": "West of CLIFFRIDGE AVE, South of WOODPECKER PL, North of PROSPECT AVE, East of NANCY GREENE WAY",
           "cause": "Planned work being done on our equipment",
           "customers_affected": "74",
@@ -7678,7 +7705,7 @@
           "end": "2020-10-13T16:00:00",
           "last_updated": "2020-10-14T12:34:00",
           "municipality": "Powell River",
-          "municipality_code": "day-1 day-3 city-1665178489",
+          "municipality_code": "day-3 city-1665178489",
           "start": "2020-10-13T07:20:00"
         },
         {
@@ -8438,7 +8465,7 @@
           "end": "",
           "last_updated": "2020-10-14T14:54:00",
           "municipality": "Surrey",
-          "municipality_code": "day-1 day-3 city--1807186826",
+          "municipality_code": "day-3 city--1807186826",
           "start": "2020-10-13T15:40:00"
         },
         {
@@ -9258,7 +9285,7 @@
           "end": "2020-10-13T16:00:00",
           "last_updated": "2020-10-13T20:24:00",
           "municipality": "Vancouver",
-          "municipality_code": "day-1 day-3 city--1786794435",
+          "municipality_code": "day-3 city--1786794435",
           "start": "2020-10-13T09:05:00"
         },
         {
@@ -10185,7 +10212,7 @@
           "end": "2020-10-13T16:45:00",
           "last_updated": "2020-10-14T16:42:00",
           "municipality": "Nanaimo",
-          "municipality_code": "day-1 day-3 city--907547835",
+          "municipality_code": "day-3 city--907547835",
           "start": "2020-10-13T14:21:00"
         },
         {
@@ -10645,7 +10672,7 @@
           "end": "2020-10-13T16:35:00",
           "last_updated": "2020-10-14T12:13:00",
           "municipality": "Nanaimo",
-          "municipality_code": "day-1 day-3 city--907547835",
+          "municipality_code": "day-3 city--907547835",
           "start": "2020-10-13T13:00:00"
         },
         {
@@ -12002,7 +12029,7 @@
           "end": "2020-10-13T17:00:00",
           "last_updated": "2020-10-13T16:41:00",
           "municipality": "Dawson Creek",
-          "municipality_code": "day-1 day-3 city--1630954860",
+          "municipality_code": "day-3 city--1630954860",
           "start": "2020-10-13T08:30:00"
         },
         {
@@ -13436,7 +13463,7 @@
           "end": "",
           "last_updated": "2020-10-14T07:36:00",
           "municipality": "Central Saanich",
-          "municipality_code": "day-1 day-3 city--769735224",
+          "municipality_code": "day-3 city--769735224",
           "start": "2020-10-13T12:40:00"
         },
         {
@@ -14096,7 +14123,7 @@
           "end": "2020-10-11T16:30:00",
           "last_updated": "2020-10-13T09:23:00",
           "municipality": "Galiano Island",
-          "municipality_code": "day-3 city--995767958",
+          "municipality_code": "city--995767958",
           "start": "2020-10-11T13:24:00"
         },
         {
@@ -14414,7 +14441,7 @@
           "cause": "Tree down across our wires",
           "customers_affected": "< 5",
           "end": "2020-10-15T15:30:00",
-          "last_updated": "2020-10-15T15:42:00",
+          "last_updated": "2020-10-15T16:32:00",
           "municipality": "Ganges",
           "municipality_code": "day-1 day-3 city-2125630497",
           "start": "2020-10-15T14:21:00"
@@ -15456,7 +15483,7 @@
           "end": "",
           "last_updated": "2020-10-14T13:09:00",
           "municipality": "Saanich",
-          "municipality_code": "day-1 day-3 city--776615533",
+          "municipality_code": "day-3 city--776615533",
           "start": "2020-10-13T11:58:00"
         },
         {
