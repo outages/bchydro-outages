@@ -7,11 +7,11 @@
           "area": "30200 block NICHOLSON AVE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-14T18:48:00",
+          "last_updated": "2020-10-14T20:28:00",
           "municipality": "Abbotsford",
           "municipality_code": "day-1 day-3 city-1230363016",
           "start": "2020-10-14T17:18:00",
-          "status": "Crew status: Crew on their way"
+          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 14 7:50 p.m."
         },
         {
           "area": "South-East of COLUMBIA VALLEY RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -88,7 +88,7 @@
       "region_id": "521980323"
     },
     "North VI": {
-      "customers_affected_14d": 208,
+      "customers_affected_14d": 9,
       "outages": [
         {
           "area": "400 block KENNEDY ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -104,21 +104,11 @@
           "area": "100 block SPRINGHILL RD, 200 block GUN RANGE RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Tree down across our wires",
           "customers_affected": "8",
-          "last_updated": "2020-10-14T18:59:00",
+          "last_updated": "2020-10-14T20:28:00",
           "municipality": "Port Hardy",
           "municipality_code": "day-1 day-3 city-368562319",
           "start": "2020-10-13T08:03:00",
-          "status": "Crew status: Crew assigned"
-        },
-        {
-          "area": "600 block KENO CRE, INDIAN RESERVE L9, INDIAN RESERVE L7, OCLUCJE RESERVE LOT 3, INDIAN RESERVE L4, INDIAN RESERVE L1, PUMP SERVICE, INDIAN RESERVE L2, 400 block FERRIS RD, INDIAN RESERVE L6...\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Tree down across our wires",
-          "customers_affected": "199",
-          "last_updated": "2020-10-14T18:59:00",
-          "municipality": "Tahsis, Zeballos",
-          "municipality_code": "day-1 day-3 city--1797324926 city-281261870",
-          "start": "2020-10-13T08:28:00",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 14 8:00 p.m."
+          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 14 9:00 p.m."
         }
       ],
       "region_code": "North VI",
@@ -4573,10 +4563,10 @@
         },
         {
           "area": "10400 - 10700 block MCGRATH RD",
-          "cause": "Wire down",
+          "cause": "Tree down across our wires",
           "customers_affected": "374",
           "end": "2020-10-14T20:00:00",
-          "last_updated": "2020-10-14T19:57:00",
+          "last_updated": "2020-10-14T20:30:00",
           "municipality": "Chilliwack",
           "municipality_code": "day-1 day-3 city--708005353",
           "start": "2020-10-13T12:46:00"
@@ -5728,7 +5718,7 @@
           "end": "2020-10-10T21:00:00",
           "last_updated": "2020-10-13T11:02:00",
           "municipality": "Hope",
-          "municipality_code": "day-3 city-2255196",
+          "municipality_code": "city-2255196",
           "start": "2020-10-10T06:37:00"
         },
         {
