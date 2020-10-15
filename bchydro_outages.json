@@ -1,7 +1,7 @@
 {
   "current": {
     "Lower Mainland": {
-      "customers_affected_14d": 589,
+      "customers_affected_14d": 590,
       "outages": [
         {
           "area": "West of PARALLEL RD, North-South of ELDRIDGE RD, East of KILGARD RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -44,6 +44,16 @@
           "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 15 11:15 a.m."
         },
         {
+          "area": "4700 block LOUGHEED HWY\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Under investigation",
+          "customers_affected": "< 5",
+          "last_updated": "2020-10-15T11:05:00",
+          "municipality": "Kent",
+          "municipality_code": "day-1 day-3 city-2334912",
+          "start": "2020-10-15T10:57:00",
+          "status": "Crew status: Crew assigned"
+        },
+        {
           "area": "East of NICOMEN SLOUGH RD, South of NICOMEN RD, North-West of LOUGHEED HWY\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Tree down across our wires",
           "customers_affected": "24",
@@ -57,10 +67,10 @@
           "area": "40800 block CARTER RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Wire down",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-15T06:58:00",
+          "last_updated": "2020-10-15T10:53:00",
           "municipality": "Mission",
           "municipality_code": "day-1 day-3 city--1560864404",
-          "start": "2020-10-13T15:40:00",
+          "start": "2020-10-13T15:39:00",
           "status": "Crew status: Crew assigned\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 15 10:00 a.m."
         },
         {
@@ -147,11 +157,11 @@
           "area": "400 block W 23RD AVE, 4000 block CAMBIE ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Fire",
           "customers_affected": "13",
-          "last_updated": "2020-10-15T10:35:00",
+          "last_updated": "2020-10-15T11:03:00",
           "municipality": "Vancouver",
           "municipality_code": "day-1 day-3 city--1786794435",
           "start": "2020-10-15T02:09:00",
-          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 15 11:15 a.m."
+          "status": "Crew status: Crew on-site"
         },
         {
           "area": "1300 block JOHNSTON ST, 1200 block CARTWRIGHT ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -326,7 +336,7 @@
       "region_id": "1812901382"
     },
     "Thompson/Shuswap": {
-      "customers_affected_14d": 98,
+      "customers_affected_14d": 117,
       "outages": [
         {
           "area": "North-East of RAFT RIVER RD, South-West of HWY 5\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -357,6 +367,16 @@
           "municipality_code": "day-1 day-3 city-979034872",
           "start": "2020-10-15T09:43:00",
           "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 15 4:00 p.m."
+        },
+        {
+          "area": "North-West of SIMPSON ST, East of LEACH ST, South of COTTONWOOD ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Planned work being done on our equipment",
+          "customers_affected": "19",
+          "last_updated": "2020-10-15T10:57:00",
+          "municipality": "Revelstoke",
+          "municipality_code": "day-1 day-3 city-1039954398",
+          "start": "2020-10-15T10:55:00",
+          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 15 12:00 p.m."
         }
       ],
       "region_code": "Thompson/Shuswap",
@@ -2126,7 +2146,7 @@
       "region_id": "1602896846"
     },
     "Northern": {
-      "customers_affected_14d": 6653,
+      "customers_affected_14d": 6726,
       "outages": [
         {
           "area": "Burns Lake Substation - Burns Lake; Danskin; Decker Lake; Endako; Francois Lake, Fraser Lake; Grassy Plains; Houston; Noralee; Ootsa Lake; Priestley; Southbank; Takysie Lake; Tchesinkut Lake; Topley",
@@ -2149,11 +2169,11 @@
           "start": "2020-10-25T07:00:00"
         },
         {
-          "area": "**Emergent**18 St; Aspen Dr., Dawson Creek",
+          "area": "**Emergent**10727, 10728, 10729, 10731, 10732 18 St; 1800, 1804, 1808, 1812, 1816, 1820, 1824, 1828, 1832, 1836, 1840, 1900, 1904, 1908, 1912, 1916, 1920, 1924, 1928, 1932, 1936, 1940 108 Ave; 1801, 1805, 1809, 1813, 1817, 1821, 1825, 1829, 1833, 1837, 1841, 1901, 1905 Aspen Dr; 1704, 1706, 1707, 1708, 1710, 1711, 1712, 1714, 1715, 1716, 1718, 1719, 1720, 1722, 1723, 1724, 1726, 1727, 1728, 1730, 1731, 1732, 1735 Cedarwood Crt; 10712, 10714, 10715, 10717, 10718, 10719, 10720, 10721, 10723, 10724, 10725, 10728, 10729 Cottonwood Cres; 10700, 10701, 10702, 10704, 10705, 10706, 10708, 10709, 10710, 10712, 10713, 10714, 10716, 10717, 10718, 10720, 10721, 10722, 10724, 10725, 10728, 10729, 10730, 10732, 10733, 10734, 10737 Cypress Crt; 2001, 2009, 2013, 2017, 2021, 10724, 10728 Willowview Dr., Dawson Creek",
           "cause": "Pole replacement",
           "customers_affected": "111",
           "end": "2020-10-22T16:00:00",
-          "last_updated": "2020-10-15T09:51:00",
+          "last_updated": "2020-10-15T10:51:00",
           "municipality": "Dawson Creek",
           "municipality_code": "day-1 day-3 city--1630954860",
           "start": "2020-10-22T10:00:00"
@@ -2347,6 +2367,16 @@
           "municipality": "Terrace",
           "municipality_code": "day-1 day-3 city-241216082",
           "start": "2020-10-23T09:30:00"
+        },
+        {
+          "area": "107 - 120 Babcock Ave; 107 - 267 Gwilliam CRS",
+          "cause": "Planned work being done on our equipment",
+          "customers_affected": "73",
+          "end": "2020-10-22T15:00:00",
+          "last_updated": "2020-10-15T11:03:00",
+          "municipality": "Tumbler Ridge",
+          "municipality_code": "day-1 day-3 city-53995150",
+          "start": "2020-10-22T10:00:00"
         },
         {
           "area": "**EMERGENT**1034-1150 Ray St, 525-600, 1217-1382 Speedway Rd",
@@ -4430,7 +4460,7 @@
           "cause": "Tree down across our wires",
           "customers_affected": "563",
           "end": "2020-10-14T03:45:00",
-          "last_updated": "2020-10-14T03:45:00",
+          "last_updated": "2020-10-15T11:06:00",
           "municipality": "Abbotsford, Langley",
           "municipality_code": "day-1 day-3 city-1230363016 city-1612593490",
           "start": "2020-10-13T13:59:00"
@@ -6060,7 +6090,7 @@
           "cause": "Tree down across our wires",
           "customers_affected": "2978",
           "end": "2020-10-13T16:06:00",
-          "last_updated": "2020-10-13T16:07:00",
+          "last_updated": "2020-10-15T11:03:00",
           "municipality": "Langley",
           "municipality_code": "day-1 day-3 city-1612593490",
           "start": "2020-10-13T13:03:00"
@@ -6140,7 +6170,7 @@
           "cause": "Other",
           "customers_affected": "206",
           "end": "",
-          "last_updated": "2020-10-13T22:29:00",
+          "last_updated": "2020-10-15T11:05:00",
           "municipality": "Langley",
           "municipality_code": "day-1 day-3 city-1612593490",
           "start": "2020-10-13T14:01:00"
@@ -6340,7 +6370,7 @@
           "cause": "Other",
           "customers_affected": "11",
           "end": "",
-          "last_updated": "2020-10-13T21:50:00",
+          "last_updated": "2020-10-15T11:03:00",
           "municipality": "Langley",
           "municipality_code": "day-1 day-3 city-1612593490",
           "start": "2020-10-13T16:14:00"
@@ -6370,7 +6400,7 @@
           "cause": "Other",
           "customers_affected": "8",
           "end": "",
-          "last_updated": "2020-10-13T21:06:00",
+          "last_updated": "2020-10-15T11:01:00",
           "municipality": "Langley",
           "municipality_code": "day-1 day-3 city-1612593490",
           "start": "2020-10-13T16:38:00"
@@ -6390,7 +6420,7 @@
           "cause": "Other",
           "customers_affected": "7",
           "end": "",
-          "last_updated": "2020-10-13T20:14:00",
+          "last_updated": "2020-10-15T11:02:00",
           "municipality": "Langley",
           "municipality_code": "day-1 day-3 city-1612593490",
           "start": "2020-10-13T16:10:00"
@@ -6600,7 +6630,7 @@
           "cause": "Tree down across our wires",
           "customers_affected": "< 5",
           "end": "",
-          "last_updated": "2020-10-14T04:42:00",
+          "last_updated": "2020-10-15T11:04:00",
           "municipality": "Langley",
           "municipality_code": "day-1 day-3 city-1612593490",
           "start": "2020-10-13T13:55:00"
@@ -6680,7 +6710,7 @@
           "cause": "Other",
           "customers_affected": "< 5",
           "end": "",
-          "last_updated": "2020-10-14T08:51:00",
+          "last_updated": "2020-10-15T11:02:00",
           "municipality": "Langley",
           "municipality_code": "day-1 day-3 city-1612593490",
           "start": "2020-10-13T13:54:00"
@@ -7382,7 +7412,7 @@
           "end": "",
           "last_updated": "2020-10-13T13:03:00",
           "municipality": "Mission",
-          "municipality_code": "day-3 city--1560864404",
+          "municipality_code": "city--1560864404",
           "start": "2020-10-11T09:55:00"
         },
         {
@@ -10289,7 +10319,7 @@
           "end": "2020-10-13T10:30:00",
           "last_updated": "2020-10-13T11:46:00",
           "municipality": "Nanaimo",
-          "municipality_code": "day-1 day-3 city--907547835",
+          "municipality_code": "day-3 city--907547835",
           "start": "2020-10-13T04:37:00"
         },
         {
@@ -10919,7 +10949,7 @@
           "end": "",
           "last_updated": "2020-10-13T12:32:00",
           "municipality": "Port Alberni",
-          "municipality_code": "day-1 day-3 city-383682720",
+          "municipality_code": "day-3 city-383682720",
           "start": "2020-10-13T09:55:00"
         },
         {
@@ -12176,7 +12206,7 @@
           "end": "2020-10-11T11:00:00",
           "last_updated": "2020-10-11T11:04:00",
           "municipality": "Fort St. John",
-          "municipality_code": "day-3 city-205572915",
+          "municipality_code": "city-205572915",
           "start": "2020-10-11T08:56:00"
         },
         {
@@ -13311,7 +13341,7 @@
       "region_id": "2072041405"
     },
     "South VI": {
-      "customers_affected_14d": 60686,
+      "customers_affected_14d": 61319,
       "outages": [
         {
           "area": "North of CHURCH RD, West of STAUTW RD, East of TETAYUT RD, South of MT NEWTON XRD",
@@ -14020,7 +14050,7 @@
           "end": "2020-10-13T11:00:00",
           "last_updated": "2020-10-14T11:42:00",
           "municipality": "Galiano Island",
-          "municipality_code": "day-1 day-3 city--995767958",
+          "municipality_code": "day-3 city--995767958",
           "start": "2020-10-13T08:07:00"
         },
         {
@@ -14228,7 +14258,7 @@
           "cause": "Voltage Problem or Overload",
           "customers_affected": "< 5",
           "end": "2020-10-14T16:30:00",
-          "last_updated": "2020-10-14T16:58:00",
+          "last_updated": "2020-10-15T11:03:00",
           "municipality": "Ganges",
           "municipality_code": "day-1 day-3 city-2125630497",
           "start": "2020-10-13T22:16:00"
@@ -14535,6 +14565,16 @@
         },
         {
           "area": "East of Swartz Bay-Mayne Is Ferry RD, North of CANAL RD",
+          "cause": "Other",
+          "customers_affected": "2556",
+          "end": "",
+          "last_updated": "2020-10-15T10:56:00",
+          "municipality": "Mayne Island, Saturna Island",
+          "municipality_code": "day-1 day-3 city-48997657 city-501274559",
+          "start": "2020-10-13T09:56:00"
+        },
+        {
+          "area": "East of Swartz Bay-Mayne Is Ferry RD, North of CANAL RD",
           "cause": "Tree down across our wires",
           "customers_affected": "1923",
           "end": "2020-10-13T20:00:00",
@@ -14542,16 +14582,6 @@
           "municipality": "Mayne Island, Saturna Island",
           "municipality_code": "day-1 day-3 city-48997657 city-501274559",
           "start": "2020-10-13T16:24:00"
-        },
-        {
-          "area": "East of Swartz Bay-Mayne Is Ferry RD, North of CANAL RD",
-          "cause": "Other",
-          "customers_affected": "1923",
-          "end": "",
-          "last_updated": "2020-10-13T16:17:00",
-          "municipality": "Mayne Island, Saturna Island",
-          "municipality_code": "day-1 day-3 city-48997657 city-501274559",
-          "start": "2020-10-13T09:56:00"
         },
         {
           "area": "4700 block SOOKE RD",
@@ -14640,7 +14670,7 @@
           "end": "2020-10-13T10:30:00",
           "last_updated": "2020-10-13T10:51:00",
           "municipality": "North Cowichan",
-          "municipality_code": "day-1 day-3 city--666037877",
+          "municipality_code": "day-3 city--666037877",
           "start": "2020-10-13T08:38:00"
         },
         {
@@ -16295,7 +16325,7 @@
           "cause": "Motor vehicle accident",
           "customers_affected": "390",
           "end": "2020-10-13T08:00:00",
-          "last_updated": "2020-10-13T17:21:00",
+          "last_updated": "2020-10-15T10:56:00",
           "municipality": "Kamloops",
           "municipality_code": "day-3 city-979034872",
           "start": "2020-10-13T03:58:00"
@@ -16395,7 +16425,7 @@
           "cause": "Motor vehicle accident",
           "customers_affected": "13",
           "end": "2020-10-15T06:05:00",
-          "last_updated": "2020-10-15T06:14:00",
+          "last_updated": "2020-10-15T10:56:00",
           "municipality": "Kamloops",
           "municipality_code": "day-1 day-3 city-979034872",
           "start": "2020-10-14T22:55:00"
