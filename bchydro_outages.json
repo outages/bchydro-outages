@@ -18,7 +18,7 @@
       "region_id": "848340027"
     },
     "Lower Mainland": {
-      "customers_affected_14d": 266,
+      "customers_affected_14d": 250,
       "outages": [
         {
           "area": "4800 block BESSBOROUGH DR, 4800 block ETON ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -52,23 +52,13 @@
         },
         {
           "area": "600 block COMO LAKE AVE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Under investigation",
+          "cause": "Work being done on our equipment",
           "customers_affected": "45",
-          "last_updated": "2020-10-15T12:46:00",
+          "last_updated": "2020-10-15T13:17:00",
           "municipality": "Coquitlam",
           "municipality_code": "day-1 day-3 city--3101987",
           "start": "2020-10-15T12:09:00",
-          "status": "Crew status: Crew on-site"
-        },
-        {
-          "area": "4700 block LOUGHEED HWY\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Under investigation",
-          "customers_affected": "< 5",
-          "last_updated": "2020-10-15T12:33:00",
-          "municipality": "Kent",
-          "municipality_code": "day-1 day-3 city-2334912",
-          "start": "2020-10-15T10:57:00",
-          "status": "Crew status: Crew on-site"
+          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 15 2:00 p.m."
         },
         {
           "area": "East of NICOMEN SLOUGH RD, South of NICOMEN RD, North-West of LOUGHEED HWY\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -99,16 +89,6 @@
           "municipality_code": "day-1 day-3 city--1560864404",
           "start": "2020-10-13T14:35:00",
           "status": "Crew status: Crew assigned\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 15 10:00 a.m."
-        },
-        {
-          "area": "5100 - 5300 block CLIFFRIDGE AVE, 5300 block ESPERANZA DR\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Planned work being done on our equipment",
-          "customers_affected": "15",
-          "last_updated": "2020-10-15T09:37:00",
-          "municipality": "North Vancouver",
-          "municipality_code": "day-1 day-3 city--1636626238",
-          "start": "2020-10-15T09:36:00",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 15 3:00 p.m."
         },
         {
           "area": "7600 block PEM PORTAGE RD, 0 block WALKERVILLE RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -164,11 +144,11 @@
           "area": "400 block W 23RD AVE, 4000 block CAMBIE ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Fire",
           "customers_affected": "13",
-          "last_updated": "2020-10-15T11:03:00",
+          "last_updated": "2020-10-15T13:17:00",
           "municipality": "Vancouver",
           "municipality_code": "day-1 day-3 city--1786794435",
           "start": "2020-10-15T02:09:00",
-          "status": "Crew status: Crew on-site"
+          "status": "Crew status: Crew assigned\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 15 11:05 a.m."
         },
         {
           "area": "1300 block JOHNSTON ST, 1200 block CARTWRIGHT ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -248,7 +228,7 @@
           "area": "South of ELM ST, West of BIRCH ST, North-East of STUART DR\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Planned work being done on our equipment",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-15T11:16:00",
+          "last_updated": "2020-10-15T13:11:00",
           "municipality": "Fort St. James",
           "municipality_code": "day-1 day-3 city-2077380636",
           "start": "2020-10-15T11:15:00",
@@ -278,7 +258,7 @@
           "area": "3400 block 2ND AVE, FORESTRY HILL\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-15T12:29:00",
+          "last_updated": "2020-10-15T13:26:00",
           "municipality": "Queen Charlotte",
           "municipality_code": "day-1 day-3 city-609409590",
           "start": "2020-10-15T12:16:00",
@@ -289,18 +269,8 @@
       "region_id": "1602964060"
     },
     "Okanagan/Kootenay": {
-      "customers_affected_14d": 60,
+      "customers_affected_14d": 9,
       "outages": [
-        {
-          "area": "North-South-East-West of HWY 95\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Planned work being done on our equipment",
-          "customers_affected": "51",
-          "last_updated": "2020-10-15T07:55:00",
-          "municipality": "Golden",
-          "municipality_code": "day-1 day-3 city-2138497321",
-          "start": "2020-10-15T07:40:00",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 15 1:30 p.m."
-        },
         {
           "area": "3900 - 4100 block DEAR RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Planned work being done on our equipment",
@@ -316,8 +286,18 @@
       "region_id": "2072041405"
     },
     "South VI": {
-      "customers_affected_14d": 149,
+      "customers_affected_14d": 151,
       "outages": [
+        {
+          "area": "6400 block CENTRAL SAANICH RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Under investigation",
+          "customers_affected": "< 5",
+          "last_updated": "2020-10-15T13:25:00",
+          "municipality": "Central Saanich",
+          "municipality_code": "day-1 day-3 city--769735224",
+          "start": "2020-10-15T13:20:00",
+          "status": "Crew status: No crew assigned yet"
+        },
         {
           "area": "200 block S WARBLER RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Tree down across our wires",
@@ -332,7 +312,7 @@
           "area": "West of MOBRAE AVE, South of VESUVIUS BAY RD, East of QUARRY DR, North of BAKER RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Tree down across our wires",
           "customers_affected": "140",
-          "last_updated": "2020-10-15T12:59:00",
+          "last_updated": "2020-10-15T13:26:00",
           "municipality": "Ganges",
           "municipality_code": "day-1 day-3 city-2125630497",
           "start": "2020-10-15T12:58:00",
@@ -363,7 +343,7 @@
       "region_id": "1812901382"
     },
     "Thompson/Shuswap": {
-      "customers_affected_14d": 118,
+      "customers_affected_14d": 30,
       "outages": [
         {
           "area": "North-East of RAFT RIVER RD, South-West of HWY 5\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -384,16 +364,6 @@
           "municipality_code": "day-1 day-3 city-1282265866",
           "start": "2020-10-15T12:00:00",
           "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 15 1:00 p.m."
-        },
-        {
-          "area": "South-East of MAPLE ST, North of MACKENZIE AVE, West of TRANQUILLE RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Planned work being done on our equipment",
-          "customers_affected": "88",
-          "last_updated": "2020-10-15T10:38:00",
-          "municipality": "Kamloops",
-          "municipality_code": "day-1 day-3 city-979034872",
-          "start": "2020-10-15T10:36:00",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 15 3:00 p.m."
         },
         {
           "area": "1500 - 1600 block ABITIBI AVE, 2400 block OMINECA DR\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -3880,7 +3850,7 @@
       "region_id": "848340027"
     },
     "Lower Mainland": {
-      "customers_affected_14d": 142283,
+      "customers_affected_14d": 142299,
       "outages": [
         {
           "area": "North of MACLURE RD, East of MT LEHMAN RD, West of Hwy 11",
@@ -6153,6 +6123,16 @@
           "start": "2020-10-13T15:32:00"
         },
         {
+          "area": "4700 block LOUGHEED HWY",
+          "cause": "Other",
+          "customers_affected": "< 5",
+          "end": "2020-10-15T14:18:00",
+          "last_updated": "2020-10-15T13:22:00",
+          "municipality": "Kent",
+          "municipality_code": "day-1 day-3 city-2334912",
+          "start": "2020-10-15T10:57:00"
+        },
+        {
           "area": "West of 276TH ST, East of 240TH ST, South of 56TH AVE, North of 16TH AVE",
           "cause": "Tree down across our wires",
           "customers_affected": "2978",
@@ -7109,7 +7089,7 @@
           "end": "2020-10-13T13:00:00",
           "last_updated": "2020-10-13T13:19:00",
           "municipality": "Maple Ridge",
-          "municipality_code": "day-1 day-3 city-598891104",
+          "municipality_code": "day-3 city-598891104",
           "start": "2020-10-13T10:53:00"
         },
         {
@@ -7569,7 +7549,7 @@
           "end": "",
           "last_updated": "2020-10-13T13:03:00",
           "municipality": "Mission",
-          "municipality_code": "day-3 city--1560864404",
+          "municipality_code": "city--1560864404",
           "start": "2020-10-11T11:32:00"
         },
         {
@@ -7651,6 +7631,16 @@
           "municipality": "North Vancouver",
           "municipality_code": "day-1 day-3 city--1636626238",
           "start": "2020-10-13T09:21:00"
+        },
+        {
+          "area": "5100 - 5300 block CLIFFRIDGE AVE, 5300 block ESPERANZA DR",
+          "cause": "Planned work being done on our equipment",
+          "customers_affected": "15",
+          "end": "2020-10-15T13:30:00",
+          "last_updated": "2020-10-15T13:11:00",
+          "municipality": "North Vancouver",
+          "municipality_code": "day-1 day-3 city--1636626238",
+          "start": "2020-10-15T09:36:00"
         },
         {
           "area": "900 block FREDERICK PL, 1000 block FREDERICK RD",
@@ -8449,7 +8439,7 @@
           "end": "2020-10-13T14:17:00",
           "last_updated": "2020-10-14T11:37:00",
           "municipality": "Surrey",
-          "municipality_code": "day-1 day-3 city--1807186826",
+          "municipality_code": "day-3 city--1807186826",
           "start": "2020-10-13T11:52:00"
         },
         {
@@ -9399,7 +9389,7 @@
           "end": "2020-10-13T13:30:00",
           "last_updated": "2020-10-14T10:07:00",
           "municipality": "Vancouver",
-          "municipality_code": "day-1 day-3 city--1786794435",
+          "municipality_code": "day-3 city--1786794435",
           "start": "2020-10-13T10:05:00"
         },
         {
@@ -10006,7 +9996,7 @@
           "end": "2020-10-13T14:00:00",
           "last_updated": "2020-10-13T14:55:00",
           "municipality": "Courtenay",
-          "municipality_code": "day-1 day-3 city--824228212",
+          "municipality_code": "day-3 city--824228212",
           "start": "2020-10-13T10:31:00"
         },
         {
@@ -10656,7 +10646,7 @@
           "end": "",
           "last_updated": "2020-10-13T14:52:00",
           "municipality": "Nanaimo",
-          "municipality_code": "day-1 day-3 city--907547835",
+          "municipality_code": "day-3 city--907547835",
           "start": "2020-10-13T06:51:00"
         },
         {
@@ -12861,7 +12851,7 @@
       "region_id": "1602964060"
     },
     "Okanagan/Kootenay": {
-      "customers_affected_14d": 15625,
+      "customers_affected_14d": 15676,
       "outages": [
         {
           "area": "South of LEARMOUTH RD, West of COACHWOOD CRS, East of BREWER RD",
@@ -12982,6 +12972,16 @@
           "municipality": "Golden",
           "municipality_code": "city-2138497321",
           "start": "2020-10-02T12:54:00"
+        },
+        {
+          "area": "North-South-East-West of HWY 95",
+          "cause": "Planned work being done on our equipment",
+          "customers_affected": "51",
+          "end": "2020-10-15T13:30:00",
+          "last_updated": "2020-10-15T13:14:00",
+          "municipality": "Golden",
+          "municipality_code": "day-1 day-3 city-2138497321",
+          "start": "2020-10-15T07:40:00"
         },
         {
           "area": "2600 block JOHNSON RD",
@@ -13478,7 +13478,7 @@
       "region_id": "2072041405"
     },
     "South VI": {
-      "customers_affected_14d": 61474,
+      "customers_affected_14d": 61482,
       "outages": [
         {
           "area": "North of CHURCH RD, West of STAUTW RD, East of TETAYUT RD, South of MT NEWTON XRD",
@@ -13602,10 +13602,10 @@
         },
         {
           "area": "North-East of BEAR HILL RD, West of RODOLPH RD, South of WILCOX TCE",
-          "cause": "Under investigation",
+          "cause": "Tree down across our wires",
           "customers_affected": "70",
           "end": "2020-10-15T13:00:00",
-          "last_updated": "2020-10-15T12:58:00",
+          "last_updated": "2020-10-15T13:14:00",
           "municipality": "Central Saanich, Saanich",
           "municipality_code": "day-1 day-3 city--769735224 city--776615533",
           "start": "2020-10-15T09:49:00"
@@ -14027,7 +14027,7 @@
           "end": "2020-10-13T13:30:00",
           "last_updated": "2020-10-13T13:27:00",
           "municipality": "Esquimalt",
-          "municipality_code": "day-1 day-3 city--941955629",
+          "municipality_code": "day-3 city--941955629",
           "start": "2020-10-13T09:44:00"
         },
         {
@@ -14379,6 +14379,16 @@
           "municipality": "Ganges",
           "municipality_code": "day-3 city-2125630497",
           "start": "2020-10-12T01:36:00"
+        },
+        {
+          "area": "100 block MAPLE RIDGE PL, 100 block MAPLERIDGE PL",
+          "cause": "Tree down across our wires",
+          "customers_affected": "8",
+          "end": "2020-10-15T13:00:00",
+          "last_updated": "2020-10-15T13:24:00",
+          "municipality": "Ganges",
+          "municipality_code": "day-1 day-3 city-2125630497",
+          "start": "2020-10-15T11:12:00"
         },
         {
           "area": "400 block SKY VALLEY RD",
@@ -15945,7 +15955,7 @@
       "region_id": "1812901382"
     },
     "Thompson/Shuswap": {
-      "customers_affected_14d": 15454,
+      "customers_affected_14d": 15542,
       "outages": [
         {
           "area": "East of WILCOX RD, North of TRIP RD",
@@ -16314,7 +16324,7 @@
           "end": "",
           "last_updated": "2020-10-13T10:34:00",
           "municipality": "Clearwater",
-          "municipality_code": "day-3 city-1282265866",
+          "municipality_code": "city-1282265866",
           "start": "2020-10-11T06:07:00"
         },
         {
@@ -16556,6 +16566,16 @@
           "municipality": "Kamloops",
           "municipality_code": "city-979034872",
           "start": "2020-10-07T08:37:00"
+        },
+        {
+          "area": "South-East of MAPLE ST, North of MACKENZIE AVE, West of TRANQUILLE RD",
+          "cause": "Planned work being done on our equipment",
+          "customers_affected": "88",
+          "end": "2020-10-15T15:00:00",
+          "last_updated": "2020-10-15T13:23:00",
+          "municipality": "Kamloops",
+          "municipality_code": "day-1 day-3 city-979034872",
+          "start": "2020-10-15T10:36:00"
         },
         {
           "area": "South of SHUSWAP RD, East of TRANS CANADA HWY, West of RIVERSHORE DR",
@@ -16924,7 +16944,7 @@
           "end": "2020-10-13T12:39:00",
           "last_updated": "2020-10-14T14:11:00",
           "municipality": "Merritt",
-          "municipality_code": "day-1 day-3 city--1676334159",
+          "municipality_code": "day-3 city--1676334159",
           "start": "2020-10-13T09:45:00"
         },
         {
