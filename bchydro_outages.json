@@ -7,11 +7,11 @@
           "area": "30200 block NICHOLSON AVE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-14T20:47:00",
+          "last_updated": "2020-10-14T21:25:00",
           "municipality": "Abbotsford",
           "municipality_code": "day-1 day-3 city-1230363016",
           "start": "2020-10-14T17:18:00",
-          "status": "Crew status: Crew on their way"
+          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 14 9:30 p.m."
         },
         {
           "area": "South-East of COLUMBIA VALLEY RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -47,11 +47,11 @@
           "area": "44200 block BAYVIEW RD, BAYVIEW RD L24\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "8",
-          "last_updated": "2020-10-14T20:39:00",
+          "last_updated": "2020-10-14T21:26:00",
           "municipality": "Mission",
           "municipality_code": "day-1 day-3 city--1560864404",
           "start": "2020-10-14T20:11:00",
-          "status": "Crew status: Crew assigned"
+          "status": "Crew status: No crew assigned yet"
         },
         {
           "area": "40800 block CARTER RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -94,11 +94,11 @@
           "area": "400 block KENNEDY ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-14T19:00:00",
+          "last_updated": "2020-10-14T21:12:00",
           "municipality": "Nanaimo",
           "municipality_code": "day-1 day-3 city--907547835",
           "start": "2020-10-13T10:15:00",
-          "status": "Crew status: Crew assigned"
+          "status": "Crew status: No crew assigned yet"
         },
         {
           "area": "100 block SPRINGHILL RD, 200 block GUN RANGE RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -132,8 +132,18 @@
       "region_id": "1602964060"
     },
     "South VI": {
-      "customers_affected_14d": -1,
+      "customers_affected_14d": 29,
       "outages": [
+        {
+          "area": "West of TILLICUM RD, North-East of GORGE RD, South of VINCENT AVE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Under investigation",
+          "customers_affected": "28",
+          "last_updated": "2020-10-14T21:25:00",
+          "municipality": "Saanich",
+          "municipality_code": "day-1 day-3 city--776615533",
+          "start": "2020-10-14T21:23:00",
+          "status": "Crew status: Crew on-site"
+        },
         {
           "area": "200 block BECHER BAY RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Wire down",
@@ -5748,7 +5758,7 @@
           "end": "2020-10-10T21:30:00",
           "last_updated": "2020-10-13T10:59:00",
           "municipality": "Hope",
-          "municipality_code": "day-3 city-2255196",
+          "municipality_code": "city-2255196",
           "start": "2020-10-10T18:59:00"
         },
         {
@@ -7488,7 +7498,7 @@
           "end": "2020-10-12T21:30:00",
           "last_updated": "2020-10-13T08:27:00",
           "municipality": "Pemberton",
-          "municipality_code": "day-1 day-3 city--2076154532",
+          "municipality_code": "day-3 city--2076154532",
           "start": "2020-10-12T19:29:00"
         },
         {
@@ -7898,7 +7908,7 @@
           "end": "2020-10-12T22:00:00",
           "last_updated": "2020-10-13T12:41:00",
           "municipality": "Richmond",
-          "municipality_code": "day-1 day-3 city--1486145068",
+          "municipality_code": "day-3 city--1486145068",
           "start": "2020-10-12T13:48:00"
         },
         {
@@ -15963,7 +15973,7 @@
           "end": "2020-10-10T21:30:00",
           "last_updated": "2020-10-13T10:18:00",
           "municipality": "100 Mile House",
-          "municipality_code": "day-3 city-950857956",
+          "municipality_code": "city-950857956",
           "start": "2020-10-10T12:58:00"
         },
         {
