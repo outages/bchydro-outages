@@ -1,18 +1,8 @@
 {
   "current": {
     "Lower Mainland": {
-      "customers_affected_14d": 227,
+      "customers_affected_14d": 204,
       "outages": [
-        {
-          "area": "West of PARALLEL RD, North-South of ELDRIDGE RD, East of KILGARD RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Planned work being done on our equipment",
-          "customers_affected": "24",
-          "last_updated": "2020-10-15T11:06:00",
-          "municipality": "Abbotsford",
-          "municipality_code": "day-1 day-3 city-1230363016",
-          "start": "2020-10-15T10:38:00",
-          "status": "Crew status: Crew assigned\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 15 10:45 a.m."
-        },
         {
           "area": "South-East of COLUMBIA VALLEY RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Tree down across our wires",
@@ -82,6 +72,16 @@
           "municipality_code": "day-1 day-3 city--1636626238",
           "start": "2020-10-15T09:36:00",
           "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 15 3:00 p.m."
+        },
+        {
+          "area": "1800 block ARBORLYNN DR\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Under investigation",
+          "customers_affected": "< 5",
+          "last_updated": "2020-10-15T11:55:00",
+          "municipality": "North Vancouver",
+          "municipality_code": "day-1 day-3 city--1636626238",
+          "start": "2020-10-15T11:36:00",
+          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 15 12:20 p.m."
         },
         {
           "area": "7600 block PEM PORTAGE RD, 0 block WALKERVILLE RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -279,17 +279,17 @@
       "region_id": "2072041405"
     },
     "South VI": {
-      "customers_affected_14d": 125,
+      "customers_affected_14d": 131,
       "outages": [
         {
           "area": "North-East of BEAR HILL RD, West of RODOLPH RD, South of WILCOX TCE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "70",
-          "last_updated": "2020-10-15T11:38:00",
+          "last_updated": "2020-10-15T12:03:00",
           "municipality": "Central Saanich, Saanich",
           "municipality_code": "day-1 day-3 city--769735224 city--776615533",
           "start": "2020-10-15T09:49:00",
-          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 15 12:40 p.m."
+          "status": "Crew status: Crew on-site"
         },
         {
           "area": "200 block S WARBLER RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -302,14 +302,24 @@
           "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 15 1:00 p.m."
         },
         {
+          "area": "6600 block RAZOR POINT RD, 6600 block HARBOUR HILL DR\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Planned work being done on our equipment",
+          "customers_affected": "6",
+          "last_updated": "2020-10-15T11:54:00",
+          "municipality": "Pender Island",
+          "municipality_code": "day-1 day-3 city--635217187",
+          "start": "2020-10-15T11:11:00",
+          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 15 3:00 p.m."
+        },
+        {
           "area": "North of MOUNTAIN RD, West of INTERURBAN RD, East of VIADUCT AVE, South of QUAYLE RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "52",
-          "last_updated": "2020-10-15T11:45:00",
+          "last_updated": "2020-10-15T12:00:00",
           "municipality": "Saanich",
           "municipality_code": "day-1 day-3 city--776615533",
           "start": "2020-10-15T10:10:00",
-          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 15 12:45 p.m."
+          "status": "Crew status: Crew on-site"
         },
         {
           "area": "1400 - 1500 block DALLAS RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -326,7 +336,7 @@
       "region_id": "1812901382"
     },
     "Thompson/Shuswap": {
-      "customers_affected_14d": 117,
+      "customers_affected_14d": 118,
       "outages": [
         {
           "area": "North-East of RAFT RIVER RD, South-West of HWY 5\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -337,6 +347,16 @@
           "municipality_code": "day-1 day-3 city-1282265866",
           "start": "2020-10-15T10:19:00",
           "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 15 4:00 p.m."
+        },
+        {
+          "area": "1700 block HWY 5\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Planned work being done on our equipment",
+          "customers_affected": "< 5",
+          "last_updated": "2020-10-15T12:02:00",
+          "municipality": "Clearwater",
+          "municipality_code": "day-1 day-3 city-1282265866",
+          "start": "2020-10-15T12:00:00",
+          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 15 1:00 p.m."
         },
         {
           "area": "South-East of MAPLE ST, North of MACKENZIE AVE, West of TRANQUILLE RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -412,7 +432,7 @@
       "region_id": "848340027"
     },
     "Lower Mainland": {
-      "customers_affected_14d": 7278,
+      "customers_affected_14d": 7282,
       "outages": [
         {
           "area": "1944, 1954, 1966, 1976 Albion St; 32666-32749 Cordova Ave; 325, 32760 Marshall Rd, 32414-32750 Pandora Ave; 1911-1944 Valencia Crt, Abbotsford",
@@ -1585,6 +1605,16 @@
           "start": "2020-10-19T10:00:00"
         },
         {
+          "area": "8445, 8473 - 156 ST; 15538, 15546, 15558, 15568, 15569, 15574, 15581 - 84A AVE.",
+          "cause": "Transformer replacement",
+          "customers_affected": "9",
+          "end": "2020-10-23T16:30:00",
+          "last_updated": "2020-10-15T11:51:00",
+          "municipality": "Surrey",
+          "municipality_code": "day-1 day-3 city--1807186826",
+          "start": "2020-10-23T08:30:00"
+        },
+        {
           "area": "9454 Wallace Cres, 9384-9418 Prince Charles Blvd, Surrey",
           "cause": "Planned work being done on our equipment",
           "customers_affected": "9",
@@ -1600,16 +1630,6 @@
           "customers_affected": "7",
           "end": "2020-10-13T16:00:00",
           "last_updated": "2020-09-30T15:21:00",
-          "municipality": "Surrey",
-          "municipality_code": "day-1 day-3 city--1807186826",
-          "start": "2020-10-13T09:00:00"
-        },
-        {
-          "area": "5604 175 St; 17525, 17535, 17545 56 Ave., Surrey",
-          "cause": "Planned work being done on our equipment",
-          "customers_affected": "5",
-          "end": "2020-10-13T12:00:00",
-          "last_updated": "2020-09-22T15:11:00",
           "municipality": "Surrey",
           "municipality_code": "day-1 day-3 city--1807186826",
           "start": "2020-10-13T09:00:00"
@@ -2416,11 +2436,11 @@
           "start": "2020-10-18T09:00:00"
         },
         {
-          "area": "*EMERGENT WORK*335, 341, 347, 353, 359 BANKS ST;\r\n255, 266, 267, 334, 340, 346, 352, 358 OUGHTRED ST;\r\n2185, 2205, 2210, 2225 2230 WARREN AVE.",
+          "area": "*EMERGENT WORK* (MOUNTAIN TIME)335, 341, 347, 353, 359 BANKS ST; 255, 266, 267, 334, 340, 346, 352, 358 OUGHTRED ST; 2185, 2205, 2210, 2225 2230 WARREN AVE.",
           "cause": "Pole replacement",
           "customers_affected": "18",
           "end": "2020-10-22T15:00:00",
-          "last_updated": "2020-10-15T11:22:00",
+          "last_updated": "2020-10-15T11:48:00",
           "municipality": "Kimberley",
           "municipality_code": "day-1 day-3 city-1047449248",
           "start": "2020-10-22T10:00:00"
@@ -3853,7 +3873,7 @@
       "region_id": "848340027"
     },
     "Lower Mainland": {
-      "customers_affected_14d": 142248,
+      "customers_affected_14d": 142272,
       "outages": [
         {
           "area": "North of MACLURE RD, East of MT LEHMAN RD, West of Hwy 11",
@@ -3872,7 +3892,7 @@
           "end": "2020-10-13T11:59:00",
           "last_updated": "2020-10-13T12:54:00",
           "municipality": "Abbotsford",
-          "municipality_code": "day-1 day-3 city-1230363016",
+          "municipality_code": "day-3 city-1230363016",
           "start": "2020-10-13T11:07:00"
         },
         {
@@ -3920,7 +3940,7 @@
           "cause": "Tree down across our wires",
           "customers_affected": "439",
           "end": "",
-          "last_updated": "2020-10-13T19:03:00",
+          "last_updated": "2020-10-15T11:55:00",
           "municipality": "Abbotsford",
           "municipality_code": "day-1 day-3 city-1230363016",
           "start": "2020-10-13T12:34:00"
@@ -3932,7 +3952,7 @@
           "end": "",
           "last_updated": "2020-10-13T12:54:00",
           "municipality": "Abbotsford",
-          "municipality_code": "day-1 day-3 city-1230363016",
+          "municipality_code": "day-3 city-1230363016",
           "start": "2020-10-13T11:10:00"
         },
         {
@@ -3960,7 +3980,7 @@
           "cause": "Bird contacting our wires",
           "customers_affected": "45",
           "end": "2020-10-14T14:59:00",
-          "last_updated": "2020-10-14T15:18:00",
+          "last_updated": "2020-10-15T11:49:00",
           "municipality": "Abbotsford",
           "municipality_code": "day-1 day-3 city-1230363016",
           "start": "2020-10-14T13:47:00"
@@ -4000,17 +4020,27 @@
           "cause": "Other",
           "customers_affected": "27",
           "end": "",
-          "last_updated": "2020-10-13T21:03:00",
+          "last_updated": "2020-10-15T11:53:00",
           "municipality": "Abbotsford",
           "municipality_code": "day-1 day-3 city-1230363016",
           "start": "2020-10-13T17:10:00"
+        },
+        {
+          "area": "West of PARALLEL RD, North-South of ELDRIDGE RD, East of KILGARD RD",
+          "cause": "Planned work being done on our equipment",
+          "customers_affected": "24",
+          "end": "2020-10-15T16:00:00",
+          "last_updated": "2020-10-15T12:05:00",
+          "municipality": "Abbotsford",
+          "municipality_code": "day-1 day-3 city-1230363016",
+          "start": "2020-10-15T10:38:00"
         },
         {
           "area": "34200 block SOUTH FRASER WAY",
           "cause": "Customer's equipment",
           "customers_affected": "17",
           "end": "",
-          "last_updated": "2020-10-14T09:33:00",
+          "last_updated": "2020-10-15T11:49:00",
           "municipality": "Abbotsford",
           "municipality_code": "day-1 day-3 city-1230363016",
           "start": "2020-10-14T04:34:00"
@@ -4070,7 +4100,7 @@
           "cause": "Equipment failure",
           "customers_affected": "7",
           "end": "2020-10-14T10:20:00",
-          "last_updated": "2020-10-14T10:48:00",
+          "last_updated": "2020-10-15T11:47:00",
           "municipality": "Abbotsford",
           "municipality_code": "day-1 day-3 city-1230363016",
           "start": "2020-10-13T12:49:00"
@@ -4130,7 +4160,7 @@
           "cause": "Other",
           "customers_affected": "< 5",
           "end": "",
-          "last_updated": "2020-10-13T23:10:00",
+          "last_updated": "2020-10-15T11:55:00",
           "municipality": "Abbotsford",
           "municipality_code": "day-1 day-3 city-1230363016",
           "start": "2020-10-13T19:27:00"
@@ -4140,7 +4170,7 @@
           "cause": "Other",
           "customers_affected": "< 5",
           "end": "",
-          "last_updated": "2020-10-14T08:13:00",
+          "last_updated": "2020-10-15T11:55:00",
           "municipality": "Abbotsford",
           "municipality_code": "day-1 day-3 city-1230363016",
           "start": "2020-10-13T14:33:00"
@@ -4160,7 +4190,7 @@
           "cause": "Under investigation",
           "customers_affected": "< 5",
           "end": "2020-10-14T15:19:00",
-          "last_updated": "2020-10-14T15:22:00",
+          "last_updated": "2020-10-15T11:47:00",
           "municipality": "Abbotsford",
           "municipality_code": "day-1 day-3 city-1230363016",
           "start": "2020-10-14T14:02:00"
@@ -4350,7 +4380,7 @@
           "cause": "Tree down across our wires",
           "customers_affected": "< 5",
           "end": "2020-10-14T11:30:00",
-          "last_updated": "2020-10-14T12:31:00",
+          "last_updated": "2020-10-15T11:52:00",
           "municipality": "Abbotsford",
           "municipality_code": "day-1 day-3 city-1230363016",
           "start": "2020-10-13T13:48:00"
@@ -4360,7 +4390,7 @@
           "cause": "Transformer replacement",
           "customers_affected": "< 5",
           "end": "2020-10-14T15:00:00",
-          "last_updated": "2020-10-14T14:48:00",
+          "last_updated": "2020-10-15T11:54:00",
           "municipality": "Abbotsford",
           "municipality_code": "day-1 day-3 city-1230363016",
           "start": "2020-10-13T21:57:00"
@@ -5490,7 +5520,7 @@
           "cause": "Tree down across our wires",
           "customers_affected": "1109",
           "end": "2020-10-13T18:32:00",
-          "last_updated": "2020-10-13T18:58:00",
+          "last_updated": "2020-10-15T11:52:00",
           "municipality": "Chilliwack, Kent",
           "municipality_code": "day-1 day-3 city--708005353 city-2334912",
           "start": "2020-10-13T15:43:00"
@@ -7290,7 +7320,7 @@
           "cause": "Tree down across our wires",
           "customers_affected": "1699",
           "end": "2020-10-14T01:30:00",
-          "last_updated": "2020-10-14T02:00:00",
+          "last_updated": "2020-10-15T11:52:00",
           "municipality": "Mission",
           "municipality_code": "day-1 day-3 city--1560864404",
           "start": "2020-10-13T12:46:00"
@@ -7330,7 +7360,7 @@
           "cause": "Tree down across our wires",
           "customers_affected": "95",
           "end": "2020-10-13T22:48:00",
-          "last_updated": "2020-10-13T23:13:00",
+          "last_updated": "2020-10-15T11:48:00",
           "municipality": "Mission",
           "municipality_code": "day-1 day-3 city--1560864404",
           "start": "2020-10-13T13:20:00"
@@ -7360,7 +7390,7 @@
           "cause": "Tree down across our wires",
           "customers_affected": "44",
           "end": "2020-10-14T16:00:00",
-          "last_updated": "2020-10-14T18:21:00",
+          "last_updated": "2020-10-15T11:49:00",
           "municipality": "Mission",
           "municipality_code": "day-1 day-3 city--1560864404",
           "start": "2020-10-13T14:46:00"
@@ -8972,7 +9002,7 @@
           "end": "2020-10-13T12:00:00",
           "last_updated": "2020-10-13T12:38:00",
           "municipality": "Surrey",
-          "municipality_code": "day-1 day-3 city--1807186826",
+          "municipality_code": "day-3 city--1807186826",
           "start": "2020-10-13T07:27:00"
         },
         {
@@ -9517,7 +9547,7 @@
           "cause": "Tree down across our wires",
           "customers_affected": "308",
           "end": "2020-10-13T19:16:00",
-          "last_updated": "2020-10-13T19:27:00",
+          "last_updated": "2020-10-15T11:50:00",
           "municipality": "Campbell River",
           "municipality_code": "day-1 day-3 city-1240464880",
           "start": "2020-10-13T09:40:00"
@@ -9527,7 +9557,7 @@
           "cause": "Tree down across our wires",
           "customers_affected": "287",
           "end": "2020-10-13T12:30:00",
-          "last_updated": "2020-10-13T12:18:00",
+          "last_updated": "2020-10-15T11:49:00",
           "municipality": "Campbell River",
           "municipality_code": "day-1 day-3 city-1240464880",
           "start": "2020-10-13T09:14:00"
@@ -9607,7 +9637,7 @@
           "cause": "Tree down across our wires",
           "customers_affected": "< 5",
           "end": "2020-10-14T15:15:00",
-          "last_updated": "2020-10-14T15:13:00",
+          "last_updated": "2020-10-15T11:50:00",
           "municipality": "Campbell River",
           "municipality_code": "day-1 day-3 city-1240464880",
           "start": "2020-10-13T12:43:00"
@@ -9637,7 +9667,7 @@
           "cause": "Tree down across our wires",
           "customers_affected": "< 5",
           "end": "",
-          "last_updated": "2020-10-13T19:53:00",
+          "last_updated": "2020-10-15T11:51:00",
           "municipality": "Campbell River",
           "municipality_code": "day-1 day-3 city-1240464880",
           "start": "2020-10-13T13:57:00"
@@ -9647,7 +9677,7 @@
           "cause": "Tree down across our wires",
           "customers_affected": "< 5",
           "end": "",
-          "last_updated": "2020-10-13T13:41:00",
+          "last_updated": "2020-10-15T11:50:00",
           "municipality": "Campbell River",
           "municipality_code": "day-1 day-3 city-1240464880",
           "start": "2020-10-13T12:44:00"
@@ -9687,7 +9717,7 @@
           "cause": "Tree down across our wires",
           "customers_affected": "1963",
           "end": "2020-10-14T19:30:00",
-          "last_updated": "2020-10-14T19:06:00",
+          "last_updated": "2020-10-15T11:51:00",
           "municipality": "Campbell River, Courtenay",
           "municipality_code": "day-1 day-3 city-1240464880 city--824228212",
           "start": "2020-10-14T17:02:00"
@@ -10207,7 +10237,7 @@
           "cause": "Tree down across our wires",
           "customers_affected": "884",
           "end": "2020-10-13T23:00:00",
-          "last_updated": "2020-10-15T11:46:00",
+          "last_updated": "2020-10-15T11:47:00",
           "municipality": "Gold River",
           "municipality_code": "day-1 day-3 city--1035423156",
           "start": "2020-10-13T08:08:00"
@@ -10217,7 +10247,7 @@
           "cause": "Bird contacting our wires",
           "customers_affected": "334",
           "end": "2020-10-14T10:00:00",
-          "last_updated": "2020-10-14T10:16:00",
+          "last_updated": "2020-10-15T11:51:00",
           "municipality": "Gold River",
           "municipality_code": "day-1 day-3 city--1035423156",
           "start": "2020-10-13T23:12:00"
@@ -10669,7 +10699,7 @@
           "end": "",
           "last_updated": "2020-10-13T12:50:00",
           "municipality": "Nanaimo",
-          "municipality_code": "day-1 day-3 city--907547835",
+          "municipality_code": "day-3 city--907547835",
           "start": "2020-10-13T09:33:00"
         },
         {
@@ -11037,9 +11067,9 @@
           "cause": "Other",
           "customers_affected": "1110",
           "end": "2020-10-13T16:04:00",
-          "last_updated": "2020-10-13T16:08:00",
+          "last_updated": "2020-10-15T12:03:00",
           "municipality": "Port Hardy",
-          "municipality_code": "day-1 day-3 city-368562319",
+          "municipality_code": "day-3 city-368562319",
           "start": "2020-10-13T07:45:00"
         },
         {
@@ -11047,7 +11077,7 @@
           "cause": "Tree down across our wires",
           "customers_affected": "397",
           "end": "",
-          "last_updated": "2020-10-13T19:16:00",
+          "last_updated": "2020-10-15T12:00:00",
           "municipality": "Port Hardy",
           "municipality_code": "day-1 day-3 city-368562319",
           "start": "2020-10-13T06:19:00"
@@ -11067,7 +11097,7 @@
           "cause": "Tree down across our wires",
           "customers_affected": "118",
           "end": "2020-10-14T09:15:00",
-          "last_updated": "2020-10-14T08:43:00",
+          "last_updated": "2020-10-15T12:00:00",
           "municipality": "Port Hardy",
           "municipality_code": "day-1 day-3 city-368562319",
           "start": "2020-10-13T05:31:00"
@@ -11107,7 +11137,7 @@
           "cause": "Tree down across our wires",
           "customers_affected": "85",
           "end": "",
-          "last_updated": "2020-10-14T18:48:00",
+          "last_updated": "2020-10-15T11:58:00",
           "municipality": "Port Hardy",
           "municipality_code": "day-1 day-3 city-368562319",
           "start": "2020-10-13T04:27:00"
@@ -11117,7 +11147,7 @@
           "cause": "Tree down across our wires",
           "customers_affected": "45",
           "end": "2020-10-14T12:30:00",
-          "last_updated": "2020-10-14T10:13:00",
+          "last_updated": "2020-10-15T12:01:00",
           "municipality": "Port Hardy",
           "municipality_code": "day-1 day-3 city-368562319",
           "start": "2020-10-13T06:56:00"
@@ -11127,7 +11157,7 @@
           "cause": "Tree down across our wires",
           "customers_affected": "8",
           "end": "2020-10-14T23:59:00",
-          "last_updated": "2020-10-14T23:39:00",
+          "last_updated": "2020-10-15T12:01:00",
           "municipality": "Port Hardy",
           "municipality_code": "day-1 day-3 city-368562319",
           "start": "2020-10-13T08:03:00"
@@ -11147,7 +11177,7 @@
           "cause": "Other",
           "customers_affected": "1396",
           "end": "2020-10-13T16:13:00",
-          "last_updated": "2020-10-13T19:26:00",
+          "last_updated": "2020-10-15T12:03:00",
           "municipality": "Port Mcneill",
           "municipality_code": "day-1 day-3 city--2097763811",
           "start": "2020-10-13T07:26:00"
@@ -11589,7 +11619,7 @@
           "end": "",
           "last_updated": "2020-10-13T11:53:00",
           "municipality": "Qualicum Beach",
-          "municipality_code": "day-1 day-3 city--154309756",
+          "municipality_code": "day-3 city--154309756",
           "start": "2020-10-13T07:59:00"
         },
         {
@@ -13540,7 +13570,7 @@
           "end": "",
           "last_updated": "2020-10-13T12:02:00",
           "municipality": "Duncan",
-          "municipality_code": "day-1 day-3 city-2058209491",
+          "municipality_code": "day-3 city-2058209491",
           "start": "2020-10-13T11:12:00"
         },
         {
@@ -13968,7 +13998,7 @@
           "cause": "Equipment failure",
           "customers_affected": "16",
           "end": "2020-10-09T15:00:00",
-          "last_updated": "2020-10-09T13:58:00",
+          "last_updated": "2020-10-15T12:06:00",
           "municipality": "Esquimalt, Victoria",
           "municipality_code": "city--941955629 city-1201273535",
           "start": "2020-10-09T08:19:00"
@@ -14658,7 +14688,7 @@
           "cause": "Tree down across our wires",
           "customers_affected": "< 5",
           "end": "2020-10-10T18:00:00",
-          "last_updated": "2020-10-10T18:05:00",
+          "last_updated": "2020-10-15T12:01:00",
           "municipality": "Metchosin",
           "municipality_code": "city-1000109226",
           "start": "2020-10-10T15:22:00"
@@ -15030,7 +15060,7 @@
           "end": "",
           "last_updated": "2020-10-13T11:49:00",
           "municipality": "North Saanich, Sidney",
-          "municipality_code": "day-1 day-3 city-179964248 city--1818689996",
+          "municipality_code": "day-3 city-179964248 city--1818689996",
           "start": "2020-10-13T11:18:00"
         },
         {
@@ -15070,7 +15100,7 @@
           "end": "",
           "last_updated": "2020-10-13T11:48:00",
           "municipality": "North Saanich, Sidney",
-          "municipality_code": "day-1 day-3 city-179964248 city--1818689996",
+          "municipality_code": "day-3 city-179964248 city--1818689996",
           "start": "2020-10-13T11:17:00"
         },
         {
@@ -15080,7 +15110,7 @@
           "end": "",
           "last_updated": "2020-10-13T11:49:00",
           "municipality": "North Saanich, Sidney",
-          "municipality_code": "day-1 day-3 city-179964248 city--1818689996",
+          "municipality_code": "day-3 city-179964248 city--1818689996",
           "start": "2020-10-13T11:33:00"
         },
         {
@@ -15518,7 +15548,7 @@
           "cause": "Tree down across our wires",
           "customers_affected": "33",
           "end": "2020-10-10T18:59:00",
-          "last_updated": "2020-10-10T18:57:00",
+          "last_updated": "2020-10-15T12:03:00",
           "municipality": "Sooke",
           "municipality_code": "city-80069133",
           "start": "2020-10-10T15:07:00"
@@ -15937,7 +15967,7 @@
           "end": "2020-10-11T12:00:00",
           "last_updated": "2020-10-13T11:20:00",
           "municipality": "100 Mile House",
-          "municipality_code": "day-3 city-950857956",
+          "municipality_code": "city-950857956",
           "start": "2020-10-10T20:38:00"
         },
         {
