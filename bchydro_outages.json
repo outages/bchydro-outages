@@ -112,8 +112,18 @@
       "region_id": "1602964060"
     },
     "Thompson/Shuswap": {
-      "customers_affected_14d": 13,
+      "customers_affected_14d": 396,
       "outages": [
+        {
+          "area": "East of CANYON RD, South of ENDERBY MABEL LAKE RD, North of STEPNEY RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Wire down",
+          "customers_affected": "383",
+          "last_updated": "2020-10-15T02:55:00",
+          "municipality": "Enderby, Spallumcheen",
+          "municipality_code": "day-1 day-3 city-57924863 city-2134222637",
+          "start": "2020-10-15T00:51:00",
+          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 15 4:30 a.m."
+        },
         {
           "area": "9000 - 9700 block BARNHARTVALE RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Motor vehicle accident",
