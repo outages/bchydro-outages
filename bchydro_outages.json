@@ -1,7 +1,7 @@
 {
   "current": {
     "Lower Mainland": {
-      "customers_affected_14d": 83,
+      "customers_affected_14d": 82,
       "outages": [
         {
           "area": "30200 block NICHOLSON AVE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -74,24 +74,14 @@
           "status": "Crew status: Crew assigned"
         },
         {
-          "area": "1800 block OCEAN PARK RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Under investigation",
-          "customers_affected": "< 5",
-          "last_updated": "2020-10-14T19:23:00",
-          "municipality": "Surrey",
-          "municipality_code": "day-1 day-3 city--1807186826",
-          "start": "2020-10-14T18:33:00",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 14 9:25 p.m."
-        },
-        {
           "area": "1500 block W 71ST AVE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "55",
-          "last_updated": "2020-10-14T19:36:00",
+          "last_updated": "2020-10-14T20:07:00",
           "municipality": "Vancouver",
           "municipality_code": "day-1 day-3 city--1786794435",
           "start": "2020-10-14T18:55:00",
-          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 14 8:40 p.m."
+          "status": "Crew status: Crew on-site"
         }
       ],
       "region_code": "Lower Mainland",
@@ -3529,7 +3519,7 @@
       "region_id": "848340027"
     },
     "Lower Mainland": {
-      "customers_affected_14d": 141546,
+      "customers_affected_14d": 141547,
       "outages": [
         {
           "area": "North of MACLURE RD, East of MT LEHMAN RD, West of Hwy 11",
@@ -8832,6 +8822,16 @@
           "start": "2020-10-13T13:21:00"
         },
         {
+          "area": "1800 block OCEAN PARK RD",
+          "cause": "Customer's equipment",
+          "customers_affected": "< 5",
+          "end": "2020-10-14T21:23:00",
+          "last_updated": "2020-10-14T20:10:00",
+          "municipality": "Surrey",
+          "municipality_code": "day-1 day-3 city--1807186826",
+          "start": "2020-10-14T18:33:00"
+        },
+        {
           "area": "9400 block 156 ST",
           "cause": "Tree down across our wires",
           "customers_affected": "< 5",
@@ -13239,7 +13239,7 @@
           "end": "2020-10-12T20:30:00",
           "last_updated": "2020-10-13T08:28:00",
           "municipality": "Vernon",
-          "municipality_code": "day-1 day-3 city--1736079254",
+          "municipality_code": "day-3 city--1736079254",
           "start": "2020-10-12T18:54:00"
         },
         {
@@ -16973,7 +16973,7 @@
           "end": "2020-10-10T20:30:00",
           "last_updated": "2020-10-14T08:36:00",
           "municipality": "Revelstoke",
-          "municipality_code": "day-3 city-1039954398",
+          "municipality_code": "city-1039954398",
           "start": "2020-10-10T17:01:00"
         },
         {
