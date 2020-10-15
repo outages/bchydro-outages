@@ -289,7 +289,7 @@
       "region_id": "2072041405"
     },
     "South VI": {
-      "customers_affected_14d": 124,
+      "customers_affected_14d": 125,
       "outages": [
         {
           "area": "North-East of BEAR HILL RD, West of RODOLPH RD, South of WILCOX TCE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -302,10 +302,20 @@
           "status": "Crew status: Crew assigned"
         },
         {
+          "area": "200 block S WARBLER RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Tree down across our wires",
+          "customers_affected": "< 5",
+          "last_updated": "2020-10-15T11:35:00",
+          "municipality": "Galiano Island",
+          "municipality_code": "day-1 day-3 city--995767958",
+          "start": "2020-10-15T11:32:00",
+          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 15 1:00 p.m."
+        },
+        {
           "area": "North of MOUNTAIN RD, West of INTERURBAN RD, East of VIADUCT AVE, South of QUAYLE RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "52",
-          "last_updated": "2020-10-15T10:15:00",
+          "last_updated": "2020-10-15T11:36:00",
           "municipality": "Saanich",
           "municipality_code": "day-1 day-3 city--776615533",
           "start": "2020-10-15T10:10:00",
@@ -2359,11 +2369,11 @@
           "start": "2020-10-23T09:30:00"
         },
         {
-          "area": "107 - 120 Babcock Ave; 107 - 267 Gwilliam CRS",
+          "area": "**Outage as per MST**107 - 120 Babcock Ave; 107 - 267 Gwilliam CRS",
           "cause": "Planned work being done on our equipment",
           "customers_affected": "73",
           "end": "2020-10-22T15:00:00",
-          "last_updated": "2020-10-15T11:03:00",
+          "last_updated": "2020-10-15T11:32:00",
           "municipality": "Tumbler Ridge",
           "municipality_code": "day-1 day-3 city-53995150",
           "start": "2020-10-22T10:00:00"
@@ -15020,7 +15030,7 @@
           "end": "",
           "last_updated": "2020-10-13T11:42:00",
           "municipality": "North Saanich, Sidney",
-          "municipality_code": "day-1 day-3 city-179964248 city--1818689996",
+          "municipality_code": "day-3 city-179964248 city--1818689996",
           "start": "2020-10-13T11:15:00"
         },
         {
@@ -16937,7 +16947,7 @@
           "end": "",
           "last_updated": "2020-10-13T11:38:00",
           "municipality": "Salmon Arm",
-          "municipality_code": "day-1 day-3 city-2118875562",
+          "municipality_code": "day-3 city-2118875562",
           "start": "2020-10-13T11:23:00"
         },
         {
