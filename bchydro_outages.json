@@ -1,17 +1,17 @@
 {
   "current": {
     "Lower Mainland": {
-      "customers_affected_14d": 90,
+      "customers_affected_14d": 96,
       "outages": [
         {
           "area": "30200 block NICHOLSON AVE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-14T20:28:00",
+          "last_updated": "2020-10-14T20:47:00",
           "municipality": "Abbotsford",
           "municipality_code": "day-1 day-3 city-1230363016",
           "start": "2020-10-14T17:18:00",
-          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 14 7:50 p.m."
+          "status": "Crew status: Crew on their way"
         },
         {
           "area": "South-East of COLUMBIA VALLEY RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -34,10 +34,10 @@
           "status": "Crew status: Crew assigned"
         },
         {
-          "area": "40800 - 41400 block TAYLOR RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "area": "East of NICOMEN SLOUGH RD, South of NICOMEN RD, North-West of LOUGHEED HWY\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Tree down across our wires",
-          "customers_affected": "14",
-          "last_updated": "2020-10-14T19:49:00",
+          "customers_affected": "24",
+          "last_updated": "2020-10-14T20:47:00",
           "municipality": "Mission",
           "municipality_code": "day-1 day-3 city--1560864404",
           "start": "2020-10-13T17:52:00",
@@ -51,16 +51,6 @@
           "municipality": "Mission",
           "municipality_code": "day-1 day-3 city--1560864404",
           "start": "2020-10-14T20:11:00",
-          "status": "Crew status: Crew assigned"
-        },
-        {
-          "area": "40700 - 40800 block TAYLOR RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Under investigation",
-          "customers_affected": "< 5",
-          "last_updated": "2020-10-14T15:16:00",
-          "municipality": "Mission",
-          "municipality_code": "day-1 day-3 city--1560864404",
-          "start": "2020-10-14T10:14:00",
           "status": "Crew status: Crew assigned"
         },
         {
@@ -114,11 +104,11 @@
           "area": "100 block SPRINGHILL RD, 200 block GUN RANGE RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Tree down across our wires",
           "customers_affected": "8",
-          "last_updated": "2020-10-14T20:28:00",
+          "last_updated": "2020-10-14T21:00:00",
           "municipality": "Port Hardy",
           "municipality_code": "day-1 day-3 city-368562319",
           "start": "2020-10-13T08:03:00",
-          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 14 9:00 p.m."
+          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 15 12:00 a.m."
         }
       ],
       "region_code": "North VI",
@@ -148,11 +138,11 @@
           "area": "200 block BECHER BAY RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Wire down",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-14T19:54:00",
+          "last_updated": "2020-10-14T20:51:00",
           "municipality": "Victoria",
           "municipality_code": "day-1 day-3 city-1201273535",
           "start": "2020-10-14T18:54:00",
-          "status": "Crew status: Crew assigned"
+          "status": "Crew status: Crew on-site"
         }
       ],
       "region_code": "South VI",
@@ -16163,7 +16153,7 @@
           "end": "2020-10-10T21:00:00",
           "last_updated": "2020-10-10T20:52:00",
           "municipality": "Ashcroft",
-          "municipality_code": "day-3 city--625370600",
+          "municipality_code": "city--625370600",
           "start": "2020-10-10T19:12:00"
         },
         {
@@ -16173,7 +16163,7 @@
           "end": "2020-10-10T21:00:00",
           "last_updated": "2020-10-10T20:53:00",
           "municipality": "Ashcroft, Cache Creek",
-          "municipality_code": "day-3 city--625370600 city-720749214",
+          "municipality_code": "city--625370600 city-720749214",
           "start": "2020-10-10T19:11:00"
         },
         {
@@ -16813,7 +16803,7 @@
           "end": "2020-10-10T21:00:00",
           "last_updated": "2020-10-10T20:54:00",
           "municipality": "Lytton",
-          "municipality_code": "day-3 city--2003834996",
+          "municipality_code": "city--2003834996",
           "start": "2020-10-10T19:11:00"
         },
         {
