@@ -1,8 +1,35 @@
 {
   "current": {
-    "Lower Mainland": {
-      "customers_affected_14d": 253,
+    "Central Interior": {
+      "customers_affected_14d": -1,
       "outages": [
+        {
+          "area": "ANAHAM RES GAS BAR\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Motor vehicle accident",
+          "customers_affected": "< 5",
+          "last_updated": "2020-10-15T12:55:00",
+          "municipality": "Williams Lake",
+          "municipality_code": "day-1 day-3 city--1905642465",
+          "start": "2020-10-15T12:36:00",
+          "status": "Crew status: Crew on their way"
+        }
+      ],
+      "region_code": "Central Interior",
+      "region_id": "848340027"
+    },
+    "Lower Mainland": {
+      "customers_affected_14d": 266,
+      "outages": [
+        {
+          "area": "4800 block BESSBOROUGH DR, 4800 block ETON ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Work being done on our equipment",
+          "customers_affected": "14",
+          "last_updated": "2020-10-15T13:03:00",
+          "municipality": "Burnaby",
+          "municipality_code": "day-1 day-3 city-1903966249",
+          "start": "2020-10-15T11:13:00",
+          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 15 1:30 p.m."
+        },
         {
           "area": "South of MONTCLAIR ST, East of BROADWAY , West of CAMROSE AVE, North of PHILLIPS AVE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Planned work being done on our equipment",
@@ -27,11 +54,11 @@
           "area": "600 block COMO LAKE AVE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "45",
-          "last_updated": "2020-10-15T12:44:00",
+          "last_updated": "2020-10-15T12:46:00",
           "municipality": "Coquitlam",
           "municipality_code": "day-1 day-3 city--3101987",
           "start": "2020-10-15T12:09:00",
-          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 15 1:40 p.m."
+          "status": "Crew status: Crew on-site"
         },
         {
           "area": "4700 block LOUGHEED HWY\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -82,16 +109,6 @@
           "municipality_code": "day-1 day-3 city--1636626238",
           "start": "2020-10-15T09:36:00",
           "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 15 3:00 p.m."
-        },
-        {
-          "area": "1800 block ARBORLYNN DR\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Under investigation",
-          "customers_affected": "< 5",
-          "last_updated": "2020-10-15T12:08:00",
-          "municipality": "North Vancouver",
-          "municipality_code": "day-1 day-3 city--1636626238",
-          "start": "2020-10-15T11:36:00",
-          "status": "Crew status: Crew on-site"
         },
         {
           "area": "7600 block PEM PORTAGE RD, 0 block WALKERVILLE RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -178,8 +195,18 @@
       "region_id": "521980323"
     },
     "North VI": {
-      "customers_affected_14d": 376,
+      "customers_affected_14d": 340,
       "outages": [
+        {
+          "area": "100 block MAPLE CRES\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Work being done on our equipment",
+          "customers_affected": "9",
+          "last_updated": "2020-10-15T13:03:00",
+          "municipality": "Parksville",
+          "municipality_code": "day-1 day-3 city--1370510519",
+          "start": "2020-10-15T09:34:00",
+          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 15 1:30 p.m."
+        },
         {
           "area": "West of 10TH AVE, East of STAMP AVE, North of STRATHERN ST, South of WALLACE ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Planned work being done on our equipment",
@@ -189,16 +216,6 @@
           "municipality_code": "day-1 day-3 city-383682720",
           "start": "2020-10-15T10:05:00",
           "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 15 2:00 p.m."
-        },
-        {
-          "area": "0 block LANDSEND RD, 200 - 2300 block MITCHELL BAY, 0 block HAMILL RD, 0 block LANDS END RD, OLD GREEN SCHOOLHOUSE, 100 - 300 block MITCHELL BAY RD, DONEGAL HEAD, SVC FRM 381480 2819\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Under investigation",
-          "customers_affected": "45",
-          "last_updated": "2020-10-15T10:25:00",
-          "municipality": "Port Hardy",
-          "municipality_code": "day-1 day-3 city-368562319",
-          "start": "2020-10-15T02:27:00",
-          "status": "Crew status: Crew on-site"
         },
         {
           "area": "OCLUCJE RESERVE LOT 3, INDIAN RESERVE L9, INDIAN RESERVE L7, INDIAN RESERVE L4, INDIAN RESERVE L1, PUMP SERVICE, INDIAN RESERVE L2, 0 block UPPER LEVEL RD, INDIAN RESERVE L6, 0 block KHEN-KOUS PL...\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -299,37 +316,27 @@
       "region_id": "2072041405"
     },
     "South VI": {
-      "customers_affected_14d": 139,
+      "customers_affected_14d": 149,
       "outages": [
-        {
-          "area": "North-East of BEAR HILL RD, West of RODOLPH RD, South of WILCOX TCE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Under investigation",
-          "customers_affected": "70",
-          "last_updated": "2020-10-15T12:23:00",
-          "municipality": "Central Saanich, Saanich",
-          "municipality_code": "day-1 day-3 city--769735224 city--776615533",
-          "start": "2020-10-15T09:49:00",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 15 1:00 p.m."
-        },
         {
           "area": "200 block S WARBLER RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Tree down across our wires",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-15T11:35:00",
+          "last_updated": "2020-10-15T12:50:00",
           "municipality": "Galiano Island",
           "municipality_code": "day-1 day-3 city--995767958",
           "start": "2020-10-15T11:32:00",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 15 1:00 p.m."
+          "status": "Crew status: Crew assigned\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 15 11:35 a.m."
         },
         {
-          "area": "100 block MAPLE RIDGE PL, 100 block MAPLERIDGE PL\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "area": "West of MOBRAE AVE, South of VESUVIUS BAY RD, East of QUARRY DR, North of BAKER RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Tree down across our wires",
-          "customers_affected": "8",
-          "last_updated": "2020-10-15T12:33:00",
+          "customers_affected": "140",
+          "last_updated": "2020-10-15T12:59:00",
           "municipality": "Ganges",
           "municipality_code": "day-1 day-3 city-2125630497",
-          "start": "2020-10-15T11:12:00",
-          "status": "Crew status: Crew assigned\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 15 12:35 p.m."
+          "start": "2020-10-15T12:58:00",
+          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 15 1:30 p.m."
         },
         {
           "area": "6600 block RAZOR POINT RD, 6600 block HARBOUR HILL DR\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -340,16 +347,6 @@
           "municipality_code": "day-1 day-3 city--635217187",
           "start": "2020-10-15T11:11:00",
           "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 15 3:00 p.m."
-        },
-        {
-          "area": "North of MOUNTAIN RD, West of INTERURBAN RD, East of VIADUCT AVE, South of QUAYLE RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Under investigation",
-          "customers_affected": "52",
-          "last_updated": "2020-10-15T12:06:00",
-          "municipality": "Saanich",
-          "municipality_code": "day-1 day-3 city--776615533",
-          "start": "2020-10-15T10:10:00",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 15 1:00 p.m."
         },
         {
           "area": "1400 - 1500 block DALLAS RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -462,7 +459,7 @@
       "region_id": "848340027"
     },
     "Lower Mainland": {
-      "customers_affected_14d": 7234,
+      "customers_affected_14d": 7225,
       "outages": [
         {
           "area": "1944, 1954, 1966, 1976 Albion St; 32666-32749 Cordova Ave; 325, 32760 Marshall Rd, 32414-32750 Pandora Ave; 1911-1944 Valencia Crt, Abbotsford",
@@ -1903,16 +1900,6 @@
           "municipality": "West Vancouver",
           "municipality_code": "day-1 day-3 city--416468692",
           "start": "2020-10-22T09:00:00"
-        },
-        {
-          "area": "2842,2848,2854,2859,2860,2863,2866\r\n2867,2870  Bellevue Ave., West Vancouver",
-          "cause": "Planned work being done on our equipment",
-          "customers_affected": "9",
-          "end": "2020-10-13T13:00:00",
-          "last_updated": "2020-09-30T15:56:00",
-          "municipality": "West Vancouver",
-          "municipality_code": "day-1 day-3 city--416468692",
-          "start": "2020-10-13T09:00:00"
         },
         {
           "area": "3754 - 3800 Cypress Bowl Rd, West Vancouver",
@@ -3893,7 +3880,7 @@
       "region_id": "848340027"
     },
     "Lower Mainland": {
-      "customers_affected_14d": 142282,
+      "customers_affected_14d": 142283,
       "outages": [
         {
           "area": "North of MACLURE RD, East of MT LEHMAN RD, West of Hwy 11",
@@ -5672,7 +5659,7 @@
           "end": "",
           "last_updated": "2020-10-13T13:11:00",
           "municipality": "Coquitlam, Port Coquitlam",
-          "municipality_code": "day-1 day-3 city--3101987 city-1843021342",
+          "municipality_code": "day-3 city--3101987 city-1843021342",
           "start": "2020-10-13T12:05:00"
         },
         {
@@ -7736,6 +7723,16 @@
           "start": "2020-10-10T08:06:00"
         },
         {
+          "area": "1800 block ARBORLYNN DR",
+          "cause": "Under investigation",
+          "customers_affected": "< 5",
+          "end": "2020-10-15T12:50:00",
+          "last_updated": "2020-10-15T12:54:00",
+          "municipality": "North Vancouver",
+          "municipality_code": "day-1 day-3 city--1636626238",
+          "start": "2020-10-15T11:36:00"
+        },
+        {
           "area": "West of Seton Portage RD, East of PEMBERTON PORTAGE RD, North-South of Duffy Lake RD",
           "cause": "Bird contacting our wires",
           "customers_affected": "1744",
@@ -8242,7 +8239,7 @@
           "end": "2020-10-13T12:52:00",
           "last_updated": "2020-10-14T12:39:00",
           "municipality": "Sechelt",
-          "municipality_code": "day-1 day-3 city--660434186",
+          "municipality_code": "day-3 city--660434186",
           "start": "2020-10-13T10:15:00"
         },
         {
@@ -9132,7 +9129,7 @@
           "end": "",
           "last_updated": "2020-10-14T10:06:00",
           "municipality": "Vancouver",
-          "municipality_code": "day-1 day-3 city--1786794435",
+          "municipality_code": "day-3 city--1786794435",
           "start": "2020-10-13T11:57:00"
         },
         {
@@ -9442,7 +9439,7 @@
           "end": "2020-10-11T13:37:00",
           "last_updated": "2020-10-13T08:29:00",
           "municipality": "Vancouver",
-          "municipality_code": "day-3 city--1786794435",
+          "municipality_code": "city--1786794435",
           "start": "2020-10-11T11:57:00"
         },
         {
@@ -9580,7 +9577,7 @@
       "region_id": "521980323"
     },
     "North VI": {
-      "customers_affected_14d": 67771,
+      "customers_affected_14d": 67816,
       "outages": [
         {
           "area": "West of MILLER RD",
@@ -11191,6 +11188,16 @@
           "municipality": "Port Hardy",
           "municipality_code": "day-1 day-3 city-368562319",
           "start": "2020-10-13T06:56:00"
+        },
+        {
+          "area": "0 block LANDSEND RD, 200 - 2300 block MITCHELL BAY, 0 block HAMILL RD, 0 block LANDS END RD, OLD GREEN SCHOOLHOUSE, 100 - 300 block MITCHELL BAY RD, DONEGAL HEAD, SVC FRM 381480 2819",
+          "cause": "Tree down across our wires",
+          "customers_affected": "45",
+          "end": "",
+          "last_updated": "2020-10-15T12:47:00",
+          "municipality": "Port Hardy",
+          "municipality_code": "day-1 day-3 city-368562319",
+          "start": "2020-10-15T02:27:00"
         },
         {
           "area": "100 block SPRINGHILL RD, 200 block GUN RANGE RD",
@@ -13471,7 +13478,7 @@
       "region_id": "2072041405"
     },
     "South VI": {
-      "customers_affected_14d": 61352,
+      "customers_affected_14d": 61474,
       "outages": [
         {
           "area": "North of CHURCH RD, West of STAUTW RD, East of TETAYUT RD, South of MT NEWTON XRD",
@@ -13592,6 +13599,16 @@
           "municipality": "Central Saanich, North Saanich",
           "municipality_code": "day-3 city--769735224 city-179964248",
           "start": "2020-10-13T11:18:00"
+        },
+        {
+          "area": "North-East of BEAR HILL RD, West of RODOLPH RD, South of WILCOX TCE",
+          "cause": "Under investigation",
+          "customers_affected": "70",
+          "end": "2020-10-15T13:00:00",
+          "last_updated": "2020-10-15T12:58:00",
+          "municipality": "Central Saanich, Saanich",
+          "municipality_code": "day-1 day-3 city--769735224 city--776615533",
+          "start": "2020-10-15T09:49:00"
         },
         {
           "area": "2000 - 6000 block BEAR HILL RD, 400 block WAKASHAN PL",
@@ -15264,6 +15281,16 @@
           "start": "2020-10-02T09:22:00"
         },
         {
+          "area": "North of MOUNTAIN RD, West of INTERURBAN RD, East of VIADUCT AVE, South of QUAYLE RD",
+          "cause": "Bird contacting our wires",
+          "customers_affected": "52",
+          "end": "2020-10-15T13:00:00",
+          "last_updated": "2020-10-15T13:06:00",
+          "municipality": "Saanich",
+          "municipality_code": "day-1 day-3 city--776615533",
+          "start": "2020-10-15T10:10:00"
+        },
+        {
           "area": "2800 block AUSTIN AVE, 600 block W GORGE RD",
           "cause": "Planned work being done on our equipment",
           "customers_affected": "49",
@@ -16607,7 +16634,7 @@
           "end": "",
           "last_updated": "2020-10-13T12:55:00",
           "municipality": "Kamloops",
-          "municipality_code": "day-1 day-3 city-979034872",
+          "municipality_code": "day-3 city-979034872",
           "start": "2020-10-13T11:41:00"
         },
         {
