@@ -101,23 +101,6 @@
       "region_code": "Northern",
       "region_id": "1602964060"
     },
-    "South VI": {
-      "customers_affected_14d": 28,
-      "outages": [
-        {
-          "area": "West of TILLICUM RD, North-East of GORGE RD, South of VINCENT AVE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Planned work being done on our equipment",
-          "customers_affected": "28",
-          "last_updated": "2020-10-14T23:05:00",
-          "municipality": "Saanich",
-          "municipality_code": "day-1 day-3 city--776615533",
-          "start": "2020-10-14T21:23:00",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 15 5:00 a.m."
-        }
-      ],
-      "region_code": "South VI",
-      "region_id": "1812901382"
-    },
     "Thompson/Shuswap": {
       "customers_affected_14d": 2191,
       "outages": [
@@ -125,11 +108,11 @@
           "area": "North of HWY 97A , South of GRANDVIEW BENCH RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Wire down",
           "customers_affected": "2178",
-          "last_updated": "2020-10-15T01:23:00",
+          "last_updated": "2020-10-15T02:17:00",
           "municipality": "Enderby, Spallumcheen",
           "municipality_code": "day-1 day-3 city-57924863 city-2134222637",
           "start": "2020-10-15T00:52:00",
-          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 15 1:45 a.m."
+          "status": "Crew status: Crew on-site"
         },
         {
           "area": "9000 - 9700 block BARNHARTVALE RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -12944,7 +12927,7 @@
       "region_id": "2072041405"
     },
     "South VI": {
-      "customers_affected_14d": 58220,
+      "customers_affected_14d": 58248,
       "outages": [
         {
           "area": "North of CHURCH RD, West of STAUTW RD, East of TETAYUT RD, South of MT NEWTON XRD",
@@ -14805,6 +14788,16 @@
           "municipality": "Saanich",
           "municipality_code": "city--776615533",
           "start": "2020-10-06T09:49:00"
+        },
+        {
+          "area": "West of TILLICUM RD, North-East of GORGE RD, South of VINCENT AVE",
+          "cause": "Planned work being done on our equipment",
+          "customers_affected": "28",
+          "end": "2020-10-15T02:30:00",
+          "last_updated": "2020-10-15T02:14:00",
+          "municipality": "Saanich",
+          "municipality_code": "day-1 day-3 city--776615533",
+          "start": "2020-10-14T21:23:00"
         },
         {
           "area": "South-East of COLUMBIA DR, West of TORRINGTON PL, North of TAMPICO PL",
