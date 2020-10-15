@@ -85,18 +85,8 @@
       "region_id": "1602896846"
     },
     "Northern": {
-      "customers_affected_14d": 52,
+      "customers_affected_14d": 49,
       "outages": [
-        {
-          "area": "LSD 10 34 86 21, 11400 - 11700 block HWY 97 N\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Under investigation",
-          "customers_affected": "< 5",
-          "last_updated": "2020-10-15T03:26:00",
-          "municipality": "Fort St. John",
-          "municipality_code": "day-1 day-3 city-205572915",
-          "start": "2020-10-14T22:59:00",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 15 3:00 a.m."
-        },
         {
           "area": "South of HWY 16\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Wire down",
@@ -5053,10 +5043,10 @@
         },
         {
           "area": "48000 block BRITESIDE RD",
-          "cause": "Under investigation",
+          "cause": "Tree down across our wires",
           "customers_affected": "< 5",
           "end": "",
-          "last_updated": "2020-10-15T02:01:00",
+          "last_updated": "2020-10-15T03:29:00",
           "municipality": "Chilliwack",
           "municipality_code": "day-1 day-3 city--708005353",
           "start": "2020-10-14T19:02:00"
@@ -11393,7 +11383,7 @@
       "region_id": "1602896846"
     },
     "Northern": {
-      "customers_affected_14d": 11600,
+      "customers_affected_14d": 11603,
       "outages": [
         {
           "area": "North-South-East-West of HWY 20",
@@ -11804,6 +11794,16 @@
           "municipality": "Fort St. John",
           "municipality_code": "city-205572915",
           "start": "2020-10-03T19:33:00"
+        },
+        {
+          "area": "LSD 10 34 86 21, 11400 - 11700 block HWY 97 N",
+          "cause": "Bird contacting our wires",
+          "customers_affected": "< 5",
+          "end": "2020-10-15T03:00:00",
+          "last_updated": "2020-10-15T03:27:00",
+          "municipality": "Fort St. John",
+          "municipality_code": "day-1 day-3 city-205572915",
+          "start": "2020-10-14T22:59:00"
         },
         {
           "area": "15100 - 15300 block WATSON RD",
