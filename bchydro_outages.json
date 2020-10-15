@@ -1,7 +1,7 @@
 {
   "current": {
     "Lower Mainland": {
-      "customers_affected_14d": 204,
+      "customers_affected_14d": 247,
       "outages": [
         {
           "area": "South-East of COLUMBIA VALLEY RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -14,24 +14,24 @@
           "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 15 1:00 p.m."
         },
         {
-          "area": "49400 - 49500 block VOIGHT RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "area": "600 block COMO LAKE AVE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
-          "customers_affected": "< 5",
-          "last_updated": "2020-10-15T11:11:00",
-          "municipality": "Chilliwack",
-          "municipality_code": "day-1 day-3 city--708005353",
-          "start": "2020-10-15T08:11:00",
-          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 15 12:15 p.m."
+          "customers_affected": "45",
+          "last_updated": "2020-10-15T12:16:00",
+          "municipality": "Coquitlam",
+          "municipality_code": "day-1 day-3 city--3101987",
+          "start": "2020-10-15T12:09:00",
+          "status": "Crew status: Crew assigned"
         },
         {
           "area": "4700 block LOUGHEED HWY\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-15T11:21:00",
+          "last_updated": "2020-10-15T12:19:00",
           "municipality": "Kent",
           "municipality_code": "day-1 day-3 city-2334912",
           "start": "2020-10-15T10:57:00",
-          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 15 12:15 p.m."
+          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 15 1:20 p.m."
         },
         {
           "area": "East of NICOMEN SLOUGH RD, South of NICOMEN RD, North-West of LOUGHEED HWY\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -77,11 +77,11 @@
           "area": "1800 block ARBORLYNN DR\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-15T11:55:00",
+          "last_updated": "2020-10-15T12:08:00",
           "municipality": "North Vancouver",
           "municipality_code": "day-1 day-3 city--1636626238",
           "start": "2020-10-15T11:36:00",
-          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 15 12:20 p.m."
+          "status": "Crew status: Crew on-site"
         },
         {
           "area": "7600 block PEM PORTAGE RD, 0 block WALKERVILLE RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -242,7 +242,7 @@
       "region_id": "1602964060"
     },
     "Okanagan/Kootenay": {
-      "customers_affected_14d": 90,
+      "customers_affected_14d": 60,
       "outages": [
         {
           "area": "North-South-East-West of HWY 95\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -253,16 +253,6 @@
           "municipality_code": "day-1 day-3 city-2138497321",
           "start": "2020-10-15T07:40:00",
           "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 15 1:30 p.m."
-        },
-        {
-          "area": "South-West of HWY 97\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Planned work being done on our equipment",
-          "customers_affected": "30",
-          "last_updated": "2020-10-15T10:00:00",
-          "municipality": "Vernon",
-          "municipality_code": "day-1 day-3 city--1736079254",
-          "start": "2020-10-15T09:58:00",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 15 12:00 p.m."
         },
         {
           "area": "3900 - 4100 block DEAR RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -315,11 +305,11 @@
           "area": "North of MOUNTAIN RD, West of INTERURBAN RD, East of VIADUCT AVE, South of QUAYLE RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "52",
-          "last_updated": "2020-10-15T12:00:00",
+          "last_updated": "2020-10-15T12:06:00",
           "municipality": "Saanich",
           "municipality_code": "day-1 day-3 city--776615533",
           "start": "2020-10-15T10:10:00",
-          "status": "Crew status: Crew on-site"
+          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 15 1:00 p.m."
         },
         {
           "area": "1400 - 1500 block DALLAS RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -2156,7 +2146,7 @@
       "region_id": "1602896846"
     },
     "Northern": {
-      "customers_affected_14d": 6726,
+      "customers_affected_14d": 6743,
       "outages": [
         {
           "area": "Burns Lake Substation - Burns Lake; Danskin; Decker Lake; Endako; Francois Lake, Fraser Lake; Grassy Plains; Houston; Noralee; Ootsa Lake; Priestley; Southbank; Takysie Lake; Tchesinkut Lake; Topley",
@@ -2237,6 +2227,16 @@
           "municipality": "Fort St. John",
           "municipality_code": "day-1 day-3 city-205572915",
           "start": "2020-10-22T08:00:00"
+        },
+        {
+          "area": "**Rescheduled from September 18, 2020**9207 82 St, Fort St. John",
+          "cause": "Planned work being done on our equipment",
+          "customers_affected": "17",
+          "end": "2020-10-23T17:00:00",
+          "last_updated": "2020-10-15T12:19:00",
+          "municipality": "Fort St. John",
+          "municipality_code": "day-1 day-3 city-205572915",
+          "start": "2020-10-23T08:00:00"
         },
         {
           "area": "10603, 10604, 10607, 10608, 10611, 10612, 10615, 10616, 10618, 10619, 10620, 10621, 10622, 10703, 10707 89 St., Fort St. John",
@@ -3873,7 +3873,7 @@
       "region_id": "848340027"
     },
     "Lower Mainland": {
-      "customers_affected_14d": 142272,
+      "customers_affected_14d": 142274,
       "outages": [
         {
           "area": "North of MACLURE RD, East of MT LEHMAN RD, West of Hwy 11",
@@ -4562,7 +4562,7 @@
           "end": "",
           "last_updated": "2020-10-13T13:00:00",
           "municipality": "Abbotsford, Mission",
-          "municipality_code": "day-3 city-1230363016 city--1560864404",
+          "municipality_code": "city-1230363016 city--1560864404",
           "start": "2020-10-11T11:20:00"
         },
         {
@@ -5012,7 +5012,7 @@
           "end": "2020-10-13T12:30:00",
           "last_updated": "2020-10-13T14:07:00",
           "municipality": "Chilliwack",
-          "municipality_code": "day-1 day-3 city--708005353",
+          "municipality_code": "day-3 city--708005353",
           "start": "2020-10-13T10:13:00"
         },
         {
@@ -5254,6 +5254,16 @@
           "municipality": "Chilliwack",
           "municipality_code": "day-1 day-3 city--708005353",
           "start": "2020-10-14T08:13:00"
+        },
+        {
+          "area": "49400 - 49500 block VOIGHT RD",
+          "cause": "Other",
+          "customers_affected": "< 5",
+          "end": "2020-10-15T13:00:00",
+          "last_updated": "2020-10-15T12:14:00",
+          "municipality": "Chilliwack",
+          "municipality_code": "day-1 day-3 city--708005353",
+          "start": "2020-10-15T08:11:00"
         },
         {
           "area": "COLUMBIA VLY RD",
@@ -9559,7 +9569,7 @@
           "end": "2020-10-13T12:30:00",
           "last_updated": "2020-10-15T11:49:00",
           "municipality": "Campbell River",
-          "municipality_code": "day-1 day-3 city-1240464880",
+          "municipality_code": "day-3 city-1240464880",
           "start": "2020-10-13T09:14:00"
         },
         {
@@ -9859,7 +9869,7 @@
           "end": "",
           "last_updated": "2020-10-13T12:32:00",
           "municipality": "Courtenay",
-          "municipality_code": "day-1 day-3 city--824228212",
+          "municipality_code": "day-3 city--824228212",
           "start": "2020-10-13T11:02:00"
         },
         {
@@ -10349,7 +10359,7 @@
           "end": "2020-10-13T12:45:00",
           "last_updated": "2020-10-13T12:50:00",
           "municipality": "Nanaimo",
-          "municipality_code": "day-1 day-3 city--907547835",
+          "municipality_code": "day-3 city--907547835",
           "start": "2020-10-13T04:10:00"
         },
         {
@@ -10589,7 +10599,7 @@
           "end": "",
           "last_updated": "2020-10-13T12:50:00",
           "municipality": "Nanaimo",
-          "municipality_code": "day-1 day-3 city--907547835",
+          "municipality_code": "day-3 city--907547835",
           "start": "2020-10-13T04:27:00"
         },
         {
@@ -10897,7 +10907,7 @@
           "cause": "Tree down across our wires",
           "customers_affected": "1714",
           "end": "2020-10-15T12:00:00",
-          "last_updated": "2020-10-15T11:45:00",
+          "last_updated": "2020-10-15T12:20:00",
           "municipality": "Parksville",
           "municipality_code": "day-1 day-3 city--1370510519",
           "start": "2020-10-15T11:20:00"
@@ -10957,7 +10967,7 @@
           "cause": "Other",
           "customers_affected": "9",
           "end": "2020-10-14T16:30:00",
-          "last_updated": "2020-10-14T16:06:00",
+          "last_updated": "2020-10-15T12:20:00",
           "municipality": "Parksville",
           "municipality_code": "day-1 day-3 city--1370510519",
           "start": "2020-10-13T08:03:00"
@@ -11237,7 +11247,7 @@
           "cause": "Tree down across our wires",
           "customers_affected": "937",
           "end": "2020-10-14T07:30:00",
-          "last_updated": "2020-10-14T06:55:00",
+          "last_updated": "2020-10-15T12:19:00",
           "municipality": "Qualicum Beach",
           "municipality_code": "day-1 day-3 city--154309756",
           "start": "2020-10-13T22:53:00"
@@ -11257,7 +11267,7 @@
           "cause": "Tree down across our wires",
           "customers_affected": "481",
           "end": "2020-10-13T23:30:00",
-          "last_updated": "2020-10-15T09:29:00",
+          "last_updated": "2020-10-15T12:15:00",
           "municipality": "Qualicum Beach",
           "municipality_code": "day-1 day-3 city--154309756",
           "start": "2020-10-13T21:26:00"
@@ -11277,7 +11287,7 @@
           "cause": "Tree down across our wires",
           "customers_affected": "340",
           "end": "",
-          "last_updated": "2020-10-14T07:33:00",
+          "last_updated": "2020-10-15T12:19:00",
           "municipality": "Qualicum Beach",
           "municipality_code": "day-1 day-3 city--154309756",
           "start": "2020-10-14T06:21:00"
@@ -11297,7 +11307,7 @@
           "cause": "Tree down across our wires",
           "customers_affected": "186",
           "end": "",
-          "last_updated": "2020-10-15T09:24:00",
+          "last_updated": "2020-10-15T12:19:00",
           "municipality": "Qualicum Beach",
           "municipality_code": "day-1 day-3 city--154309756",
           "start": "2020-10-15T07:43:00"
@@ -11387,7 +11397,7 @@
           "cause": "Tree down across our wires",
           "customers_affected": "47",
           "end": "2020-10-14T10:00:00",
-          "last_updated": "2020-10-14T10:02:00",
+          "last_updated": "2020-10-15T12:16:00",
           "municipality": "Qualicum Beach",
           "municipality_code": "day-1 day-3 city--154309756",
           "start": "2020-10-13T17:58:00"
@@ -11417,7 +11427,7 @@
           "cause": "Tree down across our wires",
           "customers_affected": "35",
           "end": "",
-          "last_updated": "2020-10-14T10:41:00",
+          "last_updated": "2020-10-15T12:19:00",
           "municipality": "Qualicum Beach",
           "municipality_code": "day-1 day-3 city--154309756",
           "start": "2020-10-13T13:28:00"
@@ -11587,7 +11597,7 @@
           "cause": "Other",
           "customers_affected": "< 5",
           "end": "2020-10-14T14:55:00",
-          "last_updated": "2020-10-14T14:53:00",
+          "last_updated": "2020-10-15T12:15:00",
           "municipality": "Qualicum Beach",
           "municipality_code": "day-1 day-3 city--154309756",
           "start": "2020-10-14T06:05:00"
@@ -11617,7 +11627,7 @@
           "cause": "Other",
           "customers_affected": "< 5",
           "end": "",
-          "last_updated": "2020-10-13T11:53:00",
+          "last_updated": "2020-10-15T12:19:00",
           "municipality": "Qualicum Beach",
           "municipality_code": "day-3 city--154309756",
           "start": "2020-10-13T07:59:00"
@@ -11697,7 +11707,7 @@
           "cause": "Tree down across our wires",
           "customers_affected": "< 5",
           "end": "",
-          "last_updated": "2020-10-14T14:03:00",
+          "last_updated": "2020-10-15T12:18:00",
           "municipality": "Qualicum Beach",
           "municipality_code": "day-1 day-3 city--154309756",
           "start": "2020-10-14T10:13:00"
@@ -12814,7 +12824,7 @@
       "region_id": "1602964060"
     },
     "Okanagan/Kootenay": {
-      "customers_affected_14d": 15595,
+      "customers_affected_14d": 15625,
       "outages": [
         {
           "area": "South of LEARMOUTH RD, West of COACHWOOD CRS, East of BREWER RD",
@@ -13225,6 +13235,16 @@
           "municipality": "Sparwood",
           "municipality_code": "city-2126498587",
           "start": "2020-10-10T15:20:00"
+        },
+        {
+          "area": "South-West of HWY 97",
+          "cause": "Planned work being done on our equipment",
+          "customers_affected": "30",
+          "end": "2020-10-15T12:00:00",
+          "last_updated": "2020-10-15T12:10:00",
+          "municipality": "Vernon",
+          "municipality_code": "day-1 day-3 city--1736079254",
+          "start": "2020-10-15T09:58:00"
         },
         {
           "area": "South of ARNICA LN, North of MONASHEE RD, West of MAIN ST, East of PINNACLES RD",
@@ -13938,7 +13958,7 @@
           "cause": "Tree down across our wires",
           "customers_affected": "< 5",
           "end": "2020-10-13T14:00:00",
-          "last_updated": "2020-10-15T10:06:00",
+          "last_updated": "2020-10-15T12:17:00",
           "municipality": "Duncan",
           "municipality_code": "day-1 day-3 city-2058209491",
           "start": "2020-10-13T11:54:00"
