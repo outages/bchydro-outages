@@ -1,7 +1,7 @@
 {
   "current": {
     "Lower Mainland": {
-      "customers_affected_14d": 95,
+      "customers_affected_14d": 40,
       "outages": [
         {
           "area": "South-East of COLUMBIA VALLEY RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -27,11 +27,11 @@
           "area": "East of NICOMEN SLOUGH RD, South of NICOMEN RD, North-West of LOUGHEED HWY\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Tree down across our wires",
           "customers_affected": "24",
-          "last_updated": "2020-10-14T20:47:00",
+          "last_updated": "2020-10-14T22:04:00",
           "municipality": "Mission",
           "municipality_code": "day-1 day-3 city--1560864404",
           "start": "2020-10-13T17:52:00",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 14 11:00 p.m."
+          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 15 12:00 p.m."
         },
         {
           "area": "44200 block BAYVIEW RD, BAYVIEW RD L24\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -62,29 +62,19 @@
           "municipality_code": "day-1 day-3 city--1560864404",
           "start": "2020-10-13T14:35:00",
           "status": "Crew status: Crew assigned"
-        },
-        {
-          "area": "1500 block W 71ST AVE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Under investigation",
-          "customers_affected": "55",
-          "last_updated": "2020-10-14T20:07:00",
-          "municipality": "Vancouver",
-          "municipality_code": "day-1 day-3 city--1786794435",
-          "start": "2020-10-14T18:55:00",
-          "status": "Crew status: Crew on-site"
         }
       ],
       "region_code": "Lower Mainland",
       "region_id": "521980323"
     },
     "North VI": {
-      "customers_affected_14d": 9,
+      "customers_affected_14d": 26,
       "outages": [
         {
           "area": "400 block KENNEDY ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-14T21:12:00",
+          "last_updated": "2020-10-14T21:47:00",
           "municipality": "Nanaimo",
           "municipality_code": "day-1 day-3 city--907547835",
           "start": "2020-10-13T10:15:00",
@@ -94,11 +84,21 @@
           "area": "100 block SPRINGHILL RD, 200 block GUN RANGE RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Tree down across our wires",
           "customers_affected": "8",
-          "last_updated": "2020-10-14T21:00:00",
+          "last_updated": "2020-10-14T22:02:00",
           "municipality": "Port Hardy",
           "municipality_code": "day-1 day-3 city-368562319",
           "start": "2020-10-13T08:03:00",
           "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 15 12:00 a.m."
+        },
+        {
+          "area": "West of ZEBALLOS MAIN RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Tree down across our wires",
+          "customers_affected": "17",
+          "last_updated": "2020-10-14T22:02:00",
+          "municipality": "Zeballos",
+          "municipality_code": "day-1 day-3 city-281261870",
+          "start": "2020-10-13T08:28:00",
+          "status": "Crew status: Crew assigned\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 15 10:00 a.m."
         }
       ],
       "region_code": "North VI",
@@ -111,11 +111,11 @@
           "area": "WOLVERINE FSR KM 18, MINE SITE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-14T19:59:00",
+          "last_updated": "2020-10-14T21:57:00",
           "municipality": "Tumbler Ridge",
           "municipality_code": "day-1 day-3 city-53995150",
           "start": "2020-10-14T17:55:00",
-          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 14 9:30 p.m."
+          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 14 11:00 p.m."
         }
       ],
       "region_code": "Northern",
@@ -3509,7 +3509,7 @@
       "region_id": "848340027"
     },
     "Lower Mainland": {
-      "customers_affected_14d": 141548,
+      "customers_affected_14d": 141603,
       "outages": [
         {
           "area": "North of MACLURE RD, East of MT LEHMAN RD, West of Hwy 11",
@@ -3568,7 +3568,7 @@
           "end": "",
           "last_updated": "2020-10-13T12:56:00",
           "municipality": "Abbotsford",
-          "municipality_code": "day-1 day-3 city-1230363016",
+          "municipality_code": "day-3 city-1230363016",
           "start": "2020-10-12T19:40:00"
         },
         {
@@ -3598,7 +3598,7 @@
           "end": "",
           "last_updated": "2020-10-13T13:17:00",
           "municipality": "Abbotsford",
-          "municipality_code": "day-1 day-3 city-1230363016",
+          "municipality_code": "day-3 city-1230363016",
           "start": "2020-10-12T21:31:00"
         },
         {
@@ -4023,10 +4023,10 @@
         },
         {
           "area": "30200 block NICHOLSON AVE",
-          "cause": "Under investigation",
+          "cause": "Tree down across our wires",
           "customers_affected": "< 5",
           "end": "2020-10-14T21:27:00",
-          "last_updated": "2020-10-14T21:26:00",
+          "last_updated": "2020-10-14T21:53:00",
           "municipality": "Abbotsford",
           "municipality_code": "day-1 day-3 city-1230363016",
           "start": "2020-10-14T17:18:00"
@@ -9022,6 +9022,16 @@
           "start": "2020-10-01T13:00:00"
         },
         {
+          "area": "1500 block W 71ST AVE",
+          "cause": "Under investigation",
+          "customers_affected": "55",
+          "end": "",
+          "last_updated": "2020-10-14T22:05:00",
+          "municipality": "Vancouver",
+          "municipality_code": "day-1 day-3 city--1786794435",
+          "start": "2020-10-14T18:55:00"
+        },
+        {
           "area": "2400 block CORNWALL AVE",
           "cause": "Planned work being done on our equipment",
           "customers_affected": "32",
@@ -13299,7 +13309,7 @@
           "end": "",
           "last_updated": "2020-10-13T08:30:00",
           "municipality": "Vernon",
-          "municipality_code": "day-3 city--1736079254",
+          "municipality_code": "city--1736079254",
           "start": "2020-10-10T20:43:00"
         },
         {
@@ -15456,7 +15466,7 @@
           "end": "2020-10-10T22:00:00",
           "last_updated": "2020-10-13T08:51:00",
           "municipality": "Saanich",
-          "municipality_code": "day-3 city--776615533",
+          "municipality_code": "city--776615533",
           "start": "2020-10-10T16:53:00"
         },
         {
