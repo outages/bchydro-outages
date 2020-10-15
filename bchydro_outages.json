@@ -1,7 +1,7 @@
 {
   "current": {
     "Lower Mainland": {
-      "customers_affected_14d": 147,
+      "customers_affected_14d": 294,
       "outages": [
         {
           "area": "4800 block BESSBOROUGH DR, 4800 block ETON ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -34,6 +34,16 @@
           "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 15 3:00 p.m."
         },
         {
+          "area": "East of WESTVIEW DR, South of 27TH ST, North of TRANS CANADA HWY, West of CHESTERFIELD AVE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Planned work being done on our equipment",
+          "customers_affected": "147",
+          "last_updated": "2020-10-15T15:42:00",
+          "municipality": "North Vancouver",
+          "municipality_code": "day-1 day-3 city--1636626238",
+          "start": "2020-10-15T15:36:00",
+          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 15 4:00 p.m."
+        },
+        {
           "area": "18800 - 18900 block 119B AVE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Planned work being done on our equipment",
           "customers_affected": "20",
@@ -57,17 +67,17 @@
           "area": "5000 block 160 ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-15T14:57:00",
+          "last_updated": "2020-10-15T15:34:00",
           "municipality": "Surrey",
           "municipality_code": "day-1 day-3 city--1807186826",
           "start": "2020-10-15T14:36:00",
-          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 15 3:50 p.m."
+          "status": "Crew status: Crew on-site"
         },
         {
           "area": "400 block W 23RD AVE, 4000 block CAMBIE ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Fire",
           "customers_affected": "13",
-          "last_updated": "2020-10-15T15:14:00",
+          "last_updated": "2020-10-15T15:40:00",
           "municipality": "Vancouver",
           "municipality_code": "day-1 day-3 city--1786794435",
           "start": "2020-10-15T02:09:00",
@@ -138,28 +148,28 @@
           "area": "1300 - 1400 block STODDART AVE, 1400 block STODDART BLV\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "12",
-          "last_updated": "2020-10-15T15:22:00",
+          "last_updated": "2020-10-15T15:37:00",
           "municipality": "Invermere",
           "municipality_code": "day-1 day-3 city--13155575",
           "start": "2020-10-15T14:59:00",
-          "status": "Crew status: Crew on-site"
+          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 15 4:00 p.m."
         }
       ],
       "region_code": "Okanagan/Kootenay",
       "region_id": "2072041405"
     },
     "South VI": {
-      "customers_affected_14d": -1,
+      "customers_affected_14d": 97,
       "outages": [
         {
-          "area": "200 block S WARBLER RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "area": "South of SKY VALLEY RD, North-East of HOREL RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Tree down across our wires",
-          "customers_affected": "< 5",
-          "last_updated": "2020-10-15T15:27:00",
-          "municipality": "Galiano Island",
-          "municipality_code": "day-1 day-3 city--995767958",
-          "start": "2020-10-15T11:32:00",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 15 3:30 p.m."
+          "customers_affected": "95",
+          "last_updated": "2020-10-15T15:42:00",
+          "municipality": "Ganges",
+          "municipality_code": "day-1 day-3 city-2125630497",
+          "start": "2020-10-15T14:43:00",
+          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 15 6:00 p.m."
         },
         {
           "area": "1400 - 1500 block DALLAS RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -242,7 +252,7 @@
       "region_id": "848340027"
     },
     "Lower Mainland": {
-      "customers_affected_14d": 7286,
+      "customers_affected_14d": 7289,
       "outages": [
         {
           "area": "1944, 1954, 1966, 1976 Albion St; 32666-32749 Cordova Ave; 325, 32760 Marshall Rd, 32414-32750 Pandora Ave; 1911-1944 Valencia Crt, Abbotsford",
@@ -543,6 +553,16 @@
           "municipality": "Chilliwack",
           "municipality_code": "day-1 day-3 city--708005353",
           "start": "2020-10-20T08:30:00"
+        },
+        {
+          "area": "45850 and 45895 Promontory Rd",
+          "cause": "Pole replacement",
+          "customers_affected": "< 5",
+          "end": "2020-10-28T16:30:00",
+          "last_updated": "2020-10-15T15:39:00",
+          "municipality": "Chilliwack",
+          "municipality_code": "day-1 day-3 city--708005353",
+          "start": "2020-10-28T08:30:00"
         },
         {
           "area": "**CANCELLED ****45875 Promontory Rd., Chilliwack",
@@ -3643,7 +3663,7 @@
       "region_id": "848340027"
     },
     "Lower Mainland": {
-      "customers_affected_14d": 142422,
+      "customers_affected_14d": 142448,
       "outages": [
         {
           "area": "North of MACLURE RD, East of MT LEHMAN RD, West of Hwy 11",
@@ -4532,7 +4552,7 @@
           "end": "2020-10-11T16:00:00",
           "last_updated": "2020-10-14T09:49:00",
           "municipality": "Burnaby",
-          "municipality_code": "day-3 city-1903966249",
+          "municipality_code": "city-1903966249",
           "start": "2020-10-11T14:25:00"
         },
         {
@@ -6622,7 +6642,7 @@
           "end": "",
           "last_updated": "2020-10-14T09:42:00",
           "municipality": "Langley",
-          "municipality_code": "day-1 day-3 city-1612593490",
+          "municipality_code": "day-3 city-1612593490",
           "start": "2020-10-13T13:01:00"
         },
         {
@@ -7454,6 +7474,16 @@
           "municipality": "North Vancouver",
           "municipality_code": "day-1 day-3 city--1636626238",
           "start": "2020-10-13T09:44:00"
+        },
+        {
+          "area": "East of MAHON AVE, West of CHESTERFIELD AVE, North of TRANS CANADA HWY, South of 26TH ST",
+          "cause": "Under investigation",
+          "customers_affected": "26",
+          "end": "",
+          "last_updated": "2020-10-15T15:39:00",
+          "municipality": "North Vancouver",
+          "municipality_code": "day-1 day-3 city--1636626238",
+          "start": "2020-10-15T15:38:00"
         },
         {
           "area": "3000 block PLYMOUTH DR, 900 block FAIRFIELD RD",
@@ -10217,7 +10247,7 @@
           "cause": "Other",
           "customers_affected": "1329",
           "end": "",
-          "last_updated": "2020-10-13T19:27:00",
+          "last_updated": "2020-10-15T15:44:00",
           "municipality": "Ladysmith, North Cowichan",
           "municipality_code": "day-1 day-3 city--543936167 city--666037877",
           "start": "2020-10-13T13:29:00"
@@ -10417,7 +10447,7 @@
           "cause": "Other",
           "customers_affected": "11",
           "end": "",
-          "last_updated": "2020-10-14T18:38:00",
+          "last_updated": "2020-10-15T15:42:00",
           "municipality": "Nanaimo",
           "municipality_code": "day-1 day-3 city--907547835",
           "start": "2020-10-14T16:13:00"
@@ -10427,7 +10457,7 @@
           "cause": "Tree down across our wires",
           "customers_affected": "10",
           "end": "2020-10-14T15:00:00",
-          "last_updated": "2020-10-14T15:01:00",
+          "last_updated": "2020-10-15T15:41:00",
           "municipality": "Nanaimo",
           "municipality_code": "day-1 day-3 city--907547835",
           "start": "2020-10-13T14:59:00"
@@ -10657,7 +10687,7 @@
           "cause": "Equipment failure",
           "customers_affected": "< 5",
           "end": "2020-10-15T10:43:00",
-          "last_updated": "2020-10-15T09:12:00",
+          "last_updated": "2020-10-15T15:42:00",
           "municipality": "Nanaimo",
           "municipality_code": "day-1 day-3 city--907547835",
           "start": "2020-10-13T10:15:00"
@@ -10727,7 +10757,7 @@
           "cause": "Tree down across our wires",
           "customers_affected": "1918",
           "end": "2020-10-14T16:00:00",
-          "last_updated": "2020-10-14T17:41:00",
+          "last_updated": "2020-10-15T15:44:00",
           "municipality": "North Cowichan",
           "municipality_code": "day-1 day-3 city--666037877",
           "start": "2020-10-13T12:50:00"
@@ -10767,7 +10797,7 @@
           "cause": "Other",
           "customers_affected": "< 5",
           "end": "2020-10-14T12:30:00",
-          "last_updated": "2020-10-14T12:32:00",
+          "last_updated": "2020-10-15T15:42:00",
           "municipality": "North Cowichan",
           "municipality_code": "day-1 day-3 city--666037877",
           "start": "2020-10-13T11:35:00"
@@ -12544,7 +12574,7 @@
           "cause": "Equipment failure",
           "customers_affected": "< 5",
           "end": "2020-10-15T14:54:00",
-          "last_updated": "2020-10-15T14:29:00",
+          "last_updated": "2020-10-15T15:43:00",
           "municipality": "Queen Charlotte",
           "municipality_code": "day-1 day-3 city-609409590",
           "start": "2020-10-15T12:16:00"
@@ -13441,7 +13471,7 @@
       "region_id": "2072041405"
     },
     "South VI": {
-      "customers_affected_14d": 61630,
+      "customers_affected_14d": 61633,
       "outages": [
         {
           "area": "North of CHURCH RD, West of STAUTW RD, East of TETAYUT RD, South of MT NEWTON XRD",
@@ -14154,6 +14184,16 @@
           "start": "2020-10-01T10:07:00"
         },
         {
+          "area": "200 block S WARBLER RD",
+          "cause": "Tree down across our wires",
+          "customers_affected": "< 5",
+          "end": "2020-10-15T15:30:00",
+          "last_updated": "2020-10-15T15:43:00",
+          "municipality": "Galiano Island",
+          "municipality_code": "day-1 day-3 city--995767958",
+          "start": "2020-10-15T11:32:00"
+        },
+        {
           "area": "1000 block STURDIES BAY RD",
           "cause": "Other",
           "customers_affected": "< 5",
@@ -14422,6 +14462,16 @@
           "municipality": "Ganges",
           "municipality_code": "day-1 day-3 city-2125630497",
           "start": "2020-10-13T14:06:00"
+        },
+        {
+          "area": "500 block REYNOLDS RD",
+          "cause": "Tree down across our wires",
+          "customers_affected": "< 5",
+          "end": "2020-10-15T15:30:00",
+          "last_updated": "2020-10-15T15:42:00",
+          "municipality": "Ganges",
+          "municipality_code": "day-1 day-3 city-2125630497",
+          "start": "2020-10-15T14:21:00"
         },
         {
           "area": "400 block REYNOLDS RD",
@@ -15620,7 +15670,7 @@
           "end": "",
           "last_updated": "2020-10-13T18:06:00",
           "municipality": "Sooke",
-          "municipality_code": "day-1 day-3 city-80069133",
+          "municipality_code": "day-3 city-80069133",
           "start": "2020-10-13T12:42:00"
         },
         {
@@ -15760,7 +15810,7 @@
           "end": "",
           "last_updated": "2020-10-13T15:45:00",
           "municipality": "Victoria",
-          "municipality_code": "day-1 day-3 city-1201273535",
+          "municipality_code": "day-3 city-1201273535",
           "start": "2020-10-13T13:26:00"
         },
         {
