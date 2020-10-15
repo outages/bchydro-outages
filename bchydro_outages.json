@@ -139,8 +139,18 @@
       "region_id": "1812901382"
     },
     "Thompson/Shuswap": {
-      "customers_affected_14d": 13,
+      "customers_affected_14d": 2191,
       "outages": [
+        {
+          "area": "North of HWY 97A , South of GRANDVIEW BENCH RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Wire down",
+          "customers_affected": "2178",
+          "last_updated": "2020-10-15T01:03:00",
+          "municipality": "Enderby, Spallumcheen",
+          "municipality_code": "day-1 day-3 city-57924863 city-2134222637",
+          "start": "2020-10-15T00:52:00",
+          "status": "Crew status: Crew assigned"
+        },
         {
           "area": "9000 - 9700 block BARNHARTVALE RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Motor vehicle accident",
@@ -12214,10 +12224,10 @@
         },
         {
           "area": "WOLVERINE FSR KM 18, MINE SITE",
-          "cause": "Under investigation",
+          "cause": "Equipment failure",
           "customers_affected": "< 5",
           "end": "2020-10-14T23:00:00",
-          "last_updated": "2020-10-14T23:45:00",
+          "last_updated": "2020-10-15T01:05:00",
           "municipality": "Tumbler Ridge",
           "municipality_code": "day-1 day-3 city-53995150",
           "start": "2020-10-14T17:55:00"
@@ -15440,7 +15450,7 @@
           "end": "2020-10-11T01:00:00",
           "last_updated": "2020-10-13T11:13:00",
           "municipality": "100 Mile House",
-          "municipality_code": "day-3 city-950857956",
+          "municipality_code": "city-950857956",
           "start": "2020-10-10T12:45:00"
         },
         {
@@ -15720,7 +15730,7 @@
           "end": "2020-10-11T01:00:00",
           "last_updated": "2020-10-11T00:53:00",
           "municipality": "Clearwater",
-          "municipality_code": "day-3 city-1282265866",
+          "municipality_code": "city-1282265866",
           "start": "2020-10-10T22:16:00"
         },
         {
