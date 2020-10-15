@@ -83,23 +83,6 @@
       ],
       "region_code": "North VI",
       "region_id": "1602896846"
-    },
-    "Thompson/Shuswap": {
-      "customers_affected_14d": 13,
-      "outages": [
-        {
-          "area": "9000 - 9700 block BARNHARTVALE RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Motor vehicle accident",
-          "customers_affected": "13",
-          "last_updated": "2020-10-15T05:40:00",
-          "municipality": "Kamloops",
-          "municipality_code": "day-1 day-3 city-979034872",
-          "start": "2020-10-14T22:55:00",
-          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 15 4:15 a.m."
-        }
-      ],
-      "region_code": "Thompson/Shuswap",
-      "region_id": "725364552"
     }
   },
   "planned": {
@@ -7801,7 +7784,7 @@
           "end": "2020-10-13T06:36:00",
           "last_updated": "2020-10-14T12:33:00",
           "municipality": "Sechelt",
-          "municipality_code": "day-1 day-3 city--660434186",
+          "municipality_code": "day-3 city--660434186",
           "start": "2020-10-13T04:22:00"
         },
         {
@@ -11865,7 +11848,7 @@
           "end": "2020-10-11T06:00:00",
           "last_updated": "2020-10-13T09:05:00",
           "municipality": "Fraser Lake",
-          "municipality_code": "day-3 city--90749596",
+          "municipality_code": "city--90749596",
           "start": "2020-10-10T23:45:00"
         },
         {
@@ -12305,7 +12288,7 @@
           "end": "2020-10-11T06:00:00",
           "last_updated": "2020-10-11T05:52:00",
           "municipality": "Vanderhoof",
-          "municipality_code": "day-3 city-1041981516",
+          "municipality_code": "city-1041981516",
           "start": "2020-10-10T23:47:00"
         }
       ],
