@@ -1,7 +1,7 @@
 {
   "current": {
     "Lower Mainland": {
-      "customers_affected_14d": 82,
+      "customers_affected_14d": 90,
       "outages": [
         {
           "area": "30200 block NICHOLSON AVE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -42,6 +42,16 @@
           "municipality_code": "day-1 day-3 city--1560864404",
           "start": "2020-10-13T17:52:00",
           "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 14 11:00 p.m."
+        },
+        {
+          "area": "44200 block BAYVIEW RD, BAYVIEW RD L24\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Under investigation",
+          "customers_affected": "8",
+          "last_updated": "2020-10-14T20:39:00",
+          "municipality": "Mission",
+          "municipality_code": "day-1 day-3 city--1560864404",
+          "start": "2020-10-14T20:11:00",
+          "status": "Crew status: Crew assigned"
         },
         {
           "area": "40700 - 40800 block TAYLOR RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -16223,7 +16233,7 @@
           "end": "",
           "last_updated": "2020-10-10T20:49:00",
           "municipality": "Cache Creek",
-          "municipality_code": "day-3 city-720749214",
+          "municipality_code": "city-720749214",
           "start": "2020-10-10T17:07:00"
         },
         {
@@ -16703,7 +16713,7 @@
           "end": "2020-10-10T21:00:00",
           "last_updated": "2020-10-14T07:41:00",
           "municipality": "Kamloops",
-          "municipality_code": "day-3 city-979034872",
+          "municipality_code": "city-979034872",
           "start": "2020-10-10T14:51:00"
         },
         {
