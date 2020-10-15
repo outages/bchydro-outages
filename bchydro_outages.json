@@ -21,7 +21,7 @@
           "municipality": "Mission",
           "municipality_code": "day-1 day-3 city--1560864404",
           "start": "2020-10-13T17:52:00",
-          "status": "Crew status: Crew assigned\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 15 10:00 a.m."
+          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 15 10:00 a.m."
         },
         {
           "area": "40800 block CARTER RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -48,7 +48,7 @@
       "region_id": "521980323"
     },
     "North VI": {
-      "customers_affected_14d": 63,
+      "customers_affected_14d": 249,
       "outages": [
         {
           "area": "400 block KENNEDY ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -71,6 +71,16 @@
           "status": "Crew status: Crew assigned\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 15 8:30 a.m."
         },
         {
+          "area": "East of CHERRY RD, West of EAGLECREST DR, North of ISLAND HWY\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Under investigation",
+          "customers_affected": "186",
+          "last_updated": "2020-10-15T08:05:00",
+          "municipality": "Qualicum Beach",
+          "municipality_code": "day-1 day-3 city--154309756",
+          "start": "2020-10-15T07:43:00",
+          "status": "Crew status: No crew assigned yet"
+        },
+        {
           "area": "West of ZEBALLOS MAIN RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Tree down across our wires",
           "customers_affected": "17",
@@ -84,6 +94,23 @@
       "region_code": "North VI",
       "region_id": "1602896846"
     },
+    "Okanagan/Kootenay": {
+      "customers_affected_14d": 51,
+      "outages": [
+        {
+          "area": "North-South-East-West of HWY 95\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Planned work being done on our equipment",
+          "customers_affected": "51",
+          "last_updated": "2020-10-15T07:55:00",
+          "municipality": "Golden",
+          "municipality_code": "day-1 day-3 city-2138497321",
+          "start": "2020-10-15T07:40:00",
+          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 15 1:30 p.m."
+        }
+      ],
+      "region_code": "Okanagan/Kootenay",
+      "region_id": "2072041405"
+    },
     "Thompson/Shuswap": {
       "customers_affected_14d": 62,
       "outages": [
@@ -91,21 +118,21 @@
           "area": "West of BRINK ST, South of 2ND ST, North of 7TH ST, East of ASHCROFT MANOR HWY\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "61",
-          "last_updated": "2020-10-15T07:43:00",
+          "last_updated": "2020-10-15T08:00:00",
           "municipality": "Ashcroft",
           "municipality_code": "day-1 day-3 city--625370600",
           "start": "2020-10-15T07:40:00",
-          "status": "Crew status: No crew assigned yet"
+          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 15 8:30 a.m."
         },
         {
           "area": "100 block PUETT RANCH RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-15T07:16:00",
+          "last_updated": "2020-10-15T07:54:00",
           "municipality": "Kamloops",
           "municipality_code": "day-1 day-3 city-979034872",
           "start": "2020-10-15T07:09:00",
-          "status": "Crew status: Crew assigned"
+          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 15 8:55 a.m."
         }
       ],
       "region_code": "Thompson/Shuswap",
@@ -2562,11 +2589,11 @@
           "start": "2020-10-22T09:30:00"
         },
         {
-          "area": "332,333, 337, 338, 341, 344, 350, 351, 485, 485, 488, 489, 495, 496, 501, 504, 508, 511, 516, 522, 523 Davida Ave; 306, 312, 313, 318, 319, 325, 325, 326, 332, 333 Ker Ave; 331, 334, 336, 339, 345 Obed Ave; 3066, 3068 Tillicum Rd., Victoria",
+          "area": "**Short duration outage maximum of 1 hour between 1:00 pm and 4:00 pm**332,333, 337, 338, 341, 344, 350, 351, 485, 485, 488, 489, 495, 496, 501, 504, 508, 511, 516, 522, 523 Davida Ave; 306, 312, 313, 318, 319, 325, 325, 326, 332, 333 Ker Ave; 331, 334, 336, 339, 345 Obed Ave; 3066, 3068 Tillicum Rd., Victoria",
           "cause": "Planned work being done on our equipment",
           "customers_affected": "41",
           "end": "2020-10-20T16:00:00",
-          "last_updated": "2020-10-13T14:47:00",
+          "last_updated": "2020-10-15T07:49:00",
           "municipality": "Victoria",
           "municipality_code": "day-1 day-3 city-1201273535",
           "start": "2020-10-20T13:00:00"
@@ -2592,11 +2619,11 @@
           "start": "2020-10-22T09:30:00"
         },
         {
-          "area": "2822 Dysart Rd., Victoria",
+          "area": "**Short duration outage maximum of 1 hour between 9:00 am and 4:00 pm**2780, 2817, 2819, 2822, 2824, 2826, 2851, 2854, 2857, 2860, 2867, 2869, 2870, 2871, 2877, 2880, 2882, 2884, 2886, 2888, 2890, 2892, 2894, 2900, 2920, 2923 Dysart Rd; 590, 600 W Gorge Rd; 590 Vincent Ave., Victoria",
           "cause": "Planned work being done on our equipment",
           "customers_affected": "31",
           "end": "2020-10-22T16:00:00",
-          "last_updated": "2020-10-15T07:42:00",
+          "last_updated": "2020-10-15T07:53:00",
           "municipality": "Victoria",
           "municipality_code": "day-1 day-3 city-1201273535",
           "start": "2020-10-22T09:00:00"
@@ -7359,7 +7386,7 @@
           "cause": "Tree down across our wires",
           "customers_affected": "645",
           "end": "2020-10-13T20:30:00",
-          "last_updated": "2020-10-13T20:09:00",
+          "last_updated": "2020-10-15T07:57:00",
           "municipality": "Pemberton",
           "municipality_code": "day-1 day-3 city--2076154532",
           "start": "2020-10-13T16:45:00"
@@ -15904,7 +15931,7 @@
           "cause": "Equipment failure",
           "customers_affected": "2178",
           "end": "2020-10-15T04:30:00",
-          "last_updated": "2020-10-15T04:08:00",
+          "last_updated": "2020-10-15T08:03:00",
           "municipality": "Enderby, Spallumcheen",
           "municipality_code": "day-1 day-3 city-57924863 city-2134222637",
           "start": "2020-10-15T00:51:00"
