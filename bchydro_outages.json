@@ -2495,11 +2495,11 @@
           "start": "2020-10-19T09:00:00"
         },
         {
-          "area": "1243, 1244, 1246, 1248 Bay St, Victoria",
+          "area": "** CANCELLED **1243, 1244, 1246, 1248 Bay St, Victoria",
           "cause": "Planned work being done on our equipment",
           "customers_affected": "83",
           "end": "2020-10-15T16:00:00",
-          "last_updated": "2020-10-07T12:28:00",
+          "last_updated": "2020-10-15T06:13:00",
           "municipality": "Victoria",
           "municipality_code": "day-1 day-3 city-1201273535",
           "start": "2020-10-15T09:00:00"
@@ -15340,7 +15340,7 @@
       "region_id": "1812901382"
     },
     "Thompson/Shuswap": {
-      "customers_affected_14d": 15377,
+      "customers_affected_14d": 15390,
       "outages": [
         {
           "area": "East of WILCOX RD, North of TRIP RD",
@@ -15961,6 +15961,16 @@
           "municipality": "Kamloops",
           "municipality_code": "city-979034872",
           "start": "2020-10-03T08:50:00"
+        },
+        {
+          "area": "9000 - 9700 block BARNHARTVALE RD",
+          "cause": "Motor vehicle accident",
+          "customers_affected": "13",
+          "end": "2020-10-15T06:05:00",
+          "last_updated": "2020-10-15T06:14:00",
+          "municipality": "Kamloops",
+          "municipality_code": "day-1 day-3 city-979034872",
+          "start": "2020-10-14T22:55:00"
         },
         {
           "area": "200 block LARCH AVE",
