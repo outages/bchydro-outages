@@ -95,8 +95,18 @@
       "region_id": "1602896846"
     },
     "Northern": {
-      "customers_affected_14d": -1,
+      "customers_affected_14d": 52,
       "outages": [
+        {
+          "area": "LSD 10 34 86 21, 11400 - 11700 block HWY 97 N\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Under investigation",
+          "customers_affected": "< 5",
+          "last_updated": "2020-10-14T23:27:00",
+          "municipality": "Fort St. John",
+          "municipality_code": "day-1 day-3 city-205572915",
+          "start": "2020-10-14T22:59:00",
+          "status": "Crew status: Crew assigned"
+        },
         {
           "area": "WOLVERINE FSR KM 18, MINE SITE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
@@ -106,6 +116,16 @@
           "municipality_code": "day-1 day-3 city-53995150",
           "start": "2020-10-14T17:55:00",
           "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 14 11:00 p.m."
+        },
+        {
+          "area": "South of LILLY LAKE RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Under investigation",
+          "customers_affected": "48",
+          "last_updated": "2020-10-14T23:26:00",
+          "municipality": "Vanderhoof",
+          "municipality_code": "day-1 day-3 city-1041981516",
+          "start": "2020-10-14T23:22:00",
+          "status": "Crew status: Crew assigned"
         }
       ],
       "region_code": "Northern",
