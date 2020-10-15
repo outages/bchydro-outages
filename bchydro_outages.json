@@ -27,11 +27,11 @@
           "area": "East of NICOMEN SLOUGH RD, South of NICOMEN RD, North-West of LOUGHEED HWY\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Tree down across our wires",
           "customers_affected": "24",
-          "last_updated": "2020-10-15T06:58:00",
+          "last_updated": "2020-10-15T09:05:00",
           "municipality": "Mission",
           "municipality_code": "day-1 day-3 city--1560864404",
           "start": "2020-10-13T17:52:00",
-          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 15 10:00 a.m."
+          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 15 12:00 p.m."
         },
         {
           "area": "40800 block CARTER RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -57,7 +57,7 @@
           "area": "East of BAYNES RD, West of 190A ST, North of 119TH AVE, South of FORD RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Planned work being done on our equipment",
           "customers_affected": "102",
-          "last_updated": "2020-10-15T08:43:00",
+          "last_updated": "2020-10-15T09:02:00",
           "municipality": "Pitt Meadows",
           "municipality_code": "day-1 day-3 city--253788407",
           "start": "2020-10-15T08:37:00",
@@ -135,18 +135,8 @@
       "region_id": "1602896846"
     },
     "Northern": {
-      "customers_affected_14d": 264,
+      "customers_affected_14d": 12,
       "outages": [
-        {
-          "area": "West of 86th ST, South of 112th AVE, North of 101st AVE, East of 90th ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Planned work being done on our equipment",
-          "customers_affected": "252",
-          "last_updated": "2020-10-15T08:46:00",
-          "municipality": "Fort St. John",
-          "municipality_code": "day-1 day-3 city-205572915",
-          "start": "2020-10-15T08:31:00",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 15 9:00 a.m."
-        },
         {
           "area": "10500 block 88A ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Planned work being done on our equipment",
@@ -7495,7 +7485,7 @@
           "end": "2020-10-13T08:54:00",
           "last_updated": "2020-10-13T09:28:00",
           "municipality": "Pemberton",
-          "municipality_code": "day-1 day-3 city--2076154532",
+          "municipality_code": "day-3 city--2076154532",
           "start": "2020-10-13T06:25:00"
         },
         {
@@ -11500,7 +11490,7 @@
       "region_id": "1602896846"
     },
     "Northern": {
-      "customers_affected_14d": 11652,
+      "customers_affected_14d": 11904,
       "outages": [
         {
           "area": "North-South-East-West of HWY 20",
@@ -11557,7 +11547,7 @@
           "cause": "Equipment failure",
           "customers_affected": "< 5",
           "end": "",
-          "last_updated": "2020-10-13T21:51:00",
+          "last_updated": "2020-10-15T08:50:00",
           "municipality": "Burns Lake",
           "municipality_code": "day-1 day-3 city--2121425941",
           "start": "2020-10-13T19:40:00"
@@ -11567,7 +11557,7 @@
           "cause": "Tree down across our wires",
           "customers_affected": "< 5",
           "end": "2020-10-13T15:05:00",
-          "last_updated": "2020-10-13T15:06:00",
+          "last_updated": "2020-10-15T08:49:00",
           "municipality": "Burns Lake",
           "municipality_code": "day-1 day-3 city--2121425941",
           "start": "2020-10-13T11:07:00"
@@ -11831,6 +11821,16 @@
           "municipality": "Fort St. John",
           "municipality_code": "city-205572915",
           "start": "2020-10-06T15:51:00"
+        },
+        {
+          "area": "West of 86th ST, South of 112th AVE, North of 101st AVE, East of 90th ST",
+          "cause": "Planned work being done on our equipment",
+          "customers_affected": "252",
+          "end": "2020-10-15T09:00:00",
+          "last_updated": "2020-10-15T08:53:00",
+          "municipality": "Fort St. John",
+          "municipality_code": "day-1 day-3 city-205572915",
+          "start": "2020-10-15T08:31:00"
         },
         {
           "area": "21200 block PRESPATOU RD",
@@ -12347,7 +12347,7 @@
           "cause": "Tree down across our wires",
           "customers_affected": "49",
           "end": "2020-10-15T05:00:00",
-          "last_updated": "2020-10-15T05:18:00",
+          "last_updated": "2020-10-15T08:50:00",
           "municipality": "Vanderhoof",
           "municipality_code": "day-1 day-3 city-1041981516",
           "start": "2020-10-14T23:22:00"
@@ -12464,7 +12464,7 @@
           "cause": "Tree down across our wires",
           "customers_affected": "75",
           "end": "2020-10-13T23:00:00",
-          "last_updated": "2020-10-13T23:12:00",
+          "last_updated": "2020-10-15T08:54:00",
           "municipality": "Coldstream",
           "municipality_code": "day-1 day-3 city--2136465532",
           "start": "2020-10-13T21:01:00"
@@ -12714,7 +12714,7 @@
           "cause": "Other",
           "customers_affected": "1281",
           "end": "2020-10-13T22:50:00",
-          "last_updated": "2020-10-13T22:38:00",
+          "last_updated": "2020-10-15T08:55:00",
           "municipality": "Lumby",
           "municipality_code": "day-1 day-3 city-73781051",
           "start": "2020-10-13T20:45:00"
@@ -12964,7 +12964,7 @@
           "cause": "Other",
           "customers_affected": "< 5",
           "end": "",
-          "last_updated": "2020-10-14T11:58:00",
+          "last_updated": "2020-10-15T08:54:00",
           "municipality": "Vernon",
           "municipality_code": "day-1 day-3 city--1736079254",
           "start": "2020-10-14T10:10:00"
@@ -16235,10 +16235,10 @@
         },
         {
           "area": "100 block PUETT RANCH RD",
-          "cause": "Under investigation",
+          "cause": "Other",
           "customers_affected": "< 5",
           "end": "2020-10-15T09:00:00",
-          "last_updated": "2020-10-15T08:45:00",
+          "last_updated": "2020-10-15T08:48:00",
           "municipality": "Kamloops",
           "municipality_code": "day-1 day-3 city-979034872",
           "start": "2020-10-15T07:09:00"
