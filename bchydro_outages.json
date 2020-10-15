@@ -54,7 +54,7 @@
           "area": "400 block KENNEDY ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-14T22:37:00",
+          "last_updated": "2020-10-15T07:07:00",
           "municipality": "Nanaimo",
           "municipality_code": "day-1 day-3 city--907547835",
           "start": "2020-10-13T10:15:00",
@@ -83,6 +83,23 @@
       ],
       "region_code": "North VI",
       "region_id": "1602896846"
+    },
+    "Thompson/Shuswap": {
+      "customers_affected_14d": -1,
+      "outages": [
+        {
+          "area": "100 block PUETT RANCH RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Under investigation",
+          "customers_affected": "< 5",
+          "last_updated": "2020-10-15T07:16:00",
+          "municipality": "Kamloops",
+          "municipality_code": "day-1 day-3 city-979034872",
+          "start": "2020-10-15T07:09:00",
+          "status": "Crew status: Crew assigned"
+        }
+      ],
+      "region_code": "Thompson/Shuswap",
+      "region_id": "725364552"
     }
   },
   "planned": {
@@ -124,7 +141,7 @@
       "region_id": "848340027"
     },
     "Lower Mainland": {
-      "customers_affected_14d": 7191,
+      "customers_affected_14d": 7270,
       "outages": [
         {
           "area": "1944, 1954, 1966, 1976 Albion St; 32666-32749 Cordova Ave; 325, 32760 Marshall Rd, 32414-32750 Pandora Ave; 1911-1944 Valencia Crt, Abbotsford",
@@ -465,6 +482,16 @@
           "municipality": "Coquitlam",
           "municipality_code": "day-1 day-3 city--3101987",
           "start": "2020-10-26T09:30:00"
+        },
+        {
+          "area": "3004-3056 Armada St; 3103-3123 Daybreak Ave; 3004-3056 Fleet St, 2701, 2821 Spuraway Ave; 3068, 3072, 3076, 3088 Starlight Way, 3104-3139 Tide Pl, Coquitlam",
+          "cause": "Planned work being done on our equipment",
+          "customers_affected": "79",
+          "end": "2020-10-21T16:00:00",
+          "last_updated": "2020-10-15T07:13:00",
+          "municipality": "Coquitlam",
+          "municipality_code": "day-1 day-3 city--3101987",
+          "start": "2020-10-21T09:30:00"
         },
         {
           "area": "1885,1888 Beedie Pl, 1243-1258 Bluff Dr, 1885,1887 Metcalfe Way",
@@ -2879,7 +2906,7 @@
       "region_id": "1812901382"
     },
     "Thompson/Shuswap": {
-      "customers_affected_14d": 3918,
+      "customers_affected_14d": 3919,
       "outages": [
         {
           "area": "160 - 330 Birch Ave; 175, 255, 315 Hwy 97",
@@ -3060,6 +3087,16 @@
           "municipality": "Revelstoke",
           "municipality_code": "day-1 day-3 city-1039954398",
           "start": "2020-10-20T08:00:00"
+        },
+        {
+          "area": "2087 Peterson Rd, Tappen",
+          "cause": "Planned work being done on our equipment",
+          "customers_affected": "< 5",
+          "end": "2020-10-22T16:00:00",
+          "last_updated": "2020-10-15T07:16:00",
+          "municipality": "Salmon Arm",
+          "municipality_code": "day-1 day-3 city-2118875562",
+          "start": "2020-10-22T09:00:00"
         }
       ],
       "region_code": "Thompson/Shuswap",
