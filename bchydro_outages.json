@@ -1,18 +1,8 @@
 {
   "current": {
     "Central Interior": {
-      "customers_affected_14d": 406,
+      "customers_affected_14d": 383,
       "outages": [
-        {
-          "area": "4500 - 4700 block HANDLEN RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Under investigation",
-          "customers_affected": "22",
-          "last_updated": "2020-10-16T04:42:00",
-          "municipality": "Prince George",
-          "municipality_code": "day-1 day-3 city-1835674262",
-          "start": "2020-10-16T02:45:00",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 16 5:00 a.m."
-        },
         {
           "area": "East of DENNIS RD, West of COACH RD, South of OVAL RD, North of QUESNEL-HYDRAULIC RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
@@ -32,16 +22,6 @@
           "municipality_code": "day-1 day-3 city--1975191965",
           "start": "2020-10-16T03:41:00",
           "status": "Crew status: Crew assigned"
-        },
-        {
-          "area": "4200 block DRUMMOND RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Under investigation",
-          "customers_affected": "< 5",
-          "last_updated": "2020-10-16T04:30:00",
-          "municipality": "Quesnel",
-          "municipality_code": "day-1 day-3 city--1975191965",
-          "start": "2020-10-16T03:26:00",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 16 5:00 a.m."
         },
         {
           "area": "South of FRASER RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -75,7 +55,7 @@
       "region_id": "521980323"
     },
     "Northern": {
-      "customers_affected_14d": 845,
+      "customers_affected_14d": 778,
       "outages": [
         {
           "area": "East of HWY 16\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -108,14 +88,14 @@
           "status": "Crew status: No crew assigned yet"
         },
         {
-          "area": "North of MORICE TELKWA FS RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "area": "North-South-East-West of HWY 16\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
-          "customers_affected": "308",
-          "last_updated": "2020-10-16T03:56:00",
+          "customers_affected": "241",
+          "last_updated": "2020-10-16T04:53:00",
           "municipality": "Houston",
           "municipality_code": "day-1 day-3 city--1529782994",
-          "start": "2020-10-16T01:17:00",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 16 6:55 a.m."
+          "start": "2020-10-16T01:13:00",
+          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 16 7:00 a.m."
         }
       ],
       "region_code": "Northern",
@@ -2266,7 +2246,7 @@
       "region_id": "2072041405"
     },
     "South VI": {
-      "customers_affected_14d": 2033,
+      "customers_affected_14d": 1894,
       "outages": [
         {
           "area": "1746 Verling Ave; 1763 Sean Hts, Saanichton",
@@ -2467,16 +2447,6 @@
           "municipality": "Sooke",
           "municipality_code": "day-1 day-3 city-80069133",
           "start": "2020-10-21T10:00:00"
-        },
-        {
-          "area": "*Maximum 3hr outage between 10pm Oct 13th - 5am Oct 14th*272 W Gorge Rd; 2984, 2993 Tillicum Rd; 312-575 Walter Ave",
-          "cause": "Planned work being done on our equipment",
-          "customers_affected": "139",
-          "end": "2020-10-14T05:00:00",
-          "last_updated": "2020-09-28T14:05:00",
-          "municipality": "Victoria",
-          "municipality_code": "day-1 day-3 city-1201273535",
-          "start": "2020-10-13T22:00:00"
         },
         {
           "area": "2301-2305,2308,2309,2312,2313 ,2316\r\n2317,2320,325,2328,2329, 2332, 2333,\r\n2336, 2337, 2340 Belair Rd. 648,649,,650, 651,652 ,654, 655, 656,658, 661,662, 666,\r\n668, 671, 672, 675, 676, 678, 80,682,683, 684, 685, 686, 687, 688, 694,696,698, 700, 702, 2322, 2323, 2324 2325, 2326, 2327,2328,2329, 2330, 2331,2332, 2333, 2334,2335, 2336, 2337, 2338, Holylake Ave/Cres, 2282, 2286, 290,2294 Jenny PL, VICTORIA.",
@@ -3112,7 +3082,7 @@
   },
   "restored": {
     "Central Interior": {
-      "customers_affected_14d": 4644,
+      "customers_affected_14d": 4667,
       "outages": [
         {
           "area": "North of HWY 97",
@@ -3233,6 +3203,16 @@
           "municipality": "Prince George",
           "municipality_code": "day-1 day-3 city-1835674262",
           "start": "2020-10-16T00:27:00"
+        },
+        {
+          "area": "4500 - 4700 block HANDLEN RD",
+          "cause": "Tree down across our wires",
+          "customers_affected": "22",
+          "end": "2020-10-16T05:00:00",
+          "last_updated": "2020-10-16T05:07:00",
+          "municipality": "Prince George",
+          "municipality_code": "day-1 day-3 city-1835674262",
+          "start": "2020-10-16T02:45:00"
         },
         {
           "area": "East of NESSVIEW RD, North-South-West of LAKESIDE DR",
@@ -3473,6 +3453,16 @@
           "municipality": "Quesnel",
           "municipality_code": "day-3 city--1975191965",
           "start": "2020-10-13T16:15:00"
+        },
+        {
+          "area": "4200 block DRUMMOND RD",
+          "cause": "Tree down across our wires",
+          "customers_affected": "< 5",
+          "end": "2020-10-16T05:00:00",
+          "last_updated": "2020-10-16T04:57:00",
+          "municipality": "Quesnel",
+          "municipality_code": "day-1 day-3 city--1975191965",
+          "start": "2020-10-16T03:26:00"
         },
         {
           "area": "5800 block S CARIBOO HWY",
@@ -3988,7 +3978,7 @@
           "end": "",
           "last_updated": "2020-10-14T04:54:00",
           "municipality": "Abbotsford",
-          "municipality_code": "day-1 day-3 city-1230363016",
+          "municipality_code": "day-3 city-1230363016",
           "start": "2020-10-13T13:14:00"
         },
         {
@@ -3998,7 +3988,7 @@
           "end": "",
           "last_updated": "2020-10-14T05:01:00",
           "municipality": "Abbotsford",
-          "municipality_code": "day-1 day-3 city-1230363016",
+          "municipality_code": "day-3 city-1230363016",
           "start": "2020-10-13T20:07:00"
         },
         {
@@ -6748,7 +6738,7 @@
           "end": "2020-10-14T05:30:00",
           "last_updated": "2020-10-15T12:28:00",
           "municipality": "Maple Ridge",
-          "municipality_code": "day-1 day-3 city-598891104",
+          "municipality_code": "day-3 city-598891104",
           "start": "2020-10-13T19:28:00"
         },
         {
@@ -15046,7 +15036,7 @@
           "end": "2020-10-14T05:00:00",
           "last_updated": "2020-10-14T08:34:00",
           "municipality": "Pender Island",
-          "municipality_code": "day-1 day-3 city--635217187",
+          "municipality_code": "day-3 city--635217187",
           "start": "2020-10-13T16:41:00"
         },
         {
