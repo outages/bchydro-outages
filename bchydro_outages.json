@@ -1,5 +1,22 @@
 {
   "current": {
+    "Central Interior": {
+      "customers_affected_14d": 229,
+      "outages": [
+        {
+          "area": "North of NAZKO RD, West of LONG BAR RD, South of PARADISE RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Under investigation",
+          "customers_affected": "229",
+          "last_updated": "2020-10-15T22:43:00",
+          "municipality": "Quesnel",
+          "municipality_code": "day-1 day-3 city--1975191965",
+          "start": "2020-10-15T22:40:00",
+          "status": "Crew status: Crew assigned"
+        }
+      ],
+      "region_code": "Central Interior",
+      "region_id": "848340027"
+    },
     "Lower Mainland": {
       "customers_affected_14d": -1,
       "outages": [
@@ -7,7 +24,7 @@
           "area": "2800 block PRATT CRES\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-15T22:30:00",
+          "last_updated": "2020-10-15T22:37:00",
           "municipality": "Abbotsford",
           "municipality_code": "day-1 day-3 city-1230363016",
           "start": "2020-10-15T20:06:00",
@@ -4564,7 +4581,7 @@
           "end": "2020-10-13T22:45:00",
           "last_updated": "2020-10-13T22:35:00",
           "municipality": "Chilliwack",
-          "municipality_code": "day-1 day-3 city--708005353",
+          "municipality_code": "day-3 city--708005353",
           "start": "2020-10-13T18:50:00"
         },
         {
@@ -4904,7 +4921,7 @@
           "end": "",
           "last_updated": "2020-10-13T22:43:00",
           "municipality": "Chilliwack",
-          "municipality_code": "day-1 day-3 city--708005353",
+          "municipality_code": "day-3 city--708005353",
           "start": "2020-10-13T14:11:00"
         },
         {
@@ -7054,7 +7071,7 @@
           "end": "2020-10-14T00:00:00",
           "last_updated": "2020-10-13T22:38:00",
           "municipality": "Mission",
-          "municipality_code": "day-1 day-3 city--1560864404",
+          "municipality_code": "day-3 city--1560864404",
           "start": "2020-10-13T14:37:00"
         },
         {
@@ -7614,7 +7631,7 @@
           "end": "2020-10-13T22:39:00",
           "last_updated": "2020-10-14T10:14:00",
           "municipality": "Powell River",
-          "municipality_code": "day-1 day-3 city-1665178489",
+          "municipality_code": "day-3 city-1665178489",
           "start": "2020-10-13T13:57:00"
         },
         {
@@ -7674,7 +7691,7 @@
           "end": "2020-10-13T23:00:00",
           "last_updated": "2020-10-14T12:43:00",
           "municipality": "Powell River",
-          "municipality_code": "day-1 day-3 city-1665178489",
+          "municipality_code": "day-3 city-1665178489",
           "start": "2020-10-13T14:33:00"
         },
         {
@@ -11091,7 +11108,7 @@
           "end": "2020-10-13T23:30:00",
           "last_updated": "2020-10-13T22:59:00",
           "municipality": "Qualicum Beach",
-          "municipality_code": "day-1 day-3 city--154309756",
+          "municipality_code": "day-3 city--154309756",
           "start": "2020-10-13T12:22:00"
         },
         {
@@ -11131,7 +11148,7 @@
           "end": "2020-10-13T23:30:00",
           "last_updated": "2020-10-15T12:15:00",
           "municipality": "Qualicum Beach",
-          "municipality_code": "day-1 day-3 city--154309756",
+          "municipality_code": "day-3 city--154309756",
           "start": "2020-10-13T21:26:00"
         },
         {
@@ -14062,7 +14079,7 @@
           "end": "2020-10-11T21:30:00",
           "last_updated": "2020-10-13T09:24:00",
           "municipality": "Galiano Island",
-          "municipality_code": "day-3 city--995767958",
+          "municipality_code": "city--995767958",
           "start": "2020-10-11T16:43:00"
         },
         {
@@ -14402,7 +14419,7 @@
           "end": "2020-10-13T23:00:00",
           "last_updated": "2020-10-14T08:40:00",
           "municipality": "Ganges",
-          "municipality_code": "day-1 day-3 city-2125630497",
+          "municipality_code": "day-3 city-2125630497",
           "start": "2020-10-13T14:06:00"
         },
         {
@@ -14732,7 +14749,7 @@
           "end": "2020-10-13T23:00:00",
           "last_updated": "2020-10-13T22:46:00",
           "municipality": "Metchosin",
-          "municipality_code": "day-1 day-3 city-1000109226",
+          "municipality_code": "day-3 city-1000109226",
           "start": "2020-10-13T13:24:00"
         },
         {
@@ -15082,7 +15099,7 @@
           "end": "",
           "last_updated": "2020-10-14T12:45:00",
           "municipality": "North Saanich",
-          "municipality_code": "day-1 day-3 city-179964248",
+          "municipality_code": "day-3 city-179964248",
           "start": "2020-10-13T19:27:00"
         },
         {
