@@ -37,7 +37,7 @@
           "area": "31200 block HART HWY\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-16T10:11:00",
+          "last_updated": "2020-10-16T15:33:00",
           "municipality": "Prince George",
           "municipality_code": "day-1 day-3 city-1835674262",
           "start": "2020-10-16T09:07:00",
@@ -47,7 +47,7 @@
           "area": "21600 block JULIE CRES\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-16T08:17:00",
+          "last_updated": "2020-10-16T15:35:00",
           "municipality": "Prince George",
           "municipality_code": "day-1 day-3 city-1835674262",
           "start": "2020-10-16T08:01:00",
@@ -57,7 +57,7 @@
           "area": "43500 block WILLOWCALE RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-16T08:50:00",
+          "last_updated": "2020-10-16T15:36:00",
           "municipality": "Prince George",
           "municipality_code": "day-1 day-3 city-1835674262",
           "start": "2020-10-16T07:50:00",
@@ -181,11 +181,11 @@
           "area": "1700 - 1800 block GRANT AVE, 1100 block STRATHMORE ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Bird contacting our wires",
           "customers_affected": "9",
-          "last_updated": "2020-10-16T15:26:00",
+          "last_updated": "2020-10-16T15:39:00",
           "municipality": "Nanaimo",
           "municipality_code": "day-1 day-3 city--907547835",
           "start": "2020-10-16T13:56:00",
-          "status": "Crew status: Crew assigned"
+          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 16 4:40 p.m."
         }
       ],
       "region_code": "North VI",
@@ -208,7 +208,7 @@
           "area": "West of HWY 35\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "61",
-          "last_updated": "2020-10-16T15:01:00",
+          "last_updated": "2020-10-16T15:33:00",
           "municipality": "Burns Lake",
           "municipality_code": "day-1 day-3 city--2121425941",
           "start": "2020-10-16T10:06:00",
@@ -279,7 +279,7 @@
       "region_id": "1602964060"
     },
     "South VI": {
-      "customers_affected_14d": 2953,
+      "customers_affected_14d": 2956,
       "outages": [
         {
           "area": "2400 block RENFREW RD, 2400 block SOMMER LN\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -322,6 +322,16 @@
           "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 16 4:00 p.m."
         },
         {
+          "area": "3700 block PHILLIPS RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Under investigation",
+          "customers_affected": "< 5",
+          "last_updated": "2020-10-16T15:44:00",
+          "municipality": "Sooke",
+          "municipality_code": "day-1 day-3 city-80069133",
+          "start": "2020-10-16T15:33:00",
+          "status": "Crew status: Crew assigned"
+        },
+        {
           "area": "South of HALLOWELL RD, West of ADMIRALS RD, North-East of MAPLEBANK RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Planned work being done on our equipment",
           "customers_affected": "26",
@@ -352,11 +362,11 @@
           "area": "6000 block DEMPSEY LK RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Wire down",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-16T15:07:00",
+          "last_updated": "2020-10-16T15:43:00",
           "municipality": "100 Mile House",
           "municipality_code": "day-1 day-3 city-950857956",
           "start": "2020-10-16T11:53:00",
-          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 16 2:50 p.m."
+          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 16 5:00 p.m."
         }
       ],
       "region_code": "Thompson/Shuswap",
@@ -402,7 +412,7 @@
       "region_id": "848340027"
     },
     "Lower Mainland": {
-      "customers_affected_14d": 9223,
+      "customers_affected_14d": 9226,
       "outages": [
         {
           "area": "1944, 1954, 1966, 1976 Albion St; 32666-32749 Cordova Ave; 325, 32760 Marshall Rd, 32414-32750 Pandora Ave; 1911-1944 Valencia Crt, Abbotsford",
@@ -1693,6 +1703,16 @@
           "municipality": "Surrey",
           "municipality_code": "day-1 day-3 city--1807186826",
           "start": "2020-10-22T08:00:00"
+        },
+        {
+          "area": "12085, 12099, 12105 77 Ave., Surrey",
+          "cause": "Planned work being done on our equipment",
+          "customers_affected": "< 5",
+          "end": "2020-10-26T16:00:00",
+          "last_updated": "2020-10-16T15:45:00",
+          "municipality": "Surrey",
+          "municipality_code": "day-1 day-3 city--1807186826",
+          "start": "2020-10-26T09:00:00"
         },
         {
           "area": "7115, 7177 194A St",
@@ -9372,7 +9392,7 @@
           "end": "",
           "last_updated": "2020-10-14T19:47:00",
           "municipality": "Surrey",
-          "municipality_code": "day-1 day-3 city--1807186826",
+          "municipality_code": "day-3 city--1807186826",
           "start": "2020-10-14T06:39:00"
         },
         {
@@ -11329,7 +11349,7 @@
           "end": "2020-10-14T16:00:00",
           "last_updated": "2020-10-15T15:44:00",
           "municipality": "North Cowichan",
-          "municipality_code": "day-1 day-3 city--666037877",
+          "municipality_code": "day-3 city--666037877",
           "start": "2020-10-13T12:50:00"
         },
         {
@@ -12069,7 +12089,7 @@
           "end": "2020-10-14T16:00:00",
           "last_updated": "2020-10-15T12:26:00",
           "municipality": "Qualicum Beach",
-          "municipality_code": "day-1 day-3 city--154309756",
+          "municipality_code": "day-3 city--154309756",
           "start": "2020-10-13T21:06:00"
         },
         {
