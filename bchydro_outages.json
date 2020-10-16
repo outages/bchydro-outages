@@ -1,7 +1,7 @@
 {
   "current": {
     "Central Interior": {
-      "customers_affected_14d": 430,
+      "customers_affected_14d": 431,
       "outages": [
         {
           "area": "East of BEAVER FOREST RD, North of HWY 16\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -27,7 +27,7 @@
           "area": "South of AESOP RD, North-East of CHIEF LAKE RD, West of FOX DR\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Wire down",
           "customers_affected": "8",
-          "last_updated": "2020-10-16T08:15:00",
+          "last_updated": "2020-10-16T08:28:00",
           "municipality": "Prince George",
           "municipality_code": "day-1 day-3 city-1835674262",
           "start": "2020-10-16T08:11:00",
@@ -51,6 +51,16 @@
           "municipality": "Prince George",
           "municipality_code": "day-1 day-3 city-1835674262",
           "start": "2020-10-16T08:01:00",
+          "status": "Crew status: No crew assigned yet"
+        },
+        {
+          "area": "5900 block FERGUSON LAKE RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Under investigation",
+          "customers_affected": "< 5",
+          "last_updated": "2020-10-16T08:26:00",
+          "municipality": "Prince George",
+          "municipality_code": "day-1 day-3 city-1835674262",
+          "start": "2020-10-16T08:19:00",
           "status": "Crew status: No crew assigned yet"
         },
         {
@@ -127,11 +137,11 @@
           "area": "2200 block BEAVER LAKE RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-16T08:22:00",
+          "last_updated": "2020-10-16T08:27:00",
           "municipality": "Williams Lake",
           "municipality_code": "day-1 day-3 city--1905642465",
           "start": "2020-10-16T07:23:00",
-          "status": "Crew status: No crew assigned yet"
+          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 16 9:10 a.m."
         },
         {
           "area": "4300 block TEASDALE ROAD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -221,7 +231,7 @@
           "area": "South of TATALROSE RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "7",
-          "last_updated": "2020-10-16T07:01:00",
+          "last_updated": "2020-10-16T08:32:00",
           "municipality": "Burns Lake",
           "municipality_code": "day-1 day-3 city--2121425941",
           "start": "2020-10-16T05:10:00",
@@ -312,7 +322,7 @@
           "area": "North of MAHOOD LAKE RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Tree down across our wires",
           "customers_affected": "57",
-          "last_updated": "2020-10-16T06:56:00",
+          "last_updated": "2020-10-16T08:33:00",
           "municipality": "100 Mile House",
           "municipality_code": "day-1 day-3 city-950857956",
           "start": "2020-10-16T03:23:00",
@@ -332,17 +342,17 @@
           "area": "North of LOST CREEK RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "234",
-          "last_updated": "2020-10-16T07:50:00",
+          "last_updated": "2020-10-16T08:26:00",
           "municipality": "Clearwater",
           "municipality_code": "day-1 day-3 city-1282265866",
           "start": "2020-10-16T07:14:00",
-          "status": "Crew status: Crew assigned"
+          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 16 9:30 a.m."
         },
         {
           "area": "WELLS GREY PARK, 5000 - 5100 block CLEARWATER VLY RD, 5000 block CLEARWATER VALL RD, 4300 - 6600 block CLEARWATER VAL RD, 600 block MOUL CREEK RD, 4300 - 6600 block CLEARWATER VALLEY RD, 6200 - 6500 block CORRAL RD, 5800 - 6100 block TROUT CREEK RD, 400 block NAKISKA RD, 600 block GROUSE CREEK RD...\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "108",
-          "last_updated": "2020-10-16T08:18:00",
+          "last_updated": "2020-10-16T08:31:00",
           "municipality": "Clearwater",
           "municipality_code": "day-1 day-3 city-1282265866",
           "start": "2020-10-16T03:49:00",
@@ -2500,7 +2510,7 @@
       "region_id": "2072041405"
     },
     "South VI": {
-      "customers_affected_14d": 1928,
+      "customers_affected_14d": 1934,
       "outages": [
         {
           "area": "1746 Verling Ave; 1763 Sean Hts, Saanichton",
@@ -3133,6 +3143,16 @@
           "start": "2020-10-21T09:30:00"
         },
         {
+          "area": "3358, 3362, 3363, 3364, 3367, 3368 Haida Dr, Victoria",
+          "cause": "Planned work being done on our equipment",
+          "customers_affected": "6",
+          "end": "2020-10-23T12:30:00",
+          "last_updated": "2020-10-16T08:29:00",
+          "municipality": "Victoria",
+          "municipality_code": "day-1 day-3 city-1201273535",
+          "start": "2020-10-23T09:30:00"
+        },
+        {
           "area": "** CANCELLED **6558,6580,6585, 6617 Central Saanich,\r\nVictoria",
           "cause": "Pole replacement",
           "customers_affected": "5",
@@ -3683,7 +3703,7 @@
           "cause": "Tree down across our wires",
           "customers_affected": "244",
           "end": "2020-10-16T04:41:00",
-          "last_updated": "2020-10-16T04:02:00",
+          "last_updated": "2020-10-16T08:29:00",
           "municipality": "Quesnel",
           "municipality_code": "day-1 day-3 city--1975191965",
           "start": "2020-10-16T00:53:00"
@@ -3713,7 +3733,7 @@
           "cause": "Tree down across our wires",
           "customers_affected": "216",
           "end": "2020-10-16T03:12:00",
-          "last_updated": "2020-10-16T03:19:00",
+          "last_updated": "2020-10-16T08:29:00",
           "municipality": "Quesnel",
           "municipality_code": "day-1 day-3 city--1975191965",
           "start": "2020-10-16T00:38:00"
@@ -6602,7 +6622,7 @@
           "end": "",
           "last_updated": "2020-10-14T08:32:00",
           "municipality": "Langley",
-          "municipality_code": "day-1 day-3 city-1612593490",
+          "municipality_code": "day-3 city-1612593490",
           "start": "2020-10-14T08:09:00"
         },
         {
