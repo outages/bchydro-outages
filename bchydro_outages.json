@@ -1,7 +1,7 @@
 {
   "current": {
     "Central Interior": {
-      "customers_affected_14d": 464,
+      "customers_affected_14d": 465,
       "outages": [
         {
           "area": "North of HWY 16 , South of SINDIA RD, West of BUCKINGHAM RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -54,6 +54,16 @@
           "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 16 3:30 a.m."
         },
         {
+          "area": "4200 block DRUMMOND RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Under investigation",
+          "customers_affected": "< 5",
+          "last_updated": "2020-10-16T03:31:00",
+          "municipality": "Quesnel",
+          "municipality_code": "day-1 day-3 city--1975191965",
+          "start": "2020-10-16T03:26:00",
+          "status": "Crew status: Crew assigned"
+        },
+        {
           "area": "South of FRASER RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "135",
@@ -66,23 +76,6 @@
       ],
       "region_code": "Central Interior",
       "region_id": "848340027"
-    },
-    "North VI": {
-      "customers_affected_14d": 584,
-      "outages": [
-        {
-          "area": "West of ALDER ST, East of DOGWOOD ST, South of ROCKLAND RD, North of HOLM RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Under investigation",
-          "customers_affected": "584",
-          "last_updated": "2020-10-16T02:34:00",
-          "municipality": "Campbell River",
-          "municipality_code": "day-1 day-3 city-1240464880",
-          "start": "2020-10-16T01:21:00",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 16 3:00 a.m."
-        }
-      ],
-      "region_code": "North VI",
-      "region_id": "1602896846"
     },
     "Northern": {
       "customers_affected_14d": 845,
@@ -132,16 +125,26 @@
       "region_id": "1602964060"
     },
     "Thompson/Shuswap": {
-      "customers_affected_14d": 12,
+      "customers_affected_14d": 13,
       "outages": [
         {
           "area": "3700 - 3900 block RUTH LAKE RD, 3700 - 3800 block RUTH LK RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "12",
-          "last_updated": "2020-10-16T03:24:00",
+          "last_updated": "2020-10-16T03:31:00",
           "municipality": "100 Mile House",
           "municipality_code": "day-1 day-3 city-950857956",
           "start": "2020-10-16T02:42:00",
+          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 16 4:30 a.m."
+        },
+        {
+          "area": "3500 block HIGGINS RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Under investigation",
+          "customers_affected": "< 5",
+          "last_updated": "2020-10-16T03:35:00",
+          "municipality": "100 Mile House",
+          "municipality_code": "day-1 day-3 city-950857956",
+          "start": "2020-10-16T03:23:00",
           "status": "Crew status: Crew assigned"
         }
       ],
@@ -9266,8 +9269,18 @@
       "region_id": "521980323"
     },
     "North VI": {
-      "customers_affected_14d": 66841,
+      "customers_affected_14d": 67425,
       "outages": [
+        {
+          "area": "West of ALDER ST, East of DOGWOOD ST, South of ROCKLAND RD, North of HOLM RD",
+          "cause": "Under investigation",
+          "customers_affected": "584",
+          "end": "2020-10-16T02:59:00",
+          "last_updated": "2020-10-16T03:28:00",
+          "municipality": "Campbell River",
+          "municipality_code": "day-1 day-3 city-1240464880",
+          "start": "2020-10-16T01:21:00"
+        },
         {
           "area": "West of MILLER RD",
           "cause": "Tree down across our wires",
