@@ -1,18 +1,8 @@
 {
   "current": {
     "Lower Mainland": {
-      "customers_affected_14d": 96,
+      "customers_affected_14d": 94,
       "outages": [
-        {
-          "area": "23700 block 12 AVE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Under investigation",
-          "customers_affected": "< 5",
-          "last_updated": "2020-10-15T18:48:00",
-          "municipality": "Langley",
-          "municipality_code": "day-1 day-3 city-1612593490",
-          "start": "2020-10-15T17:46:00",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 15 7:50 p.m."
-        },
         {
           "area": "400 block W 23RD AVE, 4000 block CAMBIE ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Fire",
@@ -3445,7 +3435,7 @@
       "region_id": "848340027"
     },
     "Lower Mainland": {
-      "customers_affected_14d": 144454,
+      "customers_affected_14d": 144456,
       "outages": [
         {
           "area": "North of MACLURE RD, East of MT LEHMAN RD, West of Hwy 11",
@@ -4124,7 +4114,7 @@
           "end": "2020-10-13T19:30:00",
           "last_updated": "2020-10-15T11:15:00",
           "municipality": "Abbotsford, Langley, Mission",
-          "municipality_code": "day-1 day-3 city-1230363016 city-1612593490 city--1560864404",
+          "municipality_code": "day-3 city-1230363016 city-1612593490 city--1560864404",
           "start": "2020-10-13T13:43:00"
         },
         {
@@ -4634,7 +4624,7 @@
           "end": "2020-10-13T17:00:00",
           "last_updated": "2020-10-13T19:17:00",
           "municipality": "Chilliwack",
-          "municipality_code": "day-1 day-3 city--708005353",
+          "municipality_code": "day-3 city--708005353",
           "start": "2020-10-13T11:11:00"
         },
         {
@@ -6034,7 +6024,7 @@
           "end": "",
           "last_updated": "2020-10-14T14:34:00",
           "municipality": "Langley",
-          "municipality_code": "day-1 day-3 city-1612593490",
+          "municipality_code": "day-3 city-1612593490",
           "start": "2020-10-13T14:20:00"
         },
         {
@@ -6226,6 +6216,16 @@
           "municipality": "Langley",
           "municipality_code": "day-1 day-3 city-1612593490",
           "start": "2020-10-14T08:09:00"
+        },
+        {
+          "area": "23700 block 12 AVE",
+          "cause": "equipment contact",
+          "customers_affected": "< 5",
+          "end": "2020-10-15T19:48:00",
+          "last_updated": "2020-10-15T19:16:00",
+          "municipality": "Langley",
+          "municipality_code": "day-1 day-3 city-1612593490",
+          "start": "2020-10-15T17:46:00"
         },
         {
           "area": "0 block 264 ST, 0 AVE @ 264 ST,",
@@ -6634,7 +6634,7 @@
           "end": "2020-10-13T21:00:00",
           "last_updated": "2020-10-13T19:20:00",
           "municipality": "Maple Ridge",
-          "municipality_code": "day-1 day-3 city-598891104",
+          "municipality_code": "day-3 city-598891104",
           "start": "2020-10-13T14:46:00"
         },
         {
@@ -6774,7 +6774,7 @@
           "end": "2020-10-13T18:30:00",
           "last_updated": "2020-10-13T19:16:00",
           "municipality": "Maple Ridge",
-          "municipality_code": "day-1 day-3 city-598891104",
+          "municipality_code": "day-3 city-598891104",
           "start": "2020-10-13T12:23:00"
         },
         {
@@ -6924,7 +6924,7 @@
           "end": "2020-10-13T18:30:00",
           "last_updated": "2020-10-13T19:15:00",
           "municipality": "Maple Ridge, Pitt Meadows",
-          "municipality_code": "day-1 day-3 city-598891104 city--253788407",
+          "municipality_code": "day-3 city-598891104 city--253788407",
           "start": "2020-10-13T11:12:00"
         },
         {
@@ -8124,7 +8124,7 @@
           "end": "2020-10-11T19:00:00",
           "last_updated": "2020-10-14T09:00:00",
           "municipality": "Sechelt",
-          "municipality_code": "day-3 city--660434186",
+          "municipality_code": "city--660434186",
           "start": "2020-10-11T16:18:00"
         },
         {
@@ -9371,7 +9371,7 @@
           "end": "2020-10-13T19:16:00",
           "last_updated": "2020-10-15T11:50:00",
           "municipality": "Campbell River",
-          "municipality_code": "day-1 day-3 city-1240464880",
+          "municipality_code": "day-3 city-1240464880",
           "start": "2020-10-13T09:40:00"
         },
         {
@@ -10141,7 +10141,7 @@
           "end": "",
           "last_updated": "2020-10-15T15:44:00",
           "municipality": "Ladysmith, North Cowichan",
-          "municipality_code": "day-1 day-3 city--543936167 city--666037877",
+          "municipality_code": "day-3 city--543936167 city--666037877",
           "start": "2020-10-13T13:29:00"
         },
         {
@@ -10941,7 +10941,7 @@
           "end": "",
           "last_updated": "2020-10-15T12:00:00",
           "municipality": "Port Hardy",
-          "municipality_code": "day-1 day-3 city-368562319",
+          "municipality_code": "day-3 city-368562319",
           "start": "2020-10-13T06:19:00"
         },
         {
@@ -11161,7 +11161,7 @@
           "end": "",
           "last_updated": "2020-10-14T05:03:00",
           "municipality": "Qualicum Beach",
-          "municipality_code": "day-1 day-3 city--154309756",
+          "municipality_code": "day-3 city--154309756",
           "start": "2020-10-13T12:11:00"
         },
         {
@@ -12795,7 +12795,7 @@
           "end": "2020-10-13T18:00:00",
           "last_updated": "2020-10-14T09:53:00",
           "municipality": "Cranbrook",
-          "municipality_code": "day-1 day-3 city--591720257",
+          "municipality_code": "day-3 city--591720257",
           "start": "2020-10-13T13:26:00"
         },
         {
@@ -13592,7 +13592,7 @@
           "end": "2020-10-13T18:37:00",
           "last_updated": "2020-10-15T14:03:00",
           "municipality": "Duncan",
-          "municipality_code": "day-1 day-3 city-2058209491",
+          "municipality_code": "day-3 city-2058209491",
           "start": "2020-10-13T10:11:00"
         },
         {
@@ -14982,7 +14982,7 @@
           "end": "2020-10-13T20:15:00",
           "last_updated": "2020-10-14T07:34:00",
           "municipality": "North Saanich",
-          "municipality_code": "day-1 day-3 city-179964248",
+          "municipality_code": "day-3 city-179964248",
           "start": "2020-10-13T13:41:00"
         },
         {
@@ -15032,7 +15032,7 @@
           "end": "",
           "last_updated": "2020-10-13T19:23:00",
           "municipality": "North Saanich",
-          "municipality_code": "day-1 day-3 city-179964248",
+          "municipality_code": "day-3 city-179964248",
           "start": "2020-10-13T18:22:00"
         },
         {
@@ -15042,7 +15042,7 @@
           "end": "",
           "last_updated": "2020-10-14T07:37:00",
           "municipality": "North Saanich",
-          "municipality_code": "day-1 day-3 city-179964248",
+          "municipality_code": "day-3 city-179964248",
           "start": "2020-10-13T17:43:00"
         },
         {
@@ -15692,7 +15692,7 @@
           "end": "2020-10-13T19:00:00",
           "last_updated": "2020-10-13T19:18:00",
           "municipality": "Victoria",
-          "municipality_code": "day-1 day-3 city-1201273535",
+          "municipality_code": "day-3 city-1201273535",
           "start": "2020-10-13T10:59:00"
         },
         {
