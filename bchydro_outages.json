@@ -1,13 +1,13 @@
 {
   "current": {
     "Central Interior": {
-      "customers_affected_14d": 414,
+      "customers_affected_14d": 110,
       "outages": [
         {
           "area": "East of KLUSS RD, South-West of CRANBROOK HILL RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "46",
-          "last_updated": "2020-10-16T13:38:00",
+          "last_updated": "2020-10-16T14:25:00",
           "municipality": "Prince George",
           "municipality_code": "day-1 day-3 city-1835674262",
           "start": "2020-10-16T06:54:00",
@@ -84,16 +84,6 @@
           "status": "Crew status: No crew assigned yet"
         },
         {
-          "area": "North of BARKERVILLE HWY\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Tree down across our wires",
-          "customers_affected": "304",
-          "last_updated": "2020-10-16T14:11:00",
-          "municipality": "Quesnel",
-          "municipality_code": "day-1 day-3 city--1975191965",
-          "start": "2020-10-16T13:19:00",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 16 2:30 p.m."
-        },
-        {
           "area": "East of LAKEVIEW RD, North of LIKELY RD, South of PRITCHARD RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "10",
@@ -107,11 +97,11 @@
           "area": "5100 block GRAVEL CREEK RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Wire down",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-16T14:12:00",
+          "last_updated": "2020-10-16T14:24:00",
           "municipality": "Williams Lake",
           "municipality_code": "day-1 day-3 city--1905642465",
           "start": "2020-10-16T08:55:00",
-          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 16 2:45 p.m."
+          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 16 3:30 p.m."
         },
         {
           "area": "7200 block PHILEMON LAKE RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -268,11 +258,11 @@
           "area": "19600 block BEDORE RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-16T14:21:00",
+          "last_updated": "2020-10-16T14:22:00",
           "municipality": "Burns Lake",
           "municipality_code": "day-1 day-3 city--2121425941",
           "start": "2020-10-16T14:04:00",
-          "status": "Crew status: Crew assigned"
+          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 16 3:00 p.m."
         },
         {
           "area": "0 block VIC TURNER AIRP RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -346,7 +336,7 @@
       "region_id": "2072041405"
     },
     "South VI": {
-      "customers_affected_14d": 5074,
+      "customers_affected_14d": 5073,
       "outages": [
         {
           "area": "South of FINLAYSON ARM RD, North of KELLY RD, East-West of TRANS CAN HWY\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -379,16 +369,6 @@
           "status": "Crew status: Crew on-site"
         },
         {
-          "area": "3700 block PRIVATEERS RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Work being done on our equipment",
-          "customers_affected": "< 5",
-          "last_updated": "2020-10-16T13:30:00",
-          "municipality": "Pender Island",
-          "municipality_code": "day-1 day-3 city--635217187",
-          "start": "2020-10-16T11:44:00",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 16 2:30 p.m."
-        },
-        {
           "area": "North of WEST COAST RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Tree down across our wires",
           "customers_affected": "494",
@@ -413,7 +393,7 @@
       "region_id": "1812901382"
     },
     "Thompson/Shuswap": {
-      "customers_affected_14d": 79,
+      "customers_affected_14d": 73,
       "outages": [
         {
           "area": "South of CANIM LAKE RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -423,27 +403,17 @@
           "municipality": "100 Mile House",
           "municipality_code": "day-1 day-3 city-950857956",
           "start": "2020-10-16T11:55:00",
-          "status": "Crew status: Crew assigned\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 16 6:00 p.m."
+          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 16 6:00 p.m."
         },
         {
           "area": "6000 block DEMPSEY LK RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Wire down",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-16T14:15:00",
+          "last_updated": "2020-10-16T14:24:00",
           "municipality": "100 Mile House",
           "municipality_code": "day-1 day-3 city-950857956",
           "start": "2020-10-16T11:53:00",
           "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 16 2:50 p.m."
-        },
-        {
-          "area": "800 block HEATHER RD, 600 block CANDLE CREEK RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Under investigation",
-          "customers_affected": "6",
-          "last_updated": "2020-10-16T13:48:00",
-          "municipality": "Clearwater",
-          "municipality_code": "day-1 day-3 city-1282265866",
-          "start": "2020-10-16T12:04:00",
-          "status": "Crew status: No crew assigned yet"
         },
         {
           "area": "West of HWY 23\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -3384,7 +3354,7 @@
       "region_id": "1812901382"
     },
     "Thompson/Shuswap": {
-      "customers_affected_14d": 4122,
+      "customers_affected_14d": 4128,
       "outages": [
         {
           "area": "160 - 330 Birch Ave; 175, 255, 315 Hwy 97",
@@ -3415,6 +3385,16 @@
           "municipality": "Clearwater",
           "municipality_code": "day-1 day-3 city-1282265866",
           "start": "2020-10-14T09:00:00"
+        },
+        {
+          "area": "No 5 Hwy, 1665-1705 Burman Rd, Birch Island",
+          "cause": "Pole replacement",
+          "customers_affected": "6",
+          "end": "2020-10-21T14:30:00",
+          "last_updated": "2020-10-16T14:25:00",
+          "municipality": "Clearwater",
+          "municipality_code": "day-1 day-3 city-1282265866",
+          "start": "2020-10-21T09:30:00"
         },
         {
           "area": "1495 Davy Rd; 1548 S. Yellow Head HWY, Birch Island",
@@ -3573,7 +3553,7 @@
   },
   "restored": {
     "Central Interior": {
-      "customers_affected_14d": 14359,
+      "customers_affected_14d": 14663,
       "outages": [
         {
           "area": "North of HWY 97",
@@ -3984,6 +3964,16 @@
           "municipality": "Quesnel",
           "municipality_code": "day-1 day-3 city--1975191965",
           "start": "2020-10-16T00:11:00"
+        },
+        {
+          "area": "North of BARKERVILLE HWY",
+          "cause": "Tree down across our wires",
+          "customers_affected": "304",
+          "end": "2020-10-16T14:30:00",
+          "last_updated": "2020-10-16T14:25:00",
+          "municipality": "Quesnel",
+          "municipality_code": "day-1 day-3 city--1975191965",
+          "start": "2020-10-16T13:19:00"
         },
         {
           "area": "West of PLYWOOD RD, North of CARAGANA RD, East of ROBERTSON AVE, South of WARDEN ST",
@@ -11346,7 +11336,7 @@
           "end": "2020-10-14T14:00:00",
           "last_updated": "2020-10-14T16:45:00",
           "municipality": "Nanaimo",
-          "municipality_code": "day-1 day-3 city--907547835",
+          "municipality_code": "day-3 city--907547835",
           "start": "2020-10-13T13:52:00"
         },
         {
@@ -13433,7 +13423,7 @@
           "end": "2020-10-12T14:30:00",
           "last_updated": "2020-10-13T07:19:00",
           "municipality": "Stewart",
-          "municipality_code": "day-3 city--228706672",
+          "municipality_code": "city--228706672",
           "start": "2020-10-12T10:20:00"
         },
         {
@@ -13860,7 +13850,7 @@
           "end": "",
           "last_updated": "2020-10-12T14:24:00",
           "municipality": "Invermere",
-          "municipality_code": "day-3 city--13155575",
+          "municipality_code": "city--13155575",
           "start": "2020-10-12T14:14:00"
         },
         {
@@ -14278,7 +14268,7 @@
       "region_id": "2072041405"
     },
     "South VI": {
-      "customers_affected_14d": 67996,
+      "customers_affected_14d": 67997,
       "outages": [
         {
           "area": "North of CHURCH RD, West of STAUTW RD, East of TETAYUT RD, South of MT NEWTON XRD",
@@ -16131,6 +16121,16 @@
           "start": "2020-10-15T11:11:00"
         },
         {
+          "area": "3700 block PRIVATEERS RD",
+          "cause": "Work being done on our equipment",
+          "customers_affected": "< 5",
+          "end": "2020-10-16T14:30:00",
+          "last_updated": "2020-10-16T14:22:00",
+          "municipality": "Pender Island",
+          "municipality_code": "day-1 day-3 city--635217187",
+          "start": "2020-10-16T11:44:00"
+        },
+        {
           "area": "South of NICHOLSON ST, East of MCLELLAN ST, West of CUMBERLAND RD, North of BRETT AVE",
           "cause": "Motor vehicle accident",
           "customers_affected": "2323",
@@ -16647,7 +16647,7 @@
           "end": "2020-10-14T14:30:00",
           "last_updated": "2020-10-16T14:14:00",
           "municipality": "Victoria",
-          "municipality_code": "day-1 day-3 city-1201273535",
+          "municipality_code": "day-3 city-1201273535",
           "start": "2020-10-14T05:21:00"
         },
         {
@@ -16835,7 +16835,7 @@
       "region_id": "1812901382"
     },
     "Thompson/Shuswap": {
-      "customers_affected_14d": 15689,
+      "customers_affected_14d": 15695,
       "outages": [
         {
           "area": "East of WILCOX RD, North of TRIP RD",
@@ -17306,6 +17306,16 @@
           "municipality": "Clearwater",
           "municipality_code": "city-1282265866",
           "start": "2020-10-10T22:16:00"
+        },
+        {
+          "area": "800 block HEATHER RD, 600 block CANDLE CREEK RD",
+          "cause": "Under investigation",
+          "customers_affected": "6",
+          "end": "",
+          "last_updated": "2020-10-16T14:22:00",
+          "municipality": "Clearwater",
+          "municipality_code": "day-1 day-3 city-1282265866",
+          "start": "2020-10-16T12:04:00"
         },
         {
           "area": "200 block NORFOLK RD, 700 block WOREBY RD",
