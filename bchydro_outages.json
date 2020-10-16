@@ -27,11 +27,11 @@
           "area": "South of AESOP RD, North-East of CHIEF LAKE RD, West of FOX DR\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Wire down",
           "customers_affected": "8",
-          "last_updated": "2020-10-16T08:28:00",
+          "last_updated": "2020-10-16T08:41:00",
           "municipality": "Prince George",
           "municipality_code": "day-1 day-3 city-1835674262",
           "start": "2020-10-16T08:11:00",
-          "status": "Crew status: Crew assigned"
+          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 16 9:45 a.m."
         },
         {
           "area": "30600 - 32200 block N ISLE PIERRE RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -97,11 +97,11 @@
           "area": "43800 block AHBAU CR RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-16T08:19:00",
+          "last_updated": "2020-10-16T08:40:00",
           "municipality": "Quesnel",
           "municipality_code": "day-1 day-3 city--1975191965",
           "start": "2020-10-16T07:53:00",
-          "status": "Crew status: Crew assigned"
+          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 16 9:40 a.m."
         },
         {
           "area": "South of FRASER RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -299,7 +299,7 @@
       "region_id": "2072041405"
     },
     "South VI": {
-      "customers_affected_14d": 143,
+      "customers_affected_14d": 157,
       "outages": [
         {
           "area": "North-South of EAST POINT RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -310,6 +310,16 @@
           "municipality_code": "day-1 day-3 city-501274559",
           "start": "2020-10-16T07:58:00",
           "status": "Crew status: Crew assigned"
+        },
+        {
+          "area": "2500 block BLACKWOOD ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Planned work being done on our equipment",
+          "customers_affected": "14",
+          "last_updated": "2020-10-16T08:41:00",
+          "municipality": "Victoria",
+          "municipality_code": "day-1 day-3 city-1201273535",
+          "start": "2020-10-16T08:40:00",
+          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 16 3:00 p.m."
         }
       ],
       "region_code": "South VI",
@@ -342,11 +352,11 @@
           "area": "North of LOST CREEK RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "234",
-          "last_updated": "2020-10-16T08:26:00",
+          "last_updated": "2020-10-16T08:44:00",
           "municipality": "Clearwater",
           "municipality_code": "day-1 day-3 city-1282265866",
           "start": "2020-10-16T07:14:00",
-          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 16 9:30 a.m."
+          "status": "Crew status: Crew on-site"
         },
         {
           "area": "WELLS GREY PARK, 5000 - 5100 block CLEARWATER VLY RD, 5000 block CLEARWATER VALL RD, 4300 - 6600 block CLEARWATER VAL RD, 600 block MOUL CREEK RD, 4300 - 6600 block CLEARWATER VALLEY RD, 6200 - 6500 block CORRAL RD, 5800 - 6100 block TROUT CREEK RD, 400 block NAKISKA RD, 600 block GROUSE CREEK RD...\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -8182,7 +8192,7 @@
           "end": "2020-10-12T09:07:00",
           "last_updated": "2020-10-13T12:40:00",
           "municipality": "Richmond",
-          "municipality_code": "day-3 city--1486145068",
+          "municipality_code": "city--1486145068",
           "start": "2020-10-12T07:10:00"
         },
         {
@@ -11219,7 +11229,7 @@
           "end": "2020-10-14T09:15:00",
           "last_updated": "2020-10-15T12:00:00",
           "municipality": "Port Hardy",
-          "municipality_code": "day-1 day-3 city-368562319",
+          "municipality_code": "day-3 city-368562319",
           "start": "2020-10-13T05:31:00"
         },
         {
@@ -11379,7 +11389,7 @@
           "end": "",
           "last_updated": "2020-10-14T08:47:00",
           "municipality": "Qualicum Beach",
-          "municipality_code": "day-1 day-3 city--154309756",
+          "municipality_code": "day-3 city--154309756",
           "start": "2020-10-13T12:52:00"
         },
         {
