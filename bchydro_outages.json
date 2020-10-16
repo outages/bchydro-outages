@@ -1,27 +1,47 @@
 {
   "current": {
     "Central Interior": {
-      "customers_affected_14d": 336,
+      "customers_affected_14d": 391,
       "outages": [
         {
           "area": "East of BEAVER FOREST RD, North of HWY 16\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "136",
-          "last_updated": "2020-10-16T06:29:00",
+          "last_updated": "2020-10-16T07:04:00",
           "municipality": "Prince George",
           "municipality_code": "day-1 day-3 city-1835674262",
           "start": "2020-10-16T05:51:00",
-          "status": "Crew status: Crew assigned"
+          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 16 8:05 a.m."
+        },
+        {
+          "area": "East of KLUSS RD, South-West of CRANBROOK HILL RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Under investigation",
+          "customers_affected": "46",
+          "last_updated": "2020-10-16T06:58:00",
+          "municipality": "Prince George",
+          "municipality_code": "day-1 day-3 city-1835674262",
+          "start": "2020-10-16T06:54:00",
+          "status": "Crew status: No crew assigned yet"
         },
         {
           "area": "7100 block HART HWY\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "11",
-          "last_updated": "2020-10-16T05:12:00",
+          "last_updated": "2020-10-16T07:06:00",
           "municipality": "Prince George",
           "municipality_code": "day-1 day-3 city-1835674262",
           "start": "2020-10-16T05:11:00",
-          "status": "Crew status: Crew assigned"
+          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 16 8:00 a.m."
+        },
+        {
+          "area": "5900 - 12400 block FERGUSON LAKE RD, 6000 block FERGUSON LAKE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Under investigation",
+          "customers_affected": "8",
+          "last_updated": "2020-10-16T06:59:00",
+          "municipality": "Prince George",
+          "municipality_code": "day-1 day-3 city-1835674262",
+          "start": "2020-10-16T06:55:00",
+          "status": "Crew status: No crew assigned yet"
         },
         {
           "area": "30600 block N ISLE PIERRE RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -35,9 +55,9 @@
         },
         {
           "area": "2200 block NORTH PINE RD, 2200 block KOHANKO RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Under investigation",
+          "cause": "Tree down across our wires",
           "customers_affected": "32",
-          "last_updated": "2020-10-16T06:30:00",
+          "last_updated": "2020-10-16T06:55:00",
           "municipality": "Quesnel",
           "municipality_code": "day-1 day-3 city--1975191965",
           "start": "2020-10-16T03:41:00",
@@ -47,7 +67,7 @@
           "area": "South of FRASER RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "135",
-          "last_updated": "2020-10-16T03:09:00",
+          "last_updated": "2020-10-16T07:01:00",
           "municipality": "Quesnel, Williams Lake",
           "municipality_code": "day-1 day-3 city--1975191965 city--1905642465",
           "start": "2020-10-16T01:55:00",
@@ -57,11 +77,21 @@
           "area": "KEITHLEY CRK RD P275, 5200 - 9300 block KEITHLEY CREEK RD, 5200 - 9300 block KEITHLEY CRK RD, KEITHLEY CRK RD P276, 5300 block HARVEY CREEK TRAIL, 5200 block CARIBOO FOREST SERVICE RD, 5300 block CARIBOO LAKE RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "20",
-          "last_updated": "2020-10-16T06:06:00",
+          "last_updated": "2020-10-16T07:05:00",
           "municipality": "Williams Lake",
           "municipality_code": "day-1 day-3 city--1905642465",
           "start": "2020-10-16T05:19:00",
-          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 16 7:30 a.m."
+          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 16 8:00 a.m."
+        },
+        {
+          "area": "4300 block TEASDALE ROAD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Under investigation",
+          "customers_affected": "< 5",
+          "last_updated": "2020-10-16T07:04:00",
+          "municipality": "Williams Lake",
+          "municipality_code": "day-1 day-3 city--1905642465",
+          "start": "2020-10-16T06:52:00",
+          "status": "Crew status: Crew assigned"
         }
       ],
       "region_code": "Central Interior",
@@ -74,11 +104,11 @@
           "area": "West of 217B ST, South of 46TH AVE, North of 44TH AVE, East of 216TH ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "47",
-          "last_updated": "2020-10-16T06:17:00",
+          "last_updated": "2020-10-16T07:00:00",
           "municipality": "Langley",
           "municipality_code": "day-1 day-3 city-1612593490",
           "start": "2020-10-16T03:53:00",
-          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 16 7:30 a.m."
+          "status": "Crew status: Crew on-site"
         }
       ],
       "region_code": "Lower Mainland",
@@ -91,7 +121,7 @@
           "area": "East of HWY 16\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "398",
-          "last_updated": "2020-10-16T02:13:00",
+          "last_updated": "2020-10-16T06:54:00",
           "municipality": "Burns Lake",
           "municipality_code": "day-1 day-3 city--2121425941",
           "start": "2020-10-15T23:19:00",
@@ -101,7 +131,7 @@
           "area": "COLLEYMOUNT P220/3, COLLEYMOUNT P243/1, COLLEYMOUNT P361, SHORT RD PUMP P2, 22400 block TWIN FLOWER DR, 23300 block AGER RD P3, 0 - 24100 block TROUT CREEK RD, 24300 block KOON RD, FRANCOIS LK W P531, 0 - 54100 block COLLEYMOUNT RD...\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "134",
-          "last_updated": "2020-10-15T23:06:00",
+          "last_updated": "2020-10-16T07:02:00",
           "municipality": "Burns Lake",
           "municipality_code": "day-1 day-3 city--2121425941",
           "start": "2020-10-15T21:59:00",
@@ -111,7 +141,7 @@
           "area": "South of TATALROSE RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "7",
-          "last_updated": "2020-10-16T05:13:00",
+          "last_updated": "2020-10-16T07:01:00",
           "municipality": "Burns Lake",
           "municipality_code": "day-1 day-3 city--2121425941",
           "start": "2020-10-16T05:10:00",
@@ -121,7 +151,7 @@
           "area": "2100 block WALKER RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-16T06:35:00",
+          "last_updated": "2020-10-16T07:02:00",
           "municipality": "Burns Lake",
           "municipality_code": "day-1 day-3 city--2121425941",
           "start": "2020-10-15T22:43:00",
@@ -131,7 +161,7 @@
           "area": "700 - 7200 block FRANCOIS LK RD, 100 block PLOWMAN RD, FRANCOIS LK RD E P59, 200 - 2500 block HANSON STAKE RD, 700 block E FRANCOIS LK RD, ELY SUB RD P25, NITHI RD P8, DALGREN RD P11, FRANCOIS LK RD E P69, FRANCOIS LK ROAD E P98...\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "118",
-          "last_updated": "2020-10-16T05:32:00",
+          "last_updated": "2020-10-16T07:02:00",
           "municipality": "Vanderhoof",
           "municipality_code": "day-1 day-3 city-1041981516",
           "start": "2020-10-16T05:18:00",
@@ -148,44 +178,34 @@
           "area": "600 block INDUSTRIAL 1 RD, 500 block NW SLATER RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-16T06:33:00",
+          "last_updated": "2020-10-16T06:58:00",
           "municipality": "Cranbrook",
           "municipality_code": "day-1 day-3 city--591720257",
           "start": "2020-10-16T06:24:00",
-          "status": "Crew status: Crew assigned"
+          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 16 7:30 a.m."
         }
       ],
       "region_code": "Okanagan/Kootenay",
       "region_id": "2072041405"
     },
     "Thompson/Shuswap": {
-      "customers_affected_14d": 177,
+      "customers_affected_14d": 165,
       "outages": [
         {
           "area": "North of MAHOOD LAKE RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Tree down across our wires",
           "customers_affected": "57",
-          "last_updated": "2020-10-16T06:07:00",
+          "last_updated": "2020-10-16T06:56:00",
           "municipality": "100 Mile House",
           "municipality_code": "day-1 day-3 city-950857956",
           "start": "2020-10-16T03:23:00",
           "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 16 9:00 a.m."
         },
         {
-          "area": "3700 - 3900 block RUTH LAKE RD, 3700 - 3800 block RUTH LK RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Under investigation",
-          "customers_affected": "12",
-          "last_updated": "2020-10-16T06:45:00",
-          "municipality": "100 Mile House",
-          "municipality_code": "day-1 day-3 city-950857956",
-          "start": "2020-10-16T02:42:00",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 16 7:00 a.m."
-        },
-        {
           "area": "WELLS GREY PARK, 5000 - 5100 block CLEARWATER VLY RD, 5000 block CLEARWATER VALL RD, 4300 - 6600 block CLEARWATER VAL RD, 600 block MOUL CREEK RD, 4300 - 6600 block CLEARWATER VALLEY RD, 6200 - 6500 block CORRAL RD, 5800 - 6100 block TROUT CREEK RD, 400 block NAKISKA RD, 600 block GROUSE CREEK RD...\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "108",
-          "last_updated": "2020-10-16T06:34:00",
+          "last_updated": "2020-10-16T06:56:00",
           "municipality": "Clearwater",
           "municipality_code": "day-1 day-3 city-1282265866",
           "start": "2020-10-16T03:49:00",
@@ -235,7 +255,7 @@
       "region_id": "848340027"
     },
     "Lower Mainland": {
-      "customers_affected_14d": 7234,
+      "customers_affected_14d": 7243,
       "outages": [
         {
           "area": "1944, 1954, 1966, 1976 Albion St; 32666-32749 Cordova Ave; 325, 32760 Marshall Rd, 32414-32750 Pandora Ave; 1911-1944 Valencia Crt, Abbotsford",
@@ -606,6 +626,16 @@
           "municipality": "Coquitlam",
           "municipality_code": "day-1 day-3 city--3101987",
           "start": "2020-10-15T09:30:00"
+        },
+        {
+          "area": "417-419, 422, 428, 430, 431, 433 Mundy St, Coquitlam",
+          "cause": "Planned work being done on our equipment",
+          "customers_affected": "9",
+          "end": "2020-10-23T15:30:00",
+          "last_updated": "2020-10-16T06:55:00",
+          "municipality": "Coquitlam",
+          "municipality_code": "day-1 day-3 city--3101987",
+          "start": "2020-10-23T12:30:00"
         },
         {
           "area": "1369,1375,1383,1395,1403,1408,1410\r\n1415 Brisbane Coquitlam",
@@ -6055,7 +6085,7 @@
           "end": "2020-10-14T07:00:00",
           "last_updated": "2020-10-15T10:00:00",
           "municipality": "Langley",
-          "municipality_code": "day-1 day-3 city-1612593490",
+          "municipality_code": "day-3 city-1612593490",
           "start": "2020-10-13T23:06:00"
         },
         {
@@ -10632,7 +10662,7 @@
           "end": "2020-10-12T07:20:00",
           "last_updated": "2020-10-13T08:28:00",
           "municipality": "Nanaimo, Qualicum Beach",
-          "municipality_code": "day-3 city--907547835 city--154309756",
+          "municipality_code": "city--907547835 city--154309756",
           "start": "2020-10-12T05:55:00"
         },
         {
@@ -11542,7 +11572,7 @@
           "end": "",
           "last_updated": "2020-10-14T06:58:00",
           "municipality": "Qualicum Beach",
-          "municipality_code": "day-1 day-3 city--154309756",
+          "municipality_code": "day-3 city--154309756",
           "start": "2020-10-13T13:00:00"
         },
         {
@@ -11997,7 +12027,7 @@
           "cause": "Equipment failure",
           "customers_affected": "< 5",
           "end": "2020-10-15T14:35:00",
-          "last_updated": "2020-10-15T14:29:00",
+          "last_updated": "2020-10-16T06:50:00",
           "municipality": "Dawson Creek",
           "municipality_code": "day-1 day-3 city--1630954860",
           "start": "2020-10-15T09:18:00"
@@ -15721,7 +15751,7 @@
           "cause": "Other",
           "customers_affected": "9",
           "end": "",
-          "last_updated": "2020-10-13T21:39:00",
+          "last_updated": "2020-10-16T07:06:00",
           "municipality": "Victoria",
           "municipality_code": "day-3 city-1201273535",
           "start": "2020-10-13T16:10:00"
@@ -15801,7 +15831,7 @@
           "cause": "Tree down across our wires",
           "customers_affected": "< 5",
           "end": "2020-10-15T02:00:00",
-          "last_updated": "2020-10-15T02:02:00",
+          "last_updated": "2020-10-16T06:59:00",
           "municipality": "Victoria",
           "municipality_code": "day-1 day-3 city-1201273535",
           "start": "2020-10-14T18:54:00"
@@ -15841,7 +15871,7 @@
       "region_id": "1812901382"
     },
     "Thompson/Shuswap": {
-      "customers_affected_14d": 15146,
+      "customers_affected_14d": 15158,
       "outages": [
         {
           "area": "East of WILCOX RD, North of TRIP RD",
@@ -15922,6 +15952,16 @@
           "municipality": "100 Mile House",
           "municipality_code": "city-950857956",
           "start": "2020-10-10T12:45:00"
+        },
+        {
+          "area": "3700 - 3900 block RUTH LAKE RD, 3700 - 3800 block RUTH LK RD",
+          "cause": "Under investigation",
+          "customers_affected": "12",
+          "end": "2020-10-16T07:00:00",
+          "last_updated": "2020-10-16T06:48:00",
+          "municipality": "100 Mile House",
+          "municipality_code": "day-1 day-3 city-950857956",
+          "start": "2020-10-16T02:42:00"
         },
         {
           "area": "7200 - 7300 block CAROLINE RD, 7200 - 7300 block CAROLYN RD",
