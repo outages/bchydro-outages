@@ -1,17 +1,17 @@
 {
   "current": {
     "Lower Mainland": {
-      "customers_affected_14d": 94,
+      "customers_affected_14d": 82,
       "outages": [
         {
-          "area": "400 block W 23RD AVE, 4000 block CAMBIE ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Fire",
-          "customers_affected": "13",
-          "last_updated": "2020-10-15T17:03:00",
-          "municipality": "Vancouver",
-          "municipality_code": "day-1 day-3 city--1786794435",
-          "start": "2020-10-15T02:09:00",
-          "status": "Crew status: Crew on-site"
+          "area": "2800 block PRATT CRES\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Under investigation",
+          "customers_affected": "< 5",
+          "last_updated": "2020-10-15T20:10:00",
+          "municipality": "Abbotsford",
+          "municipality_code": "day-1 day-3 city-1230363016",
+          "start": "2020-10-15T20:06:00",
+          "status": "Crew status: Crew assigned"
         },
         {
           "area": "South of GOLDEN BEAR PL, North of MUIRFIELD CRS, East of HWY 99\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -3435,7 +3435,7 @@
       "region_id": "848340027"
     },
     "Lower Mainland": {
-      "customers_affected_14d": 144456,
+      "customers_affected_14d": 144469,
       "outages": [
         {
           "area": "North of MACLURE RD, East of MT LEHMAN RD, West of Hwy 11",
@@ -3564,7 +3564,7 @@
           "end": "2020-10-13T20:30:00",
           "last_updated": "2020-10-15T11:18:00",
           "municipality": "Abbotsford",
-          "municipality_code": "day-1 day-3 city-1230363016",
+          "municipality_code": "day-3 city-1230363016",
           "start": "2020-10-13T17:46:00"
         },
         {
@@ -4154,7 +4154,7 @@
           "end": "2020-10-13T20:00:00",
           "last_updated": "2020-10-14T08:35:00",
           "municipality": "Bowen Island",
-          "municipality_code": "day-1 day-3 city-1522211618",
+          "municipality_code": "day-3 city-1522211618",
           "start": "2020-10-13T14:17:00"
         },
         {
@@ -6094,7 +6094,7 @@
           "end": "",
           "last_updated": "2020-10-15T11:02:00",
           "municipality": "Langley",
-          "municipality_code": "day-1 day-3 city-1612593490",
+          "municipality_code": "day-3 city-1612593490",
           "start": "2020-10-13T16:10:00"
         },
         {
@@ -6884,7 +6884,7 @@
           "end": "",
           "last_updated": "2020-10-13T20:17:00",
           "municipality": "Maple Ridge",
-          "municipality_code": "day-1 day-3 city-598891104",
+          "municipality_code": "day-3 city-598891104",
           "start": "2020-10-13T17:37:00"
         },
         {
@@ -7424,7 +7424,7 @@
           "end": "2020-10-13T20:30:00",
           "last_updated": "2020-10-15T08:13:00",
           "municipality": "Pemberton",
-          "municipality_code": "day-1 day-3 city--2076154532",
+          "municipality_code": "day-3 city--2076154532",
           "start": "2020-10-13T16:45:00"
         },
         {
@@ -7774,7 +7774,7 @@
           "end": "2020-10-13T20:35:00",
           "last_updated": "2020-10-14T19:03:00",
           "municipality": "Richmond",
-          "municipality_code": "day-1 day-3 city--1486145068",
+          "municipality_code": "day-3 city--1486145068",
           "start": "2020-10-13T16:40:00"
         },
         {
@@ -7984,7 +7984,7 @@
           "end": "2020-10-13T20:30:00",
           "last_updated": "2020-10-14T10:15:00",
           "municipality": "Sechelt",
-          "municipality_code": "day-1 day-3 city--660434186",
+          "municipality_code": "day-3 city--660434186",
           "start": "2020-10-13T14:13:00"
         },
         {
@@ -8054,7 +8054,7 @@
           "end": "2020-10-13T21:00:00",
           "last_updated": "2020-10-14T12:40:00",
           "municipality": "Sechelt",
-          "municipality_code": "day-1 day-3 city--660434186",
+          "municipality_code": "day-3 city--660434186",
           "start": "2020-10-13T10:56:00"
         },
         {
@@ -8534,7 +8534,7 @@
           "end": "",
           "last_updated": "2020-10-14T14:55:00",
           "municipality": "Surrey",
-          "municipality_code": "day-1 day-3 city--1807186826",
+          "municipality_code": "day-3 city--1807186826",
           "start": "2020-10-13T15:46:00"
         },
         {
@@ -9014,7 +9014,7 @@
           "end": "2020-10-13T19:00:00",
           "last_updated": "2020-10-13T21:33:00",
           "municipality": "Vancouver",
-          "municipality_code": "day-1 day-3 city--1786794435",
+          "municipality_code": "day-3 city--1786794435",
           "start": "2020-10-13T09:11:00"
         },
         {
@@ -9086,6 +9086,16 @@
           "municipality": "Vancouver",
           "municipality_code": "city--1786794435",
           "start": "2020-10-02T10:02:00"
+        },
+        {
+          "area": "400 block W 23RD AVE, 4000 block CAMBIE ST",
+          "cause": "Fire",
+          "customers_affected": "13",
+          "end": "",
+          "last_updated": "2020-10-15T20:16:00",
+          "municipality": "Vancouver",
+          "municipality_code": "day-1 day-3 city--1786794435",
+          "start": "2020-10-15T02:09:00"
         },
         {
           "area": "2400 block W 19TH AVE, 2400 block W 18TH AVE",
@@ -9362,7 +9372,7 @@
       "region_id": "521980323"
     },
     "North VI": {
-      "customers_affected_14d": 68833,
+      "customers_affected_14d": 68837,
       "outages": [
         {
           "area": "West of MILLER RD",
@@ -11443,6 +11453,16 @@
           "municipality": "Qualicum Beach",
           "municipality_code": "day-1 day-3 city--154309756",
           "start": "2020-10-14T09:16:00"
+        },
+        {
+          "area": "1200 block WINCHESTER RD",
+          "cause": "Under investigation",
+          "customers_affected": "< 5",
+          "end": "",
+          "last_updated": "2020-10-15T20:12:00",
+          "municipality": "Qualicum Beach",
+          "municipality_code": "day-1 day-3 city--154309756",
+          "start": "2020-10-15T19:54:00"
         },
         {
           "area": "800 block FLAMINGO DR",
@@ -14462,7 +14482,7 @@
           "end": "",
           "last_updated": "2020-10-13T20:27:00",
           "municipality": "Ganges",
-          "municipality_code": "day-1 day-3 city-2125630497",
+          "municipality_code": "day-3 city-2125630497",
           "start": "2020-10-13T12:13:00"
         },
         {
@@ -14642,7 +14662,7 @@
           "end": "2020-10-13T20:30:00",
           "last_updated": "2020-10-14T10:59:00",
           "municipality": "Langford",
-          "municipality_code": "day-1 day-3 city--1549378615",
+          "municipality_code": "day-3 city--1549378615",
           "start": "2020-10-13T14:12:00"
         },
         {
@@ -15022,7 +15042,7 @@
           "end": "",
           "last_updated": "2020-10-14T07:32:00",
           "municipality": "North Saanich",
-          "municipality_code": "day-1 day-3 city-179964248",
+          "municipality_code": "day-3 city-179964248",
           "start": "2020-10-13T18:40:00"
         },
         {
@@ -15912,7 +15932,7 @@
           "end": "2020-10-13T15:00:00",
           "last_updated": "2020-10-14T10:18:00",
           "municipality": "Victoria",
-          "municipality_code": "day-1 day-3 city-1201273535",
+          "municipality_code": "day-3 city-1201273535",
           "start": "2020-10-13T08:02:00"
         },
         {
