@@ -1,27 +1,17 @@
 {
   "current": {
     "Central Interior": {
-      "customers_affected_14d": 465,
+      "customers_affected_14d": 443,
       "outages": [
-        {
-          "area": "North of HWY 16 , South of SINDIA RD, West of BUCKINGHAM RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Under investigation",
-          "customers_affected": "54",
-          "last_updated": "2020-10-16T02:24:00",
-          "municipality": "Prince George",
-          "municipality_code": "day-1 day-3 city-1835674262",
-          "start": "2020-10-16T00:27:00",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 16 3:30 a.m."
-        },
         {
           "area": "4500 - 4700 block HANDLEN RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "22",
-          "last_updated": "2020-10-16T02:48:00",
+          "last_updated": "2020-10-16T03:45:00",
           "municipality": "Prince George",
           "municipality_code": "day-1 day-3 city-1835674262",
           "start": "2020-10-16T02:45:00",
-          "status": "Crew status: Crew assigned"
+          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 16 4:45 a.m."
         },
         {
           "area": "24800 block BIBLE CAMP RD, 23200 - 23700 block CAMP RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -47,11 +37,21 @@
           "area": "West of PLYWOOD RD, North of CARAGANA RD, East of ROBERTSON AVE, South of WARDEN ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Tree down across our wires",
           "customers_affected": "244",
-          "last_updated": "2020-10-16T03:20:00",
+          "last_updated": "2020-10-16T03:41:00",
           "municipality": "Quesnel",
           "municipality_code": "day-1 day-3 city--1975191965",
           "start": "2020-10-16T00:53:00",
-          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 16 3:30 a.m."
+          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 16 4:45 a.m."
+        },
+        {
+          "area": "2200 block NORTH PINE RD, 2200 block KOHANKO RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Under investigation",
+          "customers_affected": "32",
+          "last_updated": "2020-10-16T03:45:00",
+          "municipality": "Quesnel",
+          "municipality_code": "day-1 day-3 city--1975191965",
+          "start": "2020-10-16T03:41:00",
+          "status": "Crew status: Crew assigned"
         },
         {
           "area": "4200 block DRUMMOND RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -125,8 +125,18 @@
       "region_id": "1602964060"
     },
     "Thompson/Shuswap": {
-      "customers_affected_14d": 13,
+      "customers_affected_14d": 69,
       "outages": [
+        {
+          "area": "North of MAHOOD LAKE RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Under investigation",
+          "customers_affected": "57",
+          "last_updated": "2020-10-16T03:44:00",
+          "municipality": "100 Mile House",
+          "municipality_code": "day-1 day-3 city-950857956",
+          "start": "2020-10-16T03:23:00",
+          "status": "Crew status: Crew assigned"
+        },
         {
           "area": "3700 - 3900 block RUTH LAKE RD, 3700 - 3800 block RUTH LK RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
@@ -136,16 +146,6 @@
           "municipality_code": "day-1 day-3 city-950857956",
           "start": "2020-10-16T02:42:00",
           "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 16 4:30 a.m."
-        },
-        {
-          "area": "3500 block HIGGINS RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Under investigation",
-          "customers_affected": "< 5",
-          "last_updated": "2020-10-16T03:35:00",
-          "municipality": "100 Mile House",
-          "municipality_code": "day-1 day-3 city-950857956",
-          "start": "2020-10-16T03:23:00",
-          "status": "Crew status: Crew assigned"
         }
       ],
       "region_code": "Thompson/Shuswap",
@@ -3105,7 +3105,7 @@
   },
   "restored": {
     "Central Interior": {
-      "customers_affected_14d": 3983,
+      "customers_affected_14d": 4037,
       "outages": [
         {
           "area": "North of HWY 97",
@@ -3206,6 +3206,16 @@
           "municipality": "Prince George",
           "municipality_code": "city-1835674262",
           "start": "2020-10-10T18:52:00"
+        },
+        {
+          "area": "North of HWY 16 , South of SINDIA RD, West of BUCKINGHAM RD",
+          "cause": "Tree down across our wires",
+          "customers_affected": "54",
+          "end": "2020-10-16T03:30:00",
+          "last_updated": "2020-10-16T03:40:00",
+          "municipality": "Prince George",
+          "municipality_code": "day-1 day-3 city-1835674262",
+          "start": "2020-10-16T00:27:00"
         },
         {
           "area": "East of NESSVIEW RD, North-South-West of LAKESIDE DR",
@@ -9273,10 +9283,10 @@
       "outages": [
         {
           "area": "West of ALDER ST, East of DOGWOOD ST, South of ROCKLAND RD, North of HOLM RD",
-          "cause": "Under investigation",
+          "cause": "Tree down across our wires",
           "customers_affected": "584",
           "end": "2020-10-16T02:59:00",
-          "last_updated": "2020-10-16T03:28:00",
+          "last_updated": "2020-10-16T03:37:00",
           "municipality": "Campbell River",
           "municipality_code": "day-1 day-3 city-1240464880",
           "start": "2020-10-16T01:21:00"
