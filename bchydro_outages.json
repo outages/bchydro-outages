@@ -1,18 +1,8 @@
 {
   "current": {
     "Central Interior": {
-      "customers_affected_14d": 1034,
+      "customers_affected_14d": 464,
       "outages": [
-        {
-          "area": "West of EDNA RD, North of CHAMBERLAIN RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Under investigation",
-          "customers_affected": "363",
-          "last_updated": "2020-10-16T03:05:00",
-          "municipality": "Prince George",
-          "municipality_code": "day-1 day-3 city-1835674262",
-          "start": "2020-10-16T02:23:00",
-          "status": "Crew status: Crew on-site"
-        },
         {
           "area": "North of HWY 16 , South of SINDIA RD, West of BUCKINGHAM RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
@@ -34,30 +24,40 @@
           "status": "Crew status: Crew assigned"
         },
         {
-          "area": "West of PLYWOOD RD, North of CARAGANA RD, East of ROBERTSON AVE, South of WARDEN ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "area": "24800 block BIBLE CAMP RD, 23200 - 23700 block CAMP RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Tree down across our wires",
-          "customers_affected": "244",
-          "last_updated": "2020-10-16T02:54:00",
-          "municipality": "Quesnel",
-          "municipality_code": "day-1 day-3 city--1975191965",
-          "start": "2020-10-16T00:53:00",
+          "customers_affected": "8",
+          "last_updated": "2020-10-16T03:22:00",
+          "municipality": "Prince George",
+          "municipality_code": "day-1 day-3 city-1835674262",
+          "start": "2020-10-16T02:23:00",
+          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 16 5:30 a.m."
+        },
+        {
+          "area": "22000 block CAMP RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Under investigation",
+          "customers_affected": "< 5",
+          "last_updated": "2020-10-16T03:22:00",
+          "municipality": "Prince George",
+          "municipality_code": "day-1 day-3 city-1835674262",
+          "start": "2020-10-16T02:25:00",
           "status": "Crew status: Crew assigned"
         },
         {
-          "area": "East of DENNIS RD, West of COACH RD, South of OVAL RD, North of QUESNEL-HYDRAULIC RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Under investigation",
-          "customers_affected": "216",
-          "last_updated": "2020-10-16T02:13:00",
+          "area": "West of PLYWOOD RD, North of CARAGANA RD, East of ROBERTSON AVE, South of WARDEN ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Tree down across our wires",
+          "customers_affected": "244",
+          "last_updated": "2020-10-16T03:20:00",
           "municipality": "Quesnel",
           "municipality_code": "day-1 day-3 city--1975191965",
-          "start": "2020-10-16T00:38:00",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 16 3:15 a.m."
+          "start": "2020-10-16T00:53:00",
+          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 16 3:30 a.m."
         },
         {
           "area": "South of FRASER RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "135",
-          "last_updated": "2020-10-16T02:18:00",
+          "last_updated": "2020-10-16T03:09:00",
           "municipality": "Quesnel, Williams Lake",
           "municipality_code": "day-1 day-3 city--1975191965 city--1905642465",
           "start": "2020-10-16T01:55:00",
@@ -138,7 +138,7 @@
           "area": "3700 - 3900 block RUTH LAKE RD, 3700 - 3800 block RUTH LK RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "12",
-          "last_updated": "2020-10-16T03:02:00",
+          "last_updated": "2020-10-16T03:24:00",
           "municipality": "100 Mile House",
           "municipality_code": "day-1 day-3 city-950857956",
           "start": "2020-10-16T02:42:00",
@@ -3102,7 +3102,7 @@
   },
   "restored": {
     "Central Interior": {
-      "customers_affected_14d": 3767,
+      "customers_affected_14d": 3983,
       "outages": [
         {
           "area": "North of HWY 97",
@@ -3343,6 +3343,16 @@
           "municipality": "Quesnel",
           "municipality_code": "day-1 day-3 city--1975191965",
           "start": "2020-10-15T22:40:00"
+        },
+        {
+          "area": "East of DENNIS RD, West of COACH RD, South of OVAL RD, North of QUESNEL-HYDRAULIC RD",
+          "cause": "Tree down across our wires",
+          "customers_affected": "216",
+          "end": "2020-10-16T03:12:00",
+          "last_updated": "2020-10-16T03:19:00",
+          "municipality": "Quesnel",
+          "municipality_code": "day-1 day-3 city--1975191965",
+          "start": "2020-10-16T00:38:00"
         },
         {
           "area": "800 block REYNARD ST",
@@ -8088,7 +8098,7 @@
           "end": "2020-10-14T03:06:00",
           "last_updated": "2020-10-14T10:27:00",
           "municipality": "Sechelt",
-          "municipality_code": "day-1 day-3 city--660434186",
+          "municipality_code": "day-3 city--660434186",
           "start": "2020-10-13T21:07:00"
         },
         {
@@ -10985,7 +10995,7 @@
           "end": "2020-10-14T03:10:00",
           "last_updated": "2020-10-14T03:08:00",
           "municipality": "Qualicum Beach",
-          "municipality_code": "day-1 day-3 city--154309756",
+          "municipality_code": "day-3 city--154309756",
           "start": "2020-10-13T18:34:00"
         },
         {
