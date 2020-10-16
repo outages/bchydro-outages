@@ -1,7 +1,7 @@
 {
   "current": {
     "Central Interior": {
-      "customers_affected_14d": 52,
+      "customers_affected_14d": 49,
       "outages": [
         {
           "area": "3800 - 5000 block TALLUS RD, TALLUS RD BLK D\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -21,16 +21,6 @@
           "municipality": "Prince George",
           "municipality_code": "day-1 day-3 city-1835674262",
           "start": "2020-10-16T11:41:00",
-          "status": "Crew status: Crew assigned"
-        },
-        {
-          "area": "30600 - 32200 block N ISLE PIERRE RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Tree down across our wires",
-          "customers_affected": "< 5",
-          "last_updated": "2020-10-16T15:01:00",
-          "municipality": "Prince George",
-          "municipality_code": "day-1 day-3 city-1835674262",
-          "start": "2020-10-16T06:11:00",
           "status": "Crew status: Crew assigned"
         },
         {
@@ -78,8 +68,18 @@
       "region_id": "848340027"
     },
     "Lower Mainland": {
-      "customers_affected_14d": 723,
+      "customers_affected_14d": 747,
       "outages": [
+        {
+          "area": "900 - 1100 block HARDING RD, CORNER HARDNG RD & GRAFTON RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Wire down",
+          "customers_affected": "24",
+          "last_updated": "2020-10-16T16:42:00",
+          "municipality": "Bowen Island",
+          "municipality_code": "day-1 day-3 city-1522211618",
+          "start": "2020-10-16T16:40:00",
+          "status": "Crew status: Crew assigned"
+        },
         {
           "area": "24700 block FRASER HWY\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Motor vehicle accident",
@@ -172,17 +172,17 @@
       "region_id": "1602896846"
     },
     "Northern": {
-      "customers_affected_14d": 190,
+      "customers_affected_14d": 110,
       "outages": [
         {
           "area": "West of HWY 35\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "61",
-          "last_updated": "2020-10-16T15:33:00",
+          "last_updated": "2020-10-16T16:45:00",
           "municipality": "Burns Lake",
           "municipality_code": "day-1 day-3 city--2121425941",
           "start": "2020-10-16T10:06:00",
-          "status": "Crew status: Crew assigned"
+          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 16 5:15 p.m."
         },
         {
           "area": "North of PARK RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -205,6 +205,16 @@
           "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 16 5:00 p.m."
         },
         {
+          "area": "M 56/90 W STRIMBOLD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Under investigation",
+          "customers_affected": "< 5",
+          "last_updated": "2020-10-16T16:42:00",
+          "municipality": "Burns Lake",
+          "municipality_code": "day-1 day-3 city--2121425941",
+          "start": "2020-10-16T16:30:00",
+          "status": "Crew status: Crew assigned"
+        },
+        {
           "area": "BOUNDARY RD MI 14\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "< 5",
@@ -213,16 +223,6 @@
           "municipality_code": "day-1 day-3 city--1630954860",
           "start": "2020-10-16T15:51:00",
           "status": "Crew status: Crew assigned"
-        },
-        {
-          "area": "North of HWY 62\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Under investigation",
-          "customers_affected": "81",
-          "last_updated": "2020-10-16T15:51:00",
-          "municipality": "Hazelton",
-          "municipality_code": "day-1 day-3 city-411200875",
-          "start": "2020-10-16T12:18:00",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 16 5:00 p.m."
         }
       ],
       "region_code": "Northern",
@@ -263,7 +263,7 @@
       "region_id": "1812901382"
     },
     "Thompson/Shuswap": {
-      "customers_affected_14d": 8,
+      "customers_affected_14d": 7,
       "outages": [
         {
           "area": "South of CANIM LAKE RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -274,16 +274,6 @@
           "municipality_code": "day-1 day-3 city-950857956",
           "start": "2020-10-16T11:55:00",
           "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 16 6:00 p.m."
-        },
-        {
-          "area": "6000 block DEMPSEY LK RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Wire down",
-          "customers_affected": "< 5",
-          "last_updated": "2020-10-16T15:43:00",
-          "municipality": "100 Mile House",
-          "municipality_code": "day-1 day-3 city-950857956",
-          "start": "2020-10-16T11:53:00",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 16 5:00 p.m."
         },
         {
           "area": "MP 10 9\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -3283,7 +3273,7 @@
   },
   "restored": {
     "Central Interior": {
-      "customers_affected_14d": 14759,
+      "customers_affected_14d": 14762,
       "outages": [
         {
           "area": "North of HWY 97",
@@ -3574,6 +3564,16 @@
           "municipality": "Prince George",
           "municipality_code": "day-1 day-3 city-1835674262",
           "start": "2020-10-16T09:05:00"
+        },
+        {
+          "area": "30600 - 32200 block N ISLE PIERRE RD",
+          "cause": "Tree down across our wires",
+          "customers_affected": "< 5",
+          "end": "",
+          "last_updated": "2020-10-16T16:36:00",
+          "municipality": "Prince George",
+          "municipality_code": "day-1 day-3 city-1835674262",
+          "start": "2020-10-16T06:11:00"
         },
         {
           "area": "600 block COONSEY ST, RIVER AVE",
@@ -4030,7 +4030,7 @@
           "cause": "Wire down",
           "customers_affected": "< 5",
           "end": "2020-10-16T15:30:00",
-          "last_updated": "2020-10-16T15:10:00",
+          "last_updated": "2020-10-16T16:46:00",
           "municipality": "Williams Lake",
           "municipality_code": "day-1 day-3 city--1905642465",
           "start": "2020-10-16T08:55:00"
@@ -12196,7 +12196,7 @@
           "end": "2020-10-14T16:25:00",
           "last_updated": "2020-10-16T11:26:00",
           "municipality": "Qualicum Beach",
-          "municipality_code": "day-1 day-3 city--154309756",
+          "municipality_code": "day-3 city--154309756",
           "start": "2020-10-14T09:48:00"
         },
         {
@@ -12294,7 +12294,7 @@
       "region_id": "1602896846"
     },
     "Northern": {
-      "customers_affected_14d": 13932,
+      "customers_affected_14d": 14138,
       "outages": [
         {
           "area": "100 - 200 block WABALISLA ST, 0 - 100 block WAGLISLA ST, 500 block CHEENIS ST, 700 block GOOSE ISLAND DR, AIRPORT RD, BELLA BELLA RORO, PUMPHOUSE, 0 - 1200 block SHEARWATER RD, UPPER HOTEL, DENNY ISLAND RD...",
@@ -12717,6 +12717,16 @@
           "start": "2020-10-02T14:44:00"
         },
         {
+          "area": "TAKLA LDG LIFT 3 23, TAKLA POLE 54, TAKLA L92, TAKLA L10 P 52, 0 block HUDSON'S BAY SPUR, TAKLA L1 P49, TAKLA L2, TAKLA LDG TEACH 2, TAKLA RESERVE LOT 3, TAKLA RESERVE LOT 16...",
+          "cause": "Tree down across our wires",
+          "customers_affected": "125",
+          "end": "",
+          "last_updated": "2020-10-16T16:37:00",
+          "municipality": "Fort St. James",
+          "municipality_code": "day-1 day-3 city-2077380636",
+          "start": "2020-10-16T10:52:00"
+        },
+        {
           "area": "East of TACHIE RD",
           "cause": "Under investigation",
           "customers_affected": "50",
@@ -12985,6 +12995,16 @@
           "municipality": "Hazelton",
           "municipality_code": "city-411200875",
           "start": "2020-10-05T06:00:00"
+        },
+        {
+          "area": "North of HWY 62",
+          "cause": "Under investigation",
+          "customers_affected": "81",
+          "end": "2020-10-16T17:00:00",
+          "last_updated": "2020-10-16T16:34:00",
+          "municipality": "Hazelton",
+          "municipality_code": "day-1 day-3 city-411200875",
+          "start": "2020-10-16T12:18:00"
         },
         {
           "area": "North-South-East-West of HWY 16",
@@ -14357,7 +14377,7 @@
           "end": "2020-10-14T16:30:00",
           "last_updated": "2020-10-15T14:31:00",
           "municipality": "Duncan",
-          "municipality_code": "day-1 day-3 city-2058209491",
+          "municipality_code": "day-3 city-2058209491",
           "start": "2020-10-14T10:24:00"
         },
         {
@@ -15147,7 +15167,7 @@
           "end": "2020-10-14T16:30:00",
           "last_updated": "2020-10-15T11:03:00",
           "municipality": "Ganges",
-          "municipality_code": "day-1 day-3 city-2125630497",
+          "municipality_code": "day-3 city-2125630497",
           "start": "2020-10-13T22:16:00"
         },
         {
@@ -15567,7 +15587,7 @@
           "end": "2020-10-14T16:35:00",
           "last_updated": "2020-10-14T16:36:00",
           "municipality": "North Cowichan",
-          "municipality_code": "day-1 day-3 city--666037877",
+          "municipality_code": "day-3 city--666037877",
           "start": "2020-10-13T14:16:00"
         },
         {
@@ -15737,7 +15757,7 @@
           "end": "",
           "last_updated": "2020-10-15T14:33:00",
           "municipality": "North Cowichan",
-          "municipality_code": "day-1 day-3 city--666037877",
+          "municipality_code": "day-3 city--666037877",
           "start": "2020-10-14T15:58:00"
         },
         {
@@ -15767,7 +15787,7 @@
           "end": "2020-10-14T17:30:00",
           "last_updated": "2020-10-15T14:27:00",
           "municipality": "North Cowichan",
-          "municipality_code": "day-1 day-3 city--666037877",
+          "municipality_code": "day-3 city--666037877",
           "start": "2020-10-13T17:54:00"
         },
         {
@@ -16775,7 +16795,7 @@
       "region_id": "1812901382"
     },
     "Thompson/Shuswap": {
-      "customers_affected_14d": 15761,
+      "customers_affected_14d": 15762,
       "outages": [
         {
           "area": "East of WILCOX RD, North of TRIP RD",
@@ -16946,6 +16966,16 @@
           "municipality": "100 Mile House",
           "municipality_code": "day-1 day-3 city-950857956",
           "start": "2020-10-16T08:25:00"
+        },
+        {
+          "area": "6000 block DEMPSEY LK RD",
+          "cause": "Tree down across our wires",
+          "customers_affected": "< 5",
+          "end": "2020-10-16T17:00:00",
+          "last_updated": "2020-10-16T16:34:00",
+          "municipality": "100 Mile House",
+          "municipality_code": "day-1 day-3 city-950857956",
+          "start": "2020-10-16T11:53:00"
         },
         {
           "area": "7500 block RESORT RD",
