@@ -18,13 +18,23 @@
       "region_id": "848340027"
     },
     "Northern": {
-      "customers_affected_14d": 139,
+      "customers_affected_14d": 537,
       "outages": [
+        {
+          "area": "East of HWY 16\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Under investigation",
+          "customers_affected": "398",
+          "last_updated": "2020-10-15T23:30:00",
+          "municipality": "Burns Lake",
+          "municipality_code": "day-1 day-3 city--2121425941",
+          "start": "2020-10-15T23:19:00",
+          "status": "Crew status: No crew assigned yet\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 16 9:00 a.m."
+        },
         {
           "area": "COLLEYMOUNT P220/3, COLLEYMOUNT P243/1, COLLEYMOUNT P361, SHORT RD PUMP P2, 22400 block TWIN FLOWER DR, 23300 block AGER RD P3, 0 - 24100 block TROUT CREEK RD, 24300 block KOON RD, FRANCOIS LK W P531, 0 - 54100 block COLLEYMOUNT RD...\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "134",
-          "last_updated": "2020-10-15T22:53:00",
+          "last_updated": "2020-10-15T23:06:00",
           "municipality": "Burns Lake",
           "municipality_code": "day-1 day-3 city--2121425941",
           "start": "2020-10-15T21:59:00",
@@ -34,7 +44,7 @@
           "area": "WALKER RD P13, 1500 - 2400 block WALKER RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "5",
-          "last_updated": "2020-10-15T22:55:00",
+          "last_updated": "2020-10-15T23:06:00",
           "municipality": "Burns Lake",
           "municipality_code": "day-1 day-3 city--2121425941",
           "start": "2020-10-15T22:43:00",
@@ -3714,7 +3724,7 @@
           "end": "",
           "last_updated": "2020-10-15T11:55:00",
           "municipality": "Abbotsford",
-          "municipality_code": "day-1 day-3 city-1230363016",
+          "municipality_code": "day-3 city-1230363016",
           "start": "2020-10-13T19:27:00"
         },
         {
@@ -4264,7 +4274,7 @@
           "end": "2020-10-11T23:00:00",
           "last_updated": "2020-10-12T00:09:00",
           "municipality": "Burnaby",
-          "municipality_code": "day-3 city-1903966249",
+          "municipality_code": "city-1903966249",
           "start": "2020-10-11T08:51:00"
         },
         {
@@ -4454,7 +4464,7 @@
           "end": "",
           "last_updated": "2020-10-13T23:11:00",
           "municipality": "Chilliwack",
-          "municipality_code": "day-1 day-3 city--708005353",
+          "municipality_code": "day-3 city--708005353",
           "start": "2020-10-13T12:31:00"
         },
         {
@@ -4804,7 +4814,7 @@
           "end": "2020-10-14T02:00:00",
           "last_updated": "2020-10-13T23:20:00",
           "municipality": "Chilliwack",
-          "municipality_code": "day-1 day-3 city--708005353",
+          "municipality_code": "day-3 city--708005353",
           "start": "2020-10-13T14:24:00"
         },
         {
@@ -5084,7 +5094,7 @@
           "end": "",
           "last_updated": "2020-10-13T10:55:00",
           "municipality": "Chilliwack",
-          "municipality_code": "day-3 city--708005353",
+          "municipality_code": "city--708005353",
           "start": "2020-10-11T17:52:00"
         },
         {
@@ -5574,7 +5584,7 @@
           "end": "2020-10-13T23:07:00",
           "last_updated": "2020-10-13T23:27:00",
           "municipality": "Hope",
-          "municipality_code": "day-1 day-3 city-2255196",
+          "municipality_code": "day-3 city-2255196",
           "start": "2020-10-13T14:47:00"
         },
         {
@@ -6984,7 +6994,7 @@
           "end": "",
           "last_updated": "2020-10-15T11:43:00",
           "municipality": "Mission",
-          "municipality_code": "day-1 day-3 city--1560864404",
+          "municipality_code": "day-3 city--1560864404",
           "start": "2020-10-13T13:22:00"
         },
         {
@@ -7004,7 +7014,7 @@
           "end": "",
           "last_updated": "2020-10-15T11:14:00",
           "municipality": "Mission",
-          "municipality_code": "day-1 day-3 city--1560864404",
+          "municipality_code": "day-3 city--1560864404",
           "start": "2020-10-13T13:23:00"
         },
         {
@@ -10351,7 +10361,7 @@
           "end": "",
           "last_updated": "2020-10-13T23:29:00",
           "municipality": "Nanaimo",
-          "municipality_code": "day-1 day-3 city--907547835",
+          "municipality_code": "day-3 city--907547835",
           "start": "2020-10-13T14:48:00"
         },
         {
@@ -13642,7 +13652,7 @@
           "end": "",
           "last_updated": "2020-10-15T14:11:00",
           "municipality": "Duncan",
-          "municipality_code": "day-1 day-3 city-2058209491",
+          "municipality_code": "day-3 city-2058209491",
           "start": "2020-10-13T12:21:00"
         },
         {
@@ -14482,7 +14492,7 @@
           "end": "",
           "last_updated": "2020-10-13T23:15:00",
           "municipality": "Ganges",
-          "municipality_code": "day-1 day-3 city-2125630497",
+          "municipality_code": "day-3 city-2125630497",
           "start": "2020-10-13T15:10:00"
         },
         {
@@ -15852,7 +15862,7 @@
           "end": "",
           "last_updated": "2020-10-14T09:11:00",
           "municipality": "Victoria",
-          "municipality_code": "day-1 day-3 city-1201273535",
+          "municipality_code": "day-3 city-1201273535",
           "start": "2020-10-13T20:13:00"
         },
         {
@@ -16719,7 +16729,7 @@
           "end": "2020-10-11T23:59:00",
           "last_updated": "2020-10-11T23:37:00",
           "municipality": "Kamloops",
-          "municipality_code": "day-3 city-979034872",
+          "municipality_code": "city-979034872",
           "start": "2020-10-11T20:30:00"
         },
         {
