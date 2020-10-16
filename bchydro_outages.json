@@ -67,6 +67,23 @@
       "region_code": "Central Interior",
       "region_id": "848340027"
     },
+    "North VI": {
+      "customers_affected_14d": 584,
+      "outages": [
+        {
+          "area": "West of ALDER ST, East of DOGWOOD ST, South of ROCKLAND RD, North of HOLM RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Under investigation",
+          "customers_affected": "584",
+          "last_updated": "2020-10-16T01:34:00",
+          "municipality": "Campbell River",
+          "municipality_code": "day-1 day-3 city-1240464880",
+          "start": "2020-10-16T01:21:00",
+          "status": "Crew status: Crew assigned"
+        }
+      ],
+      "region_code": "North VI",
+      "region_id": "1602896846"
+    },
     "Northern": {
       "customers_affected_14d": 845,
       "outages": [
@@ -6054,7 +6071,7 @@
           "end": "",
           "last_updated": "2020-10-15T09:51:00",
           "municipality": "Langley",
-          "municipality_code": "day-1 day-3 city-1612593490",
+          "municipality_code": "day-3 city-1612593490",
           "start": "2020-10-13T12:09:00"
         },
         {
