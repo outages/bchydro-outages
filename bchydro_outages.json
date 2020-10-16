@@ -175,27 +175,17 @@
       "region_id": "521980323"
     },
     "North VI": {
-      "customers_affected_14d": 14,
+      "customers_affected_14d": 9,
       "outages": [
         {
           "area": "1700 - 1800 block GRANT AVE, 1100 block STRATHMORE ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Bird contacting our wires",
           "customers_affected": "9",
-          "last_updated": "2020-10-16T15:00:00",
+          "last_updated": "2020-10-16T15:26:00",
           "municipality": "Nanaimo",
           "municipality_code": "day-1 day-3 city--907547835",
           "start": "2020-10-16T13:56:00",
           "status": "Crew status: Crew assigned"
-        },
-        {
-          "area": "8500 - 8600 block GLENVIEW RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Work being done on our equipment",
-          "customers_affected": "5",
-          "last_updated": "2020-10-16T14:59:00",
-          "municipality": "Port Hardy",
-          "municipality_code": "day-1 day-3 city-368562319",
-          "start": "2020-10-15T21:28:00",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 16 3:00 p.m."
         }
       ],
       "region_code": "North VI",
@@ -325,11 +315,11 @@
           "area": "North of MCCALLUM RD , East of TRANS CAN HWY, South of FINLAYSON ARM RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "2324",
-          "last_updated": "2020-10-16T15:19:00",
+          "last_updated": "2020-10-16T15:26:00",
           "municipality": "Highlands, Langford, View Royal",
           "municipality_code": "day-1 day-3 city-1322525542 city--1549378615 city--1360221748",
           "start": "2020-10-16T13:43:00",
-          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 16 3:00 p.m."
+          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 16 4:00 p.m."
         },
         {
           "area": "South of HALLOWELL RD, West of ADMIRALS RD, North-East of MAPLEBANK RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -2570,7 +2560,7 @@
       "region_id": "2072041405"
     },
     "South VI": {
-      "customers_affected_14d": 1881,
+      "customers_affected_14d": 1862,
       "outages": [
         {
           "area": "1746 Verling Ave; 1763 Sean Hts, Saanichton",
@@ -2991,16 +2981,6 @@
           "municipality": "Victoria",
           "municipality_code": "day-1 day-3 city-1201273535",
           "start": "2020-10-28T09:30:00"
-        },
-        {
-          "area": "***EMERGENT**House 1-14 Price Rd, Victoria",
-          "cause": "Pole replacement",
-          "customers_affected": "19",
-          "end": "2020-10-14T15:30:00",
-          "last_updated": "2020-10-01T14:55:00",
-          "municipality": "Victoria",
-          "municipality_code": "day-1 day-3 city-1201273535",
-          "start": "2020-10-14T09:30:00"
         },
         {
           "area": "285,287 Maddock Ave, 290 W Maddock Ave, 284,290 Obed Ave, 3000-3101 Tillicum Rd",
@@ -8622,7 +8602,7 @@
           "end": "2020-10-14T16:05:00",
           "last_updated": "2020-10-15T09:46:00",
           "municipality": "Richmond",
-          "municipality_code": "day-1 day-3 city--1486145068",
+          "municipality_code": "day-3 city--1486145068",
           "start": "2020-10-14T09:53:00"
         },
         {
@@ -8972,7 +8952,7 @@
           "end": "2020-10-14T16:00:00",
           "last_updated": "2020-10-14T19:48:00",
           "municipality": "Surrey",
-          "municipality_code": "day-1 day-3 city--1807186826",
+          "municipality_code": "day-3 city--1807186826",
           "start": "2020-10-14T08:19:00"
         },
         {
@@ -12239,7 +12219,7 @@
           "end": "",
           "last_updated": "2020-10-14T15:29:00",
           "municipality": "Qualicum Beach",
-          "municipality_code": "day-1 day-3 city--154309756",
+          "municipality_code": "day-3 city--154309756",
           "start": "2020-10-13T19:02:00"
         },
         {
@@ -14231,7 +14211,7 @@
       "region_id": "2072041405"
     },
     "South VI": {
-      "customers_affected_14d": 68490,
+      "customers_affected_14d": 68492,
       "outages": [
         {
           "area": "North of CHURCH RD, West of STAUTW RD, East of TETAYUT RD, South of MT NEWTON XRD",
@@ -14356,9 +14336,9 @@
         {
           "area": "South of MCTAVISH RD, East of DEAN PARK RD, West of EMARD TCE, North of JEFFREE RD",
           "cause": "Other",
-          "customers_affected": "1163",
+          "customers_affected": "1165",
           "end": "",
-          "last_updated": "2020-10-13T11:41:00",
+          "last_updated": "2020-10-16T15:27:00",
           "municipality": "Central Saanich, North Saanich",
           "municipality_code": "day-3 city--769735224 city-179964248",
           "start": "2020-10-13T11:18:00"
@@ -15978,7 +15958,7 @@
           "cause": "Other",
           "customers_affected": "1046",
           "end": "",
-          "last_updated": "2020-10-13T11:48:00",
+          "last_updated": "2020-10-16T15:27:00",
           "municipality": "North Saanich, Sidney",
           "municipality_code": "day-3 city-179964248 city--1818689996",
           "start": "2020-10-13T11:17:00"
