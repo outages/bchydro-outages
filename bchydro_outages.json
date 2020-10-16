@@ -1,23 +1,23 @@
 {
   "current": {
     "Central Interior": {
-      "customers_affected_14d": 1420,
+      "customers_affected_14d": 1664,
       "outages": [
         {
           "area": "North of NESS LAKE RD, West of THOMPSON RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "337",
-          "last_updated": "2020-10-16T00:13:00",
+          "last_updated": "2020-10-16T01:00:00",
           "municipality": "Prince George",
           "municipality_code": "day-1 day-3 city-1835674262",
           "start": "2020-10-16T00:10:00",
-          "status": "Crew status: Crew assigned"
+          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 16 1:20 a.m."
         },
         {
           "area": "North of HWY 16 , South of SINDIA RD, West of BUCKINGHAM RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "54",
-          "last_updated": "2020-10-16T00:31:00",
+          "last_updated": "2020-10-16T00:59:00",
           "municipality": "Prince George",
           "municipality_code": "day-1 day-3 city-1835674262",
           "start": "2020-10-16T00:27:00",
@@ -32,6 +32,16 @@
           "municipality_code": "day-1 day-3 city--1975191965",
           "start": "2020-10-16T00:11:00",
           "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 16 1:00 a.m."
+        },
+        {
+          "area": "West of PLYWOOD RD, North of CARAGANA RD, East of ROBERTSON AVE, South of WARDEN ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Under investigation",
+          "customers_affected": "244",
+          "last_updated": "2020-10-16T00:56:00",
+          "municipality": "Quesnel",
+          "municipality_code": "day-1 day-3 city--1975191965",
+          "start": "2020-10-16T00:53:00",
+          "status": "Crew status: No crew assigned yet"
         },
         {
           "area": "North of NAZKO RD, West of LONG BAR RD, South of PARADISE RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -4474,7 +4484,7 @@
           "end": "",
           "last_updated": "2020-10-14T01:02:00",
           "municipality": "Chilliwack",
-          "municipality_code": "day-1 day-3 city--708005353",
+          "municipality_code": "day-3 city--708005353",
           "start": "2020-10-13T23:15:00"
         },
         {
@@ -4784,7 +4794,7 @@
           "end": "",
           "last_updated": "2020-10-14T01:00:00",
           "municipality": "Chilliwack",
-          "municipality_code": "day-1 day-3 city--708005353",
+          "municipality_code": "day-3 city--708005353",
           "start": "2020-10-13T18:00:00"
         },
         {
@@ -5304,7 +5314,7 @@
           "end": "",
           "last_updated": "2020-10-14T01:02:00",
           "municipality": "Delta",
-          "municipality_code": "day-1 day-3 city-65915800",
+          "municipality_code": "day-3 city-65915800",
           "start": "2020-10-13T21:22:00"
         },
         {
@@ -6864,7 +6874,7 @@
           "end": "2020-10-14T01:30:00",
           "last_updated": "2020-10-15T11:52:00",
           "municipality": "Mission",
-          "municipality_code": "day-1 day-3 city--1560864404",
+          "municipality_code": "day-3 city--1560864404",
           "start": "2020-10-13T12:46:00"
         },
         {
