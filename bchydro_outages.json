@@ -1,7 +1,7 @@
 {
   "current": {
     "Central Interior": {
-      "customers_affected_14d": 199,
+      "customers_affected_14d": 415,
       "outages": [
         {
           "area": "4500 - 4700 block HANDLEN RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -17,7 +17,7 @@
           "area": "24800 block BIBLE CAMP RD, 23200 - 23700 block CAMP RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Tree down across our wires",
           "customers_affected": "8",
-          "last_updated": "2020-10-16T03:22:00",
+          "last_updated": "2020-10-16T04:24:00",
           "municipality": "Prince George",
           "municipality_code": "day-1 day-3 city-1835674262",
           "start": "2020-10-16T02:23:00",
@@ -27,10 +27,20 @@
           "area": "22000 block CAMP RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-16T03:22:00",
+          "last_updated": "2020-10-16T04:26:00",
           "municipality": "Prince George",
           "municipality_code": "day-1 day-3 city-1835674262",
           "start": "2020-10-16T02:25:00",
+          "status": "Crew status: Crew assigned"
+        },
+        {
+          "area": "East of DENNIS RD, West of COACH RD, South of OVAL RD, North of QUESNEL-HYDRAULIC RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Under investigation",
+          "customers_affected": "216",
+          "last_updated": "2020-10-16T04:24:00",
+          "municipality": "Quesnel",
+          "municipality_code": "day-1 day-3 city--1975191965",
+          "start": "2020-10-16T03:29:00",
           "status": "Crew status: Crew assigned"
         },
         {
@@ -47,11 +57,11 @@
           "area": "4200 block DRUMMOND RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-16T04:02:00",
+          "last_updated": "2020-10-16T04:30:00",
           "municipality": "Quesnel",
           "municipality_code": "day-1 day-3 city--1975191965",
           "start": "2020-10-16T03:26:00",
-          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 16 5:05 a.m."
+          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 16 5:00 a.m."
         },
         {
           "area": "South of FRASER RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -138,11 +148,11 @@
           "area": "North of MAHOOD LAKE RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "57",
-          "last_updated": "2020-10-16T03:44:00",
+          "last_updated": "2020-10-16T04:24:00",
           "municipality": "100 Mile House",
           "municipality_code": "day-1 day-3 city-950857956",
           "start": "2020-10-16T03:23:00",
-          "status": "Crew status: Crew assigned"
+          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 16 6:00 a.m."
         },
         {
           "area": "3700 - 3900 block RUTH LAKE RD, 3700 - 3800 block RUTH LK RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
