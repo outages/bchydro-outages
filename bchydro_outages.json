@@ -1,7 +1,7 @@
 {
   "current": {
     "Central Interior": {
-      "customers_affected_14d": 319,
+      "customers_affected_14d": 333,
       "outages": [
         {
           "area": "East of KLUSS RD, South-West of CRANBROOK HILL RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -32,6 +32,16 @@
           "municipality_code": "day-1 day-3 city-1835674262",
           "start": "2020-10-16T08:11:00",
           "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 16 10:25 a.m."
+        },
+        {
+          "area": "4100 block ESTAVILLA DR\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Tree down across our wires",
+          "customers_affected": "5",
+          "last_updated": "2020-10-16T10:29:00",
+          "municipality": "Prince George",
+          "municipality_code": "day-1 day-3 city-1835674262",
+          "start": "2020-10-16T10:09:00",
+          "status": "Crew status: No crew assigned yet"
         },
         {
           "area": "13000 block EAGLE CREST RD, 13100 block EAGLECREST RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -97,21 +107,21 @@
           "area": "12400 block EAGLE CREST RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-16T09:01:00",
+          "last_updated": "2020-10-16T10:30:00",
           "municipality": "Prince George",
           "municipality_code": "day-1 day-3 city-1835674262",
           "start": "2020-10-16T07:35:00",
-          "status": "Crew status: Crew assigned"
+          "status": "Crew status: No crew assigned yet"
         },
         {
           "area": "3700 block GLENDALE DR\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-16T08:15:00",
+          "last_updated": "2020-10-16T10:30:00",
           "municipality": "Prince George",
           "municipality_code": "day-1 day-3 city-1835674262",
           "start": "2020-10-16T07:31:00",
-          "status": "Crew status: Crew assigned"
+          "status": "Crew status: No crew assigned yet"
         },
         {
           "area": "1100 block WEST FRASER RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -127,11 +137,11 @@
           "area": "43800 block AHBAU CR RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-16T09:20:00",
+          "last_updated": "2020-10-16T10:21:00",
           "municipality": "Quesnel",
           "municipality_code": "day-1 day-3 city--1975191965",
           "start": "2020-10-16T07:53:00",
-          "status": "Crew status: Crew on-site"
+          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 16 11:00 a.m."
         },
         {
           "area": "1200 block FRANCESS DR\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -184,6 +194,16 @@
           "status": "Crew status: Crew assigned"
         },
         {
+          "area": "2100 - 2400 block BEAVER LAKE RD, 7300 block PHILEMON LAKE RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Under investigation",
+          "customers_affected": "9",
+          "last_updated": "2020-10-16T10:24:00",
+          "municipality": "Williams Lake",
+          "municipality_code": "day-1 day-3 city--1905642465",
+          "start": "2020-10-16T09:21:00",
+          "status": "Crew status: Crew assigned"
+        },
+        {
           "area": "5100 block GRAVEL CREEK RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Wire down",
           "customers_affected": "< 5",
@@ -208,18 +228,8 @@
       "region_id": "848340027"
     },
     "Lower Mainland": {
-      "customers_affected_14d": 713,
+      "customers_affected_14d": 705,
       "outages": [
-        {
-          "area": "1300 - 1400 block BRISBANE CRT\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Planned work being done on our equipment",
-          "customers_affected": "8",
-          "last_updated": "2020-10-16T09:56:00",
-          "municipality": "Coquitlam",
-          "municipality_code": "day-1 day-3 city--3101987",
-          "start": "2020-10-16T09:53:00",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 16 12:00 p.m."
-        },
         {
           "area": "West of 217B ST, South of 46TH AVE, North of 44TH AVE, East of 216TH ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
@@ -312,7 +322,7 @@
       "region_id": "1602896846"
     },
     "Northern": {
-      "customers_affected_14d": 680,
+      "customers_affected_14d": 679,
       "outages": [
         {
           "area": "East of HWY 16\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -338,41 +348,31 @@
           "area": "West of HWY 35\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "61",
-          "last_updated": "2020-10-16T10:12:00",
+          "last_updated": "2020-10-16T10:22:00",
           "municipality": "Burns Lake",
           "municipality_code": "day-1 day-3 city--2121425941",
           "start": "2020-10-16T10:06:00",
-          "status": "Crew status: No crew assigned yet"
+          "status": "Crew status: Crew assigned"
         },
         {
           "area": "North of PARK RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "25",
-          "last_updated": "2020-10-16T10:19:00",
+          "last_updated": "2020-10-16T10:22:00",
           "municipality": "Burns Lake",
           "municipality_code": "day-1 day-3 city--2121425941",
           "start": "2020-10-16T10:17:00",
-          "status": "Crew status: No crew assigned yet"
+          "status": "Crew status: Crew assigned"
         },
         {
           "area": "South of TATALROSE RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "7",
-          "last_updated": "2020-10-16T10:14:00",
+          "last_updated": "2020-10-16T10:30:00",
           "municipality": "Burns Lake",
           "municipality_code": "day-1 day-3 city--2121425941",
           "start": "2020-10-16T05:10:00",
-          "status": "Crew status: Crew assigned"
-        },
-        {
-          "area": "2100 block WALKER RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Under investigation",
-          "customers_affected": "< 5",
-          "last_updated": "2020-10-16T10:14:00",
-          "municipality": "Burns Lake",
-          "municipality_code": "day-1 day-3 city--2121425941",
-          "start": "2020-10-15T22:43:00",
-          "status": "Crew status: Crew on-site"
+          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 16 12:00 p.m."
         },
         {
           "area": "South of 98TH AVE, East of 4TH ST, North of 99TH AVE, West of 2ND ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -418,11 +418,11 @@
           "area": "CLARKE RD P32, 17200 block CLARKE RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-16T10:05:00",
+          "last_updated": "2020-10-16T10:27:00",
           "municipality": "Vanderhoof",
           "municipality_code": "day-1 day-3 city-1041981516",
           "start": "2020-10-16T09:37:00",
-          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 16 10:30 a.m."
+          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 16 11:30 a.m."
         }
       ],
       "region_code": "Northern",
@@ -460,13 +460,13 @@
       "outages": [
         {
           "area": "North-South of EAST POINT RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Under investigation",
+          "cause": "Tree down across our wires",
           "customers_affected": "143",
-          "last_updated": "2020-10-16T10:20:00",
+          "last_updated": "2020-10-16T10:21:00",
           "municipality": "Saturna Island",
           "municipality_code": "day-1 day-3 city-501274559",
           "start": "2020-10-16T07:58:00",
-          "status": "Crew status: Crew assigned"
+          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 16 12:30 p.m."
         },
         {
           "area": "2500 block BLACKWOOD ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -493,7 +493,7 @@
       "region_id": "1812901382"
     },
     "Thompson/Shuswap": {
-      "customers_affected_14d": 246,
+      "customers_affected_14d": 187,
       "outages": [
         {
           "area": "3600 block UPPER BRADLEY CRK RD, 3200 - 4800 block BRADLEY CREEK RD, 3200 block WILCOX ROAD, UPPER BRADLEY CREEK, 3100 - 3600 block BRADLEY CRK RD, 3200 - 3600 block BRADLEY CRK, 3000 - 3200 block WILCOX RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -516,14 +516,14 @@
           "status": "Crew status: Crew assigned"
         },
         {
-          "area": "WELLS GREY PARK, 5000 - 5100 block CLEARWATER VLY RD, 5000 block CLEARWATER VALL RD, 4300 - 6600 block CLEARWATER VAL RD, 600 block MOUL CREEK RD, 4300 - 6600 block CLEARWATER VALLEY RD, 6200 - 6500 block CORRAL RD, 5800 - 6100 block TROUT CREEK RD, 400 block NAKISKA RD, 600 block GROUSE CREEK RD...\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "area": "WELLS GREY PARK, 5600 - 6600 block CLEARWATER VAL RD, 6200 - 6500 block CORRAL RD, 5800 - 6100 block TROUT CREEK RD, 6000 - 6600 block CLEARWATER VALLEY RD, 400 block NAKISKA RD, 6700 block BOUNDARY RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Tree down across our wires",
-          "customers_affected": "108",
-          "last_updated": "2020-10-16T09:48:00",
+          "customers_affected": "49",
+          "last_updated": "2020-10-16T10:26:00",
           "municipality": "Clearwater",
           "municipality_code": "day-1 day-3 city-1282265866",
           "start": "2020-10-16T03:49:00",
-          "status": "Crew status: Crew on-site"
+          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 16 12:30 p.m."
         },
         {
           "area": "North-South-East-West of HWY 5\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -569,11 +569,11 @@
           "area": "West of HWY 23\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Tree down across our wires",
           "customers_affected": "66",
-          "last_updated": "2020-10-16T10:14:00",
+          "last_updated": "2020-10-16T10:29:00",
           "municipality": "Revelstoke",
           "municipality_code": "day-1 day-3 city-1039954398",
           "start": "2020-10-16T08:47:00",
-          "status": "Crew status: Crew on their way"
+          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 16 11:15 a.m."
         }
       ],
       "region_code": "Thompson/Shuswap",
@@ -619,7 +619,7 @@
       "region_id": "848340027"
     },
     "Lower Mainland": {
-      "customers_affected_14d": 7304,
+      "customers_affected_14d": 7306,
       "outages": [
         {
           "area": "1944, 1954, 1966, 1976 Albion St; 32666-32749 Cordova Ave; 325, 32760 Marshall Rd, 32414-32750 Pandora Ave; 1911-1944 Valencia Crt, Abbotsford",
@@ -1670,6 +1670,16 @@
           "municipality": "Richmond",
           "municipality_code": "day-1 day-3 city--1486145068",
           "start": "2020-10-14T08:30:00"
+        },
+        {
+          "area": "*Rescheduled from Oct 14th*12520,12524 Vickers Way",
+          "cause": "Planned work being done on our equipment",
+          "customers_affected": "< 5",
+          "end": "2020-10-30T12:00:00",
+          "last_updated": "2020-10-16T10:23:00",
+          "municipality": "Richmond",
+          "municipality_code": "day-1 day-3 city--1486145068",
+          "start": "2020-10-30T08:30:00"
         },
         {
           "area": "23111 Garripie Ave",
@@ -4230,7 +4240,7 @@
       "region_id": "848340027"
     },
     "Lower Mainland": {
-      "customers_affected_14d": 141966,
+      "customers_affected_14d": 141974,
       "outages": [
         {
           "area": "North of MACLURE RD, East of MT LEHMAN RD, West of Hwy 11",
@@ -5229,7 +5239,7 @@
           "end": "",
           "last_updated": "2020-10-14T11:48:00",
           "municipality": "Chilliwack",
-          "municipality_code": "day-1 day-3 city--708005353",
+          "municipality_code": "day-3 city--708005353",
           "start": "2020-10-13T14:42:00"
         },
         {
@@ -5983,6 +5993,16 @@
           "start": "2020-10-13T12:33:00"
         },
         {
+          "area": "1300 - 1400 block BRISBANE CRT",
+          "cause": "Planned work being done on our equipment",
+          "customers_affected": "8",
+          "end": "2020-10-16T11:00:00",
+          "last_updated": "2020-10-16T10:25:00",
+          "municipality": "Coquitlam",
+          "municipality_code": "day-1 day-3 city--3101987",
+          "start": "2020-10-16T09:53:00"
+        },
+        {
           "area": "3500 block GISLASON AVE",
           "cause": "Equipment failure",
           "customers_affected": "< 5",
@@ -6269,7 +6289,7 @@
           "end": "2020-10-14T10:38:00",
           "last_updated": "2020-10-14T10:24:00",
           "municipality": "Hope",
-          "municipality_code": "day-1 day-3 city-2255196",
+          "municipality_code": "day-3 city-2255196",
           "start": "2020-10-13T19:35:00"
         },
         {
@@ -6919,7 +6939,7 @@
           "end": "",
           "last_updated": "2020-10-14T19:36:00",
           "municipality": "Langley",
-          "municipality_code": "day-1 day-3 city-1612593490",
+          "municipality_code": "day-3 city-1612593490",
           "start": "2020-10-13T20:20:00"
         },
         {
@@ -10716,7 +10736,7 @@
           "end": "2020-10-14T10:40:00",
           "last_updated": "2020-10-14T16:46:00",
           "municipality": "Ladysmith",
-          "municipality_code": "day-1 day-3 city--543936167",
+          "municipality_code": "day-3 city--543936167",
           "start": "2020-10-14T09:27:00"
         },
         {
@@ -11886,7 +11906,7 @@
           "end": "",
           "last_updated": "2020-10-15T12:19:00",
           "municipality": "Qualicum Beach",
-          "municipality_code": "day-1 day-3 city--154309756",
+          "municipality_code": "day-3 city--154309756",
           "start": "2020-10-13T13:28:00"
         },
         {
@@ -12324,7 +12344,7 @@
       "region_id": "1602896846"
     },
     "Northern": {
-      "customers_affected_14d": 13271,
+      "customers_affected_14d": 13272,
       "outages": [
         {
           "area": "100 - 200 block WABALISLA ST, 0 - 100 block WAGLISLA ST, 500 block CHEENIS ST, 700 block GOOSE ISLAND DR, AIRPORT RD, BELLA BELLA RORO, PUMPHOUSE, 0 - 1200 block SHEARWATER RD, UPPER HOTEL, DENNY ISLAND RD...",
@@ -12402,6 +12422,16 @@
           "customers_affected": "< 5",
           "end": "",
           "last_updated": "2020-10-16T06:35:00",
+          "municipality": "Burns Lake",
+          "municipality_code": "day-1 day-3 city--2121425941",
+          "start": "2020-10-15T22:43:00"
+        },
+        {
+          "area": "2100 block WALKER RD",
+          "cause": "Tree down across our wires",
+          "customers_affected": "< 5",
+          "end": "2020-10-16T11:00:00",
+          "last_updated": "2020-10-16T10:31:00",
           "municipality": "Burns Lake",
           "municipality_code": "day-1 day-3 city--2121425941",
           "start": "2020-10-15T22:43:00"
@@ -13301,7 +13331,7 @@
           "cause": "Under investigation",
           "customers_affected": "8",
           "end": "2020-10-16T10:15:00",
-          "last_updated": "2020-10-16T10:13:00",
+          "last_updated": "2020-10-16T10:28:00",
           "municipality": "Vanderhoof",
           "municipality_code": "day-1 day-3 city-1041981516",
           "start": "2020-10-16T07:55:00"
@@ -13418,7 +13448,7 @@
           "cause": "Bird contacting our wires",
           "customers_affected": "< 5",
           "end": "2020-10-16T07:30:00",
-          "last_updated": "2020-10-16T07:21:00",
+          "last_updated": "2020-10-16T10:28:00",
           "municipality": "Cranbrook",
           "municipality_code": "day-1 day-3 city--591720257",
           "start": "2020-10-16T06:24:00"
@@ -14187,7 +14217,7 @@
           "end": "",
           "last_updated": "2020-10-15T14:21:00",
           "municipality": "Duncan",
-          "municipality_code": "day-1 day-3 city-2058209491",
+          "municipality_code": "day-3 city-2058209491",
           "start": "2020-10-13T13:59:00"
         },
         {
@@ -16197,7 +16227,7 @@
           "end": "2020-10-14T11:00:00",
           "last_updated": "2020-10-14T11:00:00",
           "municipality": "Sooke",
-          "municipality_code": "day-1 day-3 city-80069133",
+          "municipality_code": "day-3 city-80069133",
           "start": "2020-10-13T13:19:00"
         },
         {
