@@ -84,7 +84,7 @@
       "region_id": "848340027"
     },
     "Lower Mainland": {
-      "customers_affected_14d": 7265,
+      "customers_affected_14d": 7234,
       "outages": [
         {
           "area": "1944, 1954, 1966, 1976 Albion St; 32666-32749 Cordova Ave; 325, 32760 Marshall Rd, 32414-32750 Pandora Ave; 1911-1944 Valencia Crt, Abbotsford",
@@ -1395,16 +1395,6 @@
           "municipality": "Vancouver",
           "municipality_code": "day-1 day-3 city--1786794435",
           "start": "2020-10-16T09:00:00"
-        },
-        {
-          "area": "3131 E 58th Ave, 3102 to 3125 Saddle Lane (3102, 3102, 3103, 3107, 3108, 3111, 3114, 3117, 3121, 3125) 7338 to 7389 Foxhound Mews (7338, 7338, 7344, 7350, 7359, 7359, 7365, 7371, 7377, 7383, 7389) 3118 to 3130 Beagle Court (3118, 3119, 3123, 3124, 3129, 3130)",
-          "cause": "Planned work being done on our equipment",
-          "customers_affected": "31",
-          "end": "2020-10-13T21:00:00",
-          "last_updated": "2020-09-25T16:10:00",
-          "municipality": "Vancouver",
-          "municipality_code": "day-1 day-3 city--1786794435",
-          "start": "2020-10-13T09:00:00"
         },
         {
           "area": "***CANCELLED**3136 Kingsway, Vancouver (Hse, 101-114, 201-214)",
@@ -3584,7 +3574,7 @@
           "end": "",
           "last_updated": "2020-10-15T11:53:00",
           "municipality": "Abbotsford",
-          "municipality_code": "day-1 day-3 city-1230363016",
+          "municipality_code": "day-3 city-1230363016",
           "start": "2020-10-13T17:10:00"
         },
         {
@@ -3614,7 +3604,7 @@
           "end": "2020-10-13T21:47:00",
           "last_updated": "2020-10-15T11:08:00",
           "municipality": "Abbotsford",
-          "municipality_code": "day-1 day-3 city-1230363016",
+          "municipality_code": "day-3 city-1230363016",
           "start": "2020-10-13T14:27:00"
         },
         {
@@ -3914,7 +3904,7 @@
           "end": "2020-10-13T21:02:00",
           "last_updated": "2020-10-15T11:23:00",
           "municipality": "Abbotsford",
-          "municipality_code": "day-1 day-3 city-1230363016",
+          "municipality_code": "day-3 city-1230363016",
           "start": "2020-10-13T13:22:00"
         },
         {
@@ -4954,7 +4944,7 @@
           "end": "",
           "last_updated": "2020-10-13T20:50:00",
           "municipality": "Chilliwack",
-          "municipality_code": "day-1 day-3 city--708005353",
+          "municipality_code": "day-3 city--708005353",
           "start": "2020-10-13T13:03:00"
         },
         {
@@ -6074,7 +6064,7 @@
           "end": "",
           "last_updated": "2020-10-15T11:01:00",
           "municipality": "Langley",
-          "municipality_code": "day-1 day-3 city-1612593490",
+          "municipality_code": "day-3 city-1612593490",
           "start": "2020-10-13T16:38:00"
         },
         {
@@ -6604,7 +6594,7 @@
           "end": "2020-10-13T21:30:00",
           "last_updated": "2020-10-13T21:19:00",
           "municipality": "Maple Ridge",
-          "municipality_code": "day-1 day-3 city-598891104",
+          "municipality_code": "day-3 city-598891104",
           "start": "2020-10-13T15:25:00"
         },
         {
@@ -6714,7 +6704,7 @@
           "end": "2020-10-13T23:15:00",
           "last_updated": "2020-10-13T21:21:00",
           "municipality": "Maple Ridge",
-          "municipality_code": "day-1 day-3 city-598891104",
+          "municipality_code": "day-3 city-598891104",
           "start": "2020-10-13T16:27:00"
         },
         {
@@ -8094,7 +8084,7 @@
           "end": "2020-10-11T21:35:00",
           "last_updated": "2020-10-14T10:51:00",
           "municipality": "Sechelt",
-          "municipality_code": "day-3 city--660434186",
+          "municipality_code": "city--660434186",
           "start": "2020-10-11T15:50:00"
         },
         {
@@ -9004,7 +8994,7 @@
           "end": "2020-10-13T21:00:00",
           "last_updated": "2020-10-13T20:56:00",
           "municipality": "Vancouver",
-          "municipality_code": "day-1 day-3 city--1786794435",
+          "municipality_code": "day-3 city--1786794435",
           "start": "2020-10-13T09:31:00"
         },
         {
@@ -9781,7 +9771,7 @@
           "end": "",
           "last_updated": "2020-10-13T20:54:00",
           "municipality": "Courtenay",
-          "municipality_code": "day-1 day-3 city--824228212",
+          "municipality_code": "day-3 city--824228212",
           "start": "2020-10-13T17:34:00"
         },
         {
@@ -14262,7 +14252,7 @@
           "end": "2020-10-13T21:15:00",
           "last_updated": "2020-10-14T08:39:00",
           "municipality": "Ganges",
-          "municipality_code": "day-1 day-3 city-2125630497",
+          "municipality_code": "day-3 city-2125630497",
           "start": "2020-10-13T13:17:00"
         },
         {
@@ -14542,7 +14532,7 @@
           "end": "",
           "last_updated": "2020-10-13T20:57:00",
           "municipality": "Highlands",
-          "municipality_code": "day-1 day-3 city-1322525542",
+          "municipality_code": "day-3 city-1322525542",
           "start": "2020-10-13T15:55:00"
         },
         {
