@@ -1,17 +1,17 @@
 {
   "current": {
     "Central Interior": {
-      "customers_affected_14d": 1435,
+      "customers_affected_14d": 986,
       "outages": [
         {
           "area": "North of NESS LAKE RD, West of THOMPSON RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "337",
-          "last_updated": "2020-10-16T01:00:00",
+          "last_updated": "2020-10-16T02:04:00",
           "municipality": "Prince George",
           "municipality_code": "day-1 day-3 city-1835674262",
           "start": "2020-10-16T00:10:00",
-          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 16 1:20 a.m."
+          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 16 2:45 a.m."
         },
         {
           "area": "North of HWY 16 , South of SINDIA RD, West of BUCKINGHAM RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -22,16 +22,6 @@
           "municipality_code": "day-1 day-3 city-1835674262",
           "start": "2020-10-16T00:27:00",
           "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 16 2:40 a.m."
-        },
-        {
-          "area": "North of RED BLUFF RD, East of ROLPH ST, West of MAPLE HEIGHTS RD, South of GRAHAM AVE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Under investigation",
-          "customers_affected": "584",
-          "last_updated": "2020-10-16T00:42:00",
-          "municipality": "Quesnel",
-          "municipality_code": "day-1 day-3 city--1975191965",
-          "start": "2020-10-16T00:11:00",
-          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 16 1:00 a.m."
         },
         {
           "area": "West of PLYWOOD RD, North of CARAGANA RD, East of ROBERTSON AVE, South of WARDEN ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -47,11 +37,21 @@
           "area": "East of DENNIS RD, West of COACH RD, South of OVAL RD, North of QUESNEL-HYDRAULIC RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "216",
-          "last_updated": "2020-10-16T00:42:00",
+          "last_updated": "2020-10-16T02:04:00",
           "municipality": "Quesnel",
           "municipality_code": "day-1 day-3 city--1975191965",
           "start": "2020-10-16T00:38:00",
-          "status": "Crew status: Crew assigned"
+          "status": "Crew status: Crew on-site"
+        },
+        {
+          "area": "South of FRASER RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Under investigation",
+          "customers_affected": "135",
+          "last_updated": "2020-10-16T01:58:00",
+          "municipality": "Quesnel, Williams Lake",
+          "municipality_code": "day-1 day-3 city--1975191965 city--1905642465",
+          "start": "2020-10-16T01:55:00",
+          "status": "Crew status: No crew assigned yet"
         }
       ],
       "region_code": "Central Interior",
@@ -81,11 +81,11 @@
           "area": "East of HWY 16\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "398",
-          "last_updated": "2020-10-15T23:30:00",
+          "last_updated": "2020-10-16T02:00:00",
           "municipality": "Burns Lake",
           "municipality_code": "day-1 day-3 city--2121425941",
           "start": "2020-10-15T23:19:00",
-          "status": "Crew status: No crew assigned yet\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 16 9:00 a.m."
+          "status": "Crew status: Crew assigned\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 16 9:00 a.m."
         },
         {
           "area": "COLLEYMOUNT P220/3, COLLEYMOUNT P243/1, COLLEYMOUNT P361, SHORT RD PUMP P2, 22400 block TWIN FLOWER DR, 23300 block AGER RD P3, 0 - 24100 block TROUT CREEK RD, 24300 block KOON RD, FRANCOIS LK W P531, 0 - 54100 block COLLEYMOUNT RD...\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -111,7 +111,7 @@
           "area": "North of MORICE TELKWA FS RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "308",
-          "last_updated": "2020-10-16T01:21:00",
+          "last_updated": "2020-10-16T01:48:00",
           "municipality": "Houston",
           "municipality_code": "day-1 day-3 city--1529782994",
           "start": "2020-10-16T01:17:00",
@@ -120,6 +120,23 @@
       ],
       "region_code": "Northern",
       "region_id": "1602964060"
+    },
+    "Thompson/Shuswap": {
+      "customers_affected_14d": -1,
+      "outages": [
+        {
+          "area": "3700 block RUTH LK RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Under investigation",
+          "customers_affected": "< 5",
+          "last_updated": "2020-10-16T01:46:00",
+          "municipality": "100 Mile House",
+          "municipality_code": "day-1 day-3 city-950857956",
+          "start": "2020-10-16T01:43:00",
+          "status": "Crew status: No crew assigned yet"
+        }
+      ],
+      "region_code": "Thompson/Shuswap",
+      "region_id": "725364552"
     }
   },
   "planned": {
@@ -3075,7 +3092,7 @@
   },
   "restored": {
     "Central Interior": {
-      "customers_affected_14d": 2846,
+      "customers_affected_14d": 3430,
       "outages": [
         {
           "area": "North of HWY 97",
@@ -3286,6 +3303,16 @@
           "municipality": "Prince George, Vanderhoof",
           "municipality_code": "city-1835674262 city-1041981516",
           "start": "2020-10-03T06:37:00"
+        },
+        {
+          "area": "North of RED BLUFF RD, East of ROLPH ST, West of MAPLE HEIGHTS RD, South of GRAHAM AVE",
+          "cause": "Under investigation",
+          "customers_affected": "584",
+          "end": "",
+          "last_updated": "2020-10-16T02:00:00",
+          "municipality": "Quesnel",
+          "municipality_code": "day-1 day-3 city--1975191965",
+          "start": "2020-10-16T00:11:00"
         },
         {
           "area": "North of NAZKO RD, West of LONG BAR RD, South of PARADISE RD",
@@ -3571,7 +3598,7 @@
           "end": "2020-10-14T02:00:00",
           "last_updated": "2020-10-15T11:08:00",
           "municipality": "Abbotsford",
-          "municipality_code": "day-1 day-3 city-1230363016",
+          "municipality_code": "day-3 city-1230363016",
           "start": "2020-10-13T19:39:00"
         },
         {
@@ -13919,7 +13946,7 @@
           "end": "2020-10-14T02:00:00",
           "last_updated": "2020-10-15T16:30:00",
           "municipality": "Ganges",
-          "municipality_code": "day-1 day-3 city-2125630497",
+          "municipality_code": "day-3 city-2125630497",
           "start": "2020-10-13T13:27:00"
         },
         {
@@ -15249,7 +15276,7 @@
           "end": "2020-10-12T02:30:00",
           "last_updated": "2020-10-13T08:26:00",
           "municipality": "Sooke",
-          "municipality_code": "day-3 city-80069133",
+          "municipality_code": "city-80069133",
           "start": "2020-10-11T23:54:00"
         },
         {
