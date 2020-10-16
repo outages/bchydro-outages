@@ -1,8 +1,28 @@
 {
   "current": {
     "Central Interior": {
-      "customers_affected_14d": 229,
+      "customers_affected_14d": 1150,
       "outages": [
+        {
+          "area": "North of NESS LAKE RD, West of THOMPSON RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Under investigation",
+          "customers_affected": "337",
+          "last_updated": "2020-10-16T00:13:00",
+          "municipality": "Prince George",
+          "municipality_code": "day-1 day-3 city-1835674262",
+          "start": "2020-10-16T00:10:00",
+          "status": "Crew status: Crew assigned"
+        },
+        {
+          "area": "North of RED BLUFF RD, East of ROLPH ST, West of MAPLE HEIGHTS RD, South of GRAHAM AVE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Under investigation",
+          "customers_affected": "584",
+          "last_updated": "2020-10-16T00:19:00",
+          "municipality": "Quesnel",
+          "municipality_code": "day-1 day-3 city--1975191965",
+          "start": "2020-10-16T00:11:00",
+          "status": "Crew status: Crew assigned"
+        },
         {
           "area": "North of NAZKO RD, West of LONG BAR RD, South of PARADISE RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
@@ -5584,7 +5604,7 @@
           "end": "",
           "last_updated": "2020-10-14T00:21:00",
           "municipality": "Kent",
-          "municipality_code": "day-1 day-3 city-2334912",
+          "municipality_code": "day-3 city-2334912",
           "start": "2020-10-13T18:50:00"
         },
         {
@@ -5614,7 +5634,7 @@
           "end": "",
           "last_updated": "2020-10-14T00:19:00",
           "municipality": "Kent",
-          "municipality_code": "day-1 day-3 city-2334912",
+          "municipality_code": "day-3 city-2334912",
           "start": "2020-10-13T13:25:00"
         },
         {
@@ -13362,7 +13382,7 @@
           "end": "",
           "last_updated": "2020-10-15T14:09:00",
           "municipality": "Duncan",
-          "municipality_code": "day-1 day-3 city-2058209491",
+          "municipality_code": "day-3 city-2058209491",
           "start": "2020-10-13T12:04:00"
         },
         {
