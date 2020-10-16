@@ -14665,7 +14665,7 @@
           "end": "2020-10-11T21:30:00",
           "last_updated": "2020-10-14T10:58:00",
           "municipality": "Mayne Island",
-          "municipality_code": "day-3 city-48997657",
+          "municipality_code": "city-48997657",
           "start": "2020-10-11T15:21:00"
         },
         {
@@ -14775,7 +14775,7 @@
           "end": "",
           "last_updated": "2020-10-15T15:21:00",
           "municipality": "North Cowichan",
-          "municipality_code": "day-1 day-3 city--666037877",
+          "municipality_code": "day-3 city--666037877",
           "start": "2020-10-13T20:50:00"
         },
         {
@@ -15953,7 +15953,7 @@
       "region_id": "1812901382"
     },
     "Thompson/Shuswap": {
-      "customers_affected_14d": 15633,
+      "customers_affected_14d": 15634,
       "outages": [
         {
           "area": "East of WILCOX RD, North of TRIP RD",
@@ -17064,6 +17064,16 @@
           "municipality": "Revelstoke",
           "municipality_code": "city-1039954398",
           "start": "2020-10-09T13:39:00"
+        },
+        {
+          "area": "3100 block CAMOZZI RD",
+          "cause": "Other",
+          "customers_affected": "< 5",
+          "end": "2020-10-15T21:30:00",
+          "last_updated": "2020-10-15T21:46:00",
+          "municipality": "Revelstoke",
+          "municipality_code": "day-1 day-3 city-1039954398",
+          "start": "2020-10-15T18:26:00"
         },
         {
           "area": "East of EVANS RD, North-West of EAGLE BAY RD",
