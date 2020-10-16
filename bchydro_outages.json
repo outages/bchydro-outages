@@ -1,34 +1,17 @@
 {
   "current": {
-    "Central Interior": {
-      "customers_affected_14d": -1,
-      "outages": [
-        {
-          "area": "4900 block N CARIBOO HWY\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Planned work being done on our equipment",
-          "customers_affected": "< 5",
-          "last_updated": "2020-10-15T16:31:00",
-          "municipality": "Quesnel",
-          "municipality_code": "day-1 day-3 city--1975191965",
-          "start": "2020-10-15T16:22:00",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 15 4:45 p.m."
-        }
-      ],
-      "region_code": "Central Interior",
-      "region_id": "848340027"
-    },
     "Lower Mainland": {
-      "customers_affected_14d": 99,
+      "customers_affected_14d": 96,
       "outages": [
         {
-          "area": "South-East of COLUMBIA VALLEY RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Tree down across our wires",
-          "customers_affected": "5",
-          "last_updated": "2020-10-15T16:13:00",
-          "municipality": "Chilliwack",
-          "municipality_code": "day-1 day-3 city--708005353",
-          "start": "2020-10-14T09:12:00",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 15 5:30 p.m."
+          "area": "23700 block 12 AVE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Under investigation",
+          "customers_affected": "< 5",
+          "last_updated": "2020-10-15T18:09:00",
+          "municipality": "Langley",
+          "municipality_code": "day-1 day-3 city-1612593490",
+          "start": "2020-10-15T17:46:00",
+          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 15 7:10 p.m."
         },
         {
           "area": "400 block W 23RD AVE, 4000 block CAMBIE ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -53,94 +36,6 @@
       ],
       "region_code": "Lower Mainland",
       "region_id": "521980323"
-    },
-    "North VI": {
-      "customers_affected_14d": -1,
-      "outages": [
-        {
-          "area": "200 block WIRELESS RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Work being done on our equipment",
-          "customers_affected": "< 5",
-          "last_updated": "2020-10-15T17:01:00",
-          "municipality": "Courtenay",
-          "municipality_code": "day-1 day-3 city--824228212",
-          "start": "2020-10-15T15:56:00",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 15 5:30 p.m."
-        }
-      ],
-      "region_code": "North VI",
-      "region_id": "1602896846"
-    },
-    "Northern": {
-      "customers_affected_14d": 264,
-      "outages": [
-        {
-          "area": "West of 86th ST, South of 112th AVE, North of 101st AVE, East of 90th ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Planned work being done on our equipment",
-          "customers_affected": "264",
-          "last_updated": "2020-10-15T17:00:00",
-          "municipality": "Fort St. John",
-          "municipality_code": "day-1 day-3 city-205572915",
-          "start": "2020-10-15T08:11:00",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 15 5:00 p.m."
-        }
-      ],
-      "region_code": "Northern",
-      "region_id": "1602964060"
-    },
-    "South VI": {
-      "customers_affected_14d": 207,
-      "outages": [
-        {
-          "area": "South of SKY VALLEY RD, North-East of HOREL RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Tree down across our wires",
-          "customers_affected": "95",
-          "last_updated": "2020-10-15T15:42:00",
-          "municipality": "Ganges",
-          "municipality_code": "day-1 day-3 city-2125630497",
-          "start": "2020-10-15T14:43:00",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 15 6:00 p.m."
-        },
-        {
-          "area": "North of HILLSIDE AVE, South of SUMMIT AVE, West of GRAHAM ST, East of QUADRA ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Work being done on our equipment",
-          "customers_affected": "112",
-          "last_updated": "2020-10-15T16:22:00",
-          "municipality": "Victoria",
-          "municipality_code": "day-1 day-3 city-1201273535",
-          "start": "2020-10-15T16:20:00",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 15 5:30 p.m."
-        }
-      ],
-      "region_code": "South VI",
-      "region_id": "1812901382"
-    },
-    "Thompson/Shuswap": {
-      "customers_affected_14d": 66,
-      "outages": [
-        {
-          "area": "1500 - 1600 block ABITIBI AVE, 2400 block OMINECA DR\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Planned work being done on our equipment",
-          "customers_affected": "6",
-          "last_updated": "2020-10-15T15:30:00",
-          "municipality": "Kamloops",
-          "municipality_code": "day-1 day-3 city-979034872",
-          "start": "2020-10-15T09:43:00",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 15 4:00 p.m."
-        },
-        {
-          "area": "South-East of COLDWATER RD, North-West of HWY 5\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Pole replacement",
-          "customers_affected": "60",
-          "last_updated": "2020-10-15T16:01:00",
-          "municipality": "Merritt",
-          "municipality_code": "day-1 day-3 city--1676334159",
-          "start": "2020-10-15T15:49:00",
-          "status": "Crew status: Crew assigned\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 15 4:05 p.m."
-        }
-      ],
-      "region_code": "Thompson/Shuswap",
-      "region_id": "725364552"
     }
   },
   "planned": {
@@ -182,7 +77,7 @@
       "region_id": "848340027"
     },
     "Lower Mainland": {
-      "customers_affected_14d": 7287,
+      "customers_affected_14d": 7290,
       "outages": [
         {
           "area": "1944, 1954, 1966, 1976 Albion St; 32666-32749 Cordova Ave; 325, 32760 Marshall Rd, 32414-32750 Pandora Ave; 1911-1944 Valencia Crt, Abbotsford",
@@ -1145,6 +1040,16 @@
           "start": "2020-10-15T09:00:00"
         },
         {
+          "area": "7400, 7420, 7440, 7460 Waterton Dr; 10920 Bamberton Dr",
+          "cause": "Pole replacement",
+          "customers_affected": "5",
+          "end": "2020-10-17T15:00:00",
+          "last_updated": "2020-10-15T17:52:00",
+          "municipality": "Richmond",
+          "municipality_code": "day-1 day-3 city--1486145068",
+          "start": "2020-10-17T09:00:00"
+        },
+        {
           "area": "7271 Nelson Rd; 18791, 19011, 19051 Westminster Hwy, Richmond",
           "cause": "Planned work being done on our equipment",
           "customers_affected": "< 5",
@@ -1563,16 +1468,6 @@
           "municipality": "Vancouver",
           "municipality_code": "day-1 day-3 city--1786794435",
           "start": "2020-10-29T09:00:00"
-        },
-        {
-          "area": "2015 Columbia St; 205 W. 5th Ave",
-          "cause": "Pole replacement",
-          "customers_affected": "< 5",
-          "end": "2020-10-13T18:00:00",
-          "last_updated": "2020-09-25T12:21:00",
-          "municipality": "Vancouver",
-          "municipality_code": "day-1 day-3 city--1786794435",
-          "start": "2020-10-13T09:00:00"
         },
         {
           "area": "5657 Harold St, Vancouver",
@@ -3116,7 +3011,7 @@
   },
   "restored": {
     "Central Interior": {
-      "customers_affected_14d": 2998,
+      "customers_affected_14d": 3001,
       "outages": [
         {
           "area": "North of HWY 97",
@@ -3389,6 +3284,16 @@
           "start": "2020-10-01T18:27:00"
         },
         {
+          "area": "4900 block N CARIBOO HWY",
+          "cause": "Planned work being done on our equipment",
+          "customers_affected": "< 5",
+          "end": "2020-10-15T16:45:00",
+          "last_updated": "2020-10-15T17:44:00",
+          "municipality": "Quesnel",
+          "municipality_code": "day-1 day-3 city--1975191965",
+          "start": "2020-10-15T16:22:00"
+        },
+        {
           "area": "2100 block HIGDON RD",
           "cause": "Equipment failure",
           "customers_affected": "< 5",
@@ -3415,7 +3320,7 @@
           "end": "",
           "last_updated": "2020-10-14T08:12:00",
           "municipality": "Quesnel",
-          "municipality_code": "day-1 day-3 city--1975191965",
+          "municipality_code": "day-3 city--1975191965",
           "start": "2020-10-13T16:15:00"
         },
         {
@@ -3533,7 +3438,7 @@
       "region_id": "848340027"
     },
     "Lower Mainland": {
-      "customers_affected_14d": 142643,
+      "customers_affected_14d": 142659,
       "outages": [
         {
           "area": "North of MACLURE RD, East of MT LEHMAN RD, West of Hwy 11",
@@ -3572,7 +3477,7 @@
           "end": "2020-10-13T18:43:00",
           "last_updated": "2020-10-15T11:43:00",
           "municipality": "Abbotsford",
-          "municipality_code": "day-1 day-3 city-1230363016",
+          "municipality_code": "day-3 city-1230363016",
           "start": "2020-10-13T12:51:00"
         },
         {
@@ -3582,7 +3487,7 @@
           "end": "",
           "last_updated": "2020-10-15T11:11:00",
           "municipality": "Abbotsford",
-          "municipality_code": "day-1 day-3 city-1230363016",
+          "municipality_code": "day-3 city-1230363016",
           "start": "2020-10-13T13:03:00"
         },
         {
@@ -4172,7 +4077,7 @@
           "end": "",
           "last_updated": "2020-10-15T09:57:00",
           "municipality": "Abbotsford, Langley",
-          "municipality_code": "day-1 day-3 city-1230363016 city-1612593490",
+          "municipality_code": "day-3 city-1230363016 city-1612593490",
           "start": "2020-10-13T12:30:00"
         },
         {
@@ -4726,6 +4631,16 @@
           "start": "2020-10-13T11:11:00"
         },
         {
+          "area": "South-East of COLUMBIA VALLEY RD",
+          "cause": "Tree down across our wires",
+          "customers_affected": "16",
+          "end": "2020-10-15T17:30:00",
+          "last_updated": "2020-10-15T17:31:00",
+          "municipality": "Chilliwack",
+          "municipality_code": "day-1 day-3 city--708005353",
+          "start": "2020-10-14T09:12:00"
+        },
+        {
           "area": "North of TRETHEWEY AVE, East of BIRCH ST, West of YOUNG RD, South of CHESTERFIELD AVE",
           "cause": "Equipment failure",
           "customers_affected": "16",
@@ -5202,7 +5117,7 @@
           "end": "",
           "last_updated": "2020-10-13T17:26:00",
           "municipality": "Chilliwack, Kent",
-          "municipality_code": "day-1 day-3 city--708005353 city-2334912",
+          "municipality_code": "day-3 city--708005353 city-2334912",
           "start": "2020-10-13T15:23:00"
         },
         {
@@ -5352,7 +5267,7 @@
           "end": "2020-10-11T18:00:00",
           "last_updated": "2020-10-13T09:42:00",
           "municipality": "Coquitlam, Port Coquitlam",
-          "municipality_code": "day-3 city--3101987 city-1843021342",
+          "municipality_code": "city--3101987 city-1843021342",
           "start": "2020-10-11T16:29:00"
         },
         {
@@ -5882,7 +5797,7 @@
           "end": "",
           "last_updated": "2020-10-14T14:37:00",
           "municipality": "Langley",
-          "municipality_code": "day-1 day-3 city-1612593490",
+          "municipality_code": "day-3 city-1612593490",
           "start": "2020-10-13T14:21:00"
         },
         {
@@ -5972,7 +5887,7 @@
           "end": "",
           "last_updated": "2020-10-14T14:17:00",
           "municipality": "Langley",
-          "municipality_code": "day-1 day-3 city-1612593490",
+          "municipality_code": "day-3 city-1612593490",
           "start": "2020-10-13T13:49:00"
         },
         {
@@ -6592,7 +6507,7 @@
           "end": "2020-10-13T18:30:00",
           "last_updated": "2020-10-14T13:59:00",
           "municipality": "Langley, Maple Ridge",
-          "municipality_code": "day-1 day-3 city-1612593490 city-598891104",
+          "municipality_code": "day-3 city-1612593490 city-598891104",
           "start": "2020-10-13T12:13:00"
         },
         {
@@ -6602,7 +6517,7 @@
           "end": "",
           "last_updated": "2020-10-14T14:17:00",
           "municipality": "Langley, Surrey",
-          "municipality_code": "day-1 day-3 city-1612593490 city--1807186826",
+          "municipality_code": "day-3 city-1612593490 city--1807186826",
           "start": "2020-10-13T13:48:00"
         },
         {
@@ -6672,7 +6587,7 @@
           "end": "2020-10-13T17:59:00",
           "last_updated": "2020-10-13T17:38:00",
           "municipality": "Maple Ridge",
-          "municipality_code": "day-1 day-3 city-598891104",
+          "municipality_code": "day-3 city-598891104",
           "start": "2020-10-13T15:15:00"
         },
         {
@@ -6992,7 +6907,7 @@
           "end": "",
           "last_updated": "2020-10-13T10:09:00",
           "municipality": "Maple Ridge",
-          "municipality_code": "day-3 city-598891104",
+          "municipality_code": "city-598891104",
           "start": "2020-10-11T14:37:00"
         },
         {
@@ -7782,7 +7697,7 @@
           "end": "",
           "last_updated": "2020-10-14T12:35:00",
           "municipality": "Powell River",
-          "municipality_code": "day-1 day-3 city-1665178489",
+          "municipality_code": "day-3 city-1665178489",
           "start": "2020-10-13T09:54:00"
         },
         {
@@ -8092,7 +8007,7 @@
           "end": "2020-10-13T18:00:00",
           "last_updated": "2020-10-14T09:03:00",
           "municipality": "Sechelt",
-          "municipality_code": "day-1 day-3 city--660434186",
+          "municipality_code": "day-3 city--660434186",
           "start": "2020-10-13T07:12:00"
         },
         {
@@ -8502,7 +8417,7 @@
           "end": "",
           "last_updated": "2020-10-14T14:55:00",
           "municipality": "Surrey",
-          "municipality_code": "day-1 day-3 city--1807186826",
+          "municipality_code": "day-3 city--1807186826",
           "start": "2020-10-13T15:56:00"
         },
         {
@@ -8682,7 +8597,7 @@
           "end": "2020-10-13T18:00:00",
           "last_updated": "2020-10-14T14:37:00",
           "municipality": "Surrey",
-          "municipality_code": "day-1 day-3 city--1807186826",
+          "municipality_code": "day-3 city--1807186826",
           "start": "2020-10-13T14:52:00"
         },
         {
@@ -9082,7 +8997,7 @@
           "end": "2020-10-13T18:00:00",
           "last_updated": "2020-10-14T10:22:00",
           "municipality": "Vancouver",
-          "municipality_code": "day-1 day-3 city--1786794435",
+          "municipality_code": "day-3 city--1786794435",
           "start": "2020-10-13T14:03:00"
         },
         {
@@ -9420,7 +9335,7 @@
       "region_id": "521980323"
     },
     "North VI": {
-      "customers_affected_14d": 68832,
+      "customers_affected_14d": 68833,
       "outages": [
         {
           "area": "West of MILLER RD",
@@ -9719,7 +9634,7 @@
           "end": "",
           "last_updated": "2020-10-13T17:36:00",
           "municipality": "Courtenay",
-          "municipality_code": "day-1 day-3 city--824228212",
+          "municipality_code": "day-3 city--824228212",
           "start": "2020-10-13T05:59:00"
         },
         {
@@ -9789,7 +9704,7 @@
           "end": "2020-10-13T17:43:00",
           "last_updated": "2020-10-13T18:23:00",
           "municipality": "Courtenay",
-          "municipality_code": "day-1 day-3 city--824228212",
+          "municipality_code": "day-3 city--824228212",
           "start": "2020-10-13T12:22:00"
         },
         {
@@ -9799,7 +9714,7 @@
           "end": "",
           "last_updated": "2020-10-13T19:12:00",
           "municipality": "Courtenay",
-          "municipality_code": "day-1 day-3 city--824228212",
+          "municipality_code": "day-3 city--824228212",
           "start": "2020-10-13T12:15:00"
         },
         {
@@ -9859,7 +9774,7 @@
           "end": "2020-10-11T17:30:00",
           "last_updated": "2020-10-13T09:43:00",
           "municipality": "Courtenay",
-          "municipality_code": "day-3 city--824228212",
+          "municipality_code": "city--824228212",
           "start": "2020-10-11T14:05:00"
         },
         {
@@ -10001,6 +9916,16 @@
           "municipality": "Courtenay",
           "municipality_code": "city--824228212",
           "start": "2020-10-09T16:44:00"
+        },
+        {
+          "area": "200 block WIRELESS RD",
+          "cause": "Equipment failure",
+          "customers_affected": "< 5",
+          "end": "2020-10-15T17:30:00",
+          "last_updated": "2020-10-15T17:33:00",
+          "municipality": "Courtenay",
+          "municipality_code": "day-1 day-3 city--824228212",
+          "start": "2020-10-15T15:56:00"
         },
         {
           "area": "7900 block HELLIWELL RD",
@@ -10209,7 +10134,7 @@
           "end": "",
           "last_updated": "2020-10-13T17:47:00",
           "municipality": "Nanaimo",
-          "municipality_code": "day-1 day-3 city--907547835",
+          "municipality_code": "day-3 city--907547835",
           "start": "2020-10-13T16:45:00"
         },
         {
@@ -10349,7 +10274,7 @@
           "end": "",
           "last_updated": "2020-10-14T12:33:00",
           "municipality": "Nanaimo",
-          "municipality_code": "day-1 day-3 city--907547835",
+          "municipality_code": "day-3 city--907547835",
           "start": "2020-10-13T16:39:00"
         },
         {
@@ -10529,7 +10454,7 @@
           "end": "2020-10-13T17:00:00",
           "last_updated": "2020-10-14T12:32:00",
           "municipality": "Nanaimo",
-          "municipality_code": "day-1 day-3 city--907547835",
+          "municipality_code": "day-3 city--907547835",
           "start": "2020-10-13T14:34:00"
         },
         {
@@ -11149,7 +11074,7 @@
           "end": "2020-10-13T17:38:00",
           "last_updated": "2020-10-13T19:01:00",
           "municipality": "Qualicum Beach",
-          "municipality_code": "day-1 day-3 city--154309756",
+          "municipality_code": "day-3 city--154309756",
           "start": "2020-10-13T12:29:00"
         },
         {
@@ -11729,7 +11654,7 @@
           "end": "2020-10-13T18:00:00",
           "last_updated": "2020-10-13T18:08:00",
           "municipality": "Ucluelet",
-          "municipality_code": "day-1 day-3 city--1313309491",
+          "municipality_code": "day-3 city--1313309491",
           "start": "2020-10-13T17:08:00"
         },
         {
@@ -11767,7 +11692,7 @@
       "region_id": "1602896846"
     },
     "Northern": {
-      "customers_affected_14d": 11988,
+      "customers_affected_14d": 12252,
       "outages": [
         {
           "area": "North-South-East-West of HWY 20",
@@ -12118,6 +12043,16 @@
           "municipality": "Fort St. John",
           "municipality_code": "city-205572915",
           "start": "2020-10-06T15:51:00"
+        },
+        {
+          "area": "West of 86th ST, South of 112th AVE, North of 101st AVE, East of 90th ST",
+          "cause": "Planned work being done on our equipment",
+          "customers_affected": "264",
+          "end": "2020-10-15T17:00:00",
+          "last_updated": "2020-10-15T17:52:00",
+          "municipality": "Fort St. John",
+          "municipality_code": "day-1 day-3 city-205572915",
+          "start": "2020-10-15T08:11:00"
         },
         {
           "area": "West of 86th ST, South of 112th AVE, North of 101st AVE, East of 90th ST",
@@ -13431,7 +13366,7 @@
       "region_id": "2072041405"
     },
     "South VI": {
-      "customers_affected_14d": 62271,
+      "customers_affected_14d": 62478,
       "outages": [
         {
           "area": "North of CHURCH RD, West of STAUTW RD, East of TETAYUT RD, South of MT NEWTON XRD",
@@ -13540,7 +13475,7 @@
           "end": "",
           "last_updated": "2020-10-14T11:02:00",
           "municipality": "Central Saanich, North Saanich",
-          "municipality_code": "day-1 day-3 city--769735224 city-179964248",
+          "municipality_code": "day-3 city--769735224 city-179964248",
           "start": "2020-10-13T12:24:00"
         },
         {
@@ -14284,6 +14219,16 @@
           "start": "2020-10-13T13:17:00"
         },
         {
+          "area": "South of SKY VALLEY RD, North-East of HOREL RD",
+          "cause": "Tree down across our wires",
+          "customers_affected": "95",
+          "end": "2020-10-15T18:00:00",
+          "last_updated": "2020-10-15T17:42:00",
+          "municipality": "Ganges",
+          "municipality_code": "day-1 day-3 city-2125630497",
+          "start": "2020-10-15T14:43:00"
+        },
+        {
           "area": "East of WRIGHT RD, South of SUNRISE PL, North of ARMAND WAY, West of HOREL RD",
           "cause": "Tree down across our wires",
           "customers_affected": "81",
@@ -14860,7 +14805,7 @@
           "end": "",
           "last_updated": "2020-10-15T14:20:00",
           "municipality": "North Cowichan",
-          "municipality_code": "day-1 day-3 city--666037877",
+          "municipality_code": "day-3 city--666037877",
           "start": "2020-10-13T13:55:00"
         },
         {
@@ -14870,7 +14815,7 @@
           "end": "2020-10-13T17:45:00",
           "last_updated": "2020-10-15T14:19:00",
           "municipality": "North Cowichan",
-          "municipality_code": "day-1 day-3 city--666037877",
+          "municipality_code": "day-3 city--666037877",
           "start": "2020-10-13T13:31:00"
         },
         {
@@ -14950,7 +14895,7 @@
           "end": "",
           "last_updated": "2020-10-15T14:27:00",
           "municipality": "North Cowichan",
-          "municipality_code": "day-1 day-3 city--666037877",
+          "municipality_code": "day-3 city--666037877",
           "start": "2020-10-13T16:07:00"
         },
         {
@@ -15230,7 +15175,7 @@
           "end": "2020-10-11T19:00:00",
           "last_updated": "2020-10-13T09:13:00",
           "municipality": "Pender Island",
-          "municipality_code": "day-3 city--635217187",
+          "municipality_code": "city--635217187",
           "start": "2020-10-11T15:10:00"
         },
         {
@@ -15764,6 +15709,16 @@
           "start": "2020-10-12T05:01:00"
         },
         {
+          "area": "North of HILLSIDE AVE, South of SUMMIT AVE, West of GRAHAM ST, East of QUADRA ST",
+          "cause": "Other",
+          "customers_affected": "112",
+          "end": "2020-10-15T17:30:00",
+          "last_updated": "2020-10-15T18:08:00",
+          "municipality": "Victoria",
+          "municipality_code": "day-1 day-3 city-1201273535",
+          "start": "2020-10-15T16:20:00"
+        },
+        {
           "area": "1300 block HILLSIDE AVE",
           "cause": "Motor vehicle accident",
           "customers_affected": "41",
@@ -15978,7 +15933,7 @@
       "region_id": "1812901382"
     },
     "Thompson/Shuswap": {
-      "customers_affected_14d": 15566,
+      "customers_affected_14d": 15632,
       "outages": [
         {
           "area": "East of WILCOX RD, North of TRIP RD",
@@ -16327,7 +16282,7 @@
           "end": "2020-10-13T18:30:00",
           "last_updated": "2020-10-13T17:37:00",
           "municipality": "Clearwater",
-          "municipality_code": "day-1 day-3 city-1282265866",
+          "municipality_code": "day-3 city-1282265866",
           "start": "2020-10-13T16:23:00"
         },
         {
@@ -16681,6 +16636,16 @@
           "start": "2020-10-08T18:52:00"
         },
         {
+          "area": "1500 - 1600 block ABITIBI AVE, 2400 block OMINECA DR",
+          "cause": "Planned work being done on our equipment",
+          "customers_affected": "6",
+          "end": "2020-10-15T16:00:00",
+          "last_updated": "2020-10-15T17:30:00",
+          "municipality": "Kamloops",
+          "municipality_code": "day-1 day-3 city-979034872",
+          "start": "2020-10-15T09:43:00"
+        },
+        {
           "area": "500 block AGATE BAY RD, 500 block AGATE BAY RD-IRR",
           "cause": "Tree down across our wires",
           "customers_affected": "5",
@@ -16921,6 +16886,16 @@
           "start": "2020-10-13T19:44:00"
         },
         {
+          "area": "South-East of COLDWATER RD, North-West of HWY 5",
+          "cause": "Other",
+          "customers_affected": "60",
+          "end": "2020-10-15T18:00:00",
+          "last_updated": "2020-10-15T17:51:00",
+          "municipality": "Merritt",
+          "municipality_code": "day-1 day-3 city--1676334159",
+          "start": "2020-10-15T15:49:00"
+        },
+        {
           "area": "200 block HWY 8, 200 block W HWY 8",
           "cause": "Other",
           "customers_affected": "45",
@@ -16977,7 +16952,7 @@
           "end": "2020-10-13T18:00:00",
           "last_updated": "2020-10-14T14:21:00",
           "municipality": "Merritt",
-          "municipality_code": "day-1 day-3 city--1676334159",
+          "municipality_code": "day-3 city--1676334159",
           "start": "2020-10-13T14:00:00"
         },
         {
@@ -17137,7 +17112,7 @@
           "end": "2020-10-11T18:08:00",
           "last_updated": "2020-10-13T08:54:00",
           "municipality": "Salmon Arm",
-          "municipality_code": "day-3 city-2118875562",
+          "municipality_code": "city-2118875562",
           "start": "2020-10-11T13:54:00"
         },
         {
