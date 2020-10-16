@@ -1,7 +1,7 @@
 {
   "current": {
     "Central Interior": {
-      "customers_affected_14d": 1664,
+      "customers_affected_14d": 1435,
       "outages": [
         {
           "area": "North of NESS LAKE RD, West of THOMPSON RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -17,11 +17,11 @@
           "area": "North of HWY 16 , South of SINDIA RD, West of BUCKINGHAM RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "54",
-          "last_updated": "2020-10-16T01:14:00",
+          "last_updated": "2020-10-16T01:40:00",
           "municipality": "Prince George",
           "municipality_code": "day-1 day-3 city-1835674262",
           "start": "2020-10-16T00:27:00",
-          "status": "Crew status: Crew assigned"
+          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 16 2:40 a.m."
         },
         {
           "area": "North of RED BLUFF RD, East of ROLPH ST, West of MAPLE HEIGHTS RD, South of GRAHAM AVE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -42,16 +42,6 @@
           "municipality_code": "day-1 day-3 city--1975191965",
           "start": "2020-10-16T00:53:00",
           "status": "Crew status: Crew assigned"
-        },
-        {
-          "area": "North of NAZKO RD, West of LONG BAR RD, South of PARADISE RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Tree down across our wires",
-          "customers_affected": "229",
-          "last_updated": "2020-10-16T00:35:00",
-          "municipality": "Quesnel",
-          "municipality_code": "day-1 day-3 city--1975191965",
-          "start": "2020-10-15T22:40:00",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 16 2:30 a.m."
         },
         {
           "area": "East of DENNIS RD, West of COACH RD, South of OVAL RD, North of QUESNEL-HYDRAULIC RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -3085,7 +3075,7 @@
   },
   "restored": {
     "Central Interior": {
-      "customers_affected_14d": 2617,
+      "customers_affected_14d": 2846,
       "outages": [
         {
           "area": "North of HWY 97",
@@ -3296,6 +3286,16 @@
           "municipality": "Prince George, Vanderhoof",
           "municipality_code": "city-1835674262 city-1041981516",
           "start": "2020-10-03T06:37:00"
+        },
+        {
+          "area": "North of NAZKO RD, West of LONG BAR RD, South of PARADISE RD",
+          "cause": "Tree down across our wires",
+          "customers_affected": "229",
+          "end": "2020-10-16T02:30:00",
+          "last_updated": "2020-10-16T01:40:00",
+          "municipality": "Quesnel",
+          "municipality_code": "day-1 day-3 city--1975191965",
+          "start": "2020-10-15T22:40:00"
         },
         {
           "area": "800 block REYNARD ST",
