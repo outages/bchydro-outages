@@ -1,7 +1,7 @@
 {
   "current": {
     "Central Interior": {
-      "customers_affected_14d": 3143,
+      "customers_affected_14d": 3279,
       "outages": [
         {
           "area": "East of FOOTHILLS BLV, South of TURNER RD, West of SHELLEY RD, North of PG PULP MILL RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -12,6 +12,16 @@
           "municipality_code": "day-1 day-3 city-1835674262",
           "start": "2020-10-16T05:14:00",
           "status": "Crew status: Crew on-site"
+        },
+        {
+          "area": "East of BEAVER FOREST RD, North of HWY 16\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Under investigation",
+          "customers_affected": "136",
+          "last_updated": "2020-10-16T06:02:00",
+          "municipality": "Prince George",
+          "municipality_code": "day-1 day-3 city-1835674262",
+          "start": "2020-10-16T05:51:00",
+          "status": "Crew status: Crew assigned"
         },
         {
           "area": "7100 block HART HWY\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -47,11 +57,11 @@
           "area": "KEITHLEY CRK RD P275, 5200 - 9300 block KEITHLEY CREEK RD, 5200 - 9300 block KEITHLEY CRK RD, KEITHLEY CRK RD P276, 5300 block HARVEY CREEK TRAIL, 5200 block CARIBOO FOREST SERVICE RD, 5300 block CARIBOO LAKE RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "20",
-          "last_updated": "2020-10-16T05:26:00",
+          "last_updated": "2020-10-16T06:05:00",
           "municipality": "Williams Lake",
           "municipality_code": "day-1 day-3 city--1905642465",
           "start": "2020-10-16T05:19:00",
-          "status": "Crew status: Crew assigned"
+          "status": "Crew status: Crew on their way"
         }
       ],
       "region_code": "Central Interior",
@@ -142,7 +152,7 @@
       "region_id": "1602964060"
     },
     "Thompson/Shuswap": {
-      "customers_affected_14d": 177,
+      "customers_affected_14d": 182,
       "outages": [
         {
           "area": "North of MAHOOD LAKE RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -158,11 +168,11 @@
           "area": "3700 - 3900 block RUTH LAKE RD, 3700 - 3800 block RUTH LK RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "12",
-          "last_updated": "2020-10-16T04:42:00",
+          "last_updated": "2020-10-16T06:03:00",
           "municipality": "100 Mile House",
           "municipality_code": "day-1 day-3 city-950857956",
           "start": "2020-10-16T02:42:00",
-          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 16 4:30 a.m."
+          "status": "Crew status: Crew on-site"
         },
         {
           "area": "WELLS GREY PARK, 5000 - 5100 block CLEARWATER VLY RD, 5000 block CLEARWATER VALL RD, 4300 - 6600 block CLEARWATER VAL RD, 600 block MOUL CREEK RD, 4300 - 6600 block CLEARWATER VALLEY RD, 6200 - 6500 block CORRAL RD, 5800 - 6100 block TROUT CREEK RD, 400 block NAKISKA RD, 600 block GROUSE CREEK RD...\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -172,6 +182,16 @@
           "municipality": "Clearwater",
           "municipality_code": "day-1 day-3 city-1282265866",
           "start": "2020-10-16T03:49:00",
+          "status": "Crew status: Crew assigned"
+        },
+        {
+          "area": "South of CANDLE CREEK RD, North-East-West of CLEARWATER VILLAGE RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Under investigation",
+          "customers_affected": "5",
+          "last_updated": "2020-10-16T05:54:00",
+          "municipality": "Clearwater",
+          "municipality_code": "day-1 day-3 city-1282265866",
+          "start": "2020-10-16T05:45:00",
           "status": "Crew status: Crew assigned"
         }
       ],
@@ -7188,7 +7208,7 @@
           "end": "",
           "last_updated": "2020-10-14T05:49:00",
           "municipality": "Mission",
-          "municipality_code": "day-1 day-3 city--1560864404",
+          "municipality_code": "day-3 city--1560864404",
           "start": "2020-10-14T05:14:00"
         },
         {
@@ -9048,7 +9068,7 @@
           "end": "2020-10-12T07:00:00",
           "last_updated": "2020-10-13T10:43:00",
           "municipality": "Vancouver",
-          "municipality_code": "day-3 city--1786794435",
+          "municipality_code": "city--1786794435",
           "start": "2020-10-12T02:51:00"
         },
         {
@@ -14936,7 +14956,7 @@
           "end": "2020-10-14T06:30:00",
           "last_updated": "2020-10-14T05:54:00",
           "municipality": "North Saanich",
-          "municipality_code": "day-1 day-3 city-179964248",
+          "municipality_code": "day-3 city-179964248",
           "start": "2020-10-14T01:46:00"
         },
         {
