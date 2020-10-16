@@ -17,11 +17,11 @@
           "area": "North of HWY 16 , South of SINDIA RD, West of BUCKINGHAM RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "54",
-          "last_updated": "2020-10-16T00:59:00",
+          "last_updated": "2020-10-16T01:14:00",
           "municipality": "Prince George",
           "municipality_code": "day-1 day-3 city-1835674262",
           "start": "2020-10-16T00:27:00",
-          "status": "Crew status: No crew assigned yet"
+          "status": "Crew status: Crew assigned"
         },
         {
           "area": "North of RED BLUFF RD, East of ROLPH ST, West of MAPLE HEIGHTS RD, South of GRAHAM AVE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -37,11 +37,11 @@
           "area": "West of PLYWOOD RD, North of CARAGANA RD, East of ROBERTSON AVE, South of WARDEN ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "244",
-          "last_updated": "2020-10-16T00:56:00",
+          "last_updated": "2020-10-16T01:18:00",
           "municipality": "Quesnel",
           "municipality_code": "day-1 day-3 city--1975191965",
           "start": "2020-10-16T00:53:00",
-          "status": "Crew status: No crew assigned yet"
+          "status": "Crew status: Crew assigned"
         },
         {
           "area": "North of NAZKO RD, West of LONG BAR RD, South of PARADISE RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -68,7 +68,7 @@
       "region_id": "848340027"
     },
     "Northern": {
-      "customers_affected_14d": 537,
+      "customers_affected_14d": 845,
       "outages": [
         {
           "area": "East of HWY 16\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -99,6 +99,16 @@
           "municipality_code": "day-1 day-3 city--2121425941",
           "start": "2020-10-15T22:43:00",
           "status": "Crew status: No crew assigned yet"
+        },
+        {
+          "area": "North of MORICE TELKWA FS RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Under investigation",
+          "customers_affected": "308",
+          "last_updated": "2020-10-16T01:21:00",
+          "municipality": "Houston",
+          "municipality_code": "day-1 day-3 city--1529782994",
+          "start": "2020-10-16T01:17:00",
+          "status": "Crew status: Crew assigned"
         }
       ],
       "region_code": "Northern",
@@ -4704,7 +4714,7 @@
           "end": "",
           "last_updated": "2020-10-14T01:25:00",
           "municipality": "Chilliwack",
-          "municipality_code": "day-1 day-3 city--708005353",
+          "municipality_code": "day-3 city--708005353",
           "start": "2020-10-13T23:16:00"
         },
         {
@@ -4904,7 +4914,7 @@
           "end": "",
           "last_updated": "2020-10-14T01:09:00",
           "municipality": "Chilliwack",
-          "municipality_code": "day-1 day-3 city--708005353",
+          "municipality_code": "day-3 city--708005353",
           "start": "2020-10-13T14:18:00"
         },
         {
@@ -5624,7 +5634,7 @@
           "end": "",
           "last_updated": "2020-10-14T01:17:00",
           "municipality": "Kent",
-          "municipality_code": "day-1 day-3 city-2334912",
+          "municipality_code": "day-3 city-2334912",
           "start": "2020-10-13T18:32:00"
         },
         {
@@ -6234,7 +6244,7 @@
           "end": "2020-10-14T01:30:00",
           "last_updated": "2020-10-14T11:37:00",
           "municipality": "Langley",
-          "municipality_code": "day-1 day-3 city-1612593490",
+          "municipality_code": "day-3 city-1612593490",
           "start": "2020-10-13T20:22:00"
         },
         {
@@ -6554,7 +6564,7 @@
           "end": "2020-10-14T01:00:00",
           "last_updated": "2020-10-15T12:30:00",
           "municipality": "Maple Ridge",
-          "municipality_code": "day-1 day-3 city-598891104",
+          "municipality_code": "day-3 city-598891104",
           "start": "2020-10-13T21:56:00"
         },
         {
@@ -10221,7 +10231,7 @@
           "end": "",
           "last_updated": "2020-10-14T12:15:00",
           "municipality": "Nanaimo",
-          "municipality_code": "day-1 day-3 city--907547835",
+          "municipality_code": "day-3 city--907547835",
           "start": "2020-10-13T14:35:00"
         },
         {
@@ -14042,7 +14052,7 @@
           "end": "2020-10-14T01:00:00",
           "last_updated": "2020-10-14T08:36:00",
           "municipality": "Ganges",
-          "municipality_code": "day-1 day-3 city-2125630497",
+          "municipality_code": "day-3 city-2125630497",
           "start": "2020-10-13T17:20:00"
         },
         {
@@ -14232,7 +14242,7 @@
           "end": "2020-10-14T01:00:00",
           "last_updated": "2020-10-14T10:55:00",
           "municipality": "Highlands",
-          "municipality_code": "day-1 day-3 city-1322525542",
+          "municipality_code": "day-3 city-1322525542",
           "start": "2020-10-13T14:43:00"
         },
         {
