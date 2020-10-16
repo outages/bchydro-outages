@@ -7,15 +7,32 @@
           "area": "2800 block PRATT CRES\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-15T21:21:00",
+          "last_updated": "2020-10-15T22:22:00",
           "municipality": "Abbotsford",
           "municipality_code": "day-1 day-3 city-1230363016",
           "start": "2020-10-15T20:06:00",
-          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 15 10:20 p.m."
+          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 15 11:00 p.m."
         }
       ],
       "region_code": "Lower Mainland",
       "region_id": "521980323"
+    },
+    "Northern": {
+      "customers_affected_14d": 134,
+      "outages": [
+        {
+          "area": "COLLEYMOUNT P220/3, COLLEYMOUNT P243/1, COLLEYMOUNT P361, SHORT RD PUMP P2, 22400 block TWIN FLOWER DR, 23300 block AGER RD P3, 0 - 24100 block TROUT CREEK RD, 24300 block KOON RD, FRANCOIS LK W P531, 0 - 54100 block COLLEYMOUNT RD...\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Under investigation",
+          "customers_affected": "134",
+          "last_updated": "2020-10-15T22:15:00",
+          "municipality": "Burns Lake",
+          "municipality_code": "day-1 day-3 city--2121425941",
+          "start": "2020-10-15T21:59:00",
+          "status": "Crew status: No crew assigned yet"
+        }
+      ],
+      "region_code": "Northern",
+      "region_id": "1602964060"
     }
   },
   "planned": {
@@ -3537,7 +3554,7 @@
           "end": "",
           "last_updated": "2020-10-15T11:22:00",
           "municipality": "Abbotsford",
-          "municipality_code": "day-1 day-3 city-1230363016",
+          "municipality_code": "day-3 city-1230363016",
           "start": "2020-10-13T14:14:00"
         },
         {
@@ -3657,7 +3674,7 @@
           "end": "",
           "last_updated": "2020-10-15T11:18:00",
           "municipality": "Abbotsford",
-          "municipality_code": "day-1 day-3 city-1230363016",
+          "municipality_code": "day-3 city-1230363016",
           "start": "2020-10-13T15:47:00"
         },
         {
@@ -5367,7 +5384,7 @@
           "end": "2020-10-13T23:00:00",
           "last_updated": "2020-10-14T11:35:00",
           "municipality": "Delta",
-          "municipality_code": "day-1 day-3 city-65915800",
+          "municipality_code": "day-3 city-65915800",
           "start": "2020-10-13T18:12:00"
         },
         {
@@ -5647,7 +5664,7 @@
           "end": "",
           "last_updated": "2020-10-13T22:26:00",
           "municipality": "Kent",
-          "municipality_code": "day-1 day-3 city-2334912",
+          "municipality_code": "day-3 city-2334912",
           "start": "2020-10-13T13:06:00"
         },
         {
@@ -5797,7 +5814,7 @@
           "end": "2020-10-13T22:30:00",
           "last_updated": "2020-10-15T09:49:00",
           "municipality": "Langley",
-          "municipality_code": "day-1 day-3 city-1612593490",
+          "municipality_code": "day-3 city-1612593490",
           "start": "2020-10-13T14:12:00"
         },
         {
@@ -5807,7 +5824,7 @@
           "end": "",
           "last_updated": "2020-10-15T11:05:00",
           "municipality": "Langley",
-          "municipality_code": "day-1 day-3 city-1612593490",
+          "municipality_code": "day-3 city-1612593490",
           "start": "2020-10-13T14:01:00"
         },
         {
@@ -5937,7 +5954,7 @@
           "end": "2020-10-13T22:30:00",
           "last_updated": "2020-10-14T10:23:00",
           "municipality": "Langley",
-          "municipality_code": "day-1 day-3 city-1612593490",
+          "municipality_code": "day-3 city-1612593490",
           "start": "2020-10-13T17:52:00"
         },
         {
@@ -6247,7 +6264,7 @@
           "end": "2020-10-13T23:22:00",
           "last_updated": "2020-10-14T14:35:00",
           "municipality": "Langley",
-          "municipality_code": "day-1 day-3 city-1612593490",
+          "municipality_code": "day-3 city-1612593490",
           "start": "2020-10-13T14:39:00"
         },
         {
@@ -8117,7 +8134,7 @@
           "end": "2020-10-11T23:07:00",
           "last_updated": "2020-10-14T10:52:00",
           "municipality": "Sechelt",
-          "municipality_code": "day-3 city--660434186",
+          "municipality_code": "city--660434186",
           "start": "2020-10-11T20:52:00"
         },
         {
@@ -13018,7 +13035,7 @@
           "end": "2020-10-13T22:50:00",
           "last_updated": "2020-10-15T08:55:00",
           "municipality": "Lumby",
-          "municipality_code": "day-1 day-3 city-73781051",
+          "municipality_code": "day-3 city-73781051",
           "start": "2020-10-13T20:45:00"
         },
         {
@@ -13386,7 +13403,7 @@
       "region_id": "2072041405"
     },
     "South VI": {
-      "customers_affected_14d": 62478,
+      "customers_affected_14d": 65628,
       "outages": [
         {
           "area": "North of CHURCH RD, West of STAUTW RD, East of TETAYUT RD, South of MT NEWTON XRD",
@@ -14265,7 +14282,7 @@
           "end": "",
           "last_updated": "2020-10-13T22:22:00",
           "municipality": "Ganges",
-          "municipality_code": "day-1 day-3 city-2125630497",
+          "municipality_code": "day-3 city-2125630497",
           "start": "2020-10-13T11:31:00"
         },
         {
@@ -14375,7 +14392,7 @@
           "end": "2020-10-13T22:30:00",
           "last_updated": "2020-10-14T08:40:00",
           "municipality": "Ganges",
-          "municipality_code": "day-1 day-3 city-2125630497",
+          "municipality_code": "day-3 city-2125630497",
           "start": "2020-10-13T15:23:00"
         },
         {
@@ -15635,7 +15652,7 @@
           "end": "",
           "last_updated": "2020-10-14T11:09:00",
           "municipality": "Sooke",
-          "municipality_code": "day-1 day-3 city-80069133",
+          "municipality_code": "day-3 city-80069133",
           "start": "2020-10-13T12:45:00"
         },
         {
@@ -15659,6 +15676,16 @@
           "start": "2020-10-06T16:13:00"
         },
         {
+          "area": "South of SUMMIT AVE, North of BALMORAL RD, West of ROSEBERRY AVE, East of GOVERNMENT ST",
+          "cause": "Other",
+          "customers_affected": "3786",
+          "end": "2020-10-15T17:00:00",
+          "last_updated": "2020-10-15T22:16:00",
+          "municipality": "Victoria",
+          "municipality_code": "day-1 day-3 city-1201273535",
+          "start": "2020-10-15T08:24:00"
+        },
+        {
           "area": "East of DOUGLAS ST, South of TOPAZ AVE, West of BELMONT AVE, North of BAY ST",
           "cause": "Tree down across our wires",
           "customers_affected": "2117",
@@ -15667,16 +15694,6 @@
           "municipality": "Victoria",
           "municipality_code": "day-3 city-1201273535",
           "start": "2020-10-13T11:01:00"
-        },
-        {
-          "area": "South of SUMMIT AVE, North of BALMORAL RD, West of ROSEBERRY AVE, East of GOVERNMENT ST",
-          "cause": "Equipment failure",
-          "customers_affected": "636",
-          "end": "2020-10-15T17:00:00",
-          "last_updated": "2020-10-15T16:55:00",
-          "municipality": "Victoria",
-          "municipality_code": "day-1 day-3 city-1201273535",
-          "start": "2020-10-15T08:24:00"
         },
         {
           "area": "South-East of PARKINSON RD, North-West of WEST COAST RD",
