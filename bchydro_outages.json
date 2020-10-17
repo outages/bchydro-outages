@@ -82,7 +82,7 @@
       "region_id": "1812901382"
     },
     "Thompson/Shuswap": {
-      "customers_affected_14d": -1,
+      "customers_affected_14d": 125,
       "outages": [
         {
           "area": "1200 block BARNHARTVALE RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -93,6 +93,16 @@
           "municipality_code": "day-1 day-3 city-979034872",
           "start": "2020-10-16T19:49:00",
           "status": "Crew status: Crew on-site"
+        },
+        {
+          "area": "North of CHASE FALKLAND RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Under investigation",
+          "customers_affected": "124",
+          "last_updated": "2020-10-16T21:39:00",
+          "municipality": "Kamloops, Salmon Arm",
+          "municipality_code": "day-1 day-3 city-979034872 city-2118875562",
+          "start": "2020-10-16T21:37:00",
+          "status": "Crew status: Crew assigned"
         }
       ],
       "region_code": "Thompson/Shuswap",
