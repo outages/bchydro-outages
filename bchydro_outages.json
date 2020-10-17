@@ -48,7 +48,7 @@
       "region_id": "848340027"
     },
     "Lower Mainland": {
-      "customers_affected_14d": 2147,
+      "customers_affected_14d": 2141,
       "outages": [
         {
           "area": "West of SUTHERLAND RD, North of INDUSTRIAL WAY\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -81,16 +81,6 @@
           "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 16 8:00 p.m."
         },
         {
-          "area": "24400 block FERN CRES, GOLDEN EARS PARK\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Tree down across our wires",
-          "customers_affected": "6",
-          "last_updated": "2020-10-16T15:05:00",
-          "municipality": "Maple Ridge",
-          "municipality_code": "day-1 day-3 city-598891104",
-          "start": "2020-10-16T07:40:00",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 16 8:00 p.m."
-        },
-        {
           "area": "7200 block NELSON RD, 18700 - 19000 block WESTMINSTER HWY\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Planned work being done on our equipment",
           "customers_affected": "< 5",
@@ -114,6 +104,23 @@
       "region_code": "Lower Mainland",
       "region_id": "521980323"
     },
+    "Northern": {
+      "customers_affected_14d": -1,
+      "outages": [
+        {
+          "area": "4900 block BESSBOROUGH RD 212\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Under investigation",
+          "customers_affected": "< 5",
+          "last_updated": "2020-10-16T19:51:00",
+          "municipality": "Dawson Creek",
+          "municipality_code": "day-1 day-3 city--1630954860",
+          "start": "2020-10-16T19:39:00",
+          "status": "Crew status: Crew assigned"
+        }
+      ],
+      "region_code": "Northern",
+      "region_id": "1602964060"
+    },
     "South VI": {
       "customers_affected_14d": -1,
       "outages": [
@@ -121,38 +128,38 @@
           "area": "900 block BODEGA BEACH DR\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Tree down across our wires",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-16T18:16:00",
+          "last_updated": "2020-10-16T19:49:00",
           "municipality": "Galiano Island",
           "municipality_code": "day-1 day-3 city--995767958",
           "start": "2020-10-16T17:33:00",
-          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 16 7:40 p.m."
-        },
-        {
-          "area": "3700 block PHILLIPS RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Under investigation",
-          "customers_affected": "< 5",
-          "last_updated": "2020-10-16T18:19:00",
-          "municipality": "Sooke",
-          "municipality_code": "day-1 day-3 city-80069133",
-          "start": "2020-10-16T15:33:00",
-          "status": "Crew status: Crew on-site"
+          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 16 10:30 p.m."
         }
       ],
       "region_code": "South VI",
       "region_id": "1812901382"
     },
     "Thompson/Shuswap": {
-      "customers_affected_14d": -1,
+      "customers_affected_14d": 42,
       "outages": [
+        {
+          "area": "North of CANIM LAKE RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Wire down",
+          "customers_affected": "41",
+          "last_updated": "2020-10-16T20:03:00",
+          "municipality": "100 Mile House",
+          "municipality_code": "day-1 day-3 city-950857956",
+          "start": "2020-10-16T15:33:00",
+          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 16 7:55 p.m."
+        },
         {
           "area": "1200 block BARNHARTVALE RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-16T19:45:00",
+          "last_updated": "2020-10-16T20:03:00",
           "municipality": "Kamloops",
           "municipality_code": "day-1 day-3 city-979034872",
-          "start": "2020-10-16T17:16:00",
-          "status": "Crew status: Crew assigned"
+          "start": "2020-10-16T19:49:00",
+          "status": "Crew status: Crew assigned\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 16 8:00 p.m."
         }
       ],
       "region_code": "Thompson/Shuswap",
@@ -198,7 +205,7 @@
       "region_id": "848340027"
     },
     "Lower Mainland": {
-      "customers_affected_14d": 8968,
+      "customers_affected_14d": 8883,
       "outages": [
         {
           "area": "1944, 1954, 1966, 1976 Albion St; 32666-32749 Cordova Ave; 325, 32760 Marshall Rd, 32414-32750 Pandora Ave; 1911-1944 Valencia Crt, Abbotsford",
@@ -1499,16 +1506,6 @@
           "municipality": "Vancouver",
           "municipality_code": "day-1 day-3 city--1786794435",
           "start": "2020-10-16T09:00:00"
-        },
-        {
-          "area": "**CANCELLED - RESCHEDULE TBD**8320, 8330, 8333, 8350, 8353, 8370, 8405, 8408, 8415, 8418, 8425, 8428 Gillnet Pl; 1835 75th Ave; 8530, 8535, 8575, 8580, 8585, 8590 Angler's Pl; 8510, 8525, 8535, 8545, 8555, 8565, 8575, 8580 Captains Cove; 8560, 8570, 8580 Caversham Crt; 8333, 8363, 8383 Chateau Pl; 8447, 8463, 8473, 8483 Isabel Pl; 8130, 8140, 8150, 8160, 8180, 8183, 8205, 8218, 8225, 8245, 8255, 8258, 8275, 8278, 8315, 8325, 8335, 8337, 8338, 8348, 8358 Tidewater Pl; 8208, 8211, 8218, 8221, 8228, 8231, 8238, 8241, 8248, 8251, 8258, 8261, 8268, 8271, 8278, 8288, 8298, 8308, 8315, 8325, 8328, 8338, 8375, 8388 Tugboat Pl., Vancouver",
-          "cause": "Planned work being done on our equipment",
-          "customers_affected": "85",
-          "end": "2020-10-14T20:00:00",
-          "last_updated": "2020-10-14T10:48:00",
-          "municipality": "Vancouver",
-          "municipality_code": "day-1 day-3 city--1786794435",
-          "start": "2020-10-14T09:00:00"
         },
         {
           "area": "2003-2098 W 28th Ave; 2007-2098 W 29th Ave; 2019-2079 W 30th Ave;  4426-4492 Arbustus St; 4408-4555 Magnolia St; 4309-4491 Maple St; 2008-2092 Nanton Ave, Vancouver",
@@ -3969,7 +3966,7 @@
       "region_id": "848340027"
     },
     "Lower Mainland": {
-      "customers_affected_14d": 142793,
+      "customers_affected_14d": 142799,
       "outages": [
         {
           "area": "North of MACLURE RD, East of MT LEHMAN RD, West of Hwy 11",
@@ -5018,7 +5015,7 @@
           "end": "2020-10-14T20:00:00",
           "last_updated": "2020-10-14T20:30:00",
           "municipality": "Chilliwack",
-          "municipality_code": "day-1 day-3 city--708005353",
+          "municipality_code": "day-3 city--708005353",
           "start": "2020-10-13T12:46:00"
         },
         {
@@ -7280,6 +7277,16 @@
           "municipality": "Maple Ridge",
           "municipality_code": "day-3 city-598891104",
           "start": "2020-10-13T18:31:00"
+        },
+        {
+          "area": "24400 block FERN CRES, GOLDEN EARS PARK",
+          "cause": "Tree down across our wires",
+          "customers_affected": "6",
+          "end": "2020-10-16T20:00:00",
+          "last_updated": "2020-10-16T19:51:00",
+          "municipality": "Maple Ridge",
+          "municipality_code": "day-1 day-3 city-598891104",
+          "start": "2020-10-16T07:40:00"
         },
         {
           "area": "24400 block FERN CRES, GOLDEN EARS PARK",
@@ -14167,7 +14174,7 @@
       "region_id": "2072041405"
     },
     "South VI": {
-      "customers_affected_14d": 74655,
+      "customers_affected_14d": 74658,
       "outages": [
         {
           "area": "North of CHURCH RD, West of STAUTW RD, East of TETAYUT RD, South of MT NEWTON XRD",
@@ -16440,6 +16447,16 @@
           "start": "2020-10-13T12:45:00"
         },
         {
+          "area": "3700 block PHILLIPS RD",
+          "cause": "Bird contacting our wires",
+          "customers_affected": "< 5",
+          "end": "",
+          "last_updated": "2020-10-16T19:54:00",
+          "municipality": "Sooke",
+          "municipality_code": "day-1 day-3 city-80069133",
+          "start": "2020-10-16T15:33:00"
+        },
+        {
           "area": "1900 block KALTASIN RD",
           "cause": "Tree down across our wires",
           "customers_affected": "< 5",
@@ -16794,7 +16811,7 @@
       "region_id": "1812901382"
     },
     "Thompson/Shuswap": {
-      "customers_affected_14d": 15769,
+      "customers_affected_14d": 15770,
       "outages": [
         {
           "area": "East of WILCOX RD, North of TRIP RD",
@@ -17705,6 +17722,16 @@
           "municipality": "Kamloops",
           "municipality_code": "city-979034872",
           "start": "2020-10-03T15:09:00"
+        },
+        {
+          "area": "1200 block BARNHARTVALE RD",
+          "cause": "Under investigation",
+          "customers_affected": "< 5",
+          "end": "",
+          "last_updated": "2020-10-16T19:49:00",
+          "municipality": "Kamloops",
+          "municipality_code": "day-1 day-3 city-979034872",
+          "start": "2020-10-16T17:16:00"
         },
         {
           "area": "700 block CHF NESKONLITH DR",
