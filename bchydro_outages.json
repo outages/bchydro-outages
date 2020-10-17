@@ -175,7 +175,7 @@
       "region_id": "848340027"
     },
     "Lower Mainland": {
-      "customers_affected_14d": 8686,
+      "customers_affected_14d": 8672,
       "outages": [
         {
           "area": "1944, 1954, 1966, 1976 Albion St; 32666-32749 Cordova Ave; 325, 32760 Marshall Rd, 32414-32750 Pandora Ave; 1911-1944 Valencia Crt, Abbotsford",
@@ -1076,16 +1076,6 @@
           "municipality": "Richmond",
           "municipality_code": "day-1 day-3 city--1486145068",
           "start": "2020-10-21T10:00:00"
-        },
-        {
-          "area": "*Outage has been cancelled*5180,5188,5191,5197,5200,5208,5211\r\n5217,5220,5228,5231,5237,5240,5251\r\nHollyfield Ave., Richmond",
-          "cause": "Planned work being done on our equipment",
-          "customers_affected": "14",
-          "end": "2020-10-15T16:30:00",
-          "last_updated": "2020-10-09T14:06:00",
-          "municipality": "Richmond",
-          "municipality_code": "day-1 day-3 city--1486145068",
-          "start": "2020-10-15T08:30:00"
         },
         {
           "area": "7400, 7420, 7440, 7460 Waterton Dr; 10920 Bamberton Dr",
@@ -4605,7 +4595,7 @@
           "end": "",
           "last_updated": "2020-10-16T07:36:00",
           "municipality": "Burnaby",
-          "municipality_code": "day-1 day-3 city-1903966249",
+          "municipality_code": "day-3 city-1903966249",
           "start": "2020-10-15T11:13:00"
         },
         {
@@ -7795,7 +7785,7 @@
           "end": "2020-10-15T17:30:00",
           "last_updated": "2020-10-15T16:26:00",
           "municipality": "Pitt Meadows",
-          "municipality_code": "day-1 day-3 city--253788407",
+          "municipality_code": "day-3 city--253788407",
           "start": "2020-10-15T08:35:00"
         },
         {
@@ -8495,7 +8485,7 @@
           "end": "2020-10-13T16:30:00",
           "last_updated": "2020-10-14T14:38:00",
           "municipality": "Surrey",
-          "municipality_code": "day-3 city--1807186826",
+          "municipality_code": "city--1807186826",
           "start": "2020-10-13T14:55:00"
         },
         {
@@ -9962,7 +9952,7 @@
           "end": "",
           "last_updated": "2020-10-13T17:17:00",
           "municipality": "Courtenay",
-          "municipality_code": "day-3 city--824228212",
+          "municipality_code": "city--824228212",
           "start": "2020-10-13T07:35:00"
         },
         {
@@ -11272,7 +11262,7 @@
           "end": "2020-10-13T16:13:00",
           "last_updated": "2020-10-15T12:03:00",
           "municipality": "Port Mcneill",
-          "municipality_code": "day-3 city--2097763811",
+          "municipality_code": "city--2097763811",
           "start": "2020-10-13T07:26:00"
         },
         {
@@ -11872,7 +11862,7 @@
           "end": "2020-10-13T16:00:00",
           "last_updated": "2020-10-16T08:08:00",
           "municipality": "Tofino",
-          "municipality_code": "day-3 city--1784464673",
+          "municipality_code": "city--1784464673",
           "start": "2020-10-13T13:41:00"
         },
         {
@@ -14433,7 +14423,7 @@
           "end": "",
           "last_updated": "2020-10-16T10:40:00",
           "municipality": "Esquimalt",
-          "municipality_code": "day-3 city--941955629",
+          "municipality_code": "city--941955629",
           "start": "2020-10-13T09:56:00"
         },
         {
@@ -15133,7 +15123,7 @@
           "end": "",
           "last_updated": "2020-10-15T10:56:00",
           "municipality": "Mayne Island, Saturna Island",
-          "municipality_code": "day-3 city-48997657 city-501274559",
+          "municipality_code": "city-48997657 city-501274559",
           "start": "2020-10-13T09:56:00"
         },
         {
@@ -16173,7 +16163,7 @@
           "end": "",
           "last_updated": "2020-10-14T11:10:00",
           "municipality": "Victoria",
-          "municipality_code": "day-3 city-1201273535",
+          "municipality_code": "city-1201273535",
           "start": "2020-10-13T11:13:00"
         },
         {
