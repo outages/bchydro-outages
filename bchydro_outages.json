@@ -1,7 +1,7 @@
 {
   "current": {
     "Lower Mainland": {
-      "customers_affected_14d": 54,
+      "customers_affected_14d": 55,
       "outages": [
         {
           "area": "2700 block ABERDEEN AVE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -62,6 +62,16 @@
           "municipality_code": "day-1 day-3 city--1786794435",
           "start": "2020-10-17T05:52:00",
           "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 17 4:00 p.m."
+        },
+        {
+          "area": "2300 block CHEAKAMUS WAY\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Under investigation",
+          "customers_affected": "< 5",
+          "last_updated": "2020-10-17T13:02:00",
+          "municipality": "Whistler",
+          "municipality_code": "day-1 day-3 city--2067392640",
+          "start": "2020-10-17T13:01:00",
+          "status": "Crew status: No crew assigned yet"
         }
       ],
       "region_code": "Lower Mainland",
@@ -110,6 +120,23 @@
       ],
       "region_code": "Northern",
       "region_id": "1602964060"
+    },
+    "Thompson/Shuswap": {
+      "customers_affected_14d": -1,
+      "outages": [
+        {
+          "area": "ROSIA RD P1\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Under investigation",
+          "customers_affected": "< 5",
+          "last_updated": "2020-10-17T13:03:00",
+          "municipality": "100 Mile House",
+          "municipality_code": "day-1 day-3 city-950857956",
+          "start": "2020-10-17T12:56:00",
+          "status": "Crew status: Crew assigned"
+        }
+      ],
+      "region_code": "Thompson/Shuswap",
+      "region_id": "725364552"
     }
   },
   "planned": {
@@ -3912,7 +3939,7 @@
       "region_id": "848340027"
     },
     "Lower Mainland": {
-      "customers_affected_14d": 144443,
+      "customers_affected_14d": 144864,
       "outages": [
         {
           "area": "North of MACLURE RD, East of MT LEHMAN RD, West of Hwy 11",
@@ -5671,7 +5698,7 @@
           "end": "",
           "last_updated": "2020-10-13T13:11:00",
           "municipality": "Coquitlam, Port Coquitlam",
-          "municipality_code": "day-3 city--3101987 city-1843021342",
+          "municipality_code": "city--3101987 city-1843021342",
           "start": "2020-10-13T12:05:00"
         },
         {
@@ -7741,7 +7768,7 @@
           "end": "2020-10-15T13:30:00",
           "last_updated": "2020-10-15T13:11:00",
           "municipality": "North Vancouver",
-          "municipality_code": "day-1 day-3 city--1636626238",
+          "municipality_code": "day-3 city--1636626238",
           "start": "2020-10-15T09:36:00"
         },
         {
@@ -7801,7 +7828,7 @@
           "end": "2020-10-15T12:50:00",
           "last_updated": "2020-10-15T16:13:00",
           "municipality": "North Vancouver",
-          "municipality_code": "day-1 day-3 city--1636626238",
+          "municipality_code": "day-3 city--1636626238",
           "start": "2020-10-15T11:36:00"
         },
         {
@@ -8361,7 +8388,7 @@
           "end": "2020-10-13T12:52:00",
           "last_updated": "2020-10-14T12:39:00",
           "municipality": "Sechelt",
-          "municipality_code": "day-3 city--660434186",
+          "municipality_code": "city--660434186",
           "start": "2020-10-13T10:15:00"
         },
         {
@@ -9251,7 +9278,7 @@
           "end": "",
           "last_updated": "2020-10-14T10:06:00",
           "municipality": "Vancouver",
-          "municipality_code": "day-3 city--1786794435",
+          "municipality_code": "city--1786794435",
           "start": "2020-10-13T11:57:00"
         },
         {
@@ -9675,6 +9702,16 @@
           "start": "2020-10-10T10:40:00"
         },
         {
+          "area": "West of GEORGE ST, East of MARTIN ST, North of ROPER AVE, South of NORTH BLUFF RD",
+          "cause": "Planned work being done on our equipment",
+          "customers_affected": "421",
+          "end": "2020-10-17T11:30:00",
+          "last_updated": "2020-10-17T13:00:00",
+          "municipality": "White Rock",
+          "municipality_code": "day-1 day-3 city--2102123204",
+          "start": "2020-10-17T09:14:00"
+        },
+        {
           "area": "COR JOHNSTON RD AT, 1400 - 1500 block JOHNSTON RD",
           "cause": "Planned work being done on our equipment",
           "customers_affected": "58",
@@ -9689,7 +9726,7 @@
           "cause": "Planned work being done on our equipment",
           "customers_affected": "58",
           "end": "2020-10-17T11:30:00",
-          "last_updated": "2020-10-17T11:39:00",
+          "last_updated": "2020-10-17T13:00:00",
           "municipality": "White Rock",
           "municipality_code": "day-1 day-3 city--2102123204",
           "start": "2020-10-17T10:34:00"
@@ -14039,7 +14076,7 @@
           "end": "2020-10-15T13:00:00",
           "last_updated": "2020-10-16T07:31:00",
           "municipality": "Central Saanich, Saanich",
-          "municipality_code": "day-1 day-3 city--769735224 city--776615533",
+          "municipality_code": "day-3 city--769735224 city--776615533",
           "start": "2020-10-15T09:49:00"
         },
         {
@@ -14829,7 +14866,7 @@
           "end": "2020-10-15T13:00:00",
           "last_updated": "2020-10-16T10:10:00",
           "municipality": "Ganges",
-          "municipality_code": "day-1 day-3 city-2125630497",
+          "municipality_code": "day-3 city-2125630497",
           "start": "2020-10-15T11:12:00"
         },
         {
@@ -15749,7 +15786,7 @@
           "end": "2020-10-15T13:00:00",
           "last_updated": "2020-10-15T13:06:00",
           "municipality": "Saanich",
-          "municipality_code": "day-1 day-3 city--776615533",
+          "municipality_code": "day-3 city--776615533",
           "start": "2020-10-15T10:10:00"
         },
         {
@@ -17346,7 +17383,7 @@
           "end": "",
           "last_updated": "2020-10-13T12:55:00",
           "municipality": "Kamloops",
-          "municipality_code": "day-3 city-979034872",
+          "municipality_code": "city-979034872",
           "start": "2020-10-13T11:41:00"
         },
         {
