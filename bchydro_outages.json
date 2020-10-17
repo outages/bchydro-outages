@@ -1,7 +1,7 @@
 {
   "current": {
     "Lower Mainland": {
-      "customers_affected_14d": 45,
+      "customers_affected_14d": 48,
       "outages": [
         {
           "area": "North of GRUMME RD, West of TRANS CANADA HWY, South-East of LOUGHEED HWY\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -12,6 +12,16 @@
           "municipality_code": "day-1 day-3 city-2334912",
           "start": "2020-10-16T19:23:00",
           "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 17 7:30 a.m."
+        },
+        {
+          "area": "1200 block E PENDER ST, 1200 block E HASTINGS ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Equipment failure",
+          "customers_affected": "< 5",
+          "last_updated": "2020-10-17T07:25:00",
+          "municipality": "Vancouver",
+          "municipality_code": "day-1 day-3 city--1786794435",
+          "start": "2020-10-17T05:52:00",
+          "status": "Crew status: Crew on-site"
         }
       ],
       "region_code": "Lower Mainland",
