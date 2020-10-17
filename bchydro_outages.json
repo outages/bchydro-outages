@@ -28,18 +28,8 @@
       "region_id": "848340027"
     },
     "Lower Mainland": {
-      "customers_affected_14d": 2026,
+      "customers_affected_14d": 45,
       "outages": [
-        {
-          "area": "West of SUTHERLAND RD, North of INDUSTRIAL WAY\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Motor vehicle accident",
-          "customers_affected": "1981",
-          "last_updated": "2020-10-16T20:34:00",
-          "municipality": "Chilliwack, Kent",
-          "municipality_code": "day-1 day-3 city--708005353 city-2334912",
-          "start": "2020-10-16T12:54:00",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 16 10:00 p.m."
-        },
         {
           "area": "North of GRUMME RD, West of TRANS CANADA HWY, South-East of LOUGHEED HWY\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Planned work being done on our equipment",
@@ -3882,7 +3872,7 @@
       "region_id": "848340027"
     },
     "Lower Mainland": {
-      "customers_affected_14d": 142942,
+      "customers_affected_14d": 144923,
       "outages": [
         {
           "area": "North of MACLURE RD, East of MT LEHMAN RD, West of Hwy 11",
@@ -5553,6 +5543,16 @@
           "municipality": "Chilliwack, Kent",
           "municipality_code": "day-3 city--708005353 city-2334912",
           "start": "2020-10-13T15:23:00"
+        },
+        {
+          "area": "West of SUTHERLAND RD, North of INDUSTRIAL WAY",
+          "cause": "Motor vehicle accident",
+          "customers_affected": "1981",
+          "end": "2020-10-16T22:00:00",
+          "last_updated": "2020-10-16T22:14:00",
+          "municipality": "Chilliwack, Kent",
+          "municipality_code": "day-1 day-3 city--708005353 city-2334912",
+          "start": "2020-10-16T12:54:00"
         },
         {
           "area": "West of LOUGHEED HWY",
@@ -8289,7 +8289,7 @@
           "cause": "Planned work being done on our equipment",
           "customers_affected": "< 5",
           "end": "2020-10-16T20:00:00",
-          "last_updated": "2020-10-16T20:35:00",
+          "last_updated": "2020-10-16T22:07:00",
           "municipality": "Richmond",
           "municipality_code": "day-1 day-3 city--1486145068",
           "start": "2020-10-16T14:46:00"
