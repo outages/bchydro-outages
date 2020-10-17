@@ -1,7 +1,7 @@
 {
   "current": {
     "Lower Mainland": {
-      "customers_affected_14d": 533,
+      "customers_affected_14d": 474,
       "outages": [
         {
           "area": "2700 block ABERDEEN AVE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -34,16 +34,6 @@
           "status": "Crew status: Crew assigned\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 17 10:10 a.m."
         },
         {
-          "area": "7900 block 202A ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Under investigation",
-          "customers_affected": "< 5",
-          "last_updated": "2020-10-17T11:16:00",
-          "municipality": "Langley",
-          "municipality_code": "day-1 day-3 city-1612593490",
-          "start": "2020-10-17T10:23:00",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 17 12:00 p.m."
-        },
-        {
           "area": "10900 block BAMBERTON DR, 7400 - 7500 block WATERTON DR\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Planned work being done on our equipment",
           "customers_affected": "10",
@@ -71,16 +61,6 @@
           "municipality": "White Rock",
           "municipality_code": "day-1 day-3 city--2102123204",
           "start": "2020-10-17T09:14:00",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 17 11:30 a.m."
-        },
-        {
-          "area": "1400 - 1500 block JOHNSTON RD, COR JOHNSTON RD AT\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Planned work being done on our equipment",
-          "customers_affected": "58",
-          "last_updated": "2020-10-17T11:07:00",
-          "municipality": "White Rock",
-          "municipality_code": "day-1 day-3 city--2102123204",
-          "start": "2020-10-17T10:34:00",
           "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 17 11:30 a.m."
         }
       ],
@@ -3935,7 +3915,7 @@
       "region_id": "848340027"
     },
     "Lower Mainland": {
-      "customers_affected_14d": 144384,
+      "customers_affected_14d": 144443,
       "outages": [
         {
           "area": "North of MACLURE RD, East of MT LEHMAN RD, West of Hwy 11",
@@ -6706,6 +6686,16 @@
           "municipality": "Langley",
           "municipality_code": "city-1612593490",
           "start": "2020-10-10T16:33:00"
+        },
+        {
+          "area": "7900 block 202A ST",
+          "cause": "Under investigation",
+          "customers_affected": "< 5",
+          "end": "2020-10-17T12:00:00",
+          "last_updated": "2020-10-17T11:41:00",
+          "municipality": "Langley",
+          "municipality_code": "day-1 day-3 city-1612593490",
+          "start": "2020-10-17T10:23:00"
         },
         {
           "area": "1800 block 248 ST",
@@ -9554,7 +9544,7 @@
           "end": "",
           "last_updated": "2020-10-13T11:40:00",
           "municipality": "Vancouver",
-          "municipality_code": "day-3 city--1786794435",
+          "municipality_code": "city--1786794435",
           "start": "2020-10-13T10:01:00"
         },
         {
@@ -9696,6 +9686,16 @@
           "municipality": "White Rock",
           "municipality_code": "day-1 day-3 city--2102123204",
           "start": "2020-10-17T09:19:00"
+        },
+        {
+          "area": "1400 - 1500 block JOHNSTON RD, COR JOHNSTON RD AT",
+          "cause": "Planned work being done on our equipment",
+          "customers_affected": "58",
+          "end": "2020-10-17T11:30:00",
+          "last_updated": "2020-10-17T11:39:00",
+          "municipality": "White Rock",
+          "municipality_code": "day-1 day-3 city--2102123204",
+          "start": "2020-10-17T10:34:00"
         }
       ],
       "region_code": "Lower Mainland",
@@ -10361,7 +10361,7 @@
           "end": "",
           "last_updated": "2020-10-13T14:56:00",
           "municipality": "Courtenay",
-          "municipality_code": "day-3 city--824228212",
+          "municipality_code": "city--824228212",
           "start": "2020-10-13T07:31:00"
         },
         {
@@ -11051,7 +11051,7 @@
           "end": "2020-10-15T12:00:00",
           "last_updated": "2020-10-15T12:20:00",
           "municipality": "Parksville",
-          "municipality_code": "day-1 day-3 city--1370510519",
+          "municipality_code": "day-3 city--1370510519",
           "start": "2020-10-15T11:20:00"
         },
         {
@@ -14032,7 +14032,7 @@
           "end": "",
           "last_updated": "2020-10-16T15:27:00",
           "municipality": "Central Saanich, North Saanich",
-          "municipality_code": "day-3 city--769735224 city-179964248",
+          "municipality_code": "city--769735224 city-179964248",
           "start": "2020-10-13T11:18:00"
         },
         {
@@ -15582,7 +15582,7 @@
           "end": "",
           "last_updated": "2020-10-16T15:26:00",
           "municipality": "North Saanich, Sidney",
-          "municipality_code": "day-3 city-179964248 city--1818689996",
+          "municipality_code": "city-179964248 city--1818689996",
           "start": "2020-10-13T11:17:00"
         },
         {
@@ -15602,7 +15602,7 @@
           "end": "",
           "last_updated": "2020-10-16T15:25:00",
           "municipality": "North Saanich, Sidney",
-          "municipality_code": "day-3 city-179964248 city--1818689996",
+          "municipality_code": "city-179964248 city--1818689996",
           "start": "2020-10-13T11:18:00"
         },
         {
@@ -15622,7 +15622,7 @@
           "end": "",
           "last_updated": "2020-10-16T15:26:00",
           "municipality": "North Saanich, Sidney",
-          "municipality_code": "day-3 city-179964248 city--1818689996",
+          "municipality_code": "city-179964248 city--1818689996",
           "start": "2020-10-13T11:15:00"
         },
         {
