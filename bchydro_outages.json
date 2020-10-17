@@ -48,13 +48,13 @@
       "region_id": "848340027"
     },
     "Lower Mainland": {
-      "customers_affected_14d": 2063,
+      "customers_affected_14d": 2026,
       "outages": [
         {
           "area": "West of SUTHERLAND RD, North of INDUSTRIAL WAY\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Motor vehicle accident",
           "customers_affected": "1981",
-          "last_updated": "2020-10-16T18:49:00",
+          "last_updated": "2020-10-16T20:34:00",
           "municipality": "Chilliwack, Kent",
           "municipality_code": "day-1 day-3 city--708005353 city-2334912",
           "start": "2020-10-16T12:54:00",
@@ -64,31 +64,11 @@
           "area": "North of GRUMME RD, West of TRANS CANADA HWY, South-East of LOUGHEED HWY\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Planned work being done on our equipment",
           "customers_affected": "45",
-          "last_updated": "2020-10-16T19:25:00",
+          "last_updated": "2020-10-16T20:35:00",
           "municipality": "Kent",
           "municipality_code": "day-1 day-3 city-2334912",
           "start": "2020-10-16T19:23:00",
           "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 17 7:30 a.m."
-        },
-        {
-          "area": "7200 block NELSON RD, 18700 - 19000 block WESTMINSTER HWY\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Planned work being done on our equipment",
-          "customers_affected": "< 5",
-          "last_updated": "2020-10-16T15:12:00",
-          "municipality": "Richmond",
-          "municipality_code": "day-1 day-3 city--1486145068",
-          "start": "2020-10-16T14:46:00",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 16 8:00 p.m."
-        },
-        {
-          "area": "2400 block CYPRESS ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Planned work being done on our equipment",
-          "customers_affected": "33",
-          "last_updated": "2020-10-16T20:08:00",
-          "municipality": "Vancouver",
-          "municipality_code": "day-1 day-3 city--1786794435",
-          "start": "2020-10-16T09:18:00",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 16 8:30 p.m."
         }
       ],
       "region_code": "Lower Mainland",
@@ -145,7 +125,7 @@
           "area": "1200 block BARNHARTVALE RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Transformer burn out",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-16T20:23:00",
+          "last_updated": "2020-10-16T20:30:00",
           "municipality": "Kamloops",
           "municipality_code": "day-1 day-3 city-979034872",
           "start": "2020-10-16T19:49:00",
@@ -158,7 +138,7 @@
   },
   "planned": {
     "Central Interior": {
-      "customers_affected_14d": 514,
+      "customers_affected_14d": 512,
       "outages": [
         {
           "area": "Alcock Rd; Armstrong Rd; Banner Rd; Bartels Rd; Brownmiller Rd; Burdis Rd; Cameron Rd; Campbell Crs; N Cariboo Hwy; Carradice Rd; Cave Rd; Couldwell Rd; Fisher Rd; Hartley Heights; Hwy 97; Hilborn Rd; Hilltop Dr; Keis Ave; Keis Rd; Kiwi Rd; Lear Rd; Long Rd; Mighton Rd; Mufford Rd; Pinecrest Rd; Price Rd; Quesnel Hixon Rd; Rau Rd; Robin Rd; Salton Rd; Scott Rd; Sharpe Rd; N. Ten Mile Lake; Trask Rd; Watt Rd",
@@ -179,16 +159,6 @@
           "municipality": "Quesnel",
           "municipality_code": "day-1 day-3 city--1975191965",
           "start": "2020-10-19T21:00:00"
-        },
-        {
-          "area": "1818, 1879 Brownmiller Rd, Quesnel",
-          "cause": "Planned work being done on our equipment",
-          "customers_affected": "< 5",
-          "end": "2020-10-14T20:30:00",
-          "last_updated": "2020-10-14T14:15:00",
-          "municipality": "Quesnel",
-          "municipality_code": "day-1 day-3 city--1975191965",
-          "start": "2020-10-14T16:30:00"
         }
       ],
       "region_code": "Central Interior",
@@ -3956,7 +3926,7 @@
       "region_id": "848340027"
     },
     "Lower Mainland": {
-      "customers_affected_14d": 142905,
+      "customers_affected_14d": 142942,
       "outages": [
         {
           "area": "North of MACLURE RD, East of MT LEHMAN RD, West of Hwy 11",
@@ -8359,6 +8329,16 @@
           "start": "2020-10-15T10:08:00"
         },
         {
+          "area": "7200 block NELSON RD, 18700 - 19000 block WESTMINSTER HWY",
+          "cause": "Planned work being done on our equipment",
+          "customers_affected": "< 5",
+          "end": "2020-10-16T20:00:00",
+          "last_updated": "2020-10-16T20:35:00",
+          "municipality": "Richmond",
+          "municipality_code": "day-1 day-3 city--1486145068",
+          "start": "2020-10-16T14:46:00"
+        },
+        {
           "area": "5800 block NO 7 RD, 16100 block WESTMINSTER HWY",
           "cause": "Other",
           "customers_affected": "< 5",
@@ -9467,6 +9447,16 @@
           "municipality": "Vancouver",
           "municipality_code": "day-1 day-3 city--1786794435",
           "start": "2020-10-14T18:55:00"
+        },
+        {
+          "area": "2400 block CYPRESS ST",
+          "cause": "Planned work being done on our equipment",
+          "customers_affected": "33",
+          "end": "2020-10-16T20:30:00",
+          "last_updated": "2020-10-16T20:31:00",
+          "municipality": "Vancouver",
+          "municipality_code": "day-1 day-3 city--1786794435",
+          "start": "2020-10-16T09:18:00"
         },
         {
           "area": "2400 block CORNWALL AVE",
