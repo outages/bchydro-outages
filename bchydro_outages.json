@@ -102,16 +102,26 @@
       "region_id": "1602964060"
     },
     "Okanagan/Kootenay": {
-      "customers_affected_14d": 5,
+      "customers_affected_14d": 7,
       "outages": [
         {
           "area": "800 - 900 block INDUSTRIAL 1 RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-17T15:56:00",
+          "last_updated": "2020-10-17T16:42:00",
           "municipality": "Cranbrook",
           "municipality_code": "day-1 day-3 city--591720257",
           "start": "2020-10-17T15:36:00",
+          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 17 6:00 p.m."
+        },
+        {
+          "area": "500 block ARROW PARK DEMARS RD, 300 block STEVENS RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Under investigation",
+          "customers_affected": "< 5",
+          "last_updated": "2020-10-17T16:42:00",
+          "municipality": "Nakusp",
+          "municipality_code": "day-1 day-3 city--1969008230",
+          "start": "2020-10-17T16:33:00",
           "status": "Crew status: Crew assigned"
         },
         {
@@ -4575,7 +4585,7 @@
           "end": "2020-10-13T16:30:00",
           "last_updated": "2020-10-14T10:00:00",
           "municipality": "Burnaby",
-          "municipality_code": "day-3 city-1903966249",
+          "municipality_code": "city-1903966249",
           "start": "2020-10-13T12:56:00"
         },
         {
@@ -6735,7 +6745,7 @@
           "end": "",
           "last_updated": "2020-10-14T09:45:00",
           "municipality": "Langley",
-          "municipality_code": "day-3 city-1612593490",
+          "municipality_code": "city-1612593490",
           "start": "2020-10-13T13:15:00"
         },
         {
@@ -7855,7 +7865,7 @@
           "end": "2020-10-13T16:00:00",
           "last_updated": "2020-10-14T12:34:00",
           "municipality": "Powell River",
-          "municipality_code": "day-3 city-1665178489",
+          "municipality_code": "city-1665178489",
           "start": "2020-10-13T07:20:00"
         },
         {
@@ -8635,7 +8645,7 @@
           "end": "",
           "last_updated": "2020-10-14T14:54:00",
           "municipality": "Surrey",
-          "municipality_code": "day-3 city--1807186826",
+          "municipality_code": "city--1807186826",
           "start": "2020-10-13T15:40:00"
         },
         {
@@ -9395,7 +9405,7 @@
           "end": "2020-10-13T16:00:00",
           "last_updated": "2020-10-13T20:24:00",
           "municipality": "Vancouver",
-          "municipality_code": "day-3 city--1786794435",
+          "municipality_code": "city--1786794435",
           "start": "2020-10-13T09:05:00"
         },
         {
@@ -10372,7 +10382,7 @@
           "end": "2020-10-13T16:45:00",
           "last_updated": "2020-10-14T16:42:00",
           "municipality": "Nanaimo",
-          "municipality_code": "day-3 city--907547835",
+          "municipality_code": "city--907547835",
           "start": "2020-10-13T14:21:00"
         },
         {
@@ -10822,7 +10832,7 @@
           "end": "2020-10-13T16:35:00",
           "last_updated": "2020-10-14T12:13:00",
           "municipality": "Nanaimo",
-          "municipality_code": "day-3 city--907547835",
+          "municipality_code": "city--907547835",
           "start": "2020-10-13T13:00:00"
         },
         {
@@ -12329,7 +12339,7 @@
           "end": "2020-10-13T17:00:00",
           "last_updated": "2020-10-13T16:41:00",
           "municipality": "Dawson Creek",
-          "municipality_code": "day-3 city--1630954860",
+          "municipality_code": "city--1630954860",
           "start": "2020-10-13T08:30:00"
         },
         {
@@ -13853,7 +13863,7 @@
           "end": "",
           "last_updated": "2020-10-14T07:36:00",
           "municipality": "Central Saanich",
-          "municipality_code": "day-3 city--769735224",
+          "municipality_code": "city--769735224",
           "start": "2020-10-13T12:40:00"
         },
         {
@@ -15833,7 +15843,7 @@
           "end": "",
           "last_updated": "2020-10-14T13:09:00",
           "municipality": "Saanich",
-          "municipality_code": "day-3 city--776615533",
+          "municipality_code": "city--776615533",
           "start": "2020-10-13T11:58:00"
         },
         {
