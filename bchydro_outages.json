@@ -78,14 +78,24 @@
       "customers_affected_14d": -1,
       "outages": [
         {
+          "area": "24300 block KOON RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Under investigation",
+          "customers_affected": "< 5",
+          "last_updated": "2020-10-16T20:56:00",
+          "municipality": "Burns Lake",
+          "municipality_code": "day-1 day-3 city--2121425941",
+          "start": "2020-10-16T20:41:00",
+          "status": "Crew status: No crew assigned yet"
+        },
+        {
           "area": "4900 block BESSBOROUGH RD 212\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-16T20:22:00",
+          "last_updated": "2020-10-16T20:46:00",
           "municipality": "Dawson Creek",
           "municipality_code": "day-1 day-3 city--1630954860",
           "start": "2020-10-16T19:39:00",
-          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 16 9:25 p.m."
+          "status": "Crew status: Crew on-site"
         }
       ],
       "region_code": "Northern",
@@ -7113,7 +7123,7 @@
           "cause": "Tree down across our wires",
           "customers_affected": "106",
           "end": "2020-10-16T20:00:00",
-          "last_updated": "2020-10-16T20:08:00",
+          "last_updated": "2020-10-16T20:48:00",
           "municipality": "Maple Ridge",
           "municipality_code": "day-1 day-3 city-598891104",
           "start": "2020-10-16T07:38:00"
