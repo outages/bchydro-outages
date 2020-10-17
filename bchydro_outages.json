@@ -1,8 +1,18 @@
 {
   "current": {
     "Central Interior": {
-      "customers_affected_14d": 12,
+      "customers_affected_14d": 51,
       "outages": [
+        {
+          "area": "3800 - 5000 block TALLUS RD, TALLUS RD BLK D\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Under investigation",
+          "customers_affected": "42",
+          "last_updated": "2020-10-16T22:03:00",
+          "municipality": "Prince George",
+          "municipality_code": "day-1 day-3 city-1835674262",
+          "start": "2020-10-16T11:39:00",
+          "status": "Crew status: Suspended"
+        },
         {
           "area": "26800 block MARILYN RD, 21600 block JULIE CRES, WILLOWCALE RD P39/5, ST MARYS LAKE P39/1, ST MARYS LAKE, 50000 block WILLOW CALE FOREST RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
@@ -12,26 +22,6 @@
           "municipality_code": "day-1 day-3 city-1835674262",
           "start": "2020-10-16T08:01:00",
           "status": "Crew status: Crew on-site"
-        },
-        {
-          "area": "31200 block HART HWY\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Under investigation",
-          "customers_affected": "< 5",
-          "last_updated": "2020-10-16T20:45:00",
-          "municipality": "Prince George",
-          "municipality_code": "day-1 day-3 city-1835674262",
-          "start": "2020-10-16T09:07:00",
-          "status": "Crew status: Crew assigned"
-        },
-        {
-          "area": "5900 block MCLEOD RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Under investigation",
-          "customers_affected": "< 5",
-          "last_updated": "2020-10-16T20:45:00",
-          "municipality": "Prince George",
-          "municipality_code": "day-1 day-3 city-1835674262",
-          "start": "2020-10-16T13:26:00",
-          "status": "Crew status: Crew assigned"
         }
       ],
       "region_code": "Central Interior",
@@ -64,25 +54,8 @@
       "region_code": "Lower Mainland",
       "region_id": "521980323"
     },
-    "South VI": {
-      "customers_affected_14d": -1,
-      "outages": [
-        {
-          "area": "900 block BODEGA BEACH DR\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Tree down across our wires",
-          "customers_affected": "< 5",
-          "last_updated": "2020-10-16T19:49:00",
-          "municipality": "Galiano Island",
-          "municipality_code": "day-1 day-3 city--995767958",
-          "start": "2020-10-16T17:33:00",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 16 10:30 p.m."
-        }
-      ],
-      "region_code": "South VI",
-      "region_id": "1812901382"
-    },
     "Thompson/Shuswap": {
-      "customers_affected_14d": 125,
+      "customers_affected_14d": -1,
       "outages": [
         {
           "area": "1200 block BARNHARTVALE RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -93,16 +66,6 @@
           "municipality_code": "day-1 day-3 city-979034872",
           "start": "2020-10-16T19:49:00",
           "status": "Crew status: Crew on-site"
-        },
-        {
-          "area": "North of CHASE FALKLAND RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Under investigation",
-          "customers_affected": "124",
-          "last_updated": "2020-10-16T21:39:00",
-          "municipality": "Kamloops, Salmon Arm",
-          "municipality_code": "day-1 day-3 city-979034872 city-2118875562",
-          "start": "2020-10-16T21:37:00",
-          "status": "Crew status: Crew assigned"
         }
       ],
       "region_code": "Thompson/Shuswap",
@@ -3052,7 +3015,7 @@
   },
   "restored": {
     "Central Interior": {
-      "customers_affected_14d": 14809,
+      "customers_affected_14d": 14771,
       "outages": [
         {
           "area": "North of HWY 97",
@@ -3225,16 +3188,6 @@
           "start": "2020-10-16T06:54:00"
         },
         {
-          "area": "3800 - 5000 block TALLUS RD, TALLUS RD BLK D",
-          "cause": "Under investigation",
-          "customers_affected": "41",
-          "end": "2020-10-16T21:30:00",
-          "last_updated": "2020-10-16T21:33:00",
-          "municipality": "Prince George",
-          "municipality_code": "day-1 day-3 city-1835674262",
-          "start": "2020-10-16T11:39:00"
-        },
-        {
           "area": "4500 - 4700 block HANDLEN RD",
           "cause": "Tree down across our wires",
           "customers_affected": "22",
@@ -3385,6 +3338,16 @@
           "start": "2020-10-16T18:16:00"
         },
         {
+          "area": "31200 block HART HWY",
+          "cause": "Other",
+          "customers_affected": "< 5",
+          "end": "",
+          "last_updated": "2020-10-16T21:55:00",
+          "municipality": "Prince George",
+          "municipality_code": "day-1 day-3 city-1835674262",
+          "start": "2020-10-16T09:07:00"
+        },
+        {
           "area": "600 block COONSEY ST, RIVER AVE",
           "cause": "Planned work being done on our equipment",
           "customers_affected": "< 5",
@@ -3423,6 +3386,16 @@
           "municipality": "Prince George",
           "municipality_code": "day-1 day-3 city-1835674262",
           "start": "2020-10-16T07:31:00"
+        },
+        {
+          "area": "5900 block MCLEOD RD",
+          "cause": "Other",
+          "customers_affected": "< 5",
+          "end": "",
+          "last_updated": "2020-10-16T21:57:00",
+          "municipality": "Prince George",
+          "municipality_code": "day-1 day-3 city-1835674262",
+          "start": "2020-10-16T13:26:00"
         },
         {
           "area": "14000 block BLACKWATER RD",
@@ -3968,7 +3941,7 @@
           "end": "",
           "last_updated": "2020-10-13T12:56:00",
           "municipality": "Abbotsford",
-          "municipality_code": "day-3 city-1230363016",
+          "municipality_code": "city-1230363016",
           "start": "2020-10-12T19:40:00"
         },
         {
@@ -3998,7 +3971,7 @@
           "end": "",
           "last_updated": "2020-10-13T13:17:00",
           "municipality": "Abbotsford",
-          "municipality_code": "day-3 city-1230363016",
+          "municipality_code": "city-1230363016",
           "start": "2020-10-12T21:31:00"
         },
         {
@@ -9428,7 +9401,7 @@
           "end": "",
           "last_updated": "2020-10-14T22:05:00",
           "municipality": "Vancouver",
-          "municipality_code": "day-1 day-3 city--1786794435",
+          "municipality_code": "day-3 city--1786794435",
           "start": "2020-10-14T18:55:00"
         },
         {
@@ -14167,7 +14140,7 @@
       "region_id": "2072041405"
     },
     "South VI": {
-      "customers_affected_14d": 74658,
+      "customers_affected_14d": 74659,
       "outages": [
         {
           "area": "North of CHURCH RD, West of STAUTW RD, East of TETAYUT RD, South of MT NEWTON XRD",
@@ -14888,6 +14861,16 @@
           "municipality": "Galiano Island",
           "municipality_code": "city--995767958",
           "start": "2020-10-12T11:51:00"
+        },
+        {
+          "area": "900 block BODEGA BEACH DR",
+          "cause": "Tree down across our wires",
+          "customers_affected": "< 5",
+          "end": "2020-10-16T22:30:00",
+          "last_updated": "2020-10-16T22:04:00",
+          "municipality": "Galiano Island",
+          "municipality_code": "day-1 day-3 city--995767958",
+          "start": "2020-10-16T17:33:00"
         },
         {
           "area": "200 block S WARBLER RD",
@@ -16804,7 +16787,7 @@
       "region_id": "1812901382"
     },
     "Thompson/Shuswap": {
-      "customers_affected_14d": 15811,
+      "customers_affected_14d": 15935,
       "outages": [
         {
           "area": "East of WILCOX RD, North of TRIP RD",
@@ -17855,6 +17838,16 @@
           "municipality": "Kamloops",
           "municipality_code": "city-979034872",
           "start": "2020-10-05T12:25:00"
+        },
+        {
+          "area": "North of CHASE FALKLAND RD",
+          "cause": "Under investigation",
+          "customers_affected": "124",
+          "end": "",
+          "last_updated": "2020-10-16T21:53:00",
+          "municipality": "Kamloops, Salmon Arm",
+          "municipality_code": "day-1 day-3 city-979034872 city-2118875562",
+          "start": "2020-10-16T21:37:00"
         },
         {
           "area": "South of FOUNTAIN VALLEY RD",
