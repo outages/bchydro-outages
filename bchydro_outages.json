@@ -7,11 +7,11 @@
           "area": "3800 - 5000 block TALLUS RD, TALLUS RD BLK D\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "41",
-          "last_updated": "2020-10-16T18:51:00",
+          "last_updated": "2020-10-16T19:45:00",
           "municipality": "Prince George",
           "municipality_code": "day-1 day-3 city-1835674262",
           "start": "2020-10-16T11:39:00",
-          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 16 6:15 p.m."
+          "status": "Crew status: Crew on-site"
         },
         {
           "area": "26800 block MARILYN RD, 21600 block JULIE CRES, WILLOWCALE RD P39/5, ST MARYS LAKE P39/1, ST MARYS LAKE, 50000 block WILLOW CALE FOREST RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -140,6 +140,23 @@
       ],
       "region_code": "South VI",
       "region_id": "1812901382"
+    },
+    "Thompson/Shuswap": {
+      "customers_affected_14d": -1,
+      "outages": [
+        {
+          "area": "1200 block BARNHARTVALE RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Under investigation",
+          "customers_affected": "< 5",
+          "last_updated": "2020-10-16T19:45:00",
+          "municipality": "Kamloops",
+          "municipality_code": "day-1 day-3 city-979034872",
+          "start": "2020-10-16T17:16:00",
+          "status": "Crew status: Crew assigned"
+        }
+      ],
+      "region_code": "Thompson/Shuswap",
+      "region_id": "725364552"
     }
   },
   "planned": {
@@ -6751,7 +6768,7 @@
           "end": "2020-10-14T19:56:00",
           "last_updated": "2020-10-15T11:11:00",
           "municipality": "Langley",
-          "municipality_code": "day-1 day-3 city-1612593490",
+          "municipality_code": "day-3 city-1612593490",
           "start": "2020-10-14T17:56:00"
         },
         {
@@ -12206,7 +12223,7 @@
       "region_id": "1602896846"
     },
     "Northern": {
-      "customers_affected_14d": 14223,
+      "customers_affected_14d": 14248,
       "outages": [
         {
           "area": "100 - 200 block WABALISLA ST, 0 - 100 block WAGLISLA ST, 500 block CHEENIS ST, 700 block GOOSE ISLAND DR, AIRPORT RD, BELLA BELLA RORO, PUMPHOUSE, 0 - 1200 block SHEARWATER RD, UPPER HOTEL, DENNY ISLAND RD...",
@@ -12283,17 +12300,27 @@
           "cause": "Under investigation",
           "customers_affected": "61",
           "end": "2020-10-16T17:15:00",
-          "last_updated": "2020-10-16T16:59:00",
+          "last_updated": "2020-10-16T19:38:00",
           "municipality": "Burns Lake",
           "municipality_code": "day-1 day-3 city--2121425941",
           "start": "2020-10-16T10:06:00"
         },
         {
+          "area": "North of PARK RD",
+          "cause": "Tree down across our wires",
+          "customers_affected": "25",
+          "end": "2020-10-16T17:00:00",
+          "last_updated": "2020-10-16T19:39:00",
+          "municipality": "Burns Lake",
+          "municipality_code": "day-1 day-3 city--2121425941",
+          "start": "2020-10-16T10:17:00"
+        },
+        {
           "area": "North-East of HWY 16 , West of RICHMOND LP, South of HILL ST",
-          "cause": "Fire",
+          "cause": "Equipment failure",
           "customers_affected": "22",
           "end": "2020-10-16T17:00:00",
-          "last_updated": "2020-10-16T18:31:00",
+          "last_updated": "2020-10-16T19:45:00",
           "municipality": "Burns Lake",
           "municipality_code": "day-1 day-3 city--2121425941",
           "start": "2020-10-16T11:51:00"
@@ -12363,7 +12390,7 @@
           "cause": "Under investigation",
           "customers_affected": "< 5",
           "end": "2020-10-16T19:30:00",
-          "last_updated": "2020-10-16T19:16:00",
+          "last_updated": "2020-10-16T19:39:00",
           "municipality": "Burns Lake",
           "municipality_code": "day-1 day-3 city--2121425941",
           "start": "2020-10-16T16:30:00"
