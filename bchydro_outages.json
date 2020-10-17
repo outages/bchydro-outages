@@ -68,27 +68,17 @@
       "region_id": "848340027"
     },
     "Lower Mainland": {
-      "customers_affected_14d": 747,
+      "customers_affected_14d": 745,
       "outages": [
         {
           "area": "900 - 1100 block HARDING RD, CORNER HARDNG RD & GRAFTON RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Wire down",
+          "cause": "Tree down across our wires",
           "customers_affected": "24",
-          "last_updated": "2020-10-16T16:42:00",
+          "last_updated": "2020-10-16T17:20:00",
           "municipality": "Bowen Island",
           "municipality_code": "day-1 day-3 city-1522211618",
           "start": "2020-10-16T16:40:00",
-          "status": "Crew status: Crew assigned"
-        },
-        {
-          "area": "24700 block FRASER HWY\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Motor vehicle accident",
-          "customers_affected": "< 5",
-          "last_updated": "2020-10-16T16:23:00",
-          "municipality": "Langley",
-          "municipality_code": "day-1 day-3 city-1612593490",
-          "start": "2020-10-16T11:56:00",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 16 4:45 p.m."
+          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 16 7:00 p.m."
         },
         {
           "area": "West of 256TH ST, North of MARSHALL AVE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -154,46 +144,9 @@
       "region_code": "Lower Mainland",
       "region_id": "521980323"
     },
-    "North VI": {
-      "customers_affected_14d": 17,
-      "outages": [
-        {
-          "area": "500 block ISLAND HWY\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Under investigation",
-          "customers_affected": "17",
-          "last_updated": "2020-10-16T16:16:00",
-          "municipality": "Campbell River",
-          "municipality_code": "day-1 day-3 city-1240464880",
-          "start": "2020-10-16T15:41:00",
-          "status": "Crew status: Crew on-site"
-        }
-      ],
-      "region_code": "North VI",
-      "region_id": "1602896846"
-    },
     "Northern": {
-      "customers_affected_14d": 110,
+      "customers_affected_14d": 24,
       "outages": [
-        {
-          "area": "West of HWY 35\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Under investigation",
-          "customers_affected": "61",
-          "last_updated": "2020-10-16T16:45:00",
-          "municipality": "Burns Lake",
-          "municipality_code": "day-1 day-3 city--2121425941",
-          "start": "2020-10-16T10:06:00",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 16 5:15 p.m."
-        },
-        {
-          "area": "North of PARK RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Under investigation",
-          "customers_affected": "25",
-          "last_updated": "2020-10-16T16:14:00",
-          "municipality": "Burns Lake",
-          "municipality_code": "day-1 day-3 city--2121425941",
-          "start": "2020-10-16T10:17:00",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 16 5:00 p.m."
-        },
         {
           "area": "North-East of HWY 16 , West of RICHMOND LP, South of HILL ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Fire",
@@ -218,11 +171,11 @@
           "area": "BOUNDARY RD MI 14\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-16T16:15:00",
+          "last_updated": "2020-10-16T17:16:00",
           "municipality": "Dawson Creek",
           "municipality_code": "day-1 day-3 city--1630954860",
           "start": "2020-10-16T15:51:00",
-          "status": "Crew status: Crew assigned"
+          "status": "Crew status: Crew on-site"
         }
       ],
       "region_code": "Northern",
@@ -252,11 +205,11 @@
           "area": "3700 block PHILLIPS RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-16T15:44:00",
+          "last_updated": "2020-10-16T16:51:00",
           "municipality": "Sooke",
           "municipality_code": "day-1 day-3 city-80069133",
           "start": "2020-10-16T15:33:00",
-          "status": "Crew status: Crew assigned"
+          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 16 5:55 p.m."
         }
       ],
       "region_code": "South VI",
@@ -329,7 +282,7 @@
       "region_id": "848340027"
     },
     "Lower Mainland": {
-      "customers_affected_14d": 9116,
+      "customers_affected_14d": 9115,
       "outages": [
         {
           "area": "1944, 1954, 1966, 1976 Albion St; 32666-32749 Cordova Ave; 325, 32760 Marshall Rd, 32414-32750 Pandora Ave; 1911-1944 Valencia Crt, Abbotsford",
@@ -690,16 +643,6 @@
           "municipality": "Chilliwack",
           "municipality_code": "day-1 day-3 city--708005353",
           "start": "2020-10-29T09:00:00"
-        },
-        {
-          "area": "**CANCELLED ****45875 Promontory Rd., Chilliwack",
-          "cause": "Pole replacement",
-          "customers_affected": "< 5",
-          "end": "2020-10-14T17:00:00",
-          "last_updated": "2020-10-06T13:56:00",
-          "municipality": "Chilliwack",
-          "municipality_code": "day-1 day-3 city--708005353",
-          "start": "2020-10-14T09:00:00"
         },
         {
           "area": "618 and 630 Como Lake Ave, 638 Regan Ave, Coquitlam",
@@ -3273,7 +3216,7 @@
   },
   "restored": {
     "Central Interior": {
-      "customers_affected_14d": 14762,
+      "customers_affected_14d": 14763,
       "outages": [
         {
           "area": "North of HWY 97",
@@ -3812,7 +3755,7 @@
           "end": "2020-10-14T17:00:00",
           "last_updated": "2020-10-14T17:01:00",
           "municipality": "Quesnel",
-          "municipality_code": "day-1 day-3 city--1975191965",
+          "municipality_code": "day-3 city--1975191965",
           "start": "2020-10-14T16:14:00"
         },
         {
@@ -4036,6 +3979,16 @@
           "start": "2020-10-16T08:55:00"
         },
         {
+          "area": "4300 block TEASDALE ROAD",
+          "cause": "Under investigation",
+          "customers_affected": "< 5",
+          "end": "2020-10-16T14:00:00",
+          "last_updated": "2020-10-16T16:49:00",
+          "municipality": "Williams Lake",
+          "municipality_code": "day-1 day-3 city--1905642465",
+          "start": "2020-10-16T06:52:00"
+        },
+        {
           "area": "ANAHAM RES GAS BAR",
           "cause": "Motor vehicle accident",
           "customers_affected": "< 5",
@@ -4070,7 +4023,7 @@
           "cause": "Under investigation",
           "customers_affected": "< 5",
           "end": "2020-10-16T16:00:00",
-          "last_updated": "2020-10-16T15:53:00",
+          "last_updated": "2020-10-16T16:47:00",
           "municipality": "Williams Lake",
           "municipality_code": "day-1 day-3 city--1905642465",
           "start": "2020-10-16T15:07:00"
@@ -4090,7 +4043,7 @@
       "region_id": "848340027"
     },
     "Lower Mainland": {
-      "customers_affected_14d": 142167,
+      "customers_affected_14d": 142169,
       "outages": [
         {
           "area": "North of MACLURE RD, East of MT LEHMAN RD, West of Hwy 11",
@@ -5699,7 +5652,7 @@
           "end": "",
           "last_updated": "2020-10-14T16:54:00",
           "municipality": "Chilliwack",
-          "municipality_code": "day-1 day-3 city--708005353",
+          "municipality_code": "day-3 city--708005353",
           "start": "2020-10-14T09:09:00"
         },
         {
@@ -5709,7 +5662,7 @@
           "end": "2020-10-14T17:00:00",
           "last_updated": "2020-10-14T16:54:00",
           "municipality": "Chilliwack",
-          "municipality_code": "day-1 day-3 city--708005353",
+          "municipality_code": "day-3 city--708005353",
           "start": "2020-10-14T15:27:00"
         },
         {
@@ -6279,7 +6232,7 @@
           "end": "2020-10-14T17:36:00",
           "last_updated": "2020-10-14T18:04:00",
           "municipality": "Kent",
-          "municipality_code": "day-1 day-3 city-2334912",
+          "municipality_code": "day-3 city-2334912",
           "start": "2020-10-13T12:50:00"
         },
         {
@@ -6831,6 +6784,16 @@
           "municipality": "Langley",
           "municipality_code": "city-1612593490",
           "start": "2020-10-08T09:25:00"
+        },
+        {
+          "area": "24700 block FRASER HWY",
+          "cause": "Voltage Problem or Overload",
+          "customers_affected": "< 5",
+          "end": "2020-10-16T16:45:00",
+          "last_updated": "2020-10-16T16:55:00",
+          "municipality": "Langley",
+          "municipality_code": "day-1 day-3 city-1612593490",
+          "start": "2020-10-16T11:56:00"
         },
         {
           "area": "500 block 232 ST",
@@ -9729,7 +9692,7 @@
           "end": "2020-10-12T17:00:00",
           "last_updated": "2020-10-14T09:58:00",
           "municipality": "Vancouver",
-          "municipality_code": "day-3 city--1786794435",
+          "municipality_code": "city--1786794435",
           "start": "2020-10-12T14:47:00"
         },
         {
@@ -9927,7 +9890,7 @@
       "region_id": "521980323"
     },
     "North VI": {
-      "customers_affected_14d": 67477,
+      "customers_affected_14d": 67494,
       "outages": [
         {
           "area": "West of ALDER ST, East of DOGWOOD ST, South of ROCKLAND RD, North of HOLM RD",
@@ -9998,6 +9961,16 @@
           "municipality": "Campbell River",
           "municipality_code": "city-1240464880",
           "start": "2020-10-09T12:21:00"
+        },
+        {
+          "area": "500 block ISLAND HWY",
+          "cause": "Other",
+          "customers_affected": "17",
+          "end": "",
+          "last_updated": "2020-10-16T16:56:00",
+          "municipality": "Campbell River",
+          "municipality_code": "day-1 day-3 city-1240464880",
+          "start": "2020-10-16T15:41:00"
         },
         {
           "area": "3800 block PEAK DR, 3800 block PEAK RD",
@@ -10546,7 +10519,7 @@
           "end": "2020-10-14T17:45:00",
           "last_updated": "2020-10-14T17:11:00",
           "municipality": "Courtenay",
-          "municipality_code": "day-1 day-3 city--824228212",
+          "municipality_code": "day-3 city--824228212",
           "start": "2020-10-14T14:59:00"
         },
         {
@@ -11156,7 +11129,7 @@
           "end": "2020-10-14T17:30:00",
           "last_updated": "2020-10-15T07:29:00",
           "municipality": "Nanaimo",
-          "municipality_code": "day-1 day-3 city--907547835",
+          "municipality_code": "day-3 city--907547835",
           "start": "2020-10-14T14:16:00"
         },
         {
@@ -12294,7 +12267,7 @@
       "region_id": "1602896846"
     },
     "Northern": {
-      "customers_affected_14d": 14138,
+      "customers_affected_14d": 14199,
       "outages": [
         {
           "area": "100 - 200 block WABALISLA ST, 0 - 100 block WAGLISLA ST, 500 block CHEENIS ST, 700 block GOOSE ISLAND DR, AIRPORT RD, BELLA BELLA RORO, PUMPHOUSE, 0 - 1200 block SHEARWATER RD, UPPER HOTEL, DENNY ISLAND RD...",
@@ -12358,13 +12331,23 @@
         },
         {
           "area": "COLLEYMOUNT P220/3, COLLEYMOUNT P243/1, COLLEYMOUNT P361, SHORT RD PUMP P2, 22400 block TWIN FLOWER DR, 23300 block AGER RD P3, 0 - 24100 block TROUT CREEK RD, 24300 block KOON RD, FRANCOIS LK W P531, 0 - 54100 block COLLEYMOUNT RD...",
-          "cause": "Under investigation",
+          "cause": "Tree down across our wires",
           "customers_affected": "134",
           "end": "2020-10-16T16:30:00",
-          "last_updated": "2020-10-16T16:06:00",
+          "last_updated": "2020-10-16T16:59:00",
           "municipality": "Burns Lake",
           "municipality_code": "day-1 day-3 city--2121425941",
           "start": "2020-10-15T21:59:00"
+        },
+        {
+          "area": "West of HWY 35",
+          "cause": "Under investigation",
+          "customers_affected": "61",
+          "end": "2020-10-16T17:15:00",
+          "last_updated": "2020-10-16T16:59:00",
+          "municipality": "Burns Lake",
+          "municipality_code": "day-1 day-3 city--2121425941",
+          "start": "2020-10-16T10:06:00"
         },
         {
           "area": "West of ROSE LAKE CUTOFF RD, South of CROW CREEK RD",
@@ -13193,7 +13176,7 @@
           "end": "2020-10-14T17:30:00",
           "last_updated": "2020-10-14T17:19:00",
           "municipality": "Prince Rupert",
-          "municipality_code": "day-1 day-3 city--2129578383",
+          "municipality_code": "day-3 city--2129578383",
           "start": "2020-10-14T17:04:00"
         },
         {
@@ -13790,7 +13773,7 @@
           "end": "2020-10-12T17:30:00",
           "last_updated": "2020-10-13T08:29:00",
           "municipality": "Lake Country",
-          "municipality_code": "day-3 city--443780603",
+          "municipality_code": "city--443780603",
           "start": "2020-10-12T07:33:00"
         },
         {
@@ -14178,7 +14161,7 @@
       "region_id": "2072041405"
     },
     "South VI": {
-      "customers_affected_14d": 73246,
+      "customers_affected_14d": 74654,
       "outages": [
         {
           "area": "North of CHURCH RD, West of STAUTW RD, East of TETAYUT RD, South of MT NEWTON XRD",
@@ -15372,10 +15355,10 @@
         },
         {
           "area": "North of MCCALLUM RD , East of TRANS CAN HWY, South of FINLAYSON ARM RD",
-          "cause": "Under investigation",
-          "customers_affected": "2324",
+          "cause": "Other",
+          "customers_affected": "3732",
           "end": "",
-          "last_updated": "2020-10-16T15:26:00",
+          "last_updated": "2020-10-16T16:51:00",
           "municipality": "Highlands, Langford, View Royal",
           "municipality_code": "day-1 day-3 city-1322525542 city--1549378615 city--1360221748",
           "start": "2020-10-16T13:43:00"
@@ -17214,7 +17197,7 @@
           "end": "2020-10-14T17:00:00",
           "last_updated": "2020-10-14T16:59:00",
           "municipality": "Clearwater",
-          "municipality_code": "day-1 day-3 city-1282265866",
+          "municipality_code": "day-3 city-1282265866",
           "start": "2020-10-14T09:52:00"
         },
         {
@@ -17754,7 +17737,7 @@
           "end": "",
           "last_updated": "2020-10-14T17:07:00",
           "municipality": "Kamloops",
-          "municipality_code": "day-1 day-3 city-979034872",
+          "municipality_code": "day-3 city-979034872",
           "start": "2020-10-14T13:03:00"
         },
         {
