@@ -28,38 +28,31 @@
       "region_id": "848340027"
     },
     "Lower Mainland": {
-      "customers_affected_14d": 45,
+      "customers_affected_14d": 104,
       "outages": [
         {
           "area": "North of GRUMME RD, West of TRANS CANADA HWY, South-East of LOUGHEED HWY\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Planned work being done on our equipment",
           "customers_affected": "45",
-          "last_updated": "2020-10-16T20:35:00",
+          "last_updated": "2020-10-16T22:50:00",
           "municipality": "Kent",
           "municipality_code": "day-1 day-3 city-2334912",
           "start": "2020-10-16T19:23:00",
           "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 17 7:30 a.m."
+        },
+        {
+          "area": "West of GARIBALDI ST, East of 271 ST, North of DEWDNEY TRUNK RD, South of BLUE MOUNTAIN CRS\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Under investigation",
+          "customers_affected": "59",
+          "last_updated": "2020-10-16T22:59:00",
+          "municipality": "Maple Ridge",
+          "municipality_code": "day-1 day-3 city-598891104",
+          "start": "2020-10-16T22:43:00",
+          "status": "Crew status: Crew assigned"
         }
       ],
       "region_code": "Lower Mainland",
       "region_id": "521980323"
-    },
-    "Thompson/Shuswap": {
-      "customers_affected_14d": -1,
-      "outages": [
-        {
-          "area": "1200 block BARNHARTVALE RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Transformer burn out",
-          "customers_affected": "< 5",
-          "last_updated": "2020-10-16T20:36:00",
-          "municipality": "Kamloops",
-          "municipality_code": "day-1 day-3 city-979034872",
-          "start": "2020-10-16T19:49:00",
-          "status": "Crew status: Crew on-site"
-        }
-      ],
-      "region_code": "Thompson/Shuswap",
-      "region_id": "725364552"
     }
   },
   "planned": {
@@ -16787,7 +16780,7 @@
       "region_id": "1812901382"
     },
     "Thompson/Shuswap": {
-      "customers_affected_14d": 15935,
+      "customers_affected_14d": 15936,
       "outages": [
         {
           "area": "East of WILCOX RD, North of TRIP RD",
@@ -17718,6 +17711,16 @@
           "municipality": "Kamloops",
           "municipality_code": "day-1 day-3 city-979034872",
           "start": "2020-10-16T17:16:00"
+        },
+        {
+          "area": "1200 block BARNHARTVALE RD",
+          "cause": "Transformer burn out",
+          "customers_affected": "< 5",
+          "end": "",
+          "last_updated": "2020-10-16T22:50:00",
+          "municipality": "Kamloops",
+          "municipality_code": "day-1 day-3 city-979034872",
+          "start": "2020-10-16T19:49:00"
         },
         {
           "area": "700 block CHF NESKONLITH DR",
