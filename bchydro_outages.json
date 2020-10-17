@@ -7,7 +7,7 @@
           "area": "3800 - 5000 block TALLUS RD, TALLUS RD BLK D\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "41",
-          "last_updated": "2020-10-16T18:50:00",
+          "last_updated": "2020-10-16T18:51:00",
           "municipality": "Prince George",
           "municipality_code": "day-1 day-3 city-1835674262",
           "start": "2020-10-16T11:39:00",
@@ -159,18 +159,8 @@
       "region_id": "1812901382"
     },
     "Thompson/Shuswap": {
-      "customers_affected_14d": 7,
+      "customers_affected_14d": -1,
       "outages": [
-        {
-          "area": "South of CANIM LAKE RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Under investigation",
-          "customers_affected": "6",
-          "last_updated": "2020-10-16T18:50:00",
-          "municipality": "100 Mile House",
-          "municipality_code": "day-1 day-3 city-950857956",
-          "start": "2020-10-16T11:55:00",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 16 7:00 p.m."
-        },
         {
           "area": "1200 block BARNHARTVALE RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
@@ -225,7 +215,7 @@
       "region_id": "848340027"
     },
     "Lower Mainland": {
-      "customers_affected_14d": 9023,
+      "customers_affected_14d": 8968,
       "outages": [
         {
           "area": "1944, 1954, 1966, 1976 Albion St; 32666-32749 Cordova Ave; 325, 32760 Marshall Rd, 32414-32750 Pandora Ave; 1911-1944 Valencia Crt, Abbotsford",
@@ -1546,16 +1536,6 @@
           "municipality": "Vancouver",
           "municipality_code": "day-1 day-3 city--1786794435",
           "start": "2020-10-27T08:30:00"
-        },
-        {
-          "area": "1599 (101-106, 201-206, 301-309,401-406,501-506,601-606,701-706,801-809, Hse) W 71st Ave., Vancouver",
-          "cause": "Planned work being done on our equipment",
-          "customers_affected": "55",
-          "end": "2020-10-14T19:00:00",
-          "last_updated": "2020-10-02T10:52:00",
-          "municipality": "Vancouver",
-          "municipality_code": "day-1 day-3 city--1786794435",
-          "start": "2020-10-14T09:00:00"
         },
         {
           "area": "Outage 2 of 2 | See outage occurring on Monday Oct 19302-450 Greensboro Pl; 6601-6633 Turnberry Cres, 320, 324, 328, 332, 336 340 Whethersfield Dr, Vancouver",
@@ -3758,7 +3738,7 @@
           "end": "2020-10-14T20:30:00",
           "last_updated": "2020-10-14T19:06:00",
           "municipality": "Quesnel",
-          "municipality_code": "day-1 day-3 city--1975191965",
+          "municipality_code": "day-3 city--1975191965",
           "start": "2020-10-14T16:26:00"
         },
         {
@@ -5025,7 +5005,7 @@
           "end": "2020-10-14T19:00:00",
           "last_updated": "2020-10-14T19:16:00",
           "municipality": "Chilliwack",
-          "municipality_code": "day-1 day-3 city--708005353",
+          "municipality_code": "day-3 city--708005353",
           "start": "2020-10-13T11:12:00"
         },
         {
@@ -5275,7 +5255,7 @@
           "end": "2020-10-14T18:00:00",
           "last_updated": "2020-10-14T18:55:00",
           "municipality": "Chilliwack",
-          "municipality_code": "day-1 day-3 city--708005353",
+          "municipality_code": "day-3 city--708005353",
           "start": "2020-10-13T12:51:00"
         },
         {
@@ -10062,7 +10042,7 @@
           "end": "2020-10-14T19:30:00",
           "last_updated": "2020-10-15T11:51:00",
           "municipality": "Campbell River, Courtenay",
-          "municipality_code": "day-1 day-3 city-1240464880 city--824228212",
+          "municipality_code": "day-3 city-1240464880 city--824228212",
           "start": "2020-10-14T17:02:00"
         },
         {
@@ -14563,7 +14543,7 @@
           "end": "2020-10-14T19:30:00",
           "last_updated": "2020-10-15T14:33:00",
           "municipality": "Duncan",
-          "municipality_code": "day-1 day-3 city-2058209491",
+          "municipality_code": "day-3 city-2058209491",
           "start": "2020-10-14T16:17:00"
         },
         {
@@ -16791,7 +16771,7 @@
       "region_id": "1812901382"
     },
     "Thompson/Shuswap": {
-      "customers_affected_14d": 15763,
+      "customers_affected_14d": 15769,
       "outages": [
         {
           "area": "East of WILCOX RD, North of TRIP RD",
@@ -16932,6 +16912,16 @@
           "municipality": "100 Mile House",
           "municipality_code": "city-950857956",
           "start": "2020-10-11T23:40:00"
+        },
+        {
+          "area": "South of CANIM LAKE RD",
+          "cause": "Tree down across our wires",
+          "customers_affected": "6",
+          "end": "2020-10-16T19:00:00",
+          "last_updated": "2020-10-16T18:52:00",
+          "municipality": "100 Mile House",
+          "municipality_code": "day-1 day-3 city-950857956",
+          "start": "2020-10-16T11:55:00"
         },
         {
           "area": "3700 block WRIGHT STATION RD",
@@ -17730,7 +17720,7 @@
           "end": "2020-10-14T16:49:00",
           "last_updated": "2020-10-14T18:55:00",
           "municipality": "Kamloops",
-          "municipality_code": "day-1 day-3 city-979034872",
+          "municipality_code": "day-3 city-979034872",
           "start": "2020-10-14T13:09:00"
         },
         {
