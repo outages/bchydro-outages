@@ -1,7 +1,7 @@
 {
   "current": {
     "Lower Mainland": {
-      "customers_affected_14d": 55,
+      "customers_affected_14d": 53,
       "outages": [
         {
           "area": "2700 block ABERDEEN AVE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -22,16 +22,6 @@
           "municipality_code": "day-1 day-3 city-65915800",
           "start": "2020-10-17T09:24:00",
           "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 17 9:00 p.m."
-        },
-        {
-          "area": "25200 block 32 AVE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Transformer burn out",
-          "customers_affected": "< 5",
-          "last_updated": "2020-10-17T12:30:00",
-          "municipality": "Langley",
-          "municipality_code": "day-1 day-3 city-1612593490",
-          "start": "2020-10-17T09:34:00",
-          "status": "Crew status: Crew assigned"
         },
         {
           "area": "27300 block 48 AVE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -77,33 +67,6 @@
       "region_code": "Lower Mainland",
       "region_id": "521980323"
     },
-    "North VI": {
-      "customers_affected_14d": -1,
-      "outages": [
-        {
-          "area": "200 block ALDER ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Transformer burn out",
-          "customers_affected": "< 5",
-          "last_updated": "2020-10-17T11:53:00",
-          "municipality": "Campbell River",
-          "municipality_code": "day-1 day-3 city-1240464880",
-          "start": "2020-10-17T09:50:00",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 17 2:00 p.m."
-        },
-        {
-          "area": "1400 block PACIFIC RIM HWY\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Wire down",
-          "customers_affected": "< 5",
-          "last_updated": "2020-10-17T11:32:00",
-          "municipality": "Tofino",
-          "municipality_code": "day-1 day-3 city--1784464673",
-          "start": "2020-10-17T10:15:00",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 17 2:30 p.m."
-        }
-      ],
-      "region_code": "North VI",
-      "region_id": "1602896846"
-    },
     "Northern": {
       "customers_affected_14d": -1,
       "outages": [
@@ -128,7 +91,7 @@
           "area": "ROSIA RD P1\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-17T13:03:00",
+          "last_updated": "2020-10-17T13:22:00",
           "municipality": "100 Mile House",
           "municipality_code": "day-1 day-3 city-950857956",
           "start": "2020-10-17T12:56:00",
@@ -3939,7 +3902,7 @@
       "region_id": "848340027"
     },
     "Lower Mainland": {
-      "customers_affected_14d": 144864,
+      "customers_affected_14d": 144866,
       "outages": [
         {
           "area": "North of MACLURE RD, East of MT LEHMAN RD, West of Hwy 11",
@@ -6178,7 +6141,7 @@
           "end": "2020-10-15T14:18:00",
           "last_updated": "2020-10-15T13:22:00",
           "municipality": "Kent",
-          "municipality_code": "day-1 day-3 city-2334912",
+          "municipality_code": "day-3 city-2334912",
           "start": "2020-10-15T10:57:00"
         },
         {
@@ -6622,6 +6585,16 @@
           "start": "2020-10-03T12:12:00"
         },
         {
+          "area": "25200 block 32 AVE",
+          "cause": "Transformer burn out",
+          "customers_affected": "< 5",
+          "end": "2020-10-17T13:30:00",
+          "last_updated": "2020-10-17T13:26:00",
+          "municipality": "Langley",
+          "municipality_code": "day-1 day-3 city-1612593490",
+          "start": "2020-10-17T09:34:00"
+        },
+        {
           "area": "19900 block FRASER HWY",
           "cause": "Planned work being done on our equipment",
           "customers_affected": "< 5",
@@ -6713,10 +6686,10 @@
         },
         {
           "area": "7900 block 202A ST",
-          "cause": "Under investigation",
+          "cause": "Bird contacting our wires",
           "customers_affected": "< 5",
           "end": "2020-10-17T12:00:00",
-          "last_updated": "2020-10-17T11:41:00",
+          "last_updated": "2020-10-17T13:21:00",
           "municipality": "Langley",
           "municipality_code": "day-1 day-3 city-1612593490",
           "start": "2020-10-17T10:23:00"
@@ -7188,7 +7161,7 @@
           "end": "2020-10-13T13:00:00",
           "last_updated": "2020-10-13T13:19:00",
           "municipality": "Maple Ridge",
-          "municipality_code": "day-3 city-598891104",
+          "municipality_code": "city-598891104",
           "start": "2020-10-13T10:53:00"
         },
         {
@@ -8618,7 +8591,7 @@
           "end": "2020-10-13T14:17:00",
           "last_updated": "2020-10-14T11:37:00",
           "municipality": "Surrey",
-          "municipality_code": "day-3 city--1807186826",
+          "municipality_code": "city--1807186826",
           "start": "2020-10-13T11:52:00"
         },
         {
@@ -9528,7 +9501,7 @@
           "end": "2020-10-13T13:30:00",
           "last_updated": "2020-10-14T10:07:00",
           "municipality": "Vancouver",
-          "municipality_code": "day-3 city--1786794435",
+          "municipality_code": "city--1786794435",
           "start": "2020-10-13T10:05:00"
         },
         {
@@ -9736,7 +9709,7 @@
       "region_id": "521980323"
     },
     "North VI": {
-      "customers_affected_14d": 67340,
+      "customers_affected_14d": 67344,
       "outages": [
         {
           "area": "West of ALDER ST, East of DOGWOOD ST, South of ROCKLAND RD, North of HOLM RD",
@@ -9847,6 +9820,16 @@
           "municipality": "Campbell River",
           "municipality_code": "city-1240464880",
           "start": "2020-10-09T13:06:00"
+        },
+        {
+          "area": "200 block ALDER ST",
+          "cause": "Equipment failure",
+          "customers_affected": "< 5",
+          "end": "2020-10-17T14:00:00",
+          "last_updated": "2020-10-17T13:12:00",
+          "municipality": "Campbell River",
+          "municipality_code": "day-1 day-3 city-1240464880",
+          "start": "2020-10-17T09:50:00"
         },
         {
           "area": "South of SNOWDEN RD, North-East of BREWSTER LAKE RD",
@@ -10175,7 +10158,7 @@
           "end": "2020-10-13T14:00:00",
           "last_updated": "2020-10-13T14:55:00",
           "municipality": "Courtenay",
-          "municipality_code": "day-3 city--824228212",
+          "municipality_code": "city--824228212",
           "start": "2020-10-13T10:31:00"
         },
         {
@@ -10815,7 +10798,7 @@
           "end": "",
           "last_updated": "2020-10-13T14:52:00",
           "municipality": "Nanaimo",
-          "municipality_code": "day-3 city--907547835",
+          "municipality_code": "city--907547835",
           "start": "2020-10-13T06:51:00"
         },
         {
@@ -12007,6 +11990,16 @@
           "municipality": "Tofino",
           "municipality_code": "day-3 city--1784464673",
           "start": "2020-10-13T13:49:00"
+        },
+        {
+          "area": "1400 block PACIFIC RIM HWY",
+          "cause": "Tree down across our wires",
+          "customers_affected": "< 5",
+          "end": "2020-10-17T13:30:00",
+          "last_updated": "2020-10-17T13:22:00",
+          "municipality": "Tofino",
+          "municipality_code": "day-1 day-3 city--1784464673",
+          "start": "2020-10-17T10:15:00"
         },
         {
           "area": "North of HELEN RD, West of BARKLEY MAIN RD, East of SEA PLANE BASE RD",
@@ -13429,7 +13422,7 @@
           "end": "2020-10-15T13:30:00",
           "last_updated": "2020-10-15T13:14:00",
           "municipality": "Golden",
-          "municipality_code": "day-1 day-3 city-2138497321",
+          "municipality_code": "day-3 city-2138497321",
           "start": "2020-10-15T07:40:00"
         },
         {
@@ -14516,7 +14509,7 @@
           "end": "2020-10-13T13:30:00",
           "last_updated": "2020-10-16T14:15:00",
           "municipality": "Esquimalt",
-          "municipality_code": "day-3 city--941955629",
+          "municipality_code": "city--941955629",
           "start": "2020-10-13T09:44:00"
         },
         {
@@ -14756,7 +14749,7 @@
           "end": "2020-10-15T13:30:00",
           "last_updated": "2020-10-15T16:31:00",
           "municipality": "Ganges",
-          "municipality_code": "day-1 day-3 city-2125630497",
+          "municipality_code": "day-3 city-2125630497",
           "start": "2020-10-15T12:58:00"
         },
         {
@@ -17143,7 +17136,7 @@
           "end": "2020-10-15T13:00:00",
           "last_updated": "2020-10-15T14:00:00",
           "municipality": "Clearwater",
-          "municipality_code": "day-1 day-3 city-1282265866",
+          "municipality_code": "day-3 city-1282265866",
           "start": "2020-10-15T12:00:00"
         },
         {
@@ -17283,7 +17276,7 @@
           "end": "2020-10-15T15:00:00",
           "last_updated": "2020-10-15T13:23:00",
           "municipality": "Kamloops",
-          "municipality_code": "day-1 day-3 city-979034872",
+          "municipality_code": "day-3 city-979034872",
           "start": "2020-10-15T10:36:00"
         },
         {
@@ -17713,7 +17706,7 @@
           "end": "2020-10-13T12:39:00",
           "last_updated": "2020-10-14T14:11:00",
           "municipality": "Merritt",
-          "municipality_code": "day-3 city--1676334159",
+          "municipality_code": "city--1676334159",
           "start": "2020-10-13T09:45:00"
         },
         {
