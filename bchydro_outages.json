@@ -1,7 +1,7 @@
 {
   "current": {
     "Lower Mainland": {
-      "customers_affected_14d": 687,
+      "customers_affected_14d": 495,
       "outages": [
         {
           "area": "2700 block ABERDEEN AVE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -14,24 +14,14 @@
           "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 18 3:00 p.m."
         },
         {
-          "area": "East of CLIVEDEN AVE, North of RIVER RD, West of HWY 91 , South of DYKE RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Planned work being done on our equipment",
-          "customers_affected": "192",
-          "last_updated": "2020-10-17T09:33:00",
-          "municipality": "Delta, Richmond",
-          "municipality_code": "day-1 day-3 city-65915800 city--1486145068",
-          "start": "2020-10-17T09:24:00",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 17 9:00 p.m."
-        },
-        {
           "area": "25200 block 32 AVE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-17T10:03:00",
+          "last_updated": "2020-10-17T10:09:00",
           "municipality": "Langley",
           "municipality_code": "day-1 day-3 city-1612593490",
           "start": "2020-10-17T09:34:00",
-          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 17 11:05 a.m."
+          "status": "Crew status: Crew on-site"
         },
         {
           "area": "10900 block BAMBERTON DR, 7400 - 7500 block WATERTON DR\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -78,17 +68,27 @@
       "region_id": "521980323"
     },
     "North VI": {
-      "customers_affected_14d": 19,
+      "customers_affected_14d": 20,
       "outages": [
         {
           "area": "6900 block RUPERT ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "19",
-          "last_updated": "2020-10-17T09:39:00",
+          "last_updated": "2020-10-17T10:15:00",
           "municipality": "Port Hardy",
           "municipality_code": "day-1 day-3 city-368562319",
           "start": "2020-10-17T08:51:00",
           "status": "Crew status: Crew on-site"
+        },
+        {
+          "area": "1400 block PACIFIC RIM HWY\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Under investigation",
+          "customers_affected": "< 5",
+          "last_updated": "2020-10-17T10:18:00",
+          "municipality": "Tofino",
+          "municipality_code": "day-1 day-3 city--1784464673",
+          "start": "2020-10-17T10:15:00",
+          "status": "Crew status: No crew assigned yet"
         }
       ],
       "region_code": "North VI",
@@ -11291,7 +11291,7 @@
           "end": "",
           "last_updated": "2020-10-15T13:54:00",
           "municipality": "Port Hardy",
-          "municipality_code": "day-1 day-3 city-368562319",
+          "municipality_code": "day-3 city-368562319",
           "start": "2020-10-15T02:27:00"
         },
         {
@@ -15842,7 +15842,7 @@
           "end": "2020-10-13T11:03:00",
           "last_updated": "2020-10-14T13:07:00",
           "municipality": "Saanich",
-          "municipality_code": "day-3 city--776615533",
+          "municipality_code": "city--776615533",
           "start": "2020-10-13T08:32:00"
         },
         {
