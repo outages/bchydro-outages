@@ -1,22 +1,5 @@
 {
   "current": {
-    "Central Interior": {
-      "customers_affected_14d": 42,
-      "outages": [
-        {
-          "area": "3800 - 5000 block TALLUS RD, TALLUS RD BLK D\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Under investigation",
-          "customers_affected": "42",
-          "last_updated": "2020-10-17T03:35:00",
-          "municipality": "Prince George",
-          "municipality_code": "day-1 day-3 city-1835674262",
-          "start": "2020-10-16T11:39:00",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 17 4:10 a.m."
-        }
-      ],
-      "region_code": "Central Interior",
-      "region_id": "848340027"
-    },
     "Lower Mainland": {
       "customers_affected_14d": 45,
       "outages": [
@@ -2988,7 +2971,7 @@
   },
   "restored": {
     "Central Interior": {
-      "customers_affected_14d": 14387,
+      "customers_affected_14d": 14429,
       "outages": [
         {
           "area": "North of HWY 97",
@@ -3159,6 +3142,16 @@
           "municipality": "Prince George",
           "municipality_code": "day-1 day-3 city-1835674262",
           "start": "2020-10-16T06:54:00"
+        },
+        {
+          "area": "3800 - 5000 block TALLUS RD, TALLUS RD BLK D",
+          "cause": "Equipment failure",
+          "customers_affected": "42",
+          "end": "2020-10-17T04:07:00",
+          "last_updated": "2020-10-17T03:38:00",
+          "municipality": "Prince George",
+          "municipality_code": "day-1 day-3 city-1835674262",
+          "start": "2020-10-16T11:39:00"
         },
         {
           "area": "4500 - 4700 block HANDLEN RD",
