@@ -1,7 +1,7 @@
 {
   "current": {
     "Lower Mainland": {
-      "customers_affected_14d": 14,
+      "customers_affected_14d": 685,
       "outages": [
         {
           "area": "2700 block ABERDEEN AVE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -14,10 +14,20 @@
           "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 18 3:00 p.m."
         },
         {
+          "area": "East of CLIVEDEN AVE, North of RIVER RD, West of HWY 91 , South of DYKE RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Planned work being done on our equipment",
+          "customers_affected": "192",
+          "last_updated": "2020-10-17T09:30:00",
+          "municipality": "Delta, Richmond",
+          "municipality_code": "day-1 day-3 city-65915800 city--1486145068",
+          "start": "2020-10-17T09:24:00",
+          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 17 9:00 p.m."
+        },
+        {
           "area": "10900 block BAMBERTON DR, 7400 - 7500 block WATERTON DR\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Planned work being done on our equipment",
           "customers_affected": "10",
-          "last_updated": "2020-10-17T08:57:00",
+          "last_updated": "2020-10-17T09:09:00",
           "municipality": "Richmond",
           "municipality_code": "day-1 day-3 city--1486145068",
           "start": "2020-10-17T08:56:00",
@@ -27,11 +37,31 @@
           "area": "1200 block E PENDER ST, 1200 block E HASTINGS ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Equipment failure",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-17T08:39:00",
+          "last_updated": "2020-10-17T09:14:00",
           "municipality": "Vancouver",
           "municipality_code": "day-1 day-3 city--1786794435",
           "start": "2020-10-17T05:52:00",
-          "status": "Crew status: Crew assigned\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 17 6:50 a.m."
+          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 17 6:50 a.m."
+        },
+        {
+          "area": "West of GEORGE ST, East of MARTIN ST, North of ROPER AVE, South of NORTH BLUFF RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Planned work being done on our equipment",
+          "customers_affected": "421",
+          "last_updated": "2020-10-17T09:22:00",
+          "municipality": "White Rock",
+          "municipality_code": "day-1 day-3 city--2102123204",
+          "start": "2020-10-17T09:14:00",
+          "status": "Crew status: Crew assigned\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 17 9:25 a.m."
+        },
+        {
+          "area": "COR JOHNSTON RD AT, 1400 - 1500 block JOHNSTON RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Planned work being done on our equipment",
+          "customers_affected": "58",
+          "last_updated": "2020-10-17T09:23:00",
+          "municipality": "White Rock",
+          "municipality_code": "day-1 day-3 city--2102123204",
+          "start": "2020-10-17T09:19:00",
+          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 17 10:30 a.m."
         }
       ],
       "region_code": "Lower Mainland",
@@ -44,11 +74,11 @@
           "area": "6900 block RUPERT ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "19",
-          "last_updated": "2020-10-17T09:00:00",
+          "last_updated": "2020-10-17T09:28:00",
           "municipality": "Port Hardy",
           "municipality_code": "day-1 day-3 city-368562319",
           "start": "2020-10-17T08:51:00",
-          "status": "Crew status: Crew assigned"
+          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 17 10:00 a.m."
         }
       ],
       "region_code": "North VI",
@@ -84,7 +114,7 @@
       "region_id": "848340027"
     },
     "Lower Mainland": {
-      "customers_affected_14d": 8883,
+      "customers_affected_14d": 8827,
       "outages": [
         {
           "area": "1944, 1954, 1966, 1976 Albion St; 32666-32749 Cordova Ave; 325, 32760 Marshall Rd, 32414-32750 Pandora Ave; 1911-1944 Valencia Crt, Abbotsford",
@@ -945,16 +975,6 @@
           "municipality": "Pemberton",
           "municipality_code": "day-1 day-3 city--2076154532",
           "start": "2020-10-16T08:30:00"
-        },
-        {
-          "area": "**SHORT SWITCHING OUTAGE**18947-19022 119b Ave, 18981-19019 120b Ave, 11913-11945 189a St, 11977-12069 189b St, 11980-12060 190 St",
-          "cause": "Planned work being done on our equipment",
-          "customers_affected": "56",
-          "end": "2020-10-15T09:30:00",
-          "last_updated": "2020-10-05T16:27:00",
-          "municipality": "Pitt Meadows",
-          "municipality_code": "day-1 day-3 city--253788407",
-          "start": "2020-10-15T08:30:00"
         },
         {
           "area": "18840-18946 119b Ave",
@@ -3885,7 +3905,7 @@
       "region_id": "848340027"
     },
     "Lower Mainland": {
-      "customers_affected_14d": 144281,
+      "customers_affected_14d": 144326,
       "outages": [
         {
           "area": "North of MACLURE RD, East of MT LEHMAN RD, West of Hwy 11",
@@ -6056,6 +6076,16 @@
           "municipality": "Kent",
           "municipality_code": "day-3 city-2334912",
           "start": "2020-10-13T18:32:00"
+        },
+        {
+          "area": "North of GRUMME RD, West of TRANS CANADA HWY, South-East of LOUGHEED HWY",
+          "cause": "Planned work being done on our equipment",
+          "customers_affected": "45",
+          "end": "2020-10-17T07:30:00",
+          "last_updated": "2020-10-17T09:12:00",
+          "municipality": "Kent",
+          "municipality_code": "day-1 day-3 city-2334912",
+          "start": "2020-10-16T19:23:00"
         },
         {
           "area": "South of cemetery RD, West of CAMERON RD, North of LOUGHEED HWY",
@@ -9931,7 +9961,7 @@
           "end": "",
           "last_updated": "2020-10-13T09:45:00",
           "municipality": "Comox, Courtenay, Cumberland",
-          "municipality_code": "day-3 city-65291018 city--824228212 city--531324801",
+          "municipality_code": "city-65291018 city--824228212 city--531324801",
           "start": "2020-10-13T08:45:00"
         },
         {
@@ -10281,7 +10311,7 @@
           "end": "",
           "last_updated": "2020-10-13T09:41:00",
           "municipality": "Courtenay",
-          "municipality_code": "day-3 city--824228212",
+          "municipality_code": "city--824228212",
           "start": "2020-10-13T06:38:00"
         },
         {
@@ -10391,7 +10421,7 @@
           "end": "",
           "last_updated": "2020-10-15T07:38:00",
           "municipality": "Ladysmith",
-          "municipality_code": "day-3 city--543936167",
+          "municipality_code": "city--543936167",
           "start": "2020-10-13T07:37:00"
         },
         {
@@ -10841,7 +10871,7 @@
           "end": "2020-10-15T10:43:00",
           "last_updated": "2020-10-15T15:42:00",
           "municipality": "Nanaimo",
-          "municipality_code": "day-1 day-3 city--907547835",
+          "municipality_code": "day-3 city--907547835",
           "start": "2020-10-13T10:15:00"
         },
         {
@@ -10871,7 +10901,7 @@
           "end": "2020-10-13T09:30:00",
           "last_updated": "2020-10-13T11:47:00",
           "municipality": "Nanaimo",
-          "municipality_code": "day-3 city--907547835",
+          "municipality_code": "city--907547835",
           "start": "2020-10-13T06:41:00"
         },
         {
@@ -11401,7 +11431,7 @@
           "end": "",
           "last_updated": "2020-10-15T12:19:00",
           "municipality": "Qualicum Beach",
-          "municipality_code": "day-1 day-3 city--154309756",
+          "municipality_code": "day-3 city--154309756",
           "start": "2020-10-15T07:43:00"
         },
         {
@@ -14462,7 +14492,7 @@
           "end": "2020-10-13T09:30:00",
           "last_updated": "2020-10-14T12:01:00",
           "municipality": "Galiano Island",
-          "municipality_code": "day-3 city--995767958",
+          "municipality_code": "city--995767958",
           "start": "2020-10-13T04:00:00"
         },
         {
