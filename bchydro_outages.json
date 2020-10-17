@@ -1,7 +1,7 @@
 {
   "current": {
     "Lower Mainland": {
-      "customers_affected_14d": 495,
+      "customers_affected_14d": 496,
       "outages": [
         {
           "area": "2700 block ABERDEEN AVE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -15,13 +15,23 @@
         },
         {
           "area": "25200 block 32 AVE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Under investigation",
+          "cause": "Transformer burn out",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-17T10:09:00",
+          "last_updated": "2020-10-17T10:30:00",
           "municipality": "Langley",
           "municipality_code": "day-1 day-3 city-1612593490",
           "start": "2020-10-17T09:34:00",
-          "status": "Crew status: Crew on-site"
+          "status": "Crew status: Crew assigned\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 17 10:10 a.m."
+        },
+        {
+          "area": "7900 block 202A ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Under investigation",
+          "customers_affected": "< 5",
+          "last_updated": "2020-10-17T10:31:00",
+          "municipality": "Langley",
+          "municipality_code": "day-1 day-3 city-1612593490",
+          "start": "2020-10-17T10:23:00",
+          "status": "Crew status: Crew assigned"
         },
         {
           "area": "10900 block BAMBERTON DR, 7400 - 7500 block WATERTON DR\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -68,27 +78,17 @@
       "region_id": "521980323"
     },
     "North VI": {
-      "customers_affected_14d": 20,
+      "customers_affected_14d": -1,
       "outages": [
         {
-          "area": "6900 block RUPERT ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Under investigation",
-          "customers_affected": "19",
-          "last_updated": "2020-10-17T10:15:00",
-          "municipality": "Port Hardy",
-          "municipality_code": "day-1 day-3 city-368562319",
-          "start": "2020-10-17T08:51:00",
-          "status": "Crew status: Crew on-site"
-        },
-        {
           "area": "1400 block PACIFIC RIM HWY\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Under investigation",
+          "cause": "Wire down",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-17T10:18:00",
+          "last_updated": "2020-10-17T10:28:00",
           "municipality": "Tofino",
           "municipality_code": "day-1 day-3 city--1784464673",
           "start": "2020-10-17T10:15:00",
-          "status": "Crew status: No crew assigned yet"
+          "status": "Crew status: Crew assigned"
         }
       ],
       "region_code": "North VI",
@@ -9672,7 +9672,7 @@
       "region_id": "521980323"
     },
     "North VI": {
-      "customers_affected_14d": 67321,
+      "customers_affected_14d": 67340,
       "outages": [
         {
           "area": "West of ALDER ST, East of DOGWOOD ST, South of ROCKLAND RD, North of HOLM RD",
@@ -10211,7 +10211,7 @@
           "end": "",
           "last_updated": "2020-10-13T10:27:00",
           "municipality": "Courtenay",
-          "municipality_code": "day-3 city--824228212",
+          "municipality_code": "city--824228212",
           "start": "2020-10-13T10:00:00"
         },
         {
@@ -11293,6 +11293,16 @@
           "municipality": "Port Hardy",
           "municipality_code": "day-3 city-368562319",
           "start": "2020-10-15T02:27:00"
+        },
+        {
+          "area": "6900 block RUPERT ST",
+          "cause": "Equipment failure",
+          "customers_affected": "19",
+          "end": "",
+          "last_updated": "2020-10-17T10:30:00",
+          "municipality": "Port Hardy",
+          "municipality_code": "day-1 day-3 city-368562319",
+          "start": "2020-10-17T08:51:00"
         },
         {
           "area": "100 block SPRINGHILL RD, 200 block GUN RANGE RD",
@@ -12948,7 +12958,7 @@
           "end": "2020-10-15T11:00:00",
           "last_updated": "2020-10-15T10:30:00",
           "municipality": "Smithers",
-          "municipality_code": "day-1 day-3 city--305588573",
+          "municipality_code": "day-3 city--305588573",
           "start": "2020-10-15T10:15:00"
         },
         {
@@ -14882,7 +14892,7 @@
           "end": "2020-10-13T11:00:00",
           "last_updated": "2020-10-13T14:21:00",
           "municipality": "Ganges",
-          "municipality_code": "day-3 city-2125630497",
+          "municipality_code": "city-2125630497",
           "start": "2020-10-13T09:05:00"
         },
         {
@@ -16789,7 +16799,7 @@
           "end": "2020-10-15T11:30:00",
           "last_updated": "2020-10-15T10:27:00",
           "municipality": "Chase",
-          "municipality_code": "day-1 day-3 city-65071054",
+          "municipality_code": "day-3 city-65071054",
           "start": "2020-10-15T08:37:00"
         },
         {
