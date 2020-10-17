@@ -1,7 +1,7 @@
 {
   "current": {
     "Lower Mainland": {
-      "customers_affected_14d": 495,
+      "customers_affected_14d": 533,
       "outages": [
         {
           "area": "2700 block ABERDEEN AVE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -27,7 +27,7 @@
           "area": "25200 block 32 AVE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Transformer burn out",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-17T10:32:00",
+          "last_updated": "2020-10-17T10:55:00",
           "municipality": "Langley",
           "municipality_code": "day-1 day-3 city-1612593490",
           "start": "2020-10-17T09:34:00",
@@ -37,11 +37,11 @@
           "area": "7900 block 202A ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-17T10:31:00",
+          "last_updated": "2020-10-17T10:50:00",
           "municipality": "Langley",
           "municipality_code": "day-1 day-3 city-1612593490",
           "start": "2020-10-17T10:23:00",
-          "status": "Crew status: Crew assigned"
+          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 17 11:30 a.m."
         },
         {
           "area": "10900 block BAMBERTON DR, 7400 - 7500 block WATERTON DR\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -67,21 +67,21 @@
           "area": "West of GEORGE ST, East of MARTIN ST, North of ROPER AVE, South of NORTH BLUFF RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Planned work being done on our equipment",
           "customers_affected": "421",
-          "last_updated": "2020-10-17T09:22:00",
+          "last_updated": "2020-10-17T10:49:00",
           "municipality": "White Rock",
           "municipality_code": "day-1 day-3 city--2102123204",
           "start": "2020-10-17T09:14:00",
-          "status": "Crew status: Crew assigned\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 17 9:25 a.m."
+          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 17 11:30 a.m."
         },
         {
-          "area": "1500 block JOHNSTON RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Under investigation",
-          "customers_affected": "20",
-          "last_updated": "2020-10-17T10:41:00",
+          "area": "1400 - 1500 block JOHNSTON RD, COR JOHNSTON RD AT\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Planned work being done on our equipment",
+          "customers_affected": "58",
+          "last_updated": "2020-10-17T10:56:00",
           "municipality": "White Rock",
           "municipality_code": "day-1 day-3 city--2102123204",
           "start": "2020-10-17T10:34:00",
-          "status": "Crew status: No crew assigned yet"
+          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 17 11:30 a.m."
         }
       ],
       "region_code": "Lower Mainland",
@@ -10541,7 +10541,7 @@
           "end": "2020-10-13T10:30:00",
           "last_updated": "2020-10-13T11:46:00",
           "municipality": "Nanaimo",
-          "municipality_code": "day-3 city--907547835",
+          "municipality_code": "city--907547835",
           "start": "2020-10-13T04:37:00"
         },
         {
@@ -11191,7 +11191,7 @@
           "end": "",
           "last_updated": "2020-10-13T12:32:00",
           "municipality": "Port Alberni",
-          "municipality_code": "day-3 city-383682720",
+          "municipality_code": "city-383682720",
           "start": "2020-10-13T09:55:00"
         },
         {
@@ -14642,7 +14642,7 @@
           "end": "2020-10-13T11:00:00",
           "last_updated": "2020-10-14T11:42:00",
           "municipality": "Galiano Island",
-          "municipality_code": "day-3 city--995767958",
+          "municipality_code": "city--995767958",
           "start": "2020-10-13T08:07:00"
         },
         {
@@ -15282,7 +15282,7 @@
           "end": "2020-10-13T10:30:00",
           "last_updated": "2020-10-13T10:51:00",
           "municipality": "North Cowichan",
-          "municipality_code": "day-3 city--666037877",
+          "municipality_code": "city--666037877",
           "start": "2020-10-13T08:38:00"
         },
         {
