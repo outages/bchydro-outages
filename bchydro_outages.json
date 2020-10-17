@@ -1,7 +1,7 @@
 {
   "current": {
     "Lower Mainland": {
-      "customers_affected_14d": 56,
+      "customers_affected_14d": 46,
       "outages": [
         {
           "area": "2000 block DIXON RD, 39900 block NO 5 RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -37,21 +37,11 @@
           "area": "27300 block 48 AVE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Bird contacting our wires",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-17T14:14:00",
+          "last_updated": "2020-10-17T14:27:00",
           "municipality": "Langley",
           "municipality_code": "day-1 day-3 city-1612593490",
           "start": "2020-10-17T12:23:00",
           "status": "Crew status: Crew assigned\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 17 3:15 p.m."
-        },
-        {
-          "area": "10900 block BAMBERTON DR, 7400 - 7500 block WATERTON DR\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Planned work being done on our equipment",
-          "customers_affected": "10",
-          "last_updated": "2020-10-17T09:09:00",
-          "municipality": "Richmond",
-          "municipality_code": "day-1 day-3 city--1486145068",
-          "start": "2020-10-17T08:56:00",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 17 3:00 p.m."
         },
         {
           "area": "1200 block E PENDER ST, 1200 block E HASTINGS ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -158,7 +148,7 @@
       "region_id": "848340027"
     },
     "Lower Mainland": {
-      "customers_affected_14d": 8791,
+      "customers_affected_14d": 8789,
       "outages": [
         {
           "area": "1944, 1954, 1966, 1976 Albion St; 32666-32749 Cordova Ave; 325, 32760 Marshall Rd, 32414-32750 Pandora Ave; 1911-1944 Valencia Crt, Abbotsford",
@@ -1019,16 +1009,6 @@
           "municipality": "Pitt Meadows",
           "municipality_code": "day-1 day-3 city--253788407",
           "start": "2020-10-22T08:30:00"
-        },
-        {
-          "area": "**CANCELLED**19459 Richardson Rd., Pitt Meadows",
-          "cause": "Pole replacement",
-          "customers_affected": "< 5",
-          "end": "2020-10-15T14:30:00",
-          "last_updated": "2020-10-08T13:42:00",
-          "municipality": "Pitt Meadows",
-          "municipality_code": "day-1 day-3 city--253788407",
-          "start": "2020-10-15T09:00:00"
         },
         {
           "area": "19084 McQuarrie Rd",
@@ -3889,7 +3869,7 @@
       "region_id": "848340027"
     },
     "Lower Mainland": {
-      "customers_affected_14d": 144873,
+      "customers_affected_14d": 144883,
       "outages": [
         {
           "area": "North of MACLURE RD, East of MT LEHMAN RD, West of Hwy 11",
@@ -7598,7 +7578,7 @@
           "end": "2020-10-15T14:30:00",
           "last_updated": "2020-10-16T07:18:00",
           "municipality": "Mission",
-          "municipality_code": "day-1 day-3 city--1560864404",
+          "municipality_code": "day-3 city--1560864404",
           "start": "2020-10-13T14:35:00"
         },
         {
@@ -8230,6 +8210,16 @@
           "municipality": "Richmond",
           "municipality_code": "city--1486145068",
           "start": "2020-10-09T08:40:00"
+        },
+        {
+          "area": "10900 block BAMBERTON DR, 7400 - 7500 block WATERTON DR",
+          "cause": "Planned work being done on our equipment",
+          "customers_affected": "10",
+          "end": "2020-10-17T15:00:00",
+          "last_updated": "2020-10-17T14:29:00",
+          "municipality": "Richmond",
+          "municipality_code": "day-1 day-3 city--1486145068",
+          "start": "2020-10-17T08:56:00"
         },
         {
           "area": "10400 - 10500 block NO 1 RD",
@@ -12262,7 +12252,7 @@
           "end": "2020-10-13T15:05:00",
           "last_updated": "2020-10-15T08:49:00",
           "municipality": "Burns Lake",
-          "municipality_code": "day-3 city--2121425941",
+          "municipality_code": "city--2121425941",
           "start": "2020-10-13T11:07:00"
         },
         {
@@ -12462,7 +12452,7 @@
           "end": "2020-10-15T14:35:00",
           "last_updated": "2020-10-16T06:50:00",
           "municipality": "Dawson Creek",
-          "municipality_code": "day-1 day-3 city--1630954860",
+          "municipality_code": "day-3 city--1630954860",
           "start": "2020-10-15T09:18:00"
         },
         {
@@ -12982,7 +12972,7 @@
           "end": "2020-10-15T14:54:00",
           "last_updated": "2020-10-15T15:43:00",
           "municipality": "Queen Charlotte",
-          "municipality_code": "day-1 day-3 city-609409590",
+          "municipality_code": "day-3 city-609409590",
           "start": "2020-10-15T12:16:00"
         },
         {
@@ -13996,7 +13986,7 @@
           "end": "2020-10-15T14:45:00",
           "last_updated": "2020-10-16T13:42:00",
           "municipality": "Central Saanich",
-          "municipality_code": "day-1 day-3 city--769735224",
+          "municipality_code": "day-3 city--769735224",
           "start": "2020-10-15T13:20:00"
         },
         {
@@ -14686,7 +14676,7 @@
           "end": "2020-10-13T15:00:00",
           "last_updated": "2020-10-13T14:47:00",
           "municipality": "Ganges",
-          "municipality_code": "day-3 city-2125630497",
+          "municipality_code": "city-2125630497",
           "start": "2020-10-13T11:27:00"
         },
         {
