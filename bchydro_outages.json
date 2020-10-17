@@ -43,6 +43,23 @@
       ],
       "region_code": "Lower Mainland",
       "region_id": "521980323"
+    },
+    "Thompson/Shuswap": {
+      "customers_affected_14d": 7,
+      "outages": [
+        {
+          "area": "6300 block EDEN ROAD, 6200 - 6800 block MARTIN PRAIRIE RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Tree down across our wires",
+          "customers_affected": "7",
+          "last_updated": "2020-10-17T00:42:00",
+          "municipality": "Salmon Arm",
+          "municipality_code": "day-1 day-3 city-2118875562",
+          "start": "2020-10-16T21:58:00",
+          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 17 3:00 a.m."
+        }
+      ],
+      "region_code": "Thompson/Shuswap",
+      "region_id": "725364552"
     }
   },
   "planned": {
