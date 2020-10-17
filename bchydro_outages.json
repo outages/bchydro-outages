@@ -1,18 +1,8 @@
 {
   "current": {
     "Central Interior": {
-      "customers_affected_14d": 53,
+      "customers_affected_14d": 12,
       "outages": [
-        {
-          "area": "3800 - 5000 block TALLUS RD, TALLUS RD BLK D\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Under investigation",
-          "customers_affected": "41",
-          "last_updated": "2020-10-16T20:44:00",
-          "municipality": "Prince George",
-          "municipality_code": "day-1 day-3 city-1835674262",
-          "start": "2020-10-16T11:39:00",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 16 9:30 p.m."
-        },
         {
           "area": "26800 block MARILYN RD, 21600 block JULIE CRES, WILLOWCALE RD P39/5, ST MARYS LAKE P39/1, ST MARYS LAKE, 50000 block WILLOW CALE FOREST RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
@@ -3052,7 +3042,7 @@
   },
   "restored": {
     "Central Interior": {
-      "customers_affected_14d": 14768,
+      "customers_affected_14d": 14809,
       "outages": [
         {
           "area": "North of HWY 97",
@@ -3223,6 +3213,16 @@
           "municipality": "Prince George",
           "municipality_code": "day-1 day-3 city-1835674262",
           "start": "2020-10-16T06:54:00"
+        },
+        {
+          "area": "3800 - 5000 block TALLUS RD, TALLUS RD BLK D",
+          "cause": "Under investigation",
+          "customers_affected": "41",
+          "end": "2020-10-16T21:30:00",
+          "last_updated": "2020-10-16T21:33:00",
+          "municipality": "Prince George",
+          "municipality_code": "day-1 day-3 city-1835674262",
+          "start": "2020-10-16T11:39:00"
         },
         {
           "area": "4500 - 4700 block HANDLEN RD",
