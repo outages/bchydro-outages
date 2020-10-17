@@ -1,8 +1,18 @@
 {
   "current": {
     "Lower Mainland": {
-      "customers_affected_14d": 48,
+      "customers_affected_14d": 49,
       "outages": [
+        {
+          "area": "2700 block ABERDEEN AVE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Planned work being done on our equipment",
+          "customers_affected": "< 5",
+          "last_updated": "2020-10-17T08:22:00",
+          "municipality": "Coquitlam",
+          "municipality_code": "day-1 day-3 city--3101987",
+          "start": "2020-10-17T08:19:00",
+          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 18 3:00 p.m."
+        },
         {
           "area": "North of GRUMME RD, West of TRANS CANADA HWY, South-East of LOUGHEED HWY\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Planned work being done on our equipment",
@@ -17,11 +27,11 @@
           "area": "1200 block E PENDER ST, 1200 block E HASTINGS ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Equipment failure",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-17T08:05:00",
+          "last_updated": "2020-10-17T08:07:00",
           "municipality": "Vancouver",
           "municipality_code": "day-1 day-3 city--1786794435",
           "start": "2020-10-17T05:52:00",
-          "status": "Crew status: Crew on-site"
+          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 17 12:00 p.m."
         }
       ],
       "region_code": "Lower Mainland",
@@ -5777,7 +5787,7 @@
           "end": "2020-10-13T09:00:00",
           "last_updated": "2020-10-14T09:00:00",
           "municipality": "Gibsons",
-          "municipality_code": "day-3 city-1688353985",
+          "municipality_code": "city-1688353985",
           "start": "2020-10-13T03:58:00"
         },
         {
@@ -8527,7 +8537,7 @@
           "end": "2020-10-13T08:30:00",
           "last_updated": "2020-10-13T12:42:00",
           "municipality": "Surrey",
-          "municipality_code": "day-3 city--1807186826",
+          "municipality_code": "city--1807186826",
           "start": "2020-10-13T01:21:00"
         },
         {
@@ -14425,7 +14435,7 @@
           "end": "2020-10-13T08:30:00",
           "last_updated": "2020-10-13T09:21:00",
           "municipality": "Galiano Island",
-          "municipality_code": "day-3 city--995767958",
+          "municipality_code": "city--995767958",
           "start": "2020-10-13T03:38:00"
         },
         {
@@ -17082,7 +17092,7 @@
           "end": "2020-10-13T08:00:00",
           "last_updated": "2020-10-15T10:56:00",
           "municipality": "Kamloops",
-          "municipality_code": "day-3 city-979034872",
+          "municipality_code": "city-979034872",
           "start": "2020-10-13T03:58:00"
         },
         {
