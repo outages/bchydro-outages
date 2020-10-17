@@ -48,18 +48,8 @@
       "region_id": "848340027"
     },
     "Lower Mainland": {
-      "customers_affected_14d": 2126,
+      "customers_affected_14d": 2147,
       "outages": [
-        {
-          "area": "900 - 1100 block HARDING RD, CORNER HARDNG RD & GRAFTON RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Tree down across our wires",
-          "customers_affected": "24",
-          "last_updated": "2020-10-16T17:20:00",
-          "municipality": "Bowen Island",
-          "municipality_code": "day-1 day-3 city-1522211618",
-          "start": "2020-10-16T16:40:00",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 16 7:00 p.m."
-        },
         {
           "area": "West of SUTHERLAND RD, North of INDUSTRIAL WAY\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Motor vehicle accident",
@@ -69,6 +59,16 @@
           "municipality_code": "day-1 day-3 city--708005353 city-2334912",
           "start": "2020-10-16T12:54:00",
           "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 16 10:00 p.m."
+        },
+        {
+          "area": "North of GRUMME RD, West of TRANS CANADA HWY, South-East of LOUGHEED HWY\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Planned work being done on our equipment",
+          "customers_affected": "45",
+          "last_updated": "2020-10-16T19:25:00",
+          "municipality": "Kent",
+          "municipality_code": "day-1 day-3 city-2334912",
+          "start": "2020-10-16T19:23:00",
+          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 17 7:30 a.m."
         },
         {
           "area": "West of 256TH ST, North of MARSHALL AVE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -113,23 +113,6 @@
       ],
       "region_code": "Lower Mainland",
       "region_id": "521980323"
-    },
-    "Northern": {
-      "customers_affected_14d": -1,
-      "outages": [
-        {
-          "area": "M 56/90 W STRIMBOLD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Under investigation",
-          "customers_affected": "< 5",
-          "last_updated": "2020-10-16T17:48:00",
-          "municipality": "Burns Lake",
-          "municipality_code": "day-1 day-3 city--2121425941",
-          "start": "2020-10-16T16:30:00",
-          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 16 6:50 p.m."
-        }
-      ],
-      "region_code": "Northern",
-      "region_id": "1602964060"
     },
     "South VI": {
       "customers_affected_14d": -1,
@@ -3986,7 +3969,7 @@
       "region_id": "848340027"
     },
     "Lower Mainland": {
-      "customers_affected_14d": 142617,
+      "customers_affected_14d": 142793,
       "outages": [
         {
           "area": "North of MACLURE RD, East of MT LEHMAN RD, West of Hwy 11",
@@ -4325,7 +4308,7 @@
           "end": "2020-10-14T20:03:00",
           "last_updated": "2020-10-14T19:16:00",
           "municipality": "Abbotsford",
-          "municipality_code": "day-1 day-3 city-1230363016",
+          "municipality_code": "day-3 city-1230363016",
           "start": "2020-10-14T16:17:00"
         },
         {
@@ -4697,6 +4680,16 @@
           "municipality": "Bowen Island",
           "municipality_code": "day-3 city-1522211618",
           "start": "2020-10-13T04:27:00"
+        },
+        {
+          "area": "900 - 1100 block HARDING RD, CORNER HARDNG RD & GRAFTON RD",
+          "cause": "Tree down across our wires",
+          "customers_affected": "24",
+          "end": "2020-10-16T19:00:00",
+          "last_updated": "2020-10-16T19:11:00",
+          "municipality": "Bowen Island",
+          "municipality_code": "day-1 day-3 city-1522211618",
+          "start": "2020-10-16T16:40:00"
         },
         {
           "area": "ARTISAN LN  PUMP",
@@ -8529,6 +8522,16 @@
           "start": "2020-10-06T09:13:00"
         },
         {
+          "area": "North of SUN CST HWY, South of PORT MELLON HWY",
+          "cause": "Motor vehicle accident",
+          "customers_affected": "152",
+          "end": "2020-10-16T18:00:00",
+          "last_updated": "2020-10-16T19:16:00",
+          "municipality": "Sechelt",
+          "municipality_code": "day-1 day-3 city--660434186",
+          "start": "2020-10-16T11:57:00"
+        },
+        {
           "area": "West of TRAIL AVE, South of NEPTUNE RD, East of MEDUSA PL, North of SPINDRIFT ST",
           "cause": "Planned work being done on our equipment",
           "customers_affected": "40",
@@ -12022,7 +12025,7 @@
           "end": "2020-10-14T19:30:00",
           "last_updated": "2020-10-15T12:25:00",
           "municipality": "Qualicum Beach",
-          "municipality_code": "day-1 day-3 city--154309756",
+          "municipality_code": "day-3 city--154309756",
           "start": "2020-10-14T17:29:00"
         },
         {
@@ -12220,7 +12223,7 @@
       "region_id": "1602896846"
     },
     "Northern": {
-      "customers_affected_14d": 14222,
+      "customers_affected_14d": 14223,
       "outages": [
         {
           "area": "100 - 200 block WABALISLA ST, 0 - 100 block WAGLISLA ST, 500 block CHEENIS ST, 700 block GOOSE ISLAND DR, AIRPORT RD, BELLA BELLA RORO, PUMPHOUSE, 0 - 1200 block SHEARWATER RD, UPPER HOTEL, DENNY ISLAND RD...",
@@ -12371,6 +12374,16 @@
           "municipality": "Burns Lake",
           "municipality_code": "day-1 day-3 city--2121425941",
           "start": "2020-10-16T14:04:00"
+        },
+        {
+          "area": "M 56/90 W STRIMBOLD",
+          "cause": "Under investigation",
+          "customers_affected": "< 5",
+          "end": "2020-10-16T19:30:00",
+          "last_updated": "2020-10-16T19:16:00",
+          "municipality": "Burns Lake",
+          "municipality_code": "day-1 day-3 city--2121425941",
+          "start": "2020-10-16T16:30:00"
         },
         {
           "area": "WALKER RD P13",
@@ -14863,7 +14876,7 @@
           "end": "2020-10-12T19:36:00",
           "last_updated": "2020-10-13T09:27:00",
           "municipality": "Galiano Island",
-          "municipality_code": "day-3 city--995767958",
+          "municipality_code": "city--995767958",
           "start": "2020-10-12T11:51:00"
         },
         {
