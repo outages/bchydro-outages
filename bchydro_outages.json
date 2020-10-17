@@ -1,7 +1,7 @@
 {
   "current": {
     "Lower Mainland": {
-      "customers_affected_14d": 53,
+      "customers_affected_14d": 54,
       "outages": [
         {
           "area": "2700 block ABERDEEN AVE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -27,10 +27,20 @@
           "area": "25200 block 32 AVE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Transformer burn out",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-17T12:00:00",
+          "last_updated": "2020-10-17T12:30:00",
           "municipality": "Langley",
           "municipality_code": "day-1 day-3 city-1612593490",
           "start": "2020-10-17T09:34:00",
+          "status": "Crew status: Crew assigned"
+        },
+        {
+          "area": "27300 block 48 AVE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Bird contacting our wires",
+          "customers_affected": "< 5",
+          "last_updated": "2020-10-17T12:28:00",
+          "municipality": "Langley",
+          "municipality_code": "day-1 day-3 city-1612593490",
+          "start": "2020-10-17T12:23:00",
           "status": "Crew status: Crew assigned"
         },
         {
@@ -4004,7 +4014,7 @@
           "end": "",
           "last_updated": "2020-10-13T13:02:00",
           "municipality": "Abbotsford",
-          "municipality_code": "day-3 city-1230363016",
+          "municipality_code": "city-1230363016",
           "start": "2020-10-13T11:58:00"
         },
         {
@@ -8974,7 +8984,7 @@
           "end": "2020-10-13T16:00:00",
           "last_updated": "2020-10-13T14:11:00",
           "municipality": "Surrey",
-          "municipality_code": "day-3 city--1807186826",
+          "municipality_code": "city--1807186826",
           "start": "2020-10-13T10:49:00"
         },
         {
@@ -10731,7 +10741,7 @@
           "end": "2020-10-13T12:30:00",
           "last_updated": "2020-10-13T14:52:00",
           "municipality": "Nanaimo",
-          "municipality_code": "day-3 city--907547835",
+          "municipality_code": "city--907547835",
           "start": "2020-10-13T07:24:00"
         },
         {
@@ -11461,7 +11471,7 @@
           "end": "2020-10-13T12:00:00",
           "last_updated": "2020-10-15T12:24:00",
           "municipality": "Qualicum Beach",
-          "municipality_code": "day-3 city--154309756",
+          "municipality_code": "city--154309756",
           "start": "2020-10-13T08:13:00"
         },
         {
@@ -13962,7 +13972,7 @@
           "end": "",
           "last_updated": "2020-10-13T12:23:00",
           "municipality": "Central Saanich",
-          "municipality_code": "day-3 city--769735224",
+          "municipality_code": "city--769735224",
           "start": "2020-10-13T11:29:00"
         },
         {
