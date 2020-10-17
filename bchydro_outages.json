@@ -1,7 +1,7 @@
 {
   "current": {
     "Lower Mainland": {
-      "customers_affected_14d": 46,
+      "customers_affected_14d": 47,
       "outages": [
         {
           "area": "2000 block DIXON RD, 39900 block NO 5 RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -37,11 +37,21 @@
           "area": "27300 block 48 AVE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Bird contacting our wires",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-17T14:27:00",
+          "last_updated": "2020-10-17T14:39:00",
           "municipality": "Langley",
           "municipality_code": "day-1 day-3 city-1612593490",
           "start": "2020-10-17T12:23:00",
           "status": "Crew status: Crew assigned\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 17 3:15 p.m."
+        },
+        {
+          "area": "8900 block 149 ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Under investigation",
+          "customers_affected": "< 5",
+          "last_updated": "2020-10-17T14:45:00",
+          "municipality": "Surrey",
+          "municipality_code": "day-1 day-3 city--1807186826",
+          "start": "2020-10-17T14:40:00",
+          "status": "Crew status: Crew assigned"
         },
         {
           "area": "1200 block E PENDER ST, 1200 block E HASTINGS ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -57,7 +67,7 @@
           "area": "2300 block CHEAKAMUS WAY\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-17T13:48:00",
+          "last_updated": "2020-10-17T14:35:00",
           "municipality": "Whistler",
           "municipality_code": "day-1 day-3 city--2067392640",
           "start": "2020-10-17T13:01:00",
@@ -74,7 +84,7 @@
           "area": "TACHIE RD P53\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-17T14:25:00",
+          "last_updated": "2020-10-17T14:38:00",
           "municipality": "Fort St. James",
           "municipality_code": "day-1 day-3 city-2077380636",
           "start": "2020-10-17T12:28:00",
@@ -3461,7 +3471,7 @@
           "end": "2020-10-13T14:30:00",
           "last_updated": "2020-10-14T09:09:00",
           "municipality": "Prince George, Vanderhoof",
-          "municipality_code": "day-3 city-1835674262 city-1041981516",
+          "municipality_code": "city-1835674262 city-1041981516",
           "start": "2020-10-13T12:15:00"
         },
         {
@@ -8018,7 +8028,7 @@
           "end": "2020-10-13T15:30:00",
           "last_updated": "2020-10-14T12:41:00",
           "municipality": "Powell River",
-          "municipality_code": "day-3 city-1665178489",
+          "municipality_code": "city-1665178489",
           "start": "2020-10-13T11:18:00"
         },
         {
@@ -8468,7 +8478,7 @@
           "end": "2020-10-15T14:45:00",
           "last_updated": "2020-10-16T07:51:00",
           "municipality": "Sechelt",
-          "municipality_code": "day-1 day-3 city--660434186",
+          "municipality_code": "day-3 city--660434186",
           "start": "2020-10-15T12:38:00"
         },
         {
@@ -10375,7 +10385,7 @@
           "end": "2020-10-13T14:50:00",
           "last_updated": "2020-10-13T14:54:00",
           "municipality": "Courtenay, Qualicum Beach",
-          "municipality_code": "day-3 city--824228212 city--154309756",
+          "municipality_code": "city--824228212 city--154309756",
           "start": "2020-10-13T12:52:00"
         },
         {
@@ -12542,7 +12552,7 @@
           "end": "2020-10-15T13:00:00",
           "last_updated": "2020-10-15T14:46:00",
           "municipality": "Fort St. James",
-          "municipality_code": "day-1 day-3 city-2077380636",
+          "municipality_code": "day-3 city-2077380636",
           "start": "2020-10-15T11:15:00"
         },
         {
@@ -13759,7 +13769,7 @@
           "end": "2020-10-15T16:00:00",
           "last_updated": "2020-10-15T14:40:00",
           "municipality": "Vernon",
-          "municipality_code": "day-1 day-3 city--1736079254",
+          "municipality_code": "day-3 city--1736079254",
           "start": "2020-10-15T08:20:00"
         },
         {
