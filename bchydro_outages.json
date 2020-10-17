@@ -1,7 +1,7 @@
 {
   "current": {
     "Lower Mainland": {
-      "customers_affected_14d": 61,
+      "customers_affected_14d": 58,
       "outages": [
         {
           "area": "2000 block DIXON RD, 39900 block NO 5 RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -37,31 +37,21 @@
           "area": "47700 - 47800 block OLD BOSTON BAR RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Bird contacting our wires",
           "customers_affected": "15",
-          "last_updated": "2020-10-17T16:00:00",
+          "last_updated": "2020-10-17T16:16:00",
           "municipality": "Hope",
           "municipality_code": "day-1 day-3 city-2255196",
           "start": "2020-10-17T15:49:00",
-          "status": "Crew status: Crew assigned"
+          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 17 6:00 p.m."
         },
         {
           "area": "8900 block 149 ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-17T15:35:00",
+          "last_updated": "2020-10-17T16:06:00",
           "municipality": "Surrey",
           "municipality_code": "day-1 day-3 city--1807186826",
           "start": "2020-10-17T14:40:00",
-          "status": "Crew status: Crew on-site"
-        },
-        {
-          "area": "1200 block E PENDER ST, 1200 block E HASTINGS ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Equipment failure",
-          "customers_affected": "< 5",
-          "last_updated": "2020-10-17T15:48:00",
-          "municipality": "Vancouver",
-          "municipality_code": "day-1 day-3 city--1786794435",
-          "start": "2020-10-17T05:52:00",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 17 4:00 p.m."
+          "status": "Crew status: Crew assigned"
         },
         {
           "area": "2300 block CHEAKAMUS WAY\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -76,6 +66,23 @@
       ],
       "region_code": "Lower Mainland",
       "region_id": "521980323"
+    },
+    "North VI": {
+      "customers_affected_14d": -1,
+      "outages": [
+        {
+          "area": "1300 block CLAYMORE RD LAB\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Under investigation",
+          "customers_affected": "< 5",
+          "last_updated": "2020-10-17T16:13:00",
+          "municipality": "Qualicum Beach",
+          "municipality_code": "day-1 day-3 city--154309756",
+          "start": "2020-10-17T16:01:00",
+          "status": "Crew status: No crew assigned yet\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 18 8:30 a.m."
+        }
+      ],
+      "region_code": "North VI",
+      "region_id": "1602896846"
     },
     "Northern": {
       "customers_affected_14d": 38,
@@ -111,7 +118,7 @@
           "area": "100 block WESTSIDE RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-17T16:05:00",
+          "last_updated": "2020-10-17T16:09:00",
           "municipality": "Vernon",
           "municipality_code": "day-1 day-3 city--1736079254",
           "start": "2020-10-17T15:12:00",
@@ -2693,7 +2700,7 @@
       "region_id": "1812901382"
     },
     "Thompson/Shuswap": {
-      "customers_affected_14d": 4008,
+      "customers_affected_14d": 2899,
       "outages": [
         {
           "area": "160 - 330 Birch Ave; 175, 255, 315 Hwy 97",
@@ -2744,16 +2751,6 @@
           "municipality": "Clearwater",
           "municipality_code": "day-1 day-3 city-1282265866",
           "start": "2020-10-20T09:00:00"
-        },
-        {
-          "area": "SAVONNA SUBSTAION - 2 Short Duration Outages - 8:00am to 8:15am and 4:00pm to 4:15pmSAVONA SUBSTATION - Portions of the Savona, Kamloops Walhachin, Tobiano, Cherry Creek, and Deadman Creek Areas",
-          "cause": "Planned work being done on our equipment",
-          "customers_affected": "1109",
-          "end": "2020-10-15T16:15:00",
-          "last_updated": "2020-09-28T17:35:00",
-          "municipality": "Kamloops",
-          "municipality_code": "day-1 day-3 city-979034872",
-          "start": "2020-10-15T08:00:00"
         },
         {
           "area": "1802-1886 Cathedral Crt",
@@ -4728,7 +4725,7 @@
           "end": "2020-10-13T16:30:00",
           "last_updated": "2020-10-13T16:22:00",
           "municipality": "Chilliwack",
-          "municipality_code": "day-3 city--708005353",
+          "municipality_code": "city--708005353",
           "start": "2020-10-13T12:31:00"
         },
         {
@@ -6198,7 +6195,7 @@
           "end": "",
           "last_updated": "2020-10-14T13:57:00",
           "municipality": "Langley",
-          "municipality_code": "day-3 city-1612593490",
+          "municipality_code": "city-1612593490",
           "start": "2020-10-13T12:35:00"
         },
         {
@@ -6868,7 +6865,7 @@
           "end": "2020-10-13T16:00:00",
           "last_updated": "2020-10-13T17:18:00",
           "municipality": "Maple Ridge",
-          "municipality_code": "day-3 city-598891104",
+          "municipality_code": "city-598891104",
           "start": "2020-10-13T14:44:00"
         },
         {
@@ -7488,7 +7485,7 @@
           "end": "2020-10-15T15:30:00",
           "last_updated": "2020-10-16T07:20:00",
           "municipality": "Mission",
-          "municipality_code": "day-1 day-3 city--1560864404",
+          "municipality_code": "day-3 city--1560864404",
           "start": "2020-10-13T15:39:00"
         },
         {
@@ -7588,7 +7585,7 @@
           "end": "2020-10-13T13:00:00",
           "last_updated": "2020-10-14T08:37:00",
           "municipality": "North Vancouver",
-          "municipality_code": "day-3 city--1636626238",
+          "municipality_code": "city--1636626238",
           "start": "2020-10-13T09:44:00"
         },
         {
@@ -8148,7 +8145,7 @@
           "end": "",
           "last_updated": "2020-10-14T14:16:00",
           "municipality": "Richmond",
-          "municipality_code": "day-3 city--1486145068",
+          "municipality_code": "city--1486145068",
           "start": "2020-10-13T13:48:00"
         },
         {
@@ -8338,7 +8335,7 @@
           "end": "2020-10-13T16:15:00",
           "last_updated": "2020-10-14T10:15:00",
           "municipality": "Sechelt",
-          "municipality_code": "day-3 city--660434186",
+          "municipality_code": "city--660434186",
           "start": "2020-10-13T14:27:00"
         },
         {
@@ -8948,7 +8945,7 @@
           "end": "2020-10-15T16:20:00",
           "last_updated": "2020-10-16T09:47:00",
           "municipality": "Surrey",
-          "municipality_code": "day-1 day-3 city--1807186826",
+          "municipality_code": "day-3 city--1807186826",
           "start": "2020-10-15T14:36:00"
         },
         {
@@ -9058,7 +9055,7 @@
           "end": "",
           "last_updated": "2020-10-14T09:43:00",
           "municipality": "Surrey",
-          "municipality_code": "day-3 city--1807186826",
+          "municipality_code": "city--1807186826",
           "start": "2020-10-13T13:08:00"
         },
         {
@@ -9885,7 +9882,7 @@
           "end": "",
           "last_updated": "2020-10-13T17:15:00",
           "municipality": "Comox, Courtenay, Cumberland",
-          "municipality_code": "day-3 city-65291018 city--824228212 city--531324801",
+          "municipality_code": "city-65291018 city--824228212 city--531324801",
           "start": "2020-10-13T13:06:00"
         },
         {
@@ -14636,7 +14633,7 @@
           "end": "",
           "last_updated": "2020-10-14T09:19:00",
           "municipality": "Ganges",
-          "municipality_code": "day-3 city-2125630497",
+          "municipality_code": "city-2125630497",
           "start": "2020-10-13T13:33:00"
         },
         {
@@ -15126,7 +15123,7 @@
           "end": "",
           "last_updated": "2020-10-15T10:36:00",
           "municipality": "Mayne Island, Pender Island, Saturna Island",
-          "municipality_code": "day-3 city-48997657 city--635217187 city-501274559",
+          "municipality_code": "city-48997657 city--635217187 city-501274559",
           "start": "2020-10-13T12:21:00"
         },
         {
@@ -15796,7 +15793,7 @@
           "end": "2020-10-13T16:45:00",
           "last_updated": "2020-10-13T18:07:00",
           "municipality": "Saanich",
-          "municipality_code": "day-3 city--776615533",
+          "municipality_code": "city--776615533",
           "start": "2020-10-13T09:30:00"
         },
         {
@@ -17653,7 +17650,7 @@
           "end": "2020-10-13T17:00:00",
           "last_updated": "2020-10-13T16:22:00",
           "municipality": "Merritt",
-          "municipality_code": "day-3 city--1676334159",
+          "municipality_code": "city--1676334159",
           "start": "2020-10-13T14:09:00"
         },
         {
