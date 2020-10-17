@@ -7,18 +7,18 @@
           "area": "3800 - 5000 block TALLUS RD, TALLUS RD BLK D\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "42",
-          "last_updated": "2020-10-17T01:09:00",
+          "last_updated": "2020-10-17T01:52:00",
           "municipality": "Prince George",
           "municipality_code": "day-1 day-3 city-1835674262",
           "start": "2020-10-16T11:39:00",
-          "status": "Crew status: Crew assigned"
+          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 17 2:55 a.m."
         }
       ],
       "region_code": "Central Interior",
       "region_id": "848340027"
     },
     "Lower Mainland": {
-      "customers_affected_14d": 104,
+      "customers_affected_14d": 45,
       "outages": [
         {
           "area": "North of GRUMME RD, West of TRANS CANADA HWY, South-East of LOUGHEED HWY\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -29,16 +29,6 @@
           "municipality_code": "day-1 day-3 city-2334912",
           "start": "2020-10-16T19:23:00",
           "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 17 7:30 a.m."
-        },
-        {
-          "area": "West of GARIBALDI ST, East of 271 ST, North of DEWDNEY TRUNK RD, South of BLUE MOUNTAIN CRS\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Tree down across our wires",
-          "customers_affected": "59",
-          "last_updated": "2020-10-17T00:09:00",
-          "municipality": "Maple Ridge",
-          "municipality_code": "day-1 day-3 city-598891104",
-          "start": "2020-10-16T22:43:00",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 17 2:00 a.m."
         }
       ],
       "region_code": "Lower Mainland",
@@ -3882,7 +3872,7 @@
       "region_id": "848340027"
     },
     "Lower Mainland": {
-      "customers_affected_14d": 144222,
+      "customers_affected_14d": 144281,
       "outages": [
         {
           "area": "North of MACLURE RD, East of MT LEHMAN RD, West of Hwy 11",
@@ -5421,7 +5411,7 @@
           "end": "",
           "last_updated": "2020-10-15T03:29:00",
           "municipality": "Chilliwack",
-          "municipality_code": "day-1 day-3 city--708005353",
+          "municipality_code": "day-3 city--708005353",
           "start": "2020-10-14T19:02:00"
         },
         {
@@ -7013,6 +7003,16 @@
           "municipality": "Maple Ridge",
           "municipality_code": "day-3 city-598891104",
           "start": "2020-10-13T14:46:00"
+        },
+        {
+          "area": "West of GARIBALDI ST, East of 271 ST, North of DEWDNEY TRUNK RD, South of BLUE MOUNTAIN CRS",
+          "cause": "Tree down across our wires",
+          "customers_affected": "59",
+          "end": "2020-10-17T02:00:00",
+          "last_updated": "2020-10-17T01:57:00",
+          "municipality": "Maple Ridge",
+          "municipality_code": "day-1 day-3 city-598891104",
+          "start": "2020-10-16T22:43:00"
         },
         {
           "area": "11200 block COTTONWOOD DR",
@@ -15749,7 +15749,7 @@
           "end": "2020-10-15T02:30:00",
           "last_updated": "2020-10-15T02:14:00",
           "municipality": "Saanich",
-          "municipality_code": "day-1 day-3 city--776615533",
+          "municipality_code": "day-3 city--776615533",
           "start": "2020-10-14T21:23:00"
         },
         {
@@ -16309,7 +16309,7 @@
           "end": "2020-10-15T02:00:00",
           "last_updated": "2020-10-16T06:59:00",
           "municipality": "Victoria",
-          "municipality_code": "day-1 day-3 city-1201273535",
+          "municipality_code": "day-3 city-1201273535",
           "start": "2020-10-14T18:54:00"
         },
         {
