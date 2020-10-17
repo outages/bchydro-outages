@@ -1,7 +1,7 @@
 {
   "current": {
     "Lower Mainland": {
-      "customers_affected_14d": 60,
+      "customers_affected_14d": 53,
       "outages": [
         {
           "area": "2700 block ABERDEEN AVE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -32,16 +32,6 @@
           "municipality_code": "day-1 day-3 city-1612593490",
           "start": "2020-10-17T12:23:00",
           "status": "Crew status: Crew assigned"
-        },
-        {
-          "area": "24200 - 24300 block 116 AVE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Tree down across our wires",
-          "customers_affected": "7",
-          "last_updated": "2020-10-17T13:30:00",
-          "municipality": "Maple Ridge",
-          "municipality_code": "day-1 day-3 city-598891104",
-          "start": "2020-10-17T11:47:00",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 17 2:00 p.m."
         },
         {
           "area": "10900 block BAMBERTON DR, 7400 - 7500 block WATERTON DR\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -93,6 +83,23 @@
       ],
       "region_code": "Northern",
       "region_id": "1602964060"
+    },
+    "Okanagan/Kootenay": {
+      "customers_affected_14d": 6,
+      "outages": [
+        {
+          "area": "7300 block HWY 6, 7300 block HICKS RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Tree down across our wires",
+          "customers_affected": "6",
+          "last_updated": "2020-10-17T13:36:00",
+          "municipality": "Nakusp",
+          "municipality_code": "day-1 day-3 city--1969008230",
+          "start": "2020-10-17T11:32:00",
+          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 17 2:30 p.m."
+        }
+      ],
+      "region_code": "Okanagan/Kootenay",
+      "region_id": "2072041405"
     },
     "Thompson/Shuswap": {
       "customers_affected_14d": -1,
@@ -3902,7 +3909,7 @@
       "region_id": "848340027"
     },
     "Lower Mainland": {
-      "customers_affected_14d": 144866,
+      "customers_affected_14d": 144873,
       "outages": [
         {
           "area": "North of MACLURE RD, East of MT LEHMAN RD, West of Hwy 11",
@@ -7185,6 +7192,16 @@
           "start": "2020-10-13T18:31:00"
         },
         {
+          "area": "24200 - 24300 block 116 AVE",
+          "cause": "Tree down across our wires",
+          "customers_affected": "7",
+          "end": "2020-10-17T14:00:00",
+          "last_updated": "2020-10-17T13:46:00",
+          "municipality": "Maple Ridge",
+          "municipality_code": "day-1 day-3 city-598891104",
+          "start": "2020-10-17T11:47:00"
+        },
+        {
           "area": "24400 block FERN CRES, GOLDEN EARS PARK",
           "cause": "Tree down across our wires",
           "customers_affected": "6",
@@ -7501,7 +7518,7 @@
           "end": "2020-10-15T14:30:00",
           "last_updated": "2020-10-16T07:11:00",
           "municipality": "Mission",
-          "municipality_code": "day-1 day-3 city--1560864404",
+          "municipality_code": "day-3 city--1560864404",
           "start": "2020-10-13T17:52:00"
         },
         {
@@ -8391,7 +8408,7 @@
           "end": "",
           "last_updated": "2020-10-14T12:41:00",
           "municipality": "Sechelt",
-          "municipality_code": "day-3 city--660434186",
+          "municipality_code": "city--660434186",
           "start": "2020-10-13T12:59:00"
         },
         {
@@ -9868,7 +9885,7 @@
           "end": "",
           "last_updated": "2020-10-15T11:50:00",
           "municipality": "Campbell River",
-          "municipality_code": "day-3 city-1240464880",
+          "municipality_code": "city-1240464880",
           "start": "2020-10-13T12:44:00"
         },
         {
@@ -10398,7 +10415,7 @@
           "end": "",
           "last_updated": "2020-10-13T14:13:00",
           "municipality": "Cumberland",
-          "municipality_code": "day-3 city--531324801",
+          "municipality_code": "city--531324801",
           "start": "2020-10-13T11:53:00"
         },
         {
@@ -12048,7 +12065,7 @@
           "end": "2020-10-15T12:00:00",
           "last_updated": "2020-10-15T15:26:00",
           "municipality": "Zeballos",
-          "municipality_code": "day-1 day-3 city-281261870",
+          "municipality_code": "day-3 city-281261870",
           "start": "2020-10-13T08:28:00"
         }
       ],
