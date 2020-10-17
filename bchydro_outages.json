@@ -2115,7 +2115,7 @@
       "region_id": "2072041405"
     },
     "South VI": {
-      "customers_affected_14d": 1855,
+      "customers_affected_14d": 1826,
       "outages": [
         {
           "area": "1746 Verling Ave; 1763 Sean Hts, Saanichton",
@@ -2426,16 +2426,6 @@
           "municipality": "Victoria",
           "municipality_code": "day-1 day-3 city-1201273535",
           "start": "2020-10-15T09:00:00"
-        },
-        {
-          "area": "**Overnight Outage - Emergent**2900, 2902, 2904, 2922, 2925 Tillicum Rd; 314, 317, 320, 325, 326, 331, 335, 339, 346, 351, 355, 358, 360, 364, 365, 374, 375, 384, 385 Arnot Ave; 294 W Gorge Rd., Victoria",
-          "cause": "Pole replacement",
-          "customers_affected": "29",
-          "end": "2020-10-15T05:00:00",
-          "last_updated": "2020-09-25T13:31:00",
-          "municipality": "Victoria",
-          "municipality_code": "day-1 day-3 city-1201273535",
-          "start": "2020-10-14T22:00:00"
         },
         {
           "area": "*Rescheduled from October 8th*\r\nOutage will be only 3 hours between 9am-4pm400, 401, 406, 407, 413, 418, 419, 420, 425, 426, 431, 432, 438, 439, 444, 445, 450, 451, 456, 457, 462, 463, 467, 468, 475, 476, 482 Davida Ave, Victoria",
@@ -2971,7 +2961,7 @@
   },
   "restored": {
     "Central Interior": {
-      "customers_affected_14d": 14429,
+      "customers_affected_14d": 16157,
       "outages": [
         {
           "area": "North of HWY 97",
@@ -3082,6 +3072,16 @@
           "municipality": "Prince George",
           "municipality_code": "day-1 day-3 city-1835674262",
           "start": "2020-10-16T07:25:00"
+        },
+        {
+          "area": "West of LAURIER CRS, North of 22ND AVE, East of MERTON CRS, South of NECHAKO RD",
+          "cause": "Tree down across our wires",
+          "customers_affected": "1728",
+          "end": "2020-10-17T05:12:00",
+          "last_updated": "2020-10-17T04:51:00",
+          "municipality": "Prince George",
+          "municipality_code": "day-1 day-3 city-1835674262",
+          "start": "2020-10-17T03:47:00"
         },
         {
           "area": "North of NESS LAKE RD, East of LAKESIDE PL, West of CHERYL RD, South of CAMP RD",
@@ -13011,7 +13011,7 @@
           "end": "2020-10-15T05:00:00",
           "last_updated": "2020-10-15T08:50:00",
           "municipality": "Vanderhoof",
-          "municipality_code": "day-1 day-3 city-1041981516",
+          "municipality_code": "day-3 city-1041981516",
           "start": "2020-10-14T23:22:00"
         },
         {
