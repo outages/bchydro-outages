@@ -7,11 +7,11 @@
           "area": "3800 - 5000 block TALLUS RD, TALLUS RD BLK D\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "42",
-          "last_updated": "2020-10-17T02:49:00",
+          "last_updated": "2020-10-17T03:07:00",
           "municipality": "Prince George",
           "municipality_code": "day-1 day-3 city-1835674262",
           "start": "2020-10-16T11:39:00",
-          "status": "Crew status: Crew on-site"
+          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 17 4:10 a.m."
         }
       ],
       "region_code": "Central Interior",
@@ -33,23 +33,6 @@
       ],
       "region_code": "Lower Mainland",
       "region_id": "521980323"
-    },
-    "Thompson/Shuswap": {
-      "customers_affected_14d": 7,
-      "outages": [
-        {
-          "area": "6300 block EDEN ROAD, 6200 - 6800 block MARTIN PRAIRIE RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Tree down across our wires",
-          "customers_affected": "7",
-          "last_updated": "2020-10-17T00:42:00",
-          "municipality": "Salmon Arm",
-          "municipality_code": "day-1 day-3 city-2118875562",
-          "start": "2020-10-16T21:58:00",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 17 3:00 a.m."
-        }
-      ],
-      "region_code": "Thompson/Shuswap",
-      "region_id": "725364552"
     }
   },
   "planned": {
@@ -12565,7 +12548,7 @@
           "end": "2020-10-15T03:00:00",
           "last_updated": "2020-10-16T13:41:00",
           "municipality": "Fort St. John",
-          "municipality_code": "day-1 day-3 city-205572915",
+          "municipality_code": "day-3 city-205572915",
           "start": "2020-10-14T22:59:00"
         },
         {
@@ -16357,7 +16340,7 @@
       "region_id": "1812901382"
     },
     "Thompson/Shuswap": {
-      "customers_affected_14d": 14849,
+      "customers_affected_14d": 14856,
       "outages": [
         {
           "area": "East of WILCOX RD, North of TRIP RD",
@@ -17728,6 +17711,16 @@
           "municipality": "Salmon Arm",
           "municipality_code": "city-2118875562",
           "start": "2020-10-07T07:25:00"
+        },
+        {
+          "area": "6300 block EDEN ROAD, 6200 - 6800 block MARTIN PRAIRIE RD",
+          "cause": "Tree down across our wires",
+          "customers_affected": "7",
+          "end": "2020-10-17T03:00:00",
+          "last_updated": "2020-10-17T03:14:00",
+          "municipality": "Salmon Arm",
+          "municipality_code": "day-1 day-3 city-2118875562",
+          "start": "2020-10-16T21:58:00"
         },
         {
           "area": "2100 block CAMBIE SOLSQUA RD",
