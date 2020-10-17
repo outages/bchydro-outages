@@ -1,7 +1,7 @@
 {
   "current": {
     "Lower Mainland": {
-      "customers_affected_14d": 474,
+      "customers_affected_14d": 53,
       "outages": [
         {
           "area": "2700 block ABERDEEN AVE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -27,11 +27,11 @@
           "area": "25200 block 32 AVE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Transformer burn out",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-17T11:24:00",
+          "last_updated": "2020-10-17T12:00:00",
           "municipality": "Langley",
           "municipality_code": "day-1 day-3 city-1612593490",
           "start": "2020-10-17T09:34:00",
-          "status": "Crew status: Crew assigned\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 17 10:10 a.m."
+          "status": "Crew status: Crew assigned"
         },
         {
           "area": "10900 block BAMBERTON DR, 7400 - 7500 block WATERTON DR\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -52,16 +52,6 @@
           "municipality_code": "day-1 day-3 city--1786794435",
           "start": "2020-10-17T05:52:00",
           "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 17 4:00 p.m."
-        },
-        {
-          "area": "West of GEORGE ST, East of MARTIN ST, North of ROPER AVE, South of NORTH BLUFF RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Planned work being done on our equipment",
-          "customers_affected": "421",
-          "last_updated": "2020-10-17T11:07:00",
-          "municipality": "White Rock",
-          "municipality_code": "day-1 day-3 city--2102123204",
-          "start": "2020-10-17T09:14:00",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 17 11:30 a.m."
         }
       ],
       "region_code": "Lower Mainland",
@@ -74,11 +64,11 @@
           "area": "200 block ALDER ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Transformer burn out",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-17T11:21:00",
+          "last_updated": "2020-10-17T11:53:00",
           "municipality": "Campbell River",
           "municipality_code": "day-1 day-3 city-1240464880",
           "start": "2020-10-17T09:50:00",
-          "status": "Crew status: Crew on-site"
+          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 17 2:00 p.m."
         },
         {
           "area": "1400 block PACIFIC RIM HWY\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -124,7 +114,7 @@
       "region_id": "848340027"
     },
     "Lower Mainland": {
-      "customers_affected_14d": 8827,
+      "customers_affected_14d": 8815,
       "outages": [
         {
           "area": "1944, 1954, 1966, 1976 Albion St; 32666-32749 Cordova Ave; 325, 32760 Marshall Rd, 32414-32750 Pandora Ave; 1911-1944 Valencia Crt, Abbotsford",
@@ -525,16 +515,6 @@
           "municipality": "Coquitlam",
           "municipality_code": "day-1 day-3 city--3101987",
           "start": "2020-10-21T09:30:00"
-        },
-        {
-          "area": "3220-3231 Harwood Ave, Coquitlam",
-          "cause": "Planned work being done on our equipment",
-          "customers_affected": "12",
-          "end": "2020-10-15T12:00:00",
-          "last_updated": "2020-09-28T07:46:00",
-          "municipality": "Coquitlam",
-          "municipality_code": "day-1 day-3 city--3101987",
-          "start": "2020-10-15T09:30:00"
         },
         {
           "area": "417-419, 422, 428, 430, 431, 433 Mundy St, Coquitlam",
@@ -2025,7 +2005,7 @@
       "region_id": "1602964060"
     },
     "Okanagan/Kootenay": {
-      "customers_affected_14d": 3662,
+      "customers_affected_14d": 3631,
       "outages": [
         {
           "area": "EMERGENT / OUTAGE HOURS ARE MDTCranbrook Airport; 9370 - 992 Airport Access Rd; 9398 - 9698 Clearview Rd; 9663 - 9765 Ermacora Rd; 3391 - 3473 Foster Rd; Hwy 95A; 2950 - 2959 Mellor Rd; 3329 - 9950 Mission Wycliffe Rd; Old Airpot Rd; 9790, 9850 Reserve Rd; 9453 - 9659 Summerfeldt Rd; 9489 Stonefield Circle; 3053 Wycliffe Rd",
@@ -2096,16 +2076,6 @@
           "municipality": "Vernon",
           "municipality_code": "day-1 day-3 city--1736079254",
           "start": "2020-10-16T09:00:00"
-        },
-        {
-          "area": "**Emergent - Rescheduled from October 14, 2020**3216, 3241, 3257, 3258, 3285, 3288, 3304, 3315, 3327, 3347, 3397, 3413, 3471, 3485, 3496, 3498, 3523, 3526, 3547 Salmon River Bnch Rd; 3053 Hwy 97; 3205, 3209, 4214, 4127 Oneil Rd., Falkland | Armstrong | Vernon",
-          "cause": "Pole replacement",
-          "customers_affected": "31",
-          "end": "2020-10-15T12:00:00",
-          "last_updated": "2020-10-08T12:50:00",
-          "municipality": "Vernon",
-          "municipality_code": "day-1 day-3 city--1736079254",
-          "start": "2020-10-15T10:00:00"
         },
         {
           "area": "112, 114, 116 1st St, 801 - 817 8th Ave, Vernon",
@@ -3934,7 +3904,7 @@
           "end": "2020-10-13T11:59:00",
           "last_updated": "2020-10-13T12:54:00",
           "municipality": "Abbotsford",
-          "municipality_code": "day-3 city-1230363016",
+          "municipality_code": "city-1230363016",
           "start": "2020-10-13T11:07:00"
         },
         {
@@ -3994,7 +3964,7 @@
           "end": "",
           "last_updated": "2020-10-13T12:54:00",
           "municipality": "Abbotsford",
-          "municipality_code": "day-3 city-1230363016",
+          "municipality_code": "city-1230363016",
           "start": "2020-10-13T11:10:00"
         },
         {
@@ -4084,7 +4054,7 @@
           "end": "2020-10-15T16:00:00",
           "last_updated": "2020-10-15T12:05:00",
           "municipality": "Abbotsford",
-          "municipality_code": "day-1 day-3 city-1230363016",
+          "municipality_code": "day-3 city-1230363016",
           "start": "2020-10-15T10:38:00"
         },
         {
@@ -9184,7 +9154,7 @@
           "end": "2020-10-13T12:00:00",
           "last_updated": "2020-10-13T12:38:00",
           "municipality": "Surrey",
-          "municipality_code": "day-3 city--1807186826",
+          "municipality_code": "city--1807186826",
           "start": "2020-10-13T07:27:00"
         },
         {
@@ -10861,7 +10831,7 @@
           "end": "",
           "last_updated": "2020-10-13T12:50:00",
           "municipality": "Nanaimo",
-          "municipality_code": "day-3 city--907547835",
+          "municipality_code": "city--907547835",
           "start": "2020-10-13T09:33:00"
         },
         {
@@ -11231,7 +11201,7 @@
           "end": "2020-10-13T16:04:00",
           "last_updated": "2020-10-15T12:03:00",
           "municipality": "Port Hardy",
-          "municipality_code": "day-3 city-368562319",
+          "municipality_code": "city-368562319",
           "start": "2020-10-13T07:45:00"
         },
         {
@@ -11801,7 +11771,7 @@
           "end": "",
           "last_updated": "2020-10-15T12:19:00",
           "municipality": "Qualicum Beach",
-          "municipality_code": "day-3 city--154309756",
+          "municipality_code": "city--154309756",
           "start": "2020-10-13T07:59:00"
         },
         {
@@ -14072,7 +14042,7 @@
           "end": "",
           "last_updated": "2020-10-15T14:06:00",
           "municipality": "Duncan",
-          "municipality_code": "day-3 city-2058209491",
+          "municipality_code": "city-2058209491",
           "start": "2020-10-13T11:12:00"
         },
         {
@@ -15592,7 +15562,7 @@
           "end": "",
           "last_updated": "2020-10-16T15:26:00",
           "municipality": "North Saanich, Sidney",
-          "municipality_code": "day-3 city-179964248 city--1818689996",
+          "municipality_code": "city-179964248 city--1818689996",
           "start": "2020-10-13T11:18:00"
         },
         {
@@ -15632,7 +15602,7 @@
           "end": "",
           "last_updated": "2020-10-16T15:27:00",
           "municipality": "North Saanich, Sidney",
-          "municipality_code": "day-3 city-179964248 city--1818689996",
+          "municipality_code": "city-179964248 city--1818689996",
           "start": "2020-10-13T11:17:00"
         },
         {
@@ -15642,7 +15612,7 @@
           "end": "",
           "last_updated": "2020-10-13T11:49:00",
           "municipality": "North Saanich, Sidney",
-          "municipality_code": "day-3 city-179964248 city--1818689996",
+          "municipality_code": "city-179964248 city--1818689996",
           "start": "2020-10-13T11:33:00"
         },
         {
