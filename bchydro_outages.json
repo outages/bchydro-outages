@@ -1,5 +1,22 @@
 {
   "current": {
+    "Central Interior": {
+      "customers_affected_14d": 1728,
+      "outages": [
+        {
+          "area": "West of LAURIER CRS, North of 22ND AVE, East of MERTON CRS, South of NECHAKO RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Under investigation",
+          "customers_affected": "1728",
+          "last_updated": "2020-10-17T03:50:00",
+          "municipality": "Prince George",
+          "municipality_code": "day-1 day-3 city-1835674262",
+          "start": "2020-10-17T03:47:00",
+          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 17 4:50 a.m."
+        }
+      ],
+      "region_code": "Central Interior",
+      "region_id": "848340027"
+    },
     "Lower Mainland": {
       "customers_affected_14d": 45,
       "outages": [
@@ -14675,7 +14692,7 @@
           "end": "2020-10-13T04:15:00",
           "last_updated": "2020-10-13T09:59:00",
           "municipality": "Ganges",
-          "municipality_code": "day-3 city-2125630497",
+          "municipality_code": "city-2125630497",
           "start": "2020-10-13T01:42:00"
         },
         {
@@ -17042,7 +17059,7 @@
           "end": "2020-10-15T04:30:00",
           "last_updated": "2020-10-15T08:03:00",
           "municipality": "Enderby, Spallumcheen",
-          "municipality_code": "day-1 day-3 city-57924863 city-2134222637",
+          "municipality_code": "day-3 city-57924863 city-2134222637",
           "start": "2020-10-15T00:51:00"
         },
         {
