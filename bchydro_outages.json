@@ -7,7 +7,7 @@
           "area": "3800 - 5000 block TALLUS RD, TALLUS RD BLK D\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "41",
-          "last_updated": "2020-10-16T18:16:00",
+          "last_updated": "2020-10-16T18:50:00",
           "municipality": "Prince George",
           "municipality_code": "day-1 day-3 city-1835674262",
           "start": "2020-10-16T11:39:00",
@@ -48,7 +48,7 @@
       "region_id": "848340027"
     },
     "Lower Mainland": {
-      "customers_affected_14d": 145,
+      "customers_affected_14d": 2126,
       "outages": [
         {
           "area": "900 - 1100 block HARDING RD, CORNER HARDNG RD & GRAFTON RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -59,6 +59,16 @@
           "municipality_code": "day-1 day-3 city-1522211618",
           "start": "2020-10-16T16:40:00",
           "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 16 7:00 p.m."
+        },
+        {
+          "area": "West of SUTHERLAND RD, North of INDUSTRIAL WAY\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Motor vehicle accident",
+          "customers_affected": "1981",
+          "last_updated": "2020-10-16T18:49:00",
+          "municipality": "Chilliwack, Kent",
+          "municipality_code": "day-1 day-3 city--708005353 city-2334912",
+          "start": "2020-10-16T12:54:00",
+          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 16 10:00 p.m."
         },
         {
           "area": "West of 256TH ST, North of MARSHALL AVE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -121,23 +131,6 @@
       "region_code": "Northern",
       "region_id": "1602964060"
     },
-    "Okanagan/Kootenay": {
-      "customers_affected_14d": -1,
-      "outages": [
-        {
-          "area": "4800 block BACK ENDERBY RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Under investigation",
-          "customers_affected": "< 5",
-          "last_updated": "2020-10-16T17:40:00",
-          "municipality": "Spallumcheen",
-          "municipality_code": "day-1 day-3 city-2134222637",
-          "start": "2020-10-16T15:55:00",
-          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 16 6:30 p.m."
-        }
-      ],
-      "region_code": "Okanagan/Kootenay",
-      "region_id": "2072041405"
-    },
     "South VI": {
       "customers_affected_14d": -1,
       "outages": [
@@ -172,11 +165,11 @@
           "area": "South of CANIM LAKE RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "6",
-          "last_updated": "2020-10-16T15:06:00",
+          "last_updated": "2020-10-16T18:50:00",
           "municipality": "100 Mile House",
           "municipality_code": "day-1 day-3 city-950857956",
           "start": "2020-10-16T11:55:00",
-          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 16 6:00 p.m."
+          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 16 7:00 p.m."
         },
         {
           "area": "1200 block BARNHARTVALE RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -3915,7 +3908,7 @@
           "end": "2020-10-12T19:31:00",
           "last_updated": "2020-10-13T08:23:00",
           "municipality": "Williams Lake",
-          "municipality_code": "day-3 city--1905642465",
+          "municipality_code": "city--1905642465",
           "start": "2020-10-12T18:05:00"
         },
         {
@@ -11509,7 +11502,7 @@
           "end": "",
           "last_updated": "2020-10-15T11:58:00",
           "municipality": "Port Hardy",
-          "municipality_code": "day-1 day-3 city-368562319",
+          "municipality_code": "day-3 city-368562319",
           "start": "2020-10-13T04:27:00"
         },
         {
@@ -12129,7 +12122,7 @@
           "end": "2020-10-14T18:51:00",
           "last_updated": "2020-10-16T11:46:00",
           "municipality": "Qualicum Beach",
-          "municipality_code": "day-1 day-3 city--154309756",
+          "municipality_code": "day-3 city--154309756",
           "start": "2020-10-13T18:12:00"
         },
         {
@@ -13504,7 +13497,7 @@
       "region_id": "1602964060"
     },
     "Okanagan/Kootenay": {
-      "customers_affected_14d": 15893,
+      "customers_affected_14d": 15895,
       "outages": [
         {
           "area": "South of LEARMOUTH RD, West of COACHWOOD CRS, East of BREWER RD",
@@ -13925,6 +13918,16 @@
           "municipality": "Spallumcheen",
           "municipality_code": "city-2134222637",
           "start": "2020-10-09T08:06:00"
+        },
+        {
+          "area": "4800 block BACK ENDERBY RD",
+          "cause": "Other",
+          "customers_affected": "< 5",
+          "end": "",
+          "last_updated": "2020-10-16T18:46:00",
+          "municipality": "Spallumcheen",
+          "municipality_code": "day-1 day-3 city-2134222637",
+          "start": "2020-10-16T15:55:00"
         },
         {
           "area": "800 block OTTER LAKE CROSS RD",
@@ -14570,7 +14573,7 @@
           "end": "",
           "last_updated": "2020-10-13T11:36:00",
           "municipality": "Duncan",
-          "municipality_code": "day-3 city-2058209491",
+          "municipality_code": "city-2058209491",
           "start": "2020-10-12T16:04:00"
         },
         {
