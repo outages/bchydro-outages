@@ -1,7 +1,7 @@
 {
   "current": {
     "Lower Mainland": {
-      "customers_affected_14d": 53,
+      "customers_affected_14d": 60,
       "outages": [
         {
           "area": "2700 block ABERDEEN AVE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -32,6 +32,16 @@
           "municipality_code": "day-1 day-3 city-1612593490",
           "start": "2020-10-17T12:23:00",
           "status": "Crew status: Crew assigned"
+        },
+        {
+          "area": "24200 - 24300 block 116 AVE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Tree down across our wires",
+          "customers_affected": "7",
+          "last_updated": "2020-10-17T13:30:00",
+          "municipality": "Maple Ridge",
+          "municipality_code": "day-1 day-3 city-598891104",
+          "start": "2020-10-17T11:47:00",
+          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 17 2:00 p.m."
         },
         {
           "area": "10900 block BAMBERTON DR, 7400 - 7500 block WATERTON DR\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -91,11 +101,11 @@
           "area": "ROSIA RD P1\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-17T13:22:00",
+          "last_updated": "2020-10-17T13:28:00",
           "municipality": "100 Mile House",
           "municipality_code": "day-1 day-3 city-950857956",
           "start": "2020-10-17T12:56:00",
-          "status": "Crew status: Crew assigned"
+          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 17 2:30 p.m."
         }
       ],
       "region_code": "Thompson/Shuswap",
@@ -2169,7 +2179,7 @@
       "region_id": "2072041405"
     },
     "South VI": {
-      "customers_affected_14d": 1826,
+      "customers_affected_14d": 1817,
       "outages": [
         {
           "area": "1746 Verling Ave; 1763 Sean Hts, Saanichton",
@@ -2710,16 +2720,6 @@
           "municipality": "Victoria",
           "municipality_code": "day-1 day-3 city-1201273535",
           "start": "2020-10-29T09:30:00"
-        },
-        {
-          "area": "** CANCELLED / RESCHEDULED FOR TUES, OCT 20 **2626 Jodrell CRT, 2612,2613,2618,2619\r\n2621,2622,2625, 2627 Wentwich Rd, Victoria",
-          "cause": "Planned work being done on our equipment",
-          "customers_affected": "9",
-          "end": "2020-10-15T13:30:00",
-          "last_updated": "2020-10-15T07:40:00",
-          "municipality": "Victoria",
-          "municipality_code": "day-1 day-3 city-1201273535",
-          "start": "2020-10-15T09:30:00"
         },
         {
           "area": "** Rescheduled from October 15 **2626 Jodrell CRT, 2612,2613,2618,2619\r\n2621,2622,2625, 2627 Wentwich Rd, Victoria",
@@ -4771,7 +4771,7 @@
           "end": "2020-10-15T13:30:00",
           "last_updated": "2020-10-15T13:36:00",
           "municipality": "Burnaby",
-          "municipality_code": "day-1 day-3 city-1903966249",
+          "municipality_code": "day-3 city-1903966249",
           "start": "2020-10-15T12:32:00"
         },
         {
@@ -5571,7 +5571,7 @@
           "end": "2020-10-15T14:00:00",
           "last_updated": "2020-10-15T16:13:00",
           "municipality": "Coquitlam",
-          "municipality_code": "day-1 day-3 city--3101987",
+          "municipality_code": "day-3 city--3101987",
           "start": "2020-10-15T12:09:00"
         },
         {
@@ -7871,7 +7871,7 @@
           "end": "2020-10-15T14:00:00",
           "last_updated": "2020-10-15T13:53:00",
           "municipality": "Pemberton",
-          "municipality_code": "day-1 day-3 city--2076154532",
+          "municipality_code": "day-3 city--2076154532",
           "start": "2020-10-15T11:10:00"
         },
         {
@@ -8471,7 +8471,7 @@
           "end": "2020-10-13T13:30:00",
           "last_updated": "2020-10-14T09:02:00",
           "municipality": "Sechelt",
-          "municipality_code": "day-3 city--660434186",
+          "municipality_code": "city--660434186",
           "start": "2020-10-13T07:09:00"
         },
         {
@@ -11128,7 +11128,7 @@
           "end": "2020-10-15T13:30:00",
           "last_updated": "2020-10-16T11:42:00",
           "municipality": "Parksville",
-          "municipality_code": "day-1 day-3 city--1370510519",
+          "municipality_code": "day-3 city--1370510519",
           "start": "2020-10-15T09:34:00"
         },
         {
@@ -15749,7 +15749,7 @@
           "end": "2020-10-15T15:00:00",
           "last_updated": "2020-10-15T13:35:00",
           "municipality": "Pender Island",
-          "municipality_code": "day-1 day-3 city--635217187",
+          "municipality_code": "day-3 city--635217187",
           "start": "2020-10-15T11:11:00"
         },
         {
