@@ -47,7 +47,7 @@
           "area": "8900 block 149 ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-17T15:30:00",
+          "last_updated": "2020-10-17T15:35:00",
           "municipality": "Surrey",
           "municipality_code": "day-1 day-3 city--1807186826",
           "start": "2020-10-17T14:40:00",
@@ -84,32 +84,49 @@
           "area": "6900 block BEAVER CREEK RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-17T15:25:00",
+          "last_updated": "2020-10-17T15:39:00",
           "municipality": "Port Alberni",
           "municipality_code": "day-1 day-3 city-383682720",
           "start": "2020-10-17T15:04:00",
-          "status": "Crew status: Crew assigned"
+          "status": "Crew status: Crew on-site"
         }
       ],
       "region_code": "North VI",
       "region_id": "1602896846"
     },
-    "Northern": {
+    "Okanagan/Kootenay": {
       "customers_affected_14d": -1,
       "outages": [
         {
-          "area": "TACHIE RD P53\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "area": "800 - 900 block INDUSTRIAL 1 RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-17T14:59:00",
-          "municipality": "Fort St. James",
-          "municipality_code": "day-1 day-3 city-2077380636",
-          "start": "2020-10-17T12:28:00",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 17 3:55 p.m."
+          "last_updated": "2020-10-17T15:40:00",
+          "municipality": "Cranbrook",
+          "municipality_code": "day-1 day-3 city--591720257",
+          "start": "2020-10-17T15:36:00",
+          "status": "Crew status: No crew assigned yet"
         }
       ],
-      "region_code": "Northern",
-      "region_id": "1602964060"
+      "region_code": "Okanagan/Kootenay",
+      "region_id": "2072041405"
+    },
+    "Thompson/Shuswap": {
+      "customers_affected_14d": -1,
+      "outages": [
+        {
+          "area": "MP 10 9\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Under investigation",
+          "customers_affected": "< 5",
+          "last_updated": "2020-10-17T15:39:00",
+          "municipality": "Valemount",
+          "municipality_code": "day-1 day-3 city-788397333",
+          "start": "2020-10-17T15:09:00",
+          "status": "Crew status: Crew assigned"
+        }
+      ],
+      "region_code": "Thompson/Shuswap",
+      "region_id": "725364552"
     }
   },
   "planned": {
@@ -6781,7 +6798,7 @@
           "end": "",
           "last_updated": "2020-10-14T09:42:00",
           "municipality": "Langley",
-          "municipality_code": "day-3 city-1612593490",
+          "municipality_code": "city-1612593490",
           "start": "2020-10-13T13:01:00"
         },
         {
@@ -7601,7 +7618,7 @@
           "end": "2020-10-15T16:00:00",
           "last_updated": "2020-10-15T16:33:00",
           "municipality": "North Vancouver",
-          "municipality_code": "day-1 day-3 city--1636626238",
+          "municipality_code": "day-3 city--1636626238",
           "start": "2020-10-15T15:36:00"
         },
         {
@@ -7641,7 +7658,7 @@
           "end": "",
           "last_updated": "2020-10-15T15:39:00",
           "municipality": "North Vancouver",
-          "municipality_code": "day-1 day-3 city--1636626238",
+          "municipality_code": "day-3 city--1636626238",
           "start": "2020-10-15T15:38:00"
         },
         {
@@ -11986,7 +12003,7 @@
       "region_id": "1602896846"
     },
     "Northern": {
-      "customers_affected_14d": 13133,
+      "customers_affected_14d": 13135,
       "outages": [
         {
           "area": "100 - 200 block WABALISLA ST, 0 - 100 block WAGLISLA ST, 500 block CHEENIS ST, 700 block GOOSE ISLAND DR, AIRPORT RD, BELLA BELLA RORO, PUMPHOUSE, 0 - 1200 block SHEARWATER RD, UPPER HOTEL, DENNY ISLAND RD...",
@@ -12487,6 +12504,16 @@
           "municipality": "Fort St. James",
           "municipality_code": "day-3 city-2077380636",
           "start": "2020-10-15T11:15:00"
+        },
+        {
+          "area": "TACHIE RD P53",
+          "cause": "Tree down across our wires",
+          "customers_affected": "< 5",
+          "end": "2020-10-17T15:52:00",
+          "last_updated": "2020-10-17T15:46:00",
+          "municipality": "Fort St. James",
+          "municipality_code": "day-1 day-3 city-2077380636",
+          "start": "2020-10-17T12:28:00"
         },
         {
           "area": "North of RD 277 , West of ROSE PRAIRIE RD",
@@ -14599,7 +14626,7 @@
           "end": "2020-10-15T15:30:00",
           "last_updated": "2020-10-15T16:31:00",
           "municipality": "Galiano Island",
-          "municipality_code": "day-1 day-3 city--995767958",
+          "municipality_code": "day-3 city--995767958",
           "start": "2020-10-15T11:32:00"
         },
         {
@@ -16009,7 +16036,7 @@
           "end": "",
           "last_updated": "2020-10-13T18:06:00",
           "municipality": "Sooke",
-          "municipality_code": "day-3 city-80069133",
+          "municipality_code": "city-80069133",
           "start": "2020-10-13T12:42:00"
         },
         {
@@ -16189,7 +16216,7 @@
           "end": "",
           "last_updated": "2020-10-13T15:45:00",
           "municipality": "Victoria",
-          "municipality_code": "day-3 city-1201273535",
+          "municipality_code": "city-1201273535",
           "start": "2020-10-13T13:26:00"
         },
         {
