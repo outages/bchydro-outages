@@ -74,33 +74,6 @@
       "region_code": "Lower Mainland",
       "region_id": "521980323"
     },
-    "Northern": {
-      "customers_affected_14d": -1,
-      "outages": [
-        {
-          "area": "24300 block KOON RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Under investigation",
-          "customers_affected": "< 5",
-          "last_updated": "2020-10-16T20:56:00",
-          "municipality": "Burns Lake",
-          "municipality_code": "day-1 day-3 city--2121425941",
-          "start": "2020-10-16T20:41:00",
-          "status": "Crew status: No crew assigned yet"
-        },
-        {
-          "area": "4900 block BESSBOROUGH RD 212\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Under investigation",
-          "customers_affected": "< 5",
-          "last_updated": "2020-10-16T20:46:00",
-          "municipality": "Dawson Creek",
-          "municipality_code": "day-1 day-3 city--1630954860",
-          "start": "2020-10-16T19:39:00",
-          "status": "Crew status: Crew on-site"
-        }
-      ],
-      "region_code": "Northern",
-      "region_id": "1602964060"
-    },
     "South VI": {
       "customers_affected_14d": -1,
       "outages": [
@@ -119,18 +92,8 @@
       "region_id": "1812901382"
     },
     "Thompson/Shuswap": {
-      "customers_affected_14d": 42,
+      "customers_affected_14d": -1,
       "outages": [
-        {
-          "area": "North of CANIM LAKE RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Wire down",
-          "customers_affected": "41",
-          "last_updated": "2020-10-16T20:03:00",
-          "municipality": "100 Mile House",
-          "municipality_code": "day-1 day-3 city-950857956",
-          "start": "2020-10-16T15:33:00",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 16 10:45 p.m."
-        },
         {
           "area": "1200 block BARNHARTVALE RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Transformer burn out",
@@ -4465,7 +4428,7 @@
           "end": "2020-10-14T21:27:00",
           "last_updated": "2020-10-15T11:42:00",
           "municipality": "Abbotsford",
-          "municipality_code": "day-1 day-3 city-1230363016",
+          "municipality_code": "day-3 city-1230363016",
           "start": "2020-10-14T17:18:00"
         },
         {
@@ -7885,7 +7848,7 @@
           "end": "2020-10-12T21:30:00",
           "last_updated": "2020-10-13T08:27:00",
           "municipality": "Pemberton",
-          "municipality_code": "day-3 city--2076154532",
+          "municipality_code": "city--2076154532",
           "start": "2020-10-12T19:29:00"
         },
         {
@@ -8315,7 +8278,7 @@
           "end": "2020-10-12T22:00:00",
           "last_updated": "2020-10-13T12:41:00",
           "municipality": "Richmond",
-          "municipality_code": "day-3 city--1486145068",
+          "municipality_code": "city--1486145068",
           "start": "2020-10-12T13:48:00"
         },
         {
@@ -12230,7 +12193,7 @@
       "region_id": "1602896846"
     },
     "Northern": {
-      "customers_affected_14d": 14248,
+      "customers_affected_14d": 14251,
       "outages": [
         {
           "area": "100 - 200 block WABALISLA ST, 0 - 100 block WAGLISLA ST, 500 block CHEENIS ST, 700 block GOOSE ISLAND DR, AIRPORT RD, BELLA BELLA RORO, PUMPHOUSE, 0 - 1200 block SHEARWATER RD, UPPER HOTEL, DENNY ISLAND RD...",
@@ -12361,6 +12324,16 @@
           "municipality": "Burns Lake",
           "municipality_code": "city--2121425941",
           "start": "2020-10-08T15:36:00"
+        },
+        {
+          "area": "24300 block KOON RD",
+          "cause": "Under investigation",
+          "customers_affected": "< 5",
+          "end": "",
+          "last_updated": "2020-10-16T21:16:00",
+          "municipality": "Burns Lake",
+          "municipality_code": "day-1 day-3 city--2121425941",
+          "start": "2020-10-16T20:41:00"
         },
         {
           "area": "BROWN RD P5/1, 1800 block BROWN RD",
@@ -12651,6 +12624,16 @@
           "municipality": "Dawson Creek",
           "municipality_code": "day-1 day-3 city--1630954860",
           "start": "2020-10-16T15:51:00"
+        },
+        {
+          "area": "4900 block BESSBOROUGH RD 212",
+          "cause": "Bird contacting our wires",
+          "customers_affected": "< 5",
+          "end": "",
+          "last_updated": "2020-10-16T21:14:00",
+          "municipality": "Dawson Creek",
+          "municipality_code": "day-1 day-3 city--1630954860",
+          "start": "2020-10-16T19:39:00"
         },
         {
           "area": "13100 block MCKINNON SUB",
@@ -16811,7 +16794,7 @@
       "region_id": "1812901382"
     },
     "Thompson/Shuswap": {
-      "customers_affected_14d": 15770,
+      "customers_affected_14d": 15811,
       "outages": [
         {
           "area": "East of WILCOX RD, North of TRIP RD",
@@ -16882,6 +16865,16 @@
           "municipality": "100 Mile House",
           "municipality_code": "day-1 day-3 city-950857956",
           "start": "2020-10-16T07:08:00"
+        },
+        {
+          "area": "North of CANIM LAKE RD",
+          "cause": "Tree down across our wires",
+          "customers_affected": "41",
+          "end": "2020-10-16T22:45:00",
+          "last_updated": "2020-10-16T21:13:00",
+          "municipality": "100 Mile House",
+          "municipality_code": "day-1 day-3 city-950857956",
+          "start": "2020-10-16T15:33:00"
         },
         {
           "area": "North of CANIM LAKE RD",
