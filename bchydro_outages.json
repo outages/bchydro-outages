@@ -1,7 +1,7 @@
 {
   "current": {
     "Central Interior": {
-      "customers_affected_14d": 51,
+      "customers_affected_14d": 42,
       "outages": [
         {
           "area": "3800 - 5000 block TALLUS RD, TALLUS RD BLK D\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -12,16 +12,6 @@
           "municipality_code": "day-1 day-3 city-1835674262",
           "start": "2020-10-16T11:39:00",
           "status": "Crew status: Suspended"
-        },
-        {
-          "area": "26800 block MARILYN RD, 21600 block JULIE CRES, WILLOWCALE RD P39/5, ST MARYS LAKE P39/1, ST MARYS LAKE, 50000 block WILLOW CALE FOREST RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Under investigation",
-          "customers_affected": "9",
-          "last_updated": "2020-10-16T22:42:00",
-          "municipality": "Prince George",
-          "municipality_code": "day-1 day-3 city-1835674262",
-          "start": "2020-10-16T08:01:00",
-          "status": "Crew status: Crew on-site"
         }
       ],
       "region_code": "Central Interior",
@@ -34,7 +24,7 @@
           "area": "North of GRUMME RD, West of TRANS CANADA HWY, South-East of LOUGHEED HWY\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Planned work being done on our equipment",
           "customers_affected": "45",
-          "last_updated": "2020-10-16T22:50:00",
+          "last_updated": "2020-10-16T23:06:00",
           "municipality": "Kent",
           "municipality_code": "day-1 day-3 city-2334912",
           "start": "2020-10-16T19:23:00",
@@ -2998,7 +2988,7 @@
   },
   "restored": {
     "Central Interior": {
-      "customers_affected_14d": 14771,
+      "customers_affected_14d": 14780,
       "outages": [
         {
           "area": "North of HWY 97",
@@ -3209,6 +3199,16 @@
           "municipality": "Prince George",
           "municipality_code": "day-1 day-3 city-1835674262",
           "start": "2020-10-16T07:35:00"
+        },
+        {
+          "area": "26800 block MARILYN RD, 21600 block JULIE CRES, WILLOWCALE RD P39/5, ST MARYS LAKE P39/1, ST MARYS LAKE, 50000 block WILLOW CALE FOREST RD",
+          "cause": "Tree down across our wires",
+          "customers_affected": "9",
+          "end": "2020-10-16T23:30:00",
+          "last_updated": "2020-10-16T23:24:00",
+          "municipality": "Prince George",
+          "municipality_code": "day-1 day-3 city-1835674262",
+          "start": "2020-10-16T08:01:00"
         },
         {
           "area": "East of NESSVIEW RD, North-South-West of LAKESIDE DR",
@@ -17714,10 +17714,10 @@
         },
         {
           "area": "1200 block BARNHARTVALE RD",
-          "cause": "Transformer burn out",
+          "cause": "Other",
           "customers_affected": "< 5",
           "end": "",
-          "last_updated": "2020-10-16T22:50:00",
+          "last_updated": "2020-10-16T23:17:00",
           "municipality": "Kamloops",
           "municipality_code": "day-1 day-3 city-979034872",
           "start": "2020-10-16T19:49:00"
