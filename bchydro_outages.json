@@ -7,11 +7,11 @@
           "area": "East-West of WEST LAKE ESTATES RD, North of WESTLAKE ESTATES RD, South of FLYNN RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-18T13:34:00",
+          "last_updated": "2020-10-18T14:09:00",
           "municipality": "Prince George",
           "municipality_code": "day-1 day-3 city-1835674262",
           "start": "2020-10-18T13:25:00",
-          "status": "Crew status: Crew assigned"
+          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 18 2:30 p.m."
         }
       ],
       "region_code": "Central Interior",
@@ -24,32 +24,15 @@
           "area": "1300 block POWELL ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-18T13:36:00",
+          "last_updated": "2020-10-18T14:16:00",
           "municipality": "Vancouver",
           "municipality_code": "day-1 day-3 city--1786794435",
           "start": "2020-10-18T12:48:00",
-          "status": "Crew status: Crew on-site"
+          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 18 2:30 p.m."
         }
       ],
       "region_code": "Lower Mainland",
       "region_id": "521980323"
-    },
-    "North VI": {
-      "customers_affected_14d": 1709,
-      "outages": [
-        {
-          "area": "East of DUVAL RD, North of HOLBERG RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Under investigation",
-          "customers_affected": "1709",
-          "last_updated": "2020-10-18T14:05:00",
-          "municipality": "Port Hardy",
-          "municipality_code": "day-1 day-3 city-368562319",
-          "start": "2020-10-18T14:00:00",
-          "status": "Crew status: Crew assigned"
-        }
-      ],
-      "region_code": "North VI",
-      "region_id": "1602896846"
     }
   },
   "planned": {
@@ -2864,7 +2847,7 @@
           "end": "",
           "last_updated": "2020-10-16T14:16:00",
           "municipality": "Prince George",
-          "municipality_code": "day-1 day-3 city-1835674262",
+          "municipality_code": "day-3 city-1835674262",
           "start": "2020-10-16T07:35:00"
         },
         {
@@ -2954,7 +2937,7 @@
           "end": "",
           "last_updated": "2020-10-16T14:15:00",
           "municipality": "Prince George",
-          "municipality_code": "day-1 day-3 city-1835674262",
+          "municipality_code": "day-3 city-1835674262",
           "start": "2020-10-16T09:05:00"
         },
         {
@@ -3134,7 +3117,7 @@
           "end": "2020-10-16T14:30:00",
           "last_updated": "2020-10-16T14:25:00",
           "municipality": "Quesnel",
-          "municipality_code": "day-1 day-3 city--1975191965",
+          "municipality_code": "day-3 city--1975191965",
           "start": "2020-10-16T13:19:00"
         },
         {
@@ -3454,7 +3437,7 @@
           "end": "2020-10-16T14:00:00",
           "last_updated": "2020-10-16T16:49:00",
           "municipality": "Williams Lake",
-          "municipality_code": "day-1 day-3 city--1905642465",
+          "municipality_code": "day-3 city--1905642465",
           "start": "2020-10-16T06:52:00"
         },
         {
@@ -3512,7 +3495,7 @@
       "region_id": "848340027"
     },
     "Lower Mainland": {
-      "customers_affected_14d": 145334,
+      "customers_affected_14d": 145335,
       "outages": [
         {
           "area": "North of MACLURE RD, East of MT LEHMAN RD, West of Hwy 11",
@@ -6355,6 +6338,16 @@
           "start": "2020-10-17T12:23:00"
         },
         {
+          "area": "26600 block 58 AVE",
+          "cause": "Equipment failure",
+          "customers_affected": "< 5",
+          "end": "2020-10-18T14:40:00",
+          "last_updated": "2020-10-18T14:05:00",
+          "municipality": "Langley",
+          "municipality_code": "day-1 day-3 city-1612593490",
+          "start": "2020-10-18T09:53:00"
+        },
+        {
           "area": "1800 block 248 ST",
           "cause": "Tree down across our wires",
           "customers_affected": "< 5",
@@ -8021,7 +8014,7 @@
           "end": "2020-10-14T13:51:00",
           "last_updated": "2020-10-14T19:47:00",
           "municipality": "Richmond",
-          "municipality_code": "day-3 city--1486145068",
+          "municipality_code": "city--1486145068",
           "start": "2020-10-14T07:55:00"
         },
         {
@@ -9469,8 +9462,18 @@
       "region_id": "521980323"
     },
     "North VI": {
-      "customers_affected_14d": 67078,
+      "customers_affected_14d": 74147,
       "outages": [
+        {
+          "area": "North of ISLAND HWY",
+          "cause": "Transmission circuit failure",
+          "customers_affected": "1685",
+          "end": "2020-10-18T14:30:00",
+          "last_updated": "2020-10-18T14:25:00",
+          "municipality": "Alert Bay, Port Mcneill",
+          "municipality_code": "day-1 day-3 city-539962134 city--2097763811",
+          "start": "2020-10-18T14:00:00"
+        },
         {
           "area": "West of ALDER ST, East of DOGWOOD ST, South of ROCKLAND RD, North of HOLM RD",
           "cause": "Tree down across our wires",
@@ -10668,7 +10671,7 @@
           "end": "2020-10-14T14:00:00",
           "last_updated": "2020-10-14T16:45:00",
           "municipality": "Nanaimo",
-          "municipality_code": "day-3 city--907547835",
+          "municipality_code": "city--907547835",
           "start": "2020-10-13T13:52:00"
         },
         {
@@ -10798,7 +10801,7 @@
           "end": "2020-10-14T15:00:00",
           "last_updated": "2020-10-15T07:28:00",
           "municipality": "North Cowichan",
-          "municipality_code": "day-3 city--666037877",
+          "municipality_code": "city--666037877",
           "start": "2020-10-14T09:13:00"
         },
         {
@@ -10992,6 +10995,16 @@
           "start": "2020-10-17T15:04:00"
         },
         {
+          "area": "West of BELVEDERE RD, South of PORT ALICE HWY, North of MARINE DR",
+          "cause": "Transmission circuit failure",
+          "customers_affected": "655",
+          "end": "2020-10-18T14:30:00",
+          "last_updated": "2020-10-18T14:24:00",
+          "municipality": "Port Alice",
+          "municipality_code": "day-1 day-3 city-362416673",
+          "start": "2020-10-18T14:00:00"
+        },
+        {
           "area": "500 block INDUSTRIAL WY, 500 block INDUSTRIAL WAY",
           "cause": "Equipment failure",
           "customers_affected": "< 5",
@@ -11002,6 +11015,26 @@
           "start": "2020-10-10T08:27:00"
         },
         {
+          "area": "East of DUVAL RD, North of HOLBERG RD",
+          "cause": "Transmission circuit failure",
+          "customers_affected": "1709",
+          "end": "2020-10-18T14:30:00",
+          "last_updated": "2020-10-18T14:25:00",
+          "municipality": "Port Hardy",
+          "municipality_code": "day-1 day-3 city-368562319",
+          "start": "2020-10-18T14:00:00"
+        },
+        {
+          "area": "North-South-East-West of ISLAND HWY",
+          "cause": "Transmission circuit failure",
+          "customers_affected": "1110",
+          "end": "2020-10-18T14:30:00",
+          "last_updated": "2020-10-18T14:25:00",
+          "municipality": "Port Hardy",
+          "municipality_code": "day-1 day-3 city-368562319",
+          "start": "2020-10-18T14:00:00"
+        },
+        {
           "area": "North-South-East-West of ISLAND HWY",
           "cause": "Other",
           "customers_affected": "1110",
@@ -11010,6 +11043,16 @@
           "municipality": "Port Hardy",
           "municipality_code": "city-368562319",
           "start": "2020-10-13T07:45:00"
+        },
+        {
+          "area": "North-East of COAL HARBOUR RD, West of BEAR COVE HWY, South of ISLAND HWY",
+          "cause": "Transmission circuit failure",
+          "customers_affected": "483",
+          "end": "2020-10-18T14:30:00",
+          "last_updated": "2020-10-18T14:23:00",
+          "municipality": "Port Hardy",
+          "municipality_code": "day-1 day-3 city-368562319",
+          "start": "2020-10-18T14:00:00"
         },
         {
           "area": "South of HOLBERG RD",
@@ -11102,6 +11145,16 @@
           "start": "2020-10-17T08:51:00"
         },
         {
+          "area": "North-East-West of ISLAND HWY, South of HIGHWAY 19",
+          "cause": "Transmission circuit failure",
+          "customers_affected": "11",
+          "end": "2020-10-18T14:30:00",
+          "last_updated": "2020-10-18T14:23:00",
+          "municipality": "Port Hardy",
+          "municipality_code": "day-1 day-3 city-368562319",
+          "start": "2020-10-18T14:00:00"
+        },
+        {
           "area": "100 block SPRINGHILL RD, 200 block GUN RANGE RD",
           "cause": "Tree down across our wires",
           "customers_affected": "8",
@@ -11122,6 +11175,36 @@
           "start": "2020-10-15T21:28:00"
         },
         {
+          "area": "1800 block COAL HARBOUR RD",
+          "cause": "Transmission circuit failure",
+          "customers_affected": "< 5",
+          "end": "2020-10-18T14:30:00",
+          "last_updated": "2020-10-18T14:23:00",
+          "municipality": "Port Hardy",
+          "municipality_code": "day-1 day-3 city-368562319",
+          "start": "2020-10-18T14:00:00"
+        },
+        {
+          "area": "HWY 19, PORT ALICE HWY",
+          "cause": "Transmission circuit failure",
+          "customers_affected": "< 5",
+          "end": "2020-10-18T14:30:00",
+          "last_updated": "2020-10-18T14:23:00",
+          "municipality": "Port Hardy",
+          "municipality_code": "day-1 day-3 city-368562319",
+          "start": "2020-10-18T14:00:00"
+        },
+        {
+          "area": "East of MAIN RD, South of Port McNeil-Alert Bay Ferry , West of MINE RD, North of HWY 19",
+          "cause": "Transmission circuit failure",
+          "customers_affected": "1396",
+          "end": "2020-10-18T14:30:00",
+          "last_updated": "2020-10-18T14:26:00",
+          "municipality": "Port Mcneill",
+          "municipality_code": "day-1 day-3 city--2097763811",
+          "start": "2020-10-18T14:00:00"
+        },
+        {
           "area": "East of MAIN RD, South of Port McNeil-Alert Bay Ferry , West of MINE RD, North of HWY 19",
           "cause": "Other",
           "customers_affected": "1396",
@@ -11130,6 +11213,16 @@
           "municipality": "Port Mcneill",
           "municipality_code": "city--2097763811",
           "start": "2020-10-13T07:26:00"
+        },
+        {
+          "area": "West of CAMOSUN CRS",
+          "cause": "Transmission circuit failure",
+          "customers_affected": "15",
+          "end": "2020-10-18T14:30:00",
+          "last_updated": "2020-10-18T14:24:00",
+          "municipality": "Port Mcneill",
+          "municipality_code": "day-1 day-3 city--2097763811",
+          "start": "2020-10-18T14:00:00"
         },
         {
           "area": "North of HWY19 , West of ISLAND HWY, East of LACOUVEE WAY",
@@ -14169,7 +14262,7 @@
           "end": "2020-10-14T14:30:00",
           "last_updated": "2020-10-15T14:05:00",
           "municipality": "Duncan",
-          "municipality_code": "day-3 city-2058209491",
+          "municipality_code": "city-2058209491",
           "start": "2020-10-13T11:03:00"
         },
         {
@@ -16876,7 +16969,7 @@
           "end": "",
           "last_updated": "2020-10-16T14:22:00",
           "municipality": "Clearwater",
-          "municipality_code": "day-1 day-3 city-1282265866",
+          "municipality_code": "day-3 city-1282265866",
           "start": "2020-10-16T12:04:00"
         },
         {
