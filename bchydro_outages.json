@@ -1,17 +1,17 @@
 {
   "current": {
     "Lower Mainland": {
-      "customers_affected_14d": 374,
+      "customers_affected_14d": 49,
       "outages": [
         {
           "area": "38700 block N PARALLEL RD, 38600 - 38700 block NO 4 RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Bird contacting our wires",
           "customers_affected": "5",
-          "last_updated": "2020-10-18T11:35:00",
+          "last_updated": "2020-10-18T11:48:00",
           "municipality": "Abbotsford",
           "municipality_code": "day-1 day-3 city-1230363016",
           "start": "2020-10-18T09:15:00",
-          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 18 12:00 p.m."
+          "status": "Crew status: Crew on-site"
         },
         {
           "area": "26600 block 58 AVE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -22,16 +22,6 @@
           "municipality_code": "day-1 day-3 city-1612593490",
           "start": "2020-10-18T09:53:00",
           "status": "Crew status: Crew assigned"
-        },
-        {
-          "area": "East of 152ND ST, South of 81ST AVE, West of 156TH ST, North of 76TH AVE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Under investigation",
-          "customers_affected": "338",
-          "last_updated": "2020-10-18T11:17:00",
-          "municipality": "Surrey",
-          "municipality_code": "day-1 day-3 city--1807186826",
-          "start": "2020-10-18T10:36:00",
-          "status": "Crew status: Crew on-site"
         },
         {
           "area": "17400 block 61A AVE, 6000 - 6100 block 175A ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -52,6 +42,16 @@
           "municipality_code": "day-1 day-3 city--1807186826",
           "start": "2020-10-18T09:05:00",
           "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 18 2:00 p.m."
+        },
+        {
+          "area": "East of 155A ST, North of 80TH AVE, South of 81ST AVE, West of 156TH ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Under investigation",
+          "customers_affected": "13",
+          "last_updated": "2020-10-18T12:03:00",
+          "municipality": "Surrey",
+          "municipality_code": "day-1 day-3 city--1807186826",
+          "start": "2020-10-18T10:36:00",
+          "status": "Crew status: Crew on-site"
         }
       ],
       "region_code": "Lower Mainland",
@@ -75,45 +75,25 @@
       "region_id": "1602896846"
     },
     "South VI": {
-      "customers_affected_14d": 24,
+      "customers_affected_14d": -1,
       "outages": [
-        {
-          "area": "West of WALLBANK RD, East of HEALD RD, South of KALMAR RD, North of WILMOT AVE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Planned work being done on our equipment",
-          "customers_affected": "21",
-          "last_updated": "2020-10-18T09:14:00",
-          "municipality": "Duncan",
-          "municipality_code": "day-1 day-3 city-2058209491",
-          "start": "2020-10-18T09:12:00",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 18 3:00 p.m."
-        },
         {
           "area": "4300 block CORBETT RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-18T10:31:00",
+          "last_updated": "2020-10-18T11:51:00",
           "municipality": "Pender Island",
           "municipality_code": "day-1 day-3 city--635217187",
           "start": "2020-10-18T10:10:00",
-          "status": "Crew status: Crew assigned"
+          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 18 12:25 p.m."
         }
       ],
       "region_code": "South VI",
       "region_id": "1812901382"
     },
     "Thompson/Shuswap": {
-      "customers_affected_14d": 25,
+      "customers_affected_14d": -1,
       "outages": [
-        {
-          "area": "North of HORSE LAKE RD, East of ALPINE AVE, South of ALDER AVE, West of BIRCH AVE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Planned work being done on our equipment",
-          "customers_affected": "24",
-          "last_updated": "2020-10-18T08:49:00",
-          "municipality": "100 Mile House",
-          "municipality_code": "day-1 day-3 city-950857956",
-          "start": "2020-10-18T08:48:00",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 18 4:00 p.m."
-        },
         {
           "area": "1200 block BARNHARTVALE RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
@@ -158,7 +138,7 @@
       "region_id": "848340027"
     },
     "Lower Mainland": {
-      "customers_affected_14d": 8752,
+      "customers_affected_14d": 8681,
       "outages": [
         {
           "area": "1944, 1954, 1966, 1976 Albion St; 32666-32749 Cordova Ave; 325, 32760 Marshall Rd, 32414-32750 Pandora Ave; 1911-1944 Valencia Crt, Abbotsford",
@@ -539,16 +519,6 @@
           "municipality": "Coquitlam",
           "municipality_code": "day-1 day-3 city--3101987",
           "start": "2020-10-23T12:30:00"
-        },
-        {
-          "area": "1369,1375,1383,1395,1403,1408,1410\r\n1415 Brisbane Coquitlam",
-          "cause": "Planned work being done on our equipment",
-          "customers_affected": "8",
-          "end": "2020-10-16T12:00:00",
-          "last_updated": "2020-10-07T11:11:00",
-          "municipality": "Coquitlam",
-          "municipality_code": "day-1 day-3 city--3101987",
-          "start": "2020-10-16T09:30:00"
         },
         {
           "area": "2376, 2386, 2387, 2396, 2397, 2406, 2407 Oranda Ave, Coquitlam",
@@ -1199,16 +1169,6 @@
           "municipality": "Surrey",
           "municipality_code": "day-1 day-3 city--1807186826",
           "start": "2020-10-19T09:00:00"
-        },
-        {
-          "area": "13886 62 Ave",
-          "cause": "Planned work being done on our equipment",
-          "customers_affected": "63",
-          "end": "2020-10-16T12:00:00",
-          "last_updated": "2020-10-05T16:20:00",
-          "municipality": "Surrey",
-          "municipality_code": "day-1 day-3 city--1807186826",
-          "start": "2020-10-16T09:00:00"
         },
         {
           "area": "14110-14165 57 Ave; 14113, 14133, 14153, 14163 56A Ave; 14014-14167 57A Ave, 5682, 5734 Bradford Pl; 14055, 14058, 14078, 14083 Halifax Pl, Surrey",
@@ -2026,7 +1986,7 @@
       "region_id": "2072041405"
     },
     "South VI": {
-      "customers_affected_14d": 1674,
+      "customers_affected_14d": 1635,
       "outages": [
         {
           "area": "1746 Verling Ave; 1763 Sean Hts, Saanichton",
@@ -2267,16 +2227,6 @@
           "municipality": "Victoria",
           "municipality_code": "day-1 day-3 city-1201273535",
           "start": "2020-10-20T13:00:00"
-        },
-        {
-          "area": "*Driveway to 1060 Pakington St will be closed during this time*1043 and 1060 Pakington St;\r\n440, 442, 444, and 446 Cook St",
-          "cause": "Planned work being done on our equipment",
-          "customers_affected": "39",
-          "end": "2020-10-16T12:00:00",
-          "last_updated": "2020-10-06T16:48:00",
-          "municipality": "Victoria",
-          "municipality_code": "day-1 day-3 city-1201273535",
-          "start": "2020-10-16T09:30:00"
         },
         {
           "area": "1507 (3600-3699) Queensbury Ave., Victoria",
@@ -2623,7 +2573,7 @@
       "region_id": "1812901382"
     },
     "Thompson/Shuswap": {
-      "customers_affected_14d": 2899,
+      "customers_affected_14d": 2763,
       "outages": [
         {
           "area": "160 - 330 Birch Ave; 175, 255, 315 Hwy 97",
@@ -2704,16 +2654,6 @@
           "municipality": "Lillooet",
           "municipality_code": "day-1 day-3 city-1203310572",
           "start": "2020-10-19T07:00:00"
-        },
-        {
-          "area": "***2 DAY OUTAGE HAS BEEN CANCELLED***2 days outage: Wed, Oct 14th and Fri, Oct 16th between 10AM-12PM each day11 Brummel Rd, 16-351 Coyote Rd, 19-126 Edwards Bend Rd, 19 Hayes Rd, 33300A,B, 35100-46406 Hwy 99, 17-45 Josh Rd, 42 Nickol Rd, 294 W Pavillion Rd, 22-821 Smith Rd, 45-404 Stanly Rd, Pavilion / Lillooet / Ashcroft",
-          "cause": "Planned work being done on our equipment",
-          "customers_affected": "136",
-          "end": "2020-10-16T12:00:00",
-          "last_updated": "2020-10-14T11:34:00",
-          "municipality": "Lillooet",
-          "municipality_code": "day-1 day-3 city-1203310572",
-          "start": "2020-10-14T10:00:00"
         },
         {
           "area": "15 Minute OutageAreas within Lac Le Jeune; Logan Lake; Lytton; Mamette Lake; Mamit Lake, Merritt; Sovona",
@@ -3001,7 +2941,7 @@
           "end": "2020-10-16T13:00:00",
           "last_updated": "2020-10-16T12:08:00",
           "municipality": "Prince George",
-          "municipality_code": "day-1 day-3 city-1835674262",
+          "municipality_code": "day-3 city-1835674262",
           "start": "2020-10-16T09:10:00"
         },
         {
@@ -3381,7 +3321,7 @@
           "end": "",
           "last_updated": "2020-10-16T12:06:00",
           "municipality": "Quesnel",
-          "municipality_code": "day-1 day-3 city--1975191965",
+          "municipality_code": "day-3 city--1975191965",
           "start": "2020-10-16T09:41:00"
         },
         {
@@ -3451,7 +3391,7 @@
           "end": "",
           "last_updated": "2020-10-16T12:05:00",
           "municipality": "Quesnel",
-          "municipality_code": "day-1 day-3 city--1975191965",
+          "municipality_code": "day-3 city--1975191965",
           "start": "2020-10-16T09:39:00"
         },
         {
@@ -4178,7 +4118,7 @@
           "end": "",
           "last_updated": "2020-10-15T11:41:00",
           "municipality": "Abbotsford",
-          "municipality_code": "day-3 city-1230363016",
+          "municipality_code": "city-1230363016",
           "start": "2020-10-13T18:30:00"
         },
         {
@@ -6338,7 +6278,7 @@
           "end": "",
           "last_updated": "2020-10-15T09:46:00",
           "municipality": "Langley",
-          "municipality_code": "day-3 city-1612593490",
+          "municipality_code": "city-1612593490",
           "start": "2020-10-14T10:32:00"
         },
         {
@@ -7898,7 +7838,7 @@
           "end": "2020-10-14T12:00:00",
           "last_updated": "2020-10-14T13:00:00",
           "municipality": "Powell River",
-          "municipality_code": "day-3 city-1665178489",
+          "municipality_code": "city-1665178489",
           "start": "2020-10-13T14:39:00"
         },
         {
@@ -9188,7 +9128,7 @@
           "end": "2020-10-16T14:00:00",
           "last_updated": "2020-10-16T13:34:00",
           "municipality": "Vancouver",
-          "municipality_code": "day-1 day-3 city--1786794435",
+          "municipality_code": "day-3 city--1786794435",
           "start": "2020-10-16T08:53:00"
         },
         {
@@ -11405,7 +11345,7 @@
           "end": "2020-10-14T11:30:00",
           "last_updated": "2020-10-15T12:26:00",
           "municipality": "Qualicum Beach",
-          "municipality_code": "day-3 city--154309756",
+          "municipality_code": "city--154309756",
           "start": "2020-10-13T14:08:00"
         },
         {
@@ -13072,7 +13012,7 @@
           "end": "",
           "last_updated": "2020-10-16T12:07:00",
           "municipality": "Vanderhoof",
-          "municipality_code": "day-1 day-3 city-1041981516",
+          "municipality_code": "day-3 city-1041981516",
           "start": "2020-10-16T10:38:00"
         },
         {
@@ -13319,7 +13259,7 @@
           "end": "2020-10-14T12:00:00",
           "last_updated": "2020-10-15T09:55:00",
           "municipality": "Fernie",
-          "municipality_code": "day-3 city-2100821431",
+          "municipality_code": "city-2100821431",
           "start": "2020-10-14T08:44:00"
         },
         {
@@ -13829,7 +13769,7 @@
           "end": "",
           "last_updated": "2020-10-16T14:21:00",
           "municipality": "West Kelowna",
-          "municipality_code": "day-1 day-3 city-1974628732",
+          "municipality_code": "day-3 city-1974628732",
           "start": "2020-10-16T08:01:00"
         },
         {
@@ -13877,7 +13817,7 @@
       "region_id": "2072041405"
     },
     "South VI": {
-      "customers_affected_14d": 73708,
+      "customers_affected_14d": 73729,
       "outages": [
         {
           "area": "North of CHURCH RD, West of STAUTW RD, East of TETAYUT RD, South of MT NEWTON XRD",
@@ -14056,7 +13996,7 @@
           "end": "2020-10-16T12:30:00",
           "last_updated": "2020-10-16T12:16:00",
           "municipality": "Duncan",
-          "municipality_code": "day-1 day-3 city-2058209491",
+          "municipality_code": "day-3 city-2058209491",
           "start": "2020-10-16T11:33:00"
         },
         {
@@ -14228,6 +14168,16 @@
           "municipality": "Duncan",
           "municipality_code": "day-3 city-2058209491",
           "start": "2020-10-13T15:25:00"
+        },
+        {
+          "area": "West of WALLBANK RD, East of HEALD RD, South of KALMAR RD, North of WILMOT AVE",
+          "cause": "Planned work being done on our equipment",
+          "customers_affected": "21",
+          "end": "2020-10-18T15:00:00",
+          "last_updated": "2020-10-18T11:57:00",
+          "municipality": "Duncan",
+          "municipality_code": "day-1 day-3 city-2058209491",
+          "start": "2020-10-18T09:12:00"
         },
         {
           "area": "1300 block FAIRFIELD RD, 3500 block VERNER AVE",
@@ -14966,7 +14916,7 @@
           "end": "2020-10-14T12:05:00",
           "last_updated": "2020-10-14T14:02:00",
           "municipality": "Ganges",
-          "municipality_code": "day-3 city-2125630497",
+          "municipality_code": "city-2125630497",
           "start": "2020-10-13T16:09:00"
         },
         {
@@ -16336,7 +16286,7 @@
           "end": "2020-10-14T12:30:00",
           "last_updated": "2020-10-14T12:41:00",
           "municipality": "Victoria",
-          "municipality_code": "day-3 city-1201273535",
+          "municipality_code": "city-1201273535",
           "start": "2020-10-14T09:18:00"
         },
         {
@@ -16356,7 +16306,7 @@
           "end": "2020-10-14T11:54:00",
           "last_updated": "2020-10-14T11:56:00",
           "municipality": "Victoria",
-          "municipality_code": "day-3 city-1201273535",
+          "municipality_code": "city-1201273535",
           "start": "2020-10-13T23:44:00"
         },
         {
@@ -16434,7 +16384,7 @@
       "region_id": "1812901382"
     },
     "Thompson/Shuswap": {
-      "customers_affected_14d": 14829,
+      "customers_affected_14d": 14853,
       "outages": [
         {
           "area": "East of WILCOX RD, North of TRIP RD",
@@ -16535,6 +16485,16 @@
           "municipality": "100 Mile House",
           "municipality_code": "city-950857956",
           "start": "2020-10-10T12:08:00"
+        },
+        {
+          "area": "North of HORSE LAKE RD, East of ALPINE AVE, South of ALDER AVE, West of BIRCH AVE",
+          "cause": "Planned work being done on our equipment",
+          "customers_affected": "24",
+          "end": "2020-10-18T16:00:00",
+          "last_updated": "2020-10-18T12:06:00",
+          "municipality": "100 Mile House",
+          "municipality_code": "day-1 day-3 city-950857956",
+          "start": "2020-10-18T08:48:00"
         },
         {
           "area": "North of HORSE LAKE RD, West of 181 FOREST SERVICE RD",
