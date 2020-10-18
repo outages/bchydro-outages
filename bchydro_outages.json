@@ -7,11 +7,11 @@
           "area": "38700 block N PARALLEL RD, 38600 - 38700 block NO 4 RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Bird contacting our wires",
           "customers_affected": "5",
-          "last_updated": "2020-10-18T09:35:00",
+          "last_updated": "2020-10-18T11:35:00",
           "municipality": "Abbotsford",
           "municipality_code": "day-1 day-3 city-1230363016",
           "start": "2020-10-18T09:15:00",
-          "status": "Crew status: Crew assigned"
+          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 18 12:00 p.m."
         },
         {
           "area": "26600 block 58 AVE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -37,11 +37,11 @@
           "area": "17400 block 61A AVE, 6000 - 6100 block 175A ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Cable fault",
           "customers_affected": "16",
-          "last_updated": "2020-10-18T08:41:00",
+          "last_updated": "2020-10-18T11:33:00",
           "municipality": "Surrey",
           "municipality_code": "day-1 day-3 city--1807186826",
           "start": "2020-10-17T23:28:00",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 18 12:30 p.m."
+          "status": "Crew status: Crew assigned\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 18 8:05 a.m."
         },
         {
           "area": "13100 block 88 AVE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -4258,7 +4258,7 @@
           "end": "2020-10-14T11:30:00",
           "last_updated": "2020-10-15T11:08:00",
           "municipality": "Abbotsford",
-          "municipality_code": "day-3 city-1230363016",
+          "municipality_code": "city-1230363016",
           "start": "2020-10-13T15:28:00"
         },
         {
@@ -5103,10 +5103,10 @@
         },
         {
           "area": "47200 block CHILLIWACK LAKE RD",
-          "cause": "Under investigation",
+          "cause": "Other",
           "customers_affected": "< 5",
           "end": "2020-10-18T11:30:00",
-          "last_updated": "2020-10-18T11:22:00",
+          "last_updated": "2020-10-18T11:29:00",
           "municipality": "Chilliwack",
           "municipality_code": "day-1 day-3 city--708005353",
           "start": "2020-10-18T09:05:00"
@@ -7168,7 +7168,7 @@
           "end": "2020-10-14T12:02:00",
           "last_updated": "2020-10-15T12:35:00",
           "municipality": "Maple Ridge",
-          "municipality_code": "day-3 city-598891104",
+          "municipality_code": "city-598891104",
           "start": "2020-10-14T09:03:00"
         },
         {
@@ -10475,7 +10475,7 @@
           "end": "2020-10-14T11:00:00",
           "last_updated": "2020-10-15T07:27:00",
           "municipality": "Nanaimo",
-          "municipality_code": "day-3 city--907547835",
+          "municipality_code": "city--907547835",
           "start": "2020-10-13T13:13:00"
         },
         {
@@ -13132,7 +13132,7 @@
           "end": "2020-10-16T11:15:00",
           "last_updated": "2020-10-16T11:36:00",
           "municipality": "Vanderhoof",
-          "municipality_code": "day-1 day-3 city-1041981516",
+          "municipality_code": "day-3 city-1041981516",
           "start": "2020-10-16T09:37:00"
         },
         {
@@ -13559,7 +13559,7 @@
           "end": "2020-10-14T11:30:00",
           "last_updated": "2020-10-15T08:37:00",
           "municipality": "Nakusp",
-          "municipality_code": "day-3 city--1969008230",
+          "municipality_code": "city--1969008230",
           "start": "2020-10-14T10:59:00"
         },
         {
@@ -14906,7 +14906,7 @@
           "end": "",
           "last_updated": "2020-10-14T11:34:00",
           "municipality": "Ganges",
-          "municipality_code": "day-3 city-2125630497",
+          "municipality_code": "city-2125630497",
           "start": "2020-10-13T16:11:00"
         },
         {
@@ -16873,7 +16873,7 @@
           "end": "2020-10-16T12:30:00",
           "last_updated": "2020-10-16T12:24:00",
           "municipality": "Clearwater",
-          "municipality_code": "day-1 day-3 city-1282265866",
+          "municipality_code": "day-3 city-1282265866",
           "start": "2020-10-16T03:49:00"
         },
         {
