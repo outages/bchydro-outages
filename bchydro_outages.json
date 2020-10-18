@@ -1,27 +1,17 @@
 {
   "current": {
     "Lower Mainland": {
-      "customers_affected_14d": 49,
+      "customers_affected_14d": 17,
       "outages": [
-        {
-          "area": "38700 block N PARALLEL RD, 38600 - 38700 block NO 4 RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Bird contacting our wires",
-          "customers_affected": "5",
-          "last_updated": "2020-10-18T11:48:00",
-          "municipality": "Abbotsford",
-          "municipality_code": "day-1 day-3 city-1230363016",
-          "start": "2020-10-18T09:15:00",
-          "status": "Crew status: Crew on-site"
-        },
         {
           "area": "26600 block 58 AVE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-18T09:58:00",
+          "last_updated": "2020-10-18T12:20:00",
           "municipality": "Langley",
           "municipality_code": "day-1 day-3 city-1612593490",
           "start": "2020-10-18T09:53:00",
-          "status": "Crew status: Crew assigned"
+          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 18 2:00 p.m."
         },
         {
           "area": "17400 block 61A AVE, 6000 - 6100 block 175A ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -32,26 +22,6 @@
           "municipality_code": "day-1 day-3 city--1807186826",
           "start": "2020-10-17T23:28:00",
           "status": "Crew status: Crew assigned\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 18 8:05 a.m."
-        },
-        {
-          "area": "13100 block 88 AVE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Planned work being done on our equipment",
-          "customers_affected": "14",
-          "last_updated": "2020-10-18T09:36:00",
-          "municipality": "Surrey",
-          "municipality_code": "day-1 day-3 city--1807186826",
-          "start": "2020-10-18T09:05:00",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 18 2:00 p.m."
-        },
-        {
-          "area": "East of 155A ST, North of 80TH AVE, South of 81ST AVE, West of 156TH ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Under investigation",
-          "customers_affected": "13",
-          "last_updated": "2020-10-18T12:03:00",
-          "municipality": "Surrey",
-          "municipality_code": "day-1 day-3 city--1807186826",
-          "start": "2020-10-18T10:36:00",
-          "status": "Crew status: Crew on-site"
         }
       ],
       "region_code": "Lower Mainland",
@@ -81,11 +51,11 @@
           "area": "4300 block CORBETT RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-18T11:51:00",
+          "last_updated": "2020-10-18T12:09:00",
           "municipality": "Pender Island",
           "municipality_code": "day-1 day-3 city--635217187",
           "start": "2020-10-18T10:10:00",
-          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 18 12:25 p.m."
+          "status": "Crew status: Crew on-site"
         }
       ],
       "region_code": "South VI",
@@ -3609,7 +3579,7 @@
       "region_id": "848340027"
     },
     "Lower Mainland": {
-      "customers_affected_14d": 144961,
+      "customers_affected_14d": 144980,
       "outages": [
         {
           "area": "North of MACLURE RD, East of MT LEHMAN RD, West of Hwy 11",
@@ -3902,6 +3872,16 @@
           "start": "2020-10-14T00:15:00"
         },
         {
+          "area": "38700 block N PARALLEL RD, 38600 - 38700 block NO 4 RD",
+          "cause": "Bird contacting our wires",
+          "customers_affected": "5",
+          "end": "2020-10-18T12:15:00",
+          "last_updated": "2020-10-18T12:17:00",
+          "municipality": "Abbotsford",
+          "municipality_code": "day-1 day-3 city-1230363016",
+          "start": "2020-10-18T09:15:00"
+        },
+        {
           "area": "4700 - 4900 block WILLET RD",
           "cause": "Other",
           "customers_affected": "< 5",
@@ -3998,7 +3978,7 @@
           "end": "",
           "last_updated": "2020-10-15T11:44:00",
           "municipality": "Abbotsford",
-          "municipality_code": "day-3 city-1230363016",
+          "municipality_code": "city-1230363016",
           "start": "2020-10-14T09:49:00"
         },
         {
@@ -4788,7 +4768,7 @@
           "end": "2020-10-14T13:45:00",
           "last_updated": "2020-10-14T12:22:00",
           "municipality": "Chilliwack",
-          "municipality_code": "day-3 city--708005353",
+          "municipality_code": "city--708005353",
           "start": "2020-10-13T13:10:00"
         },
         {
@@ -5138,7 +5118,7 @@
           "end": "",
           "last_updated": "2020-10-14T12:13:00",
           "municipality": "Chilliwack",
-          "municipality_code": "day-3 city--708005353",
+          "municipality_code": "city--708005353",
           "start": "2020-10-14T08:52:00"
         },
         {
@@ -6378,7 +6358,7 @@
           "end": "",
           "last_updated": "2020-10-15T09:54:00",
           "municipality": "Langley",
-          "municipality_code": "day-3 city-1612593490",
+          "municipality_code": "city-1612593490",
           "start": "2020-10-13T15:08:00"
         },
         {
@@ -6588,7 +6568,7 @@
           "end": "",
           "last_updated": "2020-10-15T09:47:00",
           "municipality": "Langley",
-          "municipality_code": "day-3 city-1612593490",
+          "municipality_code": "city-1612593490",
           "start": "2020-10-14T07:06:00"
         },
         {
@@ -8662,6 +8642,16 @@
           "start": "2020-10-05T09:10:00"
         },
         {
+          "area": "13100 block 88 AVE",
+          "cause": "Planned work being done on our equipment",
+          "customers_affected": "14",
+          "end": "2020-10-18T14:00:00",
+          "last_updated": "2020-10-18T12:21:00",
+          "municipality": "Surrey",
+          "municipality_code": "day-1 day-3 city--1807186826",
+          "start": "2020-10-18T09:05:00"
+        },
+        {
           "area": "13400 block 91 AVE",
           "cause": "equipment contact",
           "customers_affected": "14",
@@ -9705,7 +9695,7 @@
           "end": "2020-10-16T12:05:00",
           "last_updated": "2020-10-16T14:56:00",
           "municipality": "Campbell River",
-          "municipality_code": "day-1 day-3 city-1240464880",
+          "municipality_code": "day-3 city-1240464880",
           "start": "2020-10-16T08:51:00"
         },
         {
@@ -10265,7 +10255,7 @@
           "end": "2020-10-14T12:00:00",
           "last_updated": "2020-10-14T12:32:00",
           "municipality": "Ladysmith",
-          "municipality_code": "day-3 city--543936167",
+          "municipality_code": "city--543936167",
           "start": "2020-10-13T13:06:00"
         },
         {
@@ -11595,7 +11585,7 @@
           "end": "",
           "last_updated": "2020-10-15T09:25:00",
           "municipality": "Qualicum Beach",
-          "municipality_code": "day-3 city--154309756",
+          "municipality_code": "city--154309756",
           "start": "2020-10-13T13:50:00"
         },
         {
@@ -11715,7 +11705,7 @@
           "end": "2020-10-14T11:52:00",
           "last_updated": "2020-10-14T12:14:00",
           "municipality": "Qualicum Beach",
-          "municipality_code": "day-3 city--154309756",
+          "municipality_code": "city--154309756",
           "start": "2020-10-13T08:08:00"
         },
         {
@@ -11932,7 +11922,7 @@
           "end": "2020-10-16T12:30:00",
           "last_updated": "2020-10-16T12:10:00",
           "municipality": "Burns Lake",
-          "municipality_code": "day-1 day-3 city--2121425941",
+          "municipality_code": "day-3 city--2121425941",
           "start": "2020-10-15T23:19:00"
         },
         {
@@ -14846,7 +14836,7 @@
           "end": "2020-10-14T12:48:00",
           "last_updated": "2020-10-14T12:10:00",
           "municipality": "Ganges",
-          "municipality_code": "day-3 city-2125630497",
+          "municipality_code": "city-2125630497",
           "start": "2020-10-14T10:18:00"
         },
         {
@@ -17013,7 +17003,7 @@
           "end": "2020-10-16T13:00:00",
           "last_updated": "2020-10-16T12:09:00",
           "municipality": "Clearwater",
-          "municipality_code": "day-1 day-3 city-1282265866",
+          "municipality_code": "day-3 city-1282265866",
           "start": "2020-10-16T10:54:00"
         },
         {
@@ -17023,7 +17013,7 @@
           "end": "2020-10-16T12:30:00",
           "last_updated": "2020-10-16T12:25:00",
           "municipality": "Clearwater",
-          "municipality_code": "day-1 day-3 city-1282265866",
+          "municipality_code": "day-3 city-1282265866",
           "start": "2020-10-16T11:20:00"
         },
         {
