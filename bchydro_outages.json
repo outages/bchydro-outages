@@ -17,11 +17,11 @@
           "area": "2900 block 196 ST, 3100 block 196TH ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-18T08:43:00",
+          "last_updated": "2020-10-18T08:52:00",
           "municipality": "Langley, Surrey",
           "municipality_code": "day-1 day-3 city-1612593490 city--1807186826",
           "start": "2020-10-18T08:13:00",
-          "status": "Crew status: Crew on-site"
+          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 18 10:45 a.m."
         },
         {
           "area": "17400 block 61A AVE, 6000 - 6100 block 175A ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -47,24 +47,24 @@
           "area": "7800 block 128 ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Motor vehicle accident",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-18T08:12:00",
+          "last_updated": "2020-10-18T09:03:00",
           "municipality": "Surrey",
           "municipality_code": "day-1 day-3 city--1807186826",
           "start": "2020-10-18T07:53:00",
-          "status": "Crew status: Crew on-site"
+          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 18 9:30 a.m."
         }
       ],
       "region_code": "Lower Mainland",
       "region_id": "521980323"
     },
     "Okanagan/Kootenay": {
-      "customers_affected_14d": 121,
+      "customers_affected_14d": 165,
       "outages": [
         {
           "area": "East of MISSION WYCLIFFE RD, North of WYCLIFFE PARK RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Planned work being done on our equipment",
-          "customers_affected": "121",
-          "last_updated": "2020-10-18T08:25:00",
+          "customers_affected": "165",
+          "last_updated": "2020-10-18T08:51:00",
           "municipality": "Cranbrook",
           "municipality_code": "day-1 day-3 city--591720257",
           "start": "2020-10-18T08:11:00",
@@ -75,17 +75,27 @@
       "region_id": "2072041405"
     },
     "Thompson/Shuswap": {
-      "customers_affected_14d": -1,
+      "customers_affected_14d": 25,
       "outages": [
+        {
+          "area": "North of HORSE LAKE RD, East of ALPINE AVE, South of ALDER AVE, West of BIRCH AVE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Planned work being done on our equipment",
+          "customers_affected": "24",
+          "last_updated": "2020-10-18T08:49:00",
+          "municipality": "100 Mile House",
+          "municipality_code": "day-1 day-3 city-950857956",
+          "start": "2020-10-18T08:48:00",
+          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 18 4:00 p.m."
+        },
         {
           "area": "MP 10 9\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-18T06:50:00",
+          "last_updated": "2020-10-18T09:03:00",
           "municipality": "Valemount",
           "municipality_code": "day-1 day-3 city-788397333",
           "start": "2020-10-17T15:09:00",
-          "status": "Crew status: Crew assigned\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 18 9:00 a.m."
+          "status": "Crew status: Crew assigned"
         }
       ],
       "region_code": "Thompson/Shuswap",
@@ -2924,7 +2934,7 @@
           "end": "2020-10-16T08:45:00",
           "last_updated": "2020-10-16T09:16:00",
           "municipality": "Prince George",
-          "municipality_code": "day-1 day-3 city-1835674262",
+          "municipality_code": "day-3 city-1835674262",
           "start": "2020-10-16T05:51:00"
         },
         {
@@ -6581,7 +6591,7 @@
           "end": "",
           "last_updated": "2020-10-15T11:02:00",
           "municipality": "Langley",
-          "municipality_code": "day-3 city-1612593490",
+          "municipality_code": "city-1612593490",
           "start": "2020-10-13T13:54:00"
         },
         {
