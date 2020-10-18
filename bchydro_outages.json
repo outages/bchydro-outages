@@ -1,8 +1,18 @@
 {
   "current": {
     "Lower Mainland": {
-      "customers_affected_14d": 45,
+      "customers_affected_14d": 39,
       "outages": [
+        {
+          "area": "40800 block NO 2 RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Under investigation",
+          "customers_affected": "< 5",
+          "last_updated": "2020-10-17T21:10:00",
+          "municipality": "Abbotsford",
+          "municipality_code": "day-1 day-3 city-1230363016",
+          "start": "2020-10-17T21:09:00",
+          "status": "Crew status: Crew assigned"
+        },
         {
           "area": "2700 block ABERDEEN AVE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Planned work being done on our equipment",
@@ -22,16 +32,6 @@
           "municipality_code": "day-1 day-3 city-65915800",
           "start": "2020-10-17T09:24:00",
           "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 17 9:30 p.m."
-        },
-        {
-          "area": "1700 block NAPIER ST, 1000 block COMMERCIAL DR\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Under investigation",
-          "customers_affected": "7",
-          "last_updated": "2020-10-17T20:12:00",
-          "municipality": "Vancouver",
-          "municipality_code": "day-1 day-3 city--1786794435",
-          "start": "2020-10-17T19:28:00",
-          "status": "Crew status: Crew on-site"
         }
       ],
       "region_code": "Lower Mainland",
@@ -74,16 +74,6 @@
     "Thompson/Shuswap": {
       "customers_affected_14d": -1,
       "outages": [
-        {
-          "area": "1600 block E TRANS CANADA HWY\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Under investigation",
-          "customers_affected": "< 5",
-          "last_updated": "2020-10-17T20:57:00",
-          "municipality": "Kamloops",
-          "municipality_code": "day-1 day-3 city-979034872",
-          "start": "2020-10-17T20:24:00",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 17 10:00 p.m."
-        },
         {
           "area": "MP 10 9\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
@@ -3648,7 +3638,7 @@
           "end": "2020-10-13T21:30:00",
           "last_updated": "2020-10-15T11:45:00",
           "municipality": "Abbotsford",
-          "municipality_code": "day-3 city-1230363016",
+          "municipality_code": "city-1230363016",
           "start": "2020-10-13T12:55:00"
         },
         {
@@ -4698,7 +4688,7 @@
           "end": "",
           "last_updated": "2020-10-13T21:08:00",
           "municipality": "Chilliwack",
-          "municipality_code": "day-3 city--708005353",
+          "municipality_code": "city--708005353",
           "start": "2020-10-13T16:26:00"
         },
         {
@@ -6858,7 +6848,7 @@
           "end": "2020-10-13T22:40:00",
           "last_updated": "2020-10-13T21:29:00",
           "municipality": "Maple Ridge",
-          "municipality_code": "day-3 city-598891104",
+          "municipality_code": "city-598891104",
           "start": "2020-10-13T17:41:00"
         },
         {
@@ -6988,7 +6978,7 @@
           "end": "2020-10-13T22:32:00",
           "last_updated": "2020-10-13T21:21:00",
           "municipality": "Maple Ridge",
-          "municipality_code": "day-3 city-598891104",
+          "municipality_code": "city-598891104",
           "start": "2020-10-13T17:58:00"
         },
         {
@@ -7788,7 +7778,7 @@
           "end": "",
           "last_updated": "2020-10-14T12:42:00",
           "municipality": "Powell River",
-          "municipality_code": "day-3 city-1665178489",
+          "municipality_code": "city-1665178489",
           "start": "2020-10-13T13:42:00"
         },
         {
@@ -8098,7 +8088,7 @@
           "end": "2020-10-13T21:10:00",
           "last_updated": "2020-10-14T14:39:00",
           "municipality": "Richmond",
-          "municipality_code": "day-3 city--1486145068",
+          "municipality_code": "city--1486145068",
           "start": "2020-10-13T15:05:00"
         },
         {
@@ -8478,7 +8468,7 @@
           "end": "2020-10-13T21:30:00",
           "last_updated": "2020-10-14T19:04:00",
           "municipality": "Surrey",
-          "municipality_code": "day-3 city--1807186826",
+          "municipality_code": "city--1807186826",
           "start": "2020-10-13T17:12:00"
         },
         {
@@ -13906,7 +13896,7 @@
           "end": "",
           "last_updated": "2020-10-16T12:30:00",
           "municipality": "Central Saanich",
-          "municipality_code": "day-3 city--769735224",
+          "municipality_code": "city--769735224",
           "start": "2020-10-13T18:34:00"
         },
         {
@@ -14656,7 +14646,7 @@
           "end": "2020-10-13T21:00:00",
           "last_updated": "2020-10-15T10:34:00",
           "municipality": "Ganges",
-          "municipality_code": "day-3 city-2125630497",
+          "municipality_code": "city-2125630497",
           "start": "2020-10-13T14:27:00"
         },
         {
@@ -15416,7 +15406,7 @@
           "end": "",
           "last_updated": "2020-10-14T09:58:00",
           "municipality": "North Saanich",
-          "municipality_code": "day-3 city-179964248",
+          "municipality_code": "city-179964248",
           "start": "2020-10-13T18:30:00"
         },
         {
@@ -16394,7 +16384,7 @@
       "region_id": "1812901382"
     },
     "Thompson/Shuswap": {
-      "customers_affected_14d": 14858,
+      "customers_affected_14d": 14859,
       "outages": [
         {
           "area": "East of WILCOX RD, North of TRIP RD",
@@ -17123,7 +17113,7 @@
           "end": "",
           "last_updated": "2020-10-14T07:43:00",
           "municipality": "Kamloops",
-          "municipality_code": "day-3 city-979034872",
+          "municipality_code": "city-979034872",
           "start": "2020-10-13T19:26:00"
         },
         {
@@ -17317,6 +17307,16 @@
           "start": "2020-10-03T15:09:00"
         },
         {
+          "area": "1600 block E TRANS CANADA HWY",
+          "cause": "Under investigation",
+          "customers_affected": "< 5",
+          "end": "2020-10-17T22:00:00",
+          "last_updated": "2020-10-17T21:25:00",
+          "municipality": "Kamloops",
+          "municipality_code": "day-1 day-3 city-979034872",
+          "start": "2020-10-17T20:24:00"
+        },
+        {
           "area": "1200 block BARNHARTVALE RD",
           "cause": "Under investigation",
           "customers_affected": "< 5",
@@ -17363,7 +17363,7 @@
           "end": "",
           "last_updated": "2020-10-13T21:40:00",
           "municipality": "Kamloops",
-          "municipality_code": "day-3 city-979034872",
+          "municipality_code": "city-979034872",
           "start": "2020-10-13T19:30:00"
         },
         {
