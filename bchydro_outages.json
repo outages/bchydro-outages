@@ -1,7 +1,7 @@
 {
   "current": {
     "Lower Mainland": {
-      "customers_affected_14d": 40,
+      "customers_affected_14d": 41,
       "outages": [
         {
           "area": "38700 block N PARALLEL RD, 38600 - 38700 block NO 4 RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -17,11 +17,11 @@
           "area": "47200 block CHILLIWACK LAKE RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-18T09:32:00",
+          "last_updated": "2020-10-18T09:46:00",
           "municipality": "Chilliwack",
           "municipality_code": "day-1 day-3 city--708005353",
           "start": "2020-10-18T09:05:00",
-          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 18 10:35 a.m."
+          "status": "Crew status: Crew on-site"
         },
         {
           "area": "2700 block ABERDEEN AVE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -32,6 +32,16 @@
           "municipality_code": "day-1 day-3 city--3101987",
           "start": "2020-10-17T08:19:00",
           "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 18 3:00 p.m."
+        },
+        {
+          "area": "26600 block 58 AVE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Under investigation",
+          "customers_affected": "< 5",
+          "last_updated": "2020-10-18T09:58:00",
+          "municipality": "Langley",
+          "municipality_code": "day-1 day-3 city-1612593490",
+          "start": "2020-10-18T09:53:00",
+          "status": "Crew status: Crew assigned"
         },
         {
           "area": "2900 block 196 ST, 3100 block 196TH ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -67,28 +77,38 @@
           "area": "16500 block 96 AVE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-18T07:58:00",
+          "last_updated": "2020-10-18T09:46:00",
           "municipality": "Surrey",
           "municipality_code": "day-1 day-3 city--1807186826",
           "start": "2020-10-18T07:51:00",
-          "status": "Crew status: Crew assigned"
+          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 18 10:50 a.m."
         }
       ],
       "region_code": "Lower Mainland",
       "region_id": "521980323"
     },
     "North VI": {
-      "customers_affected_14d": 9,
+      "customers_affected_14d": 28,
       "outages": [
+        {
+          "area": "North of 11TH ST, South of 6TH ST, East of HARMSTON AVE, West of FITZGERALD AVE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Planned work being done on our equipment",
+          "customers_affected": "19",
+          "last_updated": "2020-10-18T09:54:00",
+          "municipality": "Courtenay",
+          "municipality_code": "day-1 day-3 city--824228212",
+          "start": "2020-10-18T09:43:00",
+          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 18 2:00 p.m."
+        },
         {
           "area": "1300 block LANYON DR\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "9",
-          "last_updated": "2020-10-18T09:35:00",
+          "last_updated": "2020-10-18T09:53:00",
           "municipality": "Qualicum Beach",
           "municipality_code": "day-1 day-3 city--154309756",
           "start": "2020-10-18T09:22:00",
-          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 18 10:15 a.m."
+          "status": "Crew status: Crew on-site"
         }
       ],
       "region_code": "North VI",
@@ -101,21 +121,21 @@
           "area": "East of MISSION WYCLIFFE RD, North of WYCLIFFE PARK RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Planned work being done on our equipment",
           "customers_affected": "165",
-          "last_updated": "2020-10-18T09:13:00",
+          "last_updated": "2020-10-18T09:47:00",
           "municipality": "Cranbrook",
           "municipality_code": "day-1 day-3 city--591720257",
           "start": "2020-10-18T08:11:00",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 18 1:00 p.m."
+          "status": "Crew status: Crew assigned\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 18 9:15 a.m."
         },
         {
           "area": "1500 block N CRANBROOK ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-18T09:25:00",
+          "last_updated": "2020-10-18T10:05:00",
           "municipality": "Cranbrook",
           "municipality_code": "day-1 day-3 city--591720257",
           "start": "2020-10-18T09:19:00",
-          "status": "Crew status: Crew assigned"
+          "status": "Crew status: Crew on-site"
         }
       ],
       "region_code": "Okanagan/Kootenay",
@@ -3678,7 +3698,7 @@
           "end": "2020-10-16T10:00:00",
           "last_updated": "2020-10-16T11:20:00",
           "municipality": "Williams Lake",
-          "municipality_code": "day-1 day-3 city--1905642465",
+          "municipality_code": "day-3 city--1905642465",
           "start": "2020-10-16T07:23:00"
         },
         {
@@ -8963,7 +8983,7 @@
           "cause": "Motor vehicle accident",
           "customers_affected": "< 5",
           "end": "2020-10-18T09:30:00",
-          "last_updated": "2020-10-18T09:12:00",
+          "last_updated": "2020-10-18T09:47:00",
           "municipality": "Surrey",
           "municipality_code": "day-1 day-3 city--1807186826",
           "start": "2020-10-18T07:53:00"
@@ -10882,7 +10902,7 @@
           "end": "2020-10-14T12:00:00",
           "last_updated": "2020-10-14T09:52:00",
           "municipality": "North Cowichan",
-          "municipality_code": "day-3 city--666037877",
+          "municipality_code": "city--666037877",
           "start": "2020-10-13T15:44:00"
         },
         {
@@ -11442,7 +11462,7 @@
           "end": "2020-10-14T10:00:00",
           "last_updated": "2020-10-15T12:16:00",
           "municipality": "Qualicum Beach",
-          "municipality_code": "day-3 city--154309756",
+          "municipality_code": "city--154309756",
           "start": "2020-10-13T17:58:00"
         },
         {
@@ -11482,7 +11502,7 @@
           "end": "2020-10-14T13:41:00",
           "last_updated": "2020-10-14T09:56:00",
           "municipality": "Qualicum Beach",
-          "municipality_code": "day-3 city--154309756",
+          "municipality_code": "city--154309756",
           "start": "2020-10-13T20:46:00"
         },
         {
@@ -13019,7 +13039,7 @@
           "end": "2020-10-16T10:00:00",
           "last_updated": "2020-10-16T10:04:00",
           "municipality": "Vanderhoof",
-          "municipality_code": "day-1 day-3 city-1041981516",
+          "municipality_code": "day-3 city-1041981516",
           "start": "2020-10-16T05:18:00"
         },
         {
