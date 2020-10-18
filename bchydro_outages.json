@@ -1,7 +1,7 @@
 {
   "current": {
     "Lower Mainland": {
-      "customers_affected_14d": 36,
+      "customers_affected_14d": 17,
       "outages": [
         {
           "area": "2700 block ABERDEEN AVE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -14,24 +14,14 @@
           "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 18 3:00 p.m."
         },
         {
-          "area": "16000 - 18500 block CAMBIE RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Under investigation",
-          "customers_affected": "19",
-          "last_updated": "2020-10-17T23:36:00",
-          "municipality": "Richmond",
-          "municipality_code": "day-1 day-3 city--1486145068",
-          "start": "2020-10-17T22:42:00",
-          "status": "Crew status: Crew assigned"
-        },
-        {
           "area": "17400 block 61A AVE, 6000 - 6100 block 175A ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "16",
-          "last_updated": "2020-10-17T23:41:00",
+          "last_updated": "2020-10-18T03:03:00",
           "municipality": "Surrey",
           "municipality_code": "day-1 day-3 city--1807186826",
           "start": "2020-10-17T23:28:00",
-          "status": "Crew status: Crew assigned"
+          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 18 4:15 a.m."
         }
       ],
       "region_code": "Lower Mainland",
@@ -72,7 +62,7 @@
       "region_id": "1602964060"
     },
     "South VI": {
-      "customers_affected_14d": 18,
+      "customers_affected_14d": 16,
       "outages": [
         {
           "area": "100 block GRANTVILLE ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -83,16 +73,6 @@
           "municipality_code": "day-1 day-3 city-2125630497",
           "start": "2020-10-18T00:40:00",
           "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 18 3:30 a.m."
-        },
-        {
-          "area": "8600 block SWALLOWFIELD RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Under investigation",
-          "customers_affected": "< 5",
-          "last_updated": "2020-10-18T02:44:00",
-          "municipality": "North Cowichan",
-          "municipality_code": "day-1 day-3 city--666037877",
-          "start": "2020-10-18T00:47:00",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 18 3:00 a.m."
         },
         {
           "area": "2200 block CLAM BAY RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -2938,7 +2918,7 @@
           "end": "2020-10-16T02:45:00",
           "last_updated": "2020-10-16T02:54:00",
           "municipality": "Prince George",
-          "municipality_code": "day-1 day-3 city-1835674262",
+          "municipality_code": "day-3 city-1835674262",
           "start": "2020-10-16T00:10:00"
         },
         {
@@ -3676,7 +3656,7 @@
       "region_id": "848340027"
     },
     "Lower Mainland": {
-      "customers_affected_14d": 144932,
+      "customers_affected_14d": 144951,
       "outages": [
         {
           "area": "North of MACLURE RD, East of MT LEHMAN RD, West of Hwy 11",
@@ -4295,7 +4275,7 @@
           "end": "2020-10-14T04:00:00",
           "last_updated": "2020-10-14T02:51:00",
           "municipality": "Abbotsford, Chilliwack",
-          "municipality_code": "day-3 city-1230363016 city--708005353",
+          "municipality_code": "city-1230363016 city--708005353",
           "start": "2020-10-13T19:53:00"
         },
         {
@@ -7969,6 +7949,16 @@
           "start": "2020-10-13T16:40:00"
         },
         {
+          "area": "16000 - 18500 block CAMBIE RD",
+          "cause": "Equipment failure",
+          "customers_affected": "19",
+          "end": "2020-10-18T03:05:00",
+          "last_updated": "2020-10-18T03:04:00",
+          "municipality": "Richmond",
+          "municipality_code": "day-1 day-3 city--1486145068",
+          "start": "2020-10-17T22:42:00"
+        },
+        {
           "area": "South of SEAFIELD CRS, North of SEAHAM CRS, East of SHELL RD, West of SEACOTE RD",
           "cause": "Planned work being done on our equipment",
           "customers_affected": "16",
@@ -10602,7 +10592,7 @@
           "end": "2020-10-15T03:00:00",
           "last_updated": "2020-10-14T12:32:00",
           "municipality": "Nanaimo",
-          "municipality_code": "day-3 city--907547835",
+          "municipality_code": "city--907547835",
           "start": "2020-10-13T05:38:00"
         },
         {
@@ -11869,7 +11859,7 @@
           "end": "",
           "last_updated": "2020-10-16T03:00:00",
           "municipality": "Bella Bella",
-          "municipality_code": "day-1 day-3 city-1769381020",
+          "municipality_code": "day-3 city-1769381020",
           "start": "2020-10-16T02:34:00"
         },
         {
@@ -13764,7 +13754,7 @@
       "region_id": "2072041405"
     },
     "South VI": {
-      "customers_affected_14d": 73690,
+      "customers_affected_14d": 73692,
       "outages": [
         {
           "area": "North of CHURCH RD, West of STAUTW RD, East of TETAYUT RD, South of MT NEWTON XRD",
@@ -15265,6 +15255,16 @@
           "municipality": "North Cowichan",
           "municipality_code": "city--666037877",
           "start": "2020-10-13T16:07:00"
+        },
+        {
+          "area": "8600 block SWALLOWFIELD RD",
+          "cause": "Under investigation",
+          "customers_affected": "< 5",
+          "end": "2020-10-18T03:00:00",
+          "last_updated": "2020-10-18T02:58:00",
+          "municipality": "North Cowichan",
+          "municipality_code": "day-1 day-3 city--666037877",
+          "start": "2020-10-18T00:47:00"
         },
         {
           "area": "3000 block COWICHAN VALLEY HWY",
