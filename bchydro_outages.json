@@ -1,7 +1,7 @@
 {
   "current": {
     "Lower Mainland": {
-      "customers_affected_14d": 18,
+      "customers_affected_14d": -1,
       "outages": [
         {
           "area": "26600 block 58 AVE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -12,16 +12,6 @@
           "municipality_code": "day-1 day-3 city-1612593490",
           "start": "2020-10-18T09:53:00",
           "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 18 2:00 p.m."
-        },
-        {
-          "area": "17400 block 61A AVE, 6000 - 6100 block 175A ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Cable fault",
-          "customers_affected": "16",
-          "last_updated": "2020-10-18T12:54:00",
-          "municipality": "Surrey",
-          "municipality_code": "day-1 day-3 city--1807186826",
-          "start": "2020-10-17T23:28:00",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 18 2:00 p.m."
         },
         {
           "area": "1300 block POWELL ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -2927,7 +2917,7 @@
           "end": "2020-10-16T13:33:00",
           "last_updated": "2020-10-16T13:18:00",
           "municipality": "Prince George",
-          "municipality_code": "day-1 day-3 city-1835674262",
+          "municipality_code": "day-3 city-1835674262",
           "start": "2020-10-16T08:19:00"
         },
         {
@@ -3545,7 +3535,7 @@
       "region_id": "848340027"
     },
     "Lower Mainland": {
-      "customers_affected_14d": 145318,
+      "customers_affected_14d": 145334,
       "outages": [
         {
           "area": "North of MACLURE RD, East of MT LEHMAN RD, West of Hwy 11",
@@ -3914,7 +3904,7 @@
           "end": "2020-10-14T13:30:00",
           "last_updated": "2020-10-15T11:10:00",
           "municipality": "Abbotsford",
-          "municipality_code": "day-3 city-1230363016",
+          "municipality_code": "city-1230363016",
           "start": "2020-10-14T11:44:00"
         },
         {
@@ -4784,7 +4774,7 @@
           "end": "",
           "last_updated": "2020-10-14T13:27:00",
           "municipality": "Chilliwack",
-          "municipality_code": "day-3 city--708005353",
+          "municipality_code": "city--708005353",
           "start": "2020-10-13T16:06:00"
         },
         {
@@ -4964,7 +4954,7 @@
           "end": "",
           "last_updated": "2020-10-14T13:23:00",
           "municipality": "Chilliwack",
-          "municipality_code": "day-3 city--708005353",
+          "municipality_code": "city--708005353",
           "start": "2020-10-14T12:38:00"
         },
         {
@@ -5134,7 +5124,7 @@
           "end": "",
           "last_updated": "2020-10-14T13:27:00",
           "municipality": "Chilliwack",
-          "municipality_code": "day-3 city--708005353",
+          "municipality_code": "city--708005353",
           "start": "2020-10-13T21:21:00"
         },
         {
@@ -6344,7 +6334,7 @@
           "end": "",
           "last_updated": "2020-10-14T13:23:00",
           "municipality": "Langley",
-          "municipality_code": "day-3 city-1612593490",
+          "municipality_code": "city-1612593490",
           "start": "2020-10-14T12:49:00"
         },
         {
@@ -6944,7 +6934,7 @@
           "end": "2020-10-14T13:30:00",
           "last_updated": "2020-10-15T12:31:00",
           "municipality": "Maple Ridge",
-          "municipality_code": "day-3 city-598891104",
+          "municipality_code": "city-598891104",
           "start": "2020-10-14T11:10:00"
         },
         {
@@ -8618,6 +8608,16 @@
           "start": "2020-10-05T09:10:00"
         },
         {
+          "area": "17400 block 61A AVE, 6000 - 6100 block 175A ST",
+          "cause": "Cable fault",
+          "customers_affected": "16",
+          "end": "2020-10-18T14:00:00",
+          "last_updated": "2020-10-18T13:23:00",
+          "municipality": "Surrey",
+          "municipality_code": "day-1 day-3 city--1807186826",
+          "start": "2020-10-17T23:28:00"
+        },
+        {
           "area": "13100 block 88 AVE",
           "cause": "Planned work being done on our equipment",
           "customers_affected": "14",
@@ -9731,7 +9731,7 @@
           "end": "2020-10-16T12:00:00",
           "last_updated": "2020-10-16T13:18:00",
           "municipality": "Comox",
-          "municipality_code": "day-1 day-3 city-65291018",
+          "municipality_code": "day-3 city-65291018",
           "start": "2020-10-16T09:57:00"
         },
         {
@@ -11541,7 +11541,7 @@
           "end": "",
           "last_updated": "2020-10-15T12:23:00",
           "municipality": "Qualicum Beach",
-          "municipality_code": "day-3 city--154309756",
+          "municipality_code": "city--154309756",
           "start": "2020-10-14T09:16:00"
         },
         {
@@ -11641,7 +11641,7 @@
           "end": "",
           "last_updated": "2020-10-15T12:22:00",
           "municipality": "Qualicum Beach",
-          "municipality_code": "day-3 city--154309756",
+          "municipality_code": "city--154309756",
           "start": "2020-10-14T06:25:00"
         },
         {
@@ -12638,7 +12638,7 @@
           "end": "2020-10-14T13:58:00",
           "last_updated": "2020-10-14T13:09:00",
           "municipality": "Hazelton",
-          "municipality_code": "day-3 city-411200875",
+          "municipality_code": "city-411200875",
           "start": "2020-10-14T11:30:00"
         },
         {
@@ -16252,7 +16252,7 @@
           "end": "2020-10-16T13:00:00",
           "last_updated": "2020-10-16T13:12:00",
           "municipality": "Victoria",
-          "municipality_code": "day-1 day-3 city-1201273535",
+          "municipality_code": "day-3 city-1201273535",
           "start": "2020-10-16T10:55:00"
         },
         {
@@ -16569,7 +16569,7 @@
           "end": "2020-10-16T13:30:00",
           "last_updated": "2020-10-16T13:20:00",
           "municipality": "100 Mile House",
-          "municipality_code": "day-1 day-3 city-950857956",
+          "municipality_code": "day-3 city-950857956",
           "start": "2020-10-16T08:25:00"
         },
         {
