@@ -17,11 +17,11 @@
           "area": "17400 block 61A AVE, 6000 - 6100 block 175A ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Cable fault",
           "customers_affected": "16",
-          "last_updated": "2020-10-18T11:33:00",
+          "last_updated": "2020-10-18T12:25:00",
           "municipality": "Surrey",
           "municipality_code": "day-1 day-3 city--1807186826",
           "start": "2020-10-17T23:28:00",
-          "status": "Crew status: Crew assigned\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 18 8:05 a.m."
+          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 18 1:05 p.m."
         }
       ],
       "region_code": "Lower Mainland",
@@ -34,7 +34,7 @@
           "area": "North of 11TH ST, South of 6TH ST, East of HARMSTON AVE, West of FITZGERALD AVE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Planned work being done on our equipment",
           "customers_affected": "19",
-          "last_updated": "2020-10-18T09:54:00",
+          "last_updated": "2020-10-18T12:28:00",
           "municipality": "Courtenay",
           "municipality_code": "day-1 day-3 city--824228212",
           "start": "2020-10-18T09:43:00",
@@ -51,11 +51,11 @@
           "area": "4300 block CORBETT RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-18T12:09:00",
+          "last_updated": "2020-10-18T12:27:00",
           "municipality": "Pender Island",
           "municipality_code": "day-1 day-3 city--635217187",
           "start": "2020-10-18T10:10:00",
-          "status": "Crew status: Crew on-site"
+          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 18 1:00 p.m."
         }
       ],
       "region_code": "South VI",
@@ -3451,7 +3451,7 @@
           "end": "2020-10-16T13:00:00",
           "last_updated": "2020-10-16T16:09:00",
           "municipality": "Williams Lake",
-          "municipality_code": "day-1 day-3 city--1905642465",
+          "municipality_code": "day-3 city--1905642465",
           "start": "2020-10-16T05:19:00"
         },
         {
@@ -3579,7 +3579,7 @@
       "region_id": "848340027"
     },
     "Lower Mainland": {
-      "customers_affected_14d": 144980,
+      "customers_affected_14d": 145318,
       "outages": [
         {
           "area": "North of MACLURE RD, East of MT LEHMAN RD, West of Hwy 11",
@@ -4108,7 +4108,7 @@
           "end": "2020-10-14T11:30:00",
           "last_updated": "2020-10-15T11:52:00",
           "municipality": "Abbotsford",
-          "municipality_code": "day-3 city-1230363016",
+          "municipality_code": "city-1230363016",
           "start": "2020-10-13T13:48:00"
         },
         {
@@ -8402,6 +8402,16 @@
           "start": "2020-10-15T09:20:00"
         },
         {
+          "area": "East of 152ND ST, South of 81ST AVE, West of 156TH ST, North of 76TH AVE",
+          "cause": "Tree down across our wires",
+          "customers_affected": "338",
+          "end": "2020-10-18T12:30:00",
+          "last_updated": "2020-10-18T12:22:00",
+          "municipality": "Surrey",
+          "municipality_code": "day-1 day-3 city--1807186826",
+          "start": "2020-10-18T10:36:00"
+        },
+        {
           "area": "North of 15A AVE, South of 21A AVE, West of 128TH ST",
           "cause": "Equipment failure",
           "customers_affected": "294",
@@ -10815,7 +10825,7 @@
           "end": "2020-10-14T12:30:00",
           "last_updated": "2020-10-15T15:42:00",
           "municipality": "North Cowichan",
-          "municipality_code": "day-3 city--666037877",
+          "municipality_code": "city--666037877",
           "start": "2020-10-13T11:35:00"
         },
         {
@@ -11992,7 +12002,7 @@
           "end": "2020-10-16T12:45:00",
           "last_updated": "2020-10-16T17:36:00",
           "municipality": "Burns Lake",
-          "municipality_code": "day-1 day-3 city--2121425941",
+          "municipality_code": "day-3 city--2121425941",
           "start": "2020-10-16T05:10:00"
         },
         {
