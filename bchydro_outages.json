@@ -7,11 +7,11 @@
           "area": "3100 block BEACH AVE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-18T15:52:00",
+          "last_updated": "2020-10-18T16:24:00",
           "municipality": "Sechelt",
           "municipality_code": "day-1 day-3 city--660434186",
           "start": "2020-10-18T15:38:00",
-          "status": "Crew status: Crew assigned"
+          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 18 5:25 p.m."
         }
       ],
       "region_code": "Lower Mainland",
@@ -24,11 +24,11 @@
           "area": "4600 block 214RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-18T16:07:00",
+          "last_updated": "2020-10-18T16:25:00",
           "municipality": "Dawson Creek",
           "municipality_code": "day-1 day-3 city--1630954860",
           "start": "2020-10-18T15:33:00",
-          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 18 4:45 p.m."
+          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 18 5:00 p.m."
         }
       ],
       "region_code": "Northern",
@@ -64,7 +64,7 @@
       "region_id": "848340027"
     },
     "Lower Mainland": {
-      "customers_affected_14d": 8651,
+      "customers_affected_14d": 8650,
       "outages": [
         {
           "area": "1944, 1954, 1966, 1976 Albion St; 32666-32749 Cordova Ave; 325, 32760 Marshall Rd, 32414-32750 Pandora Ave; 1911-1944 Valencia Crt, Abbotsford",
@@ -975,16 +975,6 @@
           "municipality": "Richmond",
           "municipality_code": "day-1 day-3 city--1486145068",
           "start": "2020-10-22T08:30:00"
-        },
-        {
-          "area": "8771 Lansdowne Rd., Richmond",
-          "cause": "Planned work being done on our equipment",
-          "customers_affected": "< 5",
-          "end": "2020-10-16T16:30:00",
-          "last_updated": "2020-10-06T12:21:00",
-          "municipality": "Richmond",
-          "municipality_code": "day-1 day-3 city--1486145068",
-          "start": "2020-10-16T08:30:00"
         },
         {
           "area": "13911 Garden City Rd, Richmond",
@@ -7204,7 +7194,7 @@
           "end": "2020-10-14T16:28:00",
           "last_updated": "2020-10-15T11:09:00",
           "municipality": "Mission",
-          "municipality_code": "day-3 city--1560864404",
+          "municipality_code": "city--1560864404",
           "start": "2020-10-14T14:18:00"
         },
         {
@@ -11861,7 +11851,7 @@
           "end": "",
           "last_updated": "2020-10-16T08:12:00",
           "municipality": "Ucluelet",
-          "municipality_code": "day-3 city--1313309491",
+          "municipality_code": "city--1313309491",
           "start": "2020-10-14T13:53:00"
         },
         {
@@ -12608,7 +12598,7 @@
           "end": "2020-10-16T17:00:00",
           "last_updated": "2020-10-16T16:28:00",
           "municipality": "Granisle",
-          "municipality_code": "day-1 day-3 city-163543707",
+          "municipality_code": "day-3 city-163543707",
           "start": "2020-10-16T11:08:00"
         },
         {
@@ -14162,7 +14152,7 @@
           "end": "2020-10-14T17:06:00",
           "last_updated": "2020-10-15T14:25:00",
           "municipality": "Duncan",
-          "municipality_code": "day-3 city-2058209491",
+          "municipality_code": "city-2058209491",
           "start": "2020-10-13T15:25:00"
         },
         {
@@ -14992,7 +14982,7 @@
           "end": "",
           "last_updated": "2020-10-16T16:51:00",
           "municipality": "Highlands, Langford, View Royal",
-          "municipality_code": "day-1 day-3 city-1322525542 city--1549378615 city--1360221748",
+          "municipality_code": "day-3 city-1322525542 city--1549378615 city--1360221748",
           "start": "2020-10-16T13:43:00"
         },
         {
@@ -15322,7 +15312,7 @@
           "end": "2020-10-14T16:06:00",
           "last_updated": "2020-10-15T14:29:00",
           "municipality": "North Cowichan",
-          "municipality_code": "day-3 city--666037877",
+          "municipality_code": "city--666037877",
           "start": "2020-10-14T00:44:00"
         },
         {
@@ -16609,7 +16599,7 @@
           "end": "2020-10-16T17:00:00",
           "last_updated": "2020-10-16T16:34:00",
           "municipality": "100 Mile House",
-          "municipality_code": "day-1 day-3 city-950857956",
+          "municipality_code": "day-3 city-950857956",
           "start": "2020-10-16T11:53:00"
         },
         {
