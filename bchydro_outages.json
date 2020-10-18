@@ -1,7 +1,7 @@
 {
   "current": {
     "Lower Mainland": {
-      "customers_affected_14d": 41,
+      "customers_affected_14d": 379,
       "outages": [
         {
           "area": "38700 block N PARALLEL RD, 38600 - 38700 block NO 4 RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -54,6 +54,16 @@
           "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 18 10:45 a.m."
         },
         {
+          "area": "East of 152ND ST, South of 81ST AVE, West of 156TH ST, North of 76TH AVE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Under investigation",
+          "customers_affected": "338",
+          "last_updated": "2020-10-18T10:45:00",
+          "municipality": "Surrey",
+          "municipality_code": "day-1 day-3 city--1807186826",
+          "start": "2020-10-18T10:36:00",
+          "status": "Crew status: Crew assigned"
+        },
+        {
           "area": "17400 block 61A AVE, 6000 - 6100 block 175A ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Cable fault",
           "customers_affected": "16",
@@ -104,23 +114,6 @@
       "region_code": "North VI",
       "region_id": "1602896846"
     },
-    "Okanagan/Kootenay": {
-      "customers_affected_14d": 165,
-      "outages": [
-        {
-          "area": "East of MISSION WYCLIFFE RD, North of WYCLIFFE PARK RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Planned work being done on our equipment",
-          "customers_affected": "165",
-          "last_updated": "2020-10-18T09:47:00",
-          "municipality": "Cranbrook",
-          "municipality_code": "day-1 day-3 city--591720257",
-          "start": "2020-10-18T08:11:00",
-          "status": "Crew status: Crew assigned\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 18 9:15 a.m."
-        }
-      ],
-      "region_code": "Okanagan/Kootenay",
-      "region_id": "2072041405"
-    },
     "South VI": {
       "customers_affected_14d": 24,
       "outages": [
@@ -138,7 +131,7 @@
           "area": "4300 block CORBETT RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-18T10:22:00",
+          "last_updated": "2020-10-18T10:31:00",
           "municipality": "Pender Island",
           "municipality_code": "day-1 day-3 city--635217187",
           "start": "2020-10-18T10:10:00",
@@ -149,7 +142,7 @@
       "region_id": "1812901382"
     },
     "Thompson/Shuswap": {
-      "customers_affected_14d": 25,
+      "customers_affected_14d": 26,
       "outages": [
         {
           "area": "North of HORSE LAKE RD, East of ALPINE AVE, South of ALDER AVE, West of BIRCH AVE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -160,6 +153,16 @@
           "municipality_code": "day-1 day-3 city-950857956",
           "start": "2020-10-18T08:48:00",
           "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 18 4:00 p.m."
+        },
+        {
+          "area": "1200 block BARNHARTVALE RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Under investigation",
+          "customers_affected": "< 5",
+          "last_updated": "2020-10-18T10:45:00",
+          "municipality": "Kamloops",
+          "municipality_code": "day-1 day-3 city-979034872",
+          "start": "2020-10-18T10:43:00",
+          "status": "Crew status: No crew assigned yet"
         },
         {
           "area": "MP 10 9\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -3288,7 +3291,7 @@
           "end": "",
           "last_updated": "2020-10-16T10:47:00",
           "municipality": "Prince George",
-          "municipality_code": "day-1 day-3 city-1835674262",
+          "municipality_code": "day-3 city-1835674262",
           "start": "2020-10-16T07:35:00"
         },
         {
@@ -3528,7 +3531,7 @@
           "end": "2020-10-16T11:00:00",
           "last_updated": "2020-10-16T11:13:00",
           "municipality": "Quesnel",
-          "municipality_code": "day-1 day-3 city--1975191965",
+          "municipality_code": "day-3 city--1975191965",
           "start": "2020-10-16T07:53:00"
         },
         {
@@ -3618,7 +3621,7 @@
           "end": "",
           "last_updated": "2020-10-16T10:42:00",
           "municipality": "Williams Lake",
-          "municipality_code": "day-1 day-3 city--1905642465",
+          "municipality_code": "day-3 city--1905642465",
           "start": "2020-10-16T08:59:00"
         },
         {
@@ -3698,7 +3701,7 @@
           "end": "",
           "last_updated": "2020-10-16T10:41:00",
           "municipality": "Williams Lake",
-          "municipality_code": "day-1 day-3 city--1905642465",
+          "municipality_code": "day-3 city--1905642465",
           "start": "2020-10-16T10:11:00"
         },
         {
@@ -3965,7 +3968,7 @@
           "end": "2020-10-14T10:20:00",
           "last_updated": "2020-10-15T11:47:00",
           "municipality": "Abbotsford",
-          "municipality_code": "day-3 city-1230363016",
+          "municipality_code": "city-1230363016",
           "start": "2020-10-13T12:49:00"
         },
         {
@@ -5215,7 +5218,7 @@
           "end": "",
           "last_updated": "2020-10-14T10:36:00",
           "municipality": "Chilliwack",
-          "municipality_code": "day-3 city--708005353",
+          "municipality_code": "city--708005353",
           "start": "2020-10-14T05:46:00"
         },
         {
@@ -6675,7 +6678,7 @@
           "end": "",
           "last_updated": "2020-10-14T19:48:00",
           "municipality": "Langley",
-          "municipality_code": "day-3 city-1612593490",
+          "municipality_code": "city-1612593490",
           "start": "2020-10-14T08:53:00"
         },
         {
@@ -9742,7 +9745,7 @@
           "end": "2020-10-14T10:30:00",
           "last_updated": "2020-10-15T11:30:00",
           "municipality": "Campbell River",
-          "municipality_code": "day-3 city-1240464880",
+          "municipality_code": "city-1240464880",
           "start": "2020-10-13T12:35:00"
         },
         {
@@ -11567,10 +11570,10 @@
         },
         {
           "area": "1300 block LANYON DR",
-          "cause": "Under investigation",
+          "cause": "equipment contact",
           "customers_affected": "9",
           "end": "",
-          "last_updated": "2020-10-18T10:15:00",
+          "last_updated": "2020-10-18T10:36:00",
           "municipality": "Qualicum Beach",
           "municipality_code": "day-1 day-3 city--154309756",
           "start": "2020-10-18T09:22:00"
@@ -13197,7 +13200,7 @@
       "region_id": "1602964060"
     },
     "Okanagan/Kootenay": {
-      "customers_affected_14d": 15292,
+      "customers_affected_14d": 15457,
       "outages": [
         {
           "area": "South of LEARMOUTH RD, West of COACHWOOD CRS, East of BREWER RD",
@@ -13218,6 +13221,16 @@
           "municipality": "Cranbrook",
           "municipality_code": "city--591720257",
           "start": "2020-10-10T10:37:00"
+        },
+        {
+          "area": "East of MISSION WYCLIFFE RD, North of WYCLIFFE PARK RD",
+          "cause": "Planned work being done on our equipment",
+          "customers_affected": "165",
+          "end": "2020-10-18T13:00:00",
+          "last_updated": "2020-10-18T10:38:00",
+          "municipality": "Cranbrook",
+          "municipality_code": "day-1 day-3 city--591720257",
+          "start": "2020-10-18T08:11:00"
         },
         {
           "area": "West of BRANA RD, South of GREEN BAY RD, North of MONROE LAKE RD",
@@ -16283,7 +16296,7 @@
           "end": "2020-10-16T11:00:00",
           "last_updated": "2020-10-16T11:39:00",
           "municipality": "Victoria",
-          "municipality_code": "day-1 day-3 city-1201273535",
+          "municipality_code": "day-3 city-1201273535",
           "start": "2020-10-16T08:40:00"
         },
         {
