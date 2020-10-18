@@ -1,27 +1,27 @@
 {
   "current": {
     "Lower Mainland": {
-      "customers_affected_14d": -1,
+      "customers_affected_14d": 20,
       "outages": [
-        {
-          "area": "40800 block NO 2 RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Under investigation",
-          "customers_affected": "< 5",
-          "last_updated": "2020-10-17T22:18:00",
-          "municipality": "Abbotsford",
-          "municipality_code": "day-1 day-3 city-1230363016",
-          "start": "2020-10-17T21:09:00",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 17 11:00 p.m."
-        },
         {
           "area": "2700 block ABERDEEN AVE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Planned work being done on our equipment",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-17T14:58:00",
+          "last_updated": "2020-10-17T22:48:00",
           "municipality": "Coquitlam",
           "municipality_code": "day-1 day-3 city--3101987",
           "start": "2020-10-17T08:19:00",
           "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 18 3:00 p.m."
+        },
+        {
+          "area": "16000 - 18500 block CAMBIE RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Under investigation",
+          "customers_affected": "19",
+          "last_updated": "2020-10-17T23:01:00",
+          "municipality": "Richmond",
+          "municipality_code": "day-1 day-3 city--1486145068",
+          "start": "2020-10-17T22:42:00",
+          "status": "Crew status: Crew assigned"
         }
       ],
       "region_code": "Lower Mainland",
@@ -34,7 +34,7 @@
           "area": "1300 block CLAYMORE RD LAB\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-17T22:30:00",
+          "last_updated": "2020-10-17T22:52:00",
           "municipality": "Qualicum Beach",
           "municipality_code": "day-1 day-3 city--154309756",
           "start": "2020-10-17T16:01:00",
@@ -44,6 +44,23 @@
       "region_code": "North VI",
       "region_id": "1602896846"
     },
+    "Northern": {
+      "customers_affected_14d": -1,
+      "outages": [
+        {
+          "area": "SWAN LAKE RD P61\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Under investigation",
+          "customers_affected": "< 5",
+          "last_updated": "2020-10-17T23:02:00",
+          "municipality": "Hazelton",
+          "municipality_code": "day-1 day-3 city-411200875",
+          "start": "2020-10-17T22:38:00",
+          "status": "Crew status: Crew assigned"
+        }
+      ],
+      "region_code": "Northern",
+      "region_id": "1602964060"
+    },
     "Thompson/Shuswap": {
       "customers_affected_14d": -1,
       "outages": [
@@ -51,7 +68,7 @@
           "area": "MP 10 9\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-17T19:33:00",
+          "last_updated": "2020-10-17T23:01:00",
           "municipality": "Valemount",
           "municipality_code": "day-1 day-3 city-788397333",
           "start": "2020-10-17T15:09:00",
@@ -3602,7 +3619,7 @@
       "region_id": "848340027"
     },
     "Lower Mainland": {
-      "customers_affected_14d": 144957,
+      "customers_affected_14d": 145150,
       "outages": [
         {
           "area": "North of MACLURE RD, East of MT LEHMAN RD, West of Hwy 11",
@@ -4023,6 +4040,16 @@
           "municipality": "Abbotsford",
           "municipality_code": "city-1230363016",
           "start": "2020-10-05T12:26:00"
+        },
+        {
+          "area": "40800 block NO 2 RD",
+          "cause": "Under investigation",
+          "customers_affected": "< 5",
+          "end": "2020-10-17T23:00:00",
+          "last_updated": "2020-10-17T22:56:00",
+          "municipality": "Abbotsford",
+          "municipality_code": "day-1 day-3 city-1230363016",
+          "start": "2020-10-17T21:09:00"
         },
         {
           "area": "5000 block LEFEUVRE RD",
@@ -5385,6 +5412,16 @@
           "start": "2020-10-11T16:29:00"
         },
         {
+          "area": "North-West of CLIVEDEN AVE, East of CARLETON CRT, South of HWY 91",
+          "cause": "Planned work being done on our equipment",
+          "customers_affected": "192",
+          "end": "2020-10-17T21:30:00",
+          "last_updated": "2020-10-17T23:00:00",
+          "municipality": "Delta",
+          "municipality_code": "day-1 day-3 city-65915800",
+          "start": "2020-10-17T09:24:00"
+        },
+        {
           "area": "5600 block LADNER TRUNK RD",
           "cause": "Tree down across our wires",
           "customers_affected": "15",
@@ -5821,7 +5858,7 @@
           "end": "2020-10-13T23:07:00",
           "last_updated": "2020-10-13T23:07:00",
           "municipality": "Kent",
-          "municipality_code": "day-3 city-2334912",
+          "municipality_code": "city-2334912",
           "start": "2020-10-13T17:33:00"
         },
         {
@@ -6471,7 +6508,7 @@
           "end": "2020-10-13T22:45:00",
           "last_updated": "2020-10-14T10:18:00",
           "municipality": "Langley",
-          "municipality_code": "day-3 city-1612593490",
+          "municipality_code": "city-1612593490",
           "start": "2020-10-13T14:15:00"
         },
         {
@@ -7041,7 +7078,7 @@
           "end": "2020-10-14T04:00:00",
           "last_updated": "2020-10-13T23:04:00",
           "municipality": "Maple Ridge",
-          "municipality_code": "day-3 city-598891104",
+          "municipality_code": "city-598891104",
           "start": "2020-10-13T18:10:00"
         },
         {
@@ -7181,7 +7218,7 @@
           "end": "2020-10-13T22:48:00",
           "last_updated": "2020-10-15T11:48:00",
           "municipality": "Mission",
-          "municipality_code": "day-3 city--1560864404",
+          "municipality_code": "city--1560864404",
           "start": "2020-10-13T13:20:00"
         },
         {
@@ -8501,7 +8538,7 @@
           "end": "",
           "last_updated": "2020-10-13T22:59:00",
           "municipality": "Surrey",
-          "municipality_code": "day-3 city--1807186826",
+          "municipality_code": "city--1807186826",
           "start": "2020-10-13T15:55:00"
         },
         {
@@ -10218,7 +10255,7 @@
           "end": "2020-10-13T23:00:00",
           "last_updated": "2020-10-15T11:47:00",
           "municipality": "Gold River",
-          "municipality_code": "day-3 city--1035423156",
+          "municipality_code": "city--1035423156",
           "start": "2020-10-13T08:08:00"
         },
         {
@@ -11328,7 +11365,7 @@
           "end": "2020-10-13T23:00:00",
           "last_updated": "2020-10-15T12:24:00",
           "municipality": "Qualicum Beach",
-          "municipality_code": "day-3 city--154309756",
+          "municipality_code": "city--154309756",
           "start": "2020-10-13T19:53:00"
         },
         {
@@ -13152,7 +13189,7 @@
           "end": "2020-10-13T23:00:00",
           "last_updated": "2020-10-15T08:54:00",
           "municipality": "Coldstream",
-          "municipality_code": "day-3 city--2136465532",
+          "municipality_code": "city--2136465532",
           "start": "2020-10-13T21:01:00"
         },
         {
@@ -14859,7 +14896,7 @@
           "end": "2020-10-13T23:15:00",
           "last_updated": "2020-10-14T08:39:00",
           "municipality": "Ganges",
-          "municipality_code": "day-3 city-2125630497",
+          "municipality_code": "city-2125630497",
           "start": "2020-10-13T12:24:00"
         },
         {
@@ -15169,7 +15206,7 @@
           "end": "2020-10-13T23:30:00",
           "last_updated": "2020-10-14T11:27:00",
           "municipality": "Metchosin, Sooke",
-          "municipality_code": "day-3 city-1000109226 city-80069133",
+          "municipality_code": "city-1000109226 city-80069133",
           "start": "2020-10-13T11:53:00"
         },
         {
@@ -16169,7 +16206,7 @@
           "end": "",
           "last_updated": "2020-10-14T09:20:00",
           "municipality": "Victoria",
-          "municipality_code": "day-3 city-1201273535",
+          "municipality_code": "city-1201273535",
           "start": "2020-10-13T17:09:00"
         },
         {
