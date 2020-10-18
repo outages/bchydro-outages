@@ -1,7 +1,7 @@
 {
   "current": {
     "Lower Mainland": {
-      "customers_affected_14d": 56,
+      "customers_affected_14d": 41,
       "outages": [
         {
           "area": "2700 block ABERDEEN AVE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -24,16 +24,6 @@
           "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 17 9:00 p.m."
         },
         {
-          "area": "47700 - 47800 block OLD BOSTON BAR RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Bird contacting our wires",
-          "customers_affected": "15",
-          "last_updated": "2020-10-17T16:16:00",
-          "municipality": "Hope",
-          "municipality_code": "day-1 day-3 city-2255196",
-          "start": "2020-10-17T15:49:00",
-          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 17 6:00 p.m."
-        },
-        {
           "area": "6900 block 206 ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "< 5",
@@ -47,11 +37,11 @@
           "area": "8900 block 149 ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-17T16:06:00",
+          "last_updated": "2020-10-17T17:41:00",
           "municipality": "Surrey",
           "municipality_code": "day-1 day-3 city--1807186826",
           "start": "2020-10-17T14:40:00",
-          "status": "Crew status: Crew assigned"
+          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 17 6:45 p.m."
         }
       ],
       "region_code": "Lower Mainland",
@@ -75,55 +65,35 @@
       "region_id": "1602896846"
     },
     "Northern": {
-      "customers_affected_14d": 39,
+      "customers_affected_14d": -1,
       "outages": [
         {
           "area": "15800 block UPPER CUTBANK RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-17T17:10:00",
+          "last_updated": "2020-10-17T17:42:00",
           "municipality": "Dawson Creek",
           "municipality_code": "day-1 day-3 city--1630954860",
           "start": "2020-10-17T16:57:00",
-          "status": "Crew status: Crew assigned"
+          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 17 6:45 p.m."
         },
         {
-          "area": "West of TATLOW RD, South of RAYMOND RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "area": "13000 block OLD TREMBLAY TRAIL\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
-          "customers_affected": "38",
-          "last_updated": "2020-10-17T17:11:00",
-          "municipality": "Smithers",
-          "municipality_code": "day-1 day-3 city--305588573",
-          "start": "2020-10-17T15:50:00",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 17 6:00 p.m."
+          "customers_affected": "< 5",
+          "last_updated": "2020-10-17T18:00:00",
+          "municipality": "Dawson Creek",
+          "municipality_code": "day-1 day-3 city--1630954860",
+          "start": "2020-10-17T17:37:00",
+          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 17 7:00 p.m."
         }
       ],
       "region_code": "Northern",
       "region_id": "1602964060"
     },
     "Okanagan/Kootenay": {
-      "customers_affected_14d": 7,
+      "customers_affected_14d": -1,
       "outages": [
-        {
-          "area": "800 - 900 block INDUSTRIAL 1 RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Bird contacting our wires",
-          "customers_affected": "< 5",
-          "last_updated": "2020-10-17T16:54:00",
-          "municipality": "Cranbrook",
-          "municipality_code": "day-1 day-3 city--591720257",
-          "start": "2020-10-17T15:36:00",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 17 6:00 p.m."
-        },
-        {
-          "area": "500 block ARROW PARK DEMARS RD, 300 block STEVENS RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Under investigation",
-          "customers_affected": "< 5",
-          "last_updated": "2020-10-17T17:05:00",
-          "municipality": "Nakusp",
-          "municipality_code": "day-1 day-3 city--1969008230",
-          "start": "2020-10-17T16:33:00",
-          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 17 6:05 p.m."
-        },
         {
           "area": "100 block WESTSIDE RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
@@ -185,7 +155,7 @@
       "region_id": "848340027"
     },
     "Lower Mainland": {
-      "customers_affected_14d": 8671,
+      "customers_affected_14d": 8651,
       "outages": [
         {
           "area": "1944, 1954, 1966, 1976 Albion St; 32666-32749 Cordova Ave; 325, 32760 Marshall Rd, 32414-32750 Pandora Ave; 1911-1944 Valencia Crt, Abbotsford",
@@ -986,16 +956,6 @@
           "municipality": "Pemberton",
           "municipality_code": "day-1 day-3 city--2076154532",
           "start": "2020-10-16T08:30:00"
-        },
-        {
-          "area": "18840-18946 119b Ave",
-          "cause": "Planned work being done on our equipment",
-          "customers_affected": "20",
-          "end": "2020-10-15T17:30:00",
-          "last_updated": "2020-10-05T10:58:00",
-          "municipality": "Pitt Meadows",
-          "municipality_code": "day-1 day-3 city--253788407",
-          "start": "2020-10-15T08:30:00"
         },
         {
           "area": "18893 to 18946 119B Ave",
@@ -3498,7 +3458,7 @@
           "end": "",
           "last_updated": "2020-10-14T08:12:00",
           "municipality": "Quesnel",
-          "municipality_code": "day-3 city--1975191965",
+          "municipality_code": "city--1975191965",
           "start": "2020-10-13T16:15:00"
         },
         {
@@ -3726,7 +3686,7 @@
       "region_id": "848340027"
     },
     "Lower Mainland": {
-      "customers_affected_14d": 144888,
+      "customers_affected_14d": 144906,
       "outages": [
         {
           "area": "North of MACLURE RD, East of MT LEHMAN RD, West of Hwy 11",
@@ -3765,7 +3725,7 @@
           "end": "2020-10-13T18:43:00",
           "last_updated": "2020-10-15T11:43:00",
           "municipality": "Abbotsford",
-          "municipality_code": "day-3 city-1230363016",
+          "municipality_code": "city-1230363016",
           "start": "2020-10-13T12:51:00"
         },
         {
@@ -3775,7 +3735,7 @@
           "end": "",
           "last_updated": "2020-10-15T11:11:00",
           "municipality": "Abbotsford",
-          "municipality_code": "day-3 city-1230363016",
+          "municipality_code": "city-1230363016",
           "start": "2020-10-13T13:03:00"
         },
         {
@@ -4365,7 +4325,7 @@
           "end": "",
           "last_updated": "2020-10-15T09:57:00",
           "municipality": "Abbotsford, Langley",
-          "municipality_code": "day-3 city-1230363016 city-1612593490",
+          "municipality_code": "city-1230363016 city-1612593490",
           "start": "2020-10-13T12:30:00"
         },
         {
@@ -4915,7 +4875,7 @@
           "end": "2020-10-15T17:30:00",
           "last_updated": "2020-10-15T17:31:00",
           "municipality": "Chilliwack",
-          "municipality_code": "day-1 day-3 city--708005353",
+          "municipality_code": "day-3 city--708005353",
           "start": "2020-10-14T09:12:00"
         },
         {
@@ -5365,7 +5325,7 @@
           "end": "",
           "last_updated": "2020-10-13T17:26:00",
           "municipality": "Chilliwack, Kent",
-          "municipality_code": "day-3 city--708005353 city-2334912",
+          "municipality_code": "city--708005353 city-2334912",
           "start": "2020-10-13T15:23:00"
         },
         {
@@ -5799,6 +5759,16 @@
           "start": "2020-10-06T00:48:00"
         },
         {
+          "area": "47700 - 47800 block OLD BOSTON BAR RD",
+          "cause": "Bird contacting our wires",
+          "customers_affected": "15",
+          "end": "2020-10-17T18:50:00",
+          "last_updated": "2020-10-17T18:08:00",
+          "municipality": "Hope",
+          "municipality_code": "day-1 day-3 city-2255196",
+          "start": "2020-10-17T15:49:00"
+        },
+        {
           "area": "West of 5TH AVE, North of OLD HOPE PRINCETON HWY, South of 4TH AVE, East of 3RD AVE",
           "cause": "Bird contacting our wires",
           "customers_affected": "13",
@@ -6015,7 +5985,7 @@
           "end": "",
           "last_updated": "2020-10-14T14:37:00",
           "municipality": "Langley",
-          "municipality_code": "day-3 city-1612593490",
+          "municipality_code": "city-1612593490",
           "start": "2020-10-13T14:21:00"
         },
         {
@@ -6105,7 +6075,7 @@
           "end": "",
           "last_updated": "2020-10-14T14:17:00",
           "municipality": "Langley",
-          "municipality_code": "day-3 city-1612593490",
+          "municipality_code": "city-1612593490",
           "start": "2020-10-13T13:49:00"
         },
         {
@@ -6775,7 +6745,7 @@
           "end": "2020-10-13T18:30:00",
           "last_updated": "2020-10-14T13:59:00",
           "municipality": "Langley, Maple Ridge",
-          "municipality_code": "day-3 city-1612593490 city-598891104",
+          "municipality_code": "city-1612593490 city-598891104",
           "start": "2020-10-13T12:13:00"
         },
         {
@@ -6785,7 +6755,7 @@
           "end": "",
           "last_updated": "2020-10-14T14:17:00",
           "municipality": "Langley, Surrey",
-          "municipality_code": "day-3 city-1612593490 city--1807186826",
+          "municipality_code": "city-1612593490 city--1807186826",
           "start": "2020-10-13T13:48:00"
         },
         {
@@ -6855,7 +6825,7 @@
           "end": "2020-10-13T17:59:00",
           "last_updated": "2020-10-13T17:38:00",
           "municipality": "Maple Ridge",
-          "municipality_code": "day-3 city-598891104",
+          "municipality_code": "city-598891104",
           "start": "2020-10-13T15:15:00"
         },
         {
@@ -7955,7 +7925,7 @@
           "end": "",
           "last_updated": "2020-10-14T12:35:00",
           "municipality": "Powell River",
-          "municipality_code": "day-3 city-1665178489",
+          "municipality_code": "city-1665178489",
           "start": "2020-10-13T09:54:00"
         },
         {
@@ -8275,7 +8245,7 @@
           "end": "2020-10-13T18:00:00",
           "last_updated": "2020-10-14T09:03:00",
           "municipality": "Sechelt",
-          "municipality_code": "day-3 city--660434186",
+          "municipality_code": "city--660434186",
           "start": "2020-10-13T07:12:00"
         },
         {
@@ -8685,7 +8655,7 @@
           "end": "",
           "last_updated": "2020-10-14T14:55:00",
           "municipality": "Surrey",
-          "municipality_code": "day-3 city--1807186826",
+          "municipality_code": "city--1807186826",
           "start": "2020-10-13T15:56:00"
         },
         {
@@ -8855,7 +8825,7 @@
           "end": "2020-10-13T18:00:00",
           "last_updated": "2020-10-14T14:37:00",
           "municipality": "Surrey",
-          "municipality_code": "day-3 city--1807186826",
+          "municipality_code": "city--1807186826",
           "start": "2020-10-13T14:52:00"
         },
         {
@@ -9255,7 +9225,7 @@
           "end": "2020-10-13T18:00:00",
           "last_updated": "2020-10-14T10:22:00",
           "municipality": "Vancouver",
-          "municipality_code": "day-3 city--1786794435",
+          "municipality_code": "city--1786794435",
           "start": "2020-10-13T14:03:00"
         },
         {
@@ -9367,6 +9337,16 @@
           "municipality": "Vancouver",
           "municipality_code": "city--1786794435",
           "start": "2020-10-13T10:05:00"
+        },
+        {
+          "area": "1200 block E PENDER ST, 1200 block E HASTINGS ST",
+          "cause": "Equipment failure",
+          "customers_affected": "< 5",
+          "end": "2020-10-17T16:00:00",
+          "last_updated": "2020-10-17T18:14:00",
+          "municipality": "Vancouver",
+          "municipality_code": "day-1 day-3 city--1786794435",
+          "start": "2020-10-17T05:52:00"
         },
         {
           "area": "3600 block HUDSON ST",
@@ -9902,7 +9882,7 @@
           "end": "",
           "last_updated": "2020-10-13T17:36:00",
           "municipality": "Courtenay",
-          "municipality_code": "day-3 city--824228212",
+          "municipality_code": "city--824228212",
           "start": "2020-10-13T05:59:00"
         },
         {
@@ -9972,7 +9952,7 @@
           "end": "2020-10-13T17:43:00",
           "last_updated": "2020-10-13T18:23:00",
           "municipality": "Courtenay",
-          "municipality_code": "day-3 city--824228212",
+          "municipality_code": "city--824228212",
           "start": "2020-10-13T12:22:00"
         },
         {
@@ -9982,7 +9962,7 @@
           "end": "",
           "last_updated": "2020-10-13T19:12:00",
           "municipality": "Courtenay",
-          "municipality_code": "day-3 city--824228212",
+          "municipality_code": "city--824228212",
           "start": "2020-10-13T12:15:00"
         },
         {
@@ -10192,7 +10172,7 @@
           "end": "2020-10-15T17:30:00",
           "last_updated": "2020-10-15T17:33:00",
           "municipality": "Courtenay",
-          "municipality_code": "day-1 day-3 city--824228212",
+          "municipality_code": "day-3 city--824228212",
           "start": "2020-10-15T15:56:00"
         },
         {
@@ -10382,7 +10362,7 @@
           "end": "",
           "last_updated": "2020-10-16T10:16:00",
           "municipality": "Nanaimo",
-          "municipality_code": "day-3 city--907547835",
+          "municipality_code": "city--907547835",
           "start": "2020-10-13T16:45:00"
         },
         {
@@ -10522,7 +10502,7 @@
           "end": "",
           "last_updated": "2020-10-14T12:33:00",
           "municipality": "Nanaimo",
-          "municipality_code": "day-3 city--907547835",
+          "municipality_code": "city--907547835",
           "start": "2020-10-13T16:39:00"
         },
         {
@@ -10692,7 +10672,7 @@
           "end": "2020-10-13T17:00:00",
           "last_updated": "2020-10-14T12:32:00",
           "municipality": "Nanaimo",
-          "municipality_code": "day-3 city--907547835",
+          "municipality_code": "city--907547835",
           "start": "2020-10-13T14:34:00"
         },
         {
@@ -11312,7 +11292,7 @@
           "end": "2020-10-13T17:38:00",
           "last_updated": "2020-10-16T11:46:00",
           "municipality": "Qualicum Beach",
-          "municipality_code": "day-3 city--154309756",
+          "municipality_code": "city--154309756",
           "start": "2020-10-13T12:29:00"
         },
         {
@@ -11902,7 +11882,7 @@
           "end": "2020-10-13T18:00:00",
           "last_updated": "2020-10-16T08:08:00",
           "municipality": "Ucluelet",
-          "municipality_code": "day-3 city--1313309491",
+          "municipality_code": "city--1313309491",
           "start": "2020-10-13T17:08:00"
         },
         {
@@ -11940,7 +11920,7 @@
       "region_id": "1602896846"
     },
     "Northern": {
-      "customers_affected_14d": 13135,
+      "customers_affected_14d": 13173,
       "outages": [
         {
           "area": "100 - 200 block WABALISLA ST, 0 - 100 block WAGLISLA ST, 500 block CHEENIS ST, 700 block GOOSE ISLAND DR, AIRPORT RD, BELLA BELLA RORO, PUMPHOUSE, 0 - 1200 block SHEARWATER RD, UPPER HOTEL, DENNY ISLAND RD...",
@@ -12923,6 +12903,16 @@
           "start": "2020-10-14T10:10:00"
         },
         {
+          "area": "West of TATLOW RD, South of RAYMOND RD",
+          "cause": "Tree down across our wires",
+          "customers_affected": "38",
+          "end": "2020-10-17T18:00:00",
+          "last_updated": "2020-10-17T18:02:00",
+          "municipality": "Smithers",
+          "municipality_code": "day-1 day-3 city--305588573",
+          "start": "2020-10-17T15:50:00"
+        },
+        {
           "area": "HUDSON BAY MTN RD",
           "cause": "Tree down across our wires",
           "customers_affected": "< 5",
@@ -13187,7 +13177,7 @@
       "region_id": "1602964060"
     },
     "Okanagan/Kootenay": {
-      "customers_affected_14d": 15267,
+      "customers_affected_14d": 15273,
       "outages": [
         {
           "area": "South of LEARMOUTH RD, West of COACHWOOD CRS, East of BREWER RD",
@@ -13218,6 +13208,16 @@
           "municipality": "Cranbrook",
           "municipality_code": "city--591720257",
           "start": "2020-10-08T16:16:00"
+        },
+        {
+          "area": "800 - 900 block INDUSTRIAL 1 RD",
+          "cause": "Bird contacting our wires",
+          "customers_affected": "< 5",
+          "end": "2020-10-17T18:00:00",
+          "last_updated": "2020-10-17T17:26:00",
+          "municipality": "Cranbrook",
+          "municipality_code": "day-1 day-3 city--591720257",
+          "start": "2020-10-17T15:36:00"
         },
         {
           "area": "600 block INDUSTRIAL 1 RD, 500 block NW SLATER RD",
@@ -13538,6 +13538,16 @@
           "municipality": "Nakusp",
           "municipality_code": "day-1 day-3 city--1969008230",
           "start": "2020-10-17T11:32:00"
+        },
+        {
+          "area": "500 block ARROW PARK DEMARS RD, 300 block STEVENS RD",
+          "cause": "Under investigation",
+          "customers_affected": "< 5",
+          "end": "2020-10-17T17:55:00",
+          "last_updated": "2020-10-17T17:55:00",
+          "municipality": "Nakusp",
+          "municipality_code": "day-1 day-3 city--1969008230",
+          "start": "2020-10-17T16:33:00"
         },
         {
           "area": "8400 block RED MTN RD P66, 8400 block RED MOUNTAIN RD",
@@ -13943,7 +13953,7 @@
           "end": "",
           "last_updated": "2020-10-14T11:02:00",
           "municipality": "Central Saanich, North Saanich",
-          "municipality_code": "day-3 city--769735224 city-179964248",
+          "municipality_code": "city--769735224 city-179964248",
           "start": "2020-10-13T12:24:00"
         },
         {
@@ -14673,7 +14683,7 @@
           "end": "2020-10-15T18:00:00",
           "last_updated": "2020-10-16T10:09:00",
           "municipality": "Ganges",
-          "municipality_code": "day-1 day-3 city-2125630497",
+          "municipality_code": "day-3 city-2125630497",
           "start": "2020-10-15T14:43:00"
         },
         {
@@ -15263,7 +15273,7 @@
           "end": "",
           "last_updated": "2020-10-15T14:20:00",
           "municipality": "North Cowichan",
-          "municipality_code": "day-3 city--666037877",
+          "municipality_code": "city--666037877",
           "start": "2020-10-13T13:55:00"
         },
         {
@@ -15273,7 +15283,7 @@
           "end": "2020-10-13T17:45:00",
           "last_updated": "2020-10-15T14:19:00",
           "municipality": "North Cowichan",
-          "municipality_code": "day-3 city--666037877",
+          "municipality_code": "city--666037877",
           "start": "2020-10-13T13:31:00"
         },
         {
@@ -15333,7 +15343,7 @@
           "end": "",
           "last_updated": "2020-10-15T14:27:00",
           "municipality": "North Cowichan",
-          "municipality_code": "day-3 city--666037877",
+          "municipality_code": "city--666037877",
           "start": "2020-10-13T16:07:00"
         },
         {
@@ -16133,7 +16143,7 @@
           "end": "2020-10-15T17:30:00",
           "last_updated": "2020-10-15T18:08:00",
           "municipality": "Victoria",
-          "municipality_code": "day-1 day-3 city-1201273535",
+          "municipality_code": "day-3 city-1201273535",
           "start": "2020-10-15T16:20:00"
         },
         {
@@ -16840,7 +16850,7 @@
           "end": "2020-10-13T18:30:00",
           "last_updated": "2020-10-13T17:37:00",
           "municipality": "Clearwater",
-          "municipality_code": "day-3 city-1282265866",
+          "municipality_code": "city-1282265866",
           "start": "2020-10-13T16:23:00"
         },
         {
@@ -17560,7 +17570,7 @@
           "end": "2020-10-15T18:00:00",
           "last_updated": "2020-10-15T17:51:00",
           "municipality": "Merritt",
-          "municipality_code": "day-1 day-3 city--1676334159",
+          "municipality_code": "day-3 city--1676334159",
           "start": "2020-10-15T15:49:00"
         },
         {
@@ -17610,7 +17620,7 @@
           "end": "2020-10-13T18:00:00",
           "last_updated": "2020-10-14T14:21:00",
           "municipality": "Merritt",
-          "municipality_code": "day-3 city--1676334159",
+          "municipality_code": "city--1676334159",
           "start": "2020-10-13T14:00:00"
         },
         {
