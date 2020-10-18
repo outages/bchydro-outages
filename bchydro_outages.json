@@ -16,23 +16,6 @@
       ],
       "region_code": "Central Interior",
       "region_id": "848340027"
-    },
-    "Lower Mainland": {
-      "customers_affected_14d": -1,
-      "outages": [
-        {
-          "area": "1300 block POWELL ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Under investigation",
-          "customers_affected": "< 5",
-          "last_updated": "2020-10-18T14:16:00",
-          "municipality": "Vancouver",
-          "municipality_code": "day-1 day-3 city--1786794435",
-          "start": "2020-10-18T12:48:00",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 18 2:30 p.m."
-        }
-      ],
-      "region_code": "Lower Mainland",
-      "region_id": "521980323"
     }
   },
   "planned": {
@@ -3495,7 +3478,7 @@
       "region_id": "848340027"
     },
     "Lower Mainland": {
-      "customers_affected_14d": 145335,
+      "customers_affected_14d": 145336,
       "outages": [
         {
           "area": "North of MACLURE RD, East of MT LEHMAN RD, West of Hwy 11",
@@ -9266,6 +9249,16 @@
           "municipality": "Vancouver",
           "municipality_code": "city--1786794435",
           "start": "2020-10-13T12:21:00"
+        },
+        {
+          "area": "1300 block POWELL ST",
+          "cause": "Under investigation",
+          "customers_affected": "< 5",
+          "end": "2020-10-18T14:30:00",
+          "last_updated": "2020-10-18T14:27:00",
+          "municipality": "Vancouver",
+          "municipality_code": "day-1 day-3 city--1786794435",
+          "start": "2020-10-18T12:48:00"
         },
         {
           "area": "2000 block COLUMBIA ST",
@@ -16252,7 +16245,7 @@
           "end": "2020-10-14T14:30:00",
           "last_updated": "2020-10-16T14:14:00",
           "municipality": "Victoria",
-          "municipality_code": "day-3 city-1201273535",
+          "municipality_code": "city-1201273535",
           "start": "2020-10-14T05:21:00"
         },
         {
