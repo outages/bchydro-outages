@@ -55,13 +55,13 @@
       "region_id": "1602896846"
     },
     "Northern": {
-      "customers_affected_14d": -1,
+      "customers_affected_14d": 7,
       "outages": [
         {
-          "area": "SWAN LAKE RD P61\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Under investigation",
-          "customers_affected": "< 5",
-          "last_updated": "2020-10-18T00:58:00",
+          "area": "North of SWAN LAKE RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Wire down",
+          "customers_affected": "7",
+          "last_updated": "2020-10-18T02:06:00",
           "municipality": "Hazelton",
           "municipality_code": "day-1 day-3 city-411200875",
           "start": "2020-10-17T22:38:00",
@@ -78,11 +78,11 @@
           "area": "400 - 5700 block LAKES RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "20",
-          "last_updated": "2020-10-18T01:45:00",
+          "last_updated": "2020-10-18T01:53:00",
           "municipality": "Duncan, North Cowichan",
           "municipality_code": "day-1 day-3 city-2058209491 city--666037877",
           "start": "2020-10-18T01:14:00",
-          "status": "Crew status: Crew on-site"
+          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 18 2:30 a.m."
         },
         {
           "area": "100 block GRANTVILLE ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -3298,7 +3298,7 @@
           "end": "",
           "last_updated": "2020-10-16T11:14:00",
           "municipality": "Quesnel",
-          "municipality_code": "day-1 day-3 city--1975191965",
+          "municipality_code": "day-3 city--1975191965",
           "start": "2020-10-16T00:11:00"
         },
         {
@@ -3785,7 +3785,7 @@
           "end": "2020-10-14T02:00:00",
           "last_updated": "2020-10-15T11:08:00",
           "municipality": "Abbotsford",
-          "municipality_code": "day-3 city-1230363016",
+          "municipality_code": "city-1230363016",
           "start": "2020-10-13T19:39:00"
         },
         {
@@ -14573,7 +14573,7 @@
           "end": "2020-10-14T02:00:00",
           "last_updated": "2020-10-15T16:30:00",
           "municipality": "Ganges",
-          "municipality_code": "day-3 city-2125630497",
+          "municipality_code": "city-2125630497",
           "start": "2020-10-13T13:27:00"
         },
         {
