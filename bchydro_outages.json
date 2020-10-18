@@ -72,7 +72,7 @@
       "region_id": "1602964060"
     },
     "South VI": {
-      "customers_affected_14d": 34,
+      "customers_affected_14d": 38,
       "outages": [
         {
           "area": "400 - 5700 block LAKES RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -83,6 +83,16 @@
           "municipality_code": "day-1 day-3 city-2058209491 city--666037877",
           "start": "2020-10-18T01:14:00",
           "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 18 2:00 a.m."
+        },
+        {
+          "area": "100 block GRANTVILLE ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Wire down",
+          "customers_affected": "< 5",
+          "last_updated": "2020-10-18T01:33:00",
+          "municipality": "Ganges",
+          "municipality_code": "day-1 day-3 city-2125630497",
+          "start": "2020-10-18T00:40:00",
+          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 18 3:30 a.m."
         },
         {
           "area": "8600 block SWALLOWFIELD RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -3318,7 +3328,7 @@
           "end": "2020-10-16T02:30:00",
           "last_updated": "2020-10-16T11:09:00",
           "municipality": "Quesnel",
-          "municipality_code": "day-1 day-3 city--1975191965",
+          "municipality_code": "day-3 city--1975191965",
           "start": "2020-10-15T22:40:00"
         },
         {
@@ -6295,7 +6305,7 @@
           "end": "",
           "last_updated": "2020-10-15T09:51:00",
           "municipality": "Langley",
-          "municipality_code": "day-3 city-1612593490",
+          "municipality_code": "city-1612593490",
           "start": "2020-10-13T12:09:00"
         },
         {
