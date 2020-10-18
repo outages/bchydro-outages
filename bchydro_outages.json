@@ -1,7 +1,7 @@
 {
   "current": {
     "Lower Mainland": {
-      "customers_affected_14d": 19,
+      "customers_affected_14d": 21,
       "outages": [
         {
           "area": "2700 block ABERDEEN AVE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -12,6 +12,16 @@
           "municipality_code": "day-1 day-3 city--3101987",
           "start": "2020-10-17T08:19:00",
           "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 18 3:00 p.m."
+        },
+        {
+          "area": "2900 block 196 ST, 3100 block 196TH ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Under investigation",
+          "customers_affected": "< 5",
+          "last_updated": "2020-10-18T08:26:00",
+          "municipality": "Langley, Surrey",
+          "municipality_code": "day-1 day-3 city-1612593490 city--1807186826",
+          "start": "2020-10-18T08:13:00",
+          "status": "Crew status: Crew on their way"
         },
         {
           "area": "17400 block 61A AVE, 6000 - 6100 block 175A ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -37,32 +47,15 @@
           "area": "7800 block 128 ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Motor vehicle accident",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-18T07:59:00",
+          "last_updated": "2020-10-18T08:12:00",
           "municipality": "Surrey",
           "municipality_code": "day-1 day-3 city--1807186826",
           "start": "2020-10-18T07:53:00",
-          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 18 9:00 a.m."
+          "status": "Crew status: Crew on-site"
         }
       ],
       "region_code": "Lower Mainland",
       "region_id": "521980323"
-    },
-    "North VI": {
-      "customers_affected_14d": -1,
-      "outages": [
-        {
-          "area": "1300 block CLAYMORE RD LAB\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Under investigation",
-          "customers_affected": "< 5",
-          "last_updated": "2020-10-18T08:05:00",
-          "municipality": "Qualicum Beach",
-          "municipality_code": "day-1 day-3 city--154309756",
-          "start": "2020-10-17T16:01:00",
-          "status": "Crew status: Crew on-site"
-        }
-      ],
-      "region_code": "North VI",
-      "region_id": "1602896846"
     },
     "Northern": {
       "customers_affected_14d": 7,
@@ -80,6 +73,23 @@
       ],
       "region_code": "Northern",
       "region_id": "1602964060"
+    },
+    "Okanagan/Kootenay": {
+      "customers_affected_14d": 121,
+      "outages": [
+        {
+          "area": "East of MISSION WYCLIFFE RD, North of WYCLIFFE PARK RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Planned work being done on our equipment",
+          "customers_affected": "121",
+          "last_updated": "2020-10-18T08:25:00",
+          "municipality": "Cranbrook",
+          "municipality_code": "day-1 day-3 city--591720257",
+          "start": "2020-10-18T08:11:00",
+          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 18 1:00 p.m."
+        }
+      ],
+      "region_code": "Okanagan/Kootenay",
+      "region_id": "2072041405"
     },
     "Thompson/Shuswap": {
       "customers_affected_14d": -1,
@@ -3958,7 +3968,7 @@
           "end": "",
           "last_updated": "2020-10-15T11:55:00",
           "municipality": "Abbotsford",
-          "municipality_code": "day-3 city-1230363016",
+          "municipality_code": "city-1230363016",
           "start": "2020-10-13T14:33:00"
         },
         {
@@ -8088,7 +8098,7 @@
           "end": "",
           "last_updated": "2020-10-14T08:10:00",
           "municipality": "Richmond",
-          "municipality_code": "day-3 city--1486145068",
+          "municipality_code": "city--1486145068",
           "start": "2020-10-14T07:58:00"
         },
         {
@@ -9516,7 +9526,7 @@
       "region_id": "521980323"
     },
     "North VI": {
-      "customers_affected_14d": 67049,
+      "customers_affected_14d": 67050,
       "outages": [
         {
           "area": "West of ALDER ST, East of DOGWOOD ST, South of ROCKLAND RD, North of HOLM RD",
@@ -11667,6 +11677,16 @@
           "municipality": "Qualicum Beach",
           "municipality_code": "day-3 city--154309756",
           "start": "2020-10-13T19:02:00"
+        },
+        {
+          "area": "1300 block CLAYMORE RD LAB",
+          "cause": "Under investigation",
+          "customers_affected": "< 5",
+          "end": "",
+          "last_updated": "2020-10-18T08:22:00",
+          "municipality": "Qualicum Beach",
+          "municipality_code": "day-1 day-3 city--154309756",
+          "start": "2020-10-17T16:01:00"
         },
         {
           "area": "3200 block MELON RD",
@@ -15666,7 +15686,7 @@
           "end": "",
           "last_updated": "2020-10-14T10:00:00",
           "municipality": "Saanich",
-          "municipality_code": "day-3 city--776615533",
+          "municipality_code": "city--776615533",
           "start": "2020-10-14T07:12:00"
         },
         {
@@ -17753,7 +17773,7 @@
           "end": "2020-10-16T08:30:00",
           "last_updated": "2020-10-16T08:16:00",
           "municipality": "Valemount",
-          "municipality_code": "day-1 day-3 city-788397333",
+          "municipality_code": "day-3 city-788397333",
           "start": "2020-10-16T07:05:00"
         },
         {
