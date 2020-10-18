@@ -16,23 +16,6 @@
       ],
       "region_code": "Lower Mainland",
       "region_id": "521980323"
-    },
-    "Northern": {
-      "customers_affected_14d": -1,
-      "outages": [
-        {
-          "area": "4600 block 214RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Under investigation",
-          "customers_affected": "< 5",
-          "last_updated": "2020-10-18T16:25:00",
-          "municipality": "Dawson Creek",
-          "municipality_code": "day-1 day-3 city--1630954860",
-          "start": "2020-10-18T15:33:00",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 18 5:00 p.m."
-        }
-      ],
-      "region_code": "Northern",
-      "region_id": "1602964060"
     }
   },
   "planned": {
@@ -2822,10 +2805,10 @@
         },
         {
           "area": "East-West of WEST LAKE ESTATES RD, North of WESTLAKE ESTATES RD, South of FLYNN RD",
-          "cause": "Under investigation",
+          "cause": "Tree down across our wires",
           "customers_affected": "< 5",
           "end": "2020-10-18T15:30:00",
-          "last_updated": "2020-10-18T15:37:00",
+          "last_updated": "2020-10-18T16:32:00",
           "municipality": "Prince George",
           "municipality_code": "day-1 day-3 city-1835674262",
           "start": "2020-10-18T13:25:00"
@@ -2877,7 +2860,7 @@
           "end": "",
           "last_updated": "2020-10-16T16:36:00",
           "municipality": "Prince George",
-          "municipality_code": "day-1 day-3 city-1835674262",
+          "municipality_code": "day-3 city-1835674262",
           "start": "2020-10-16T06:11:00"
         },
         {
@@ -11761,7 +11744,7 @@
           "end": "2020-10-14T16:25:00",
           "last_updated": "2020-10-16T11:26:00",
           "municipality": "Qualicum Beach",
-          "municipality_code": "day-3 city--154309756",
+          "municipality_code": "city--154309756",
           "start": "2020-10-14T09:48:00"
         },
         {
@@ -11869,7 +11852,7 @@
       "region_id": "1602896846"
     },
     "Northern": {
-      "customers_affected_14d": 12510,
+      "customers_affected_14d": 12511,
       "outages": [
         {
           "area": "100 - 200 block WABALISLA ST, 0 - 100 block WAGLISLA ST, 500 block CHEENIS ST, 700 block GOOSE ISLAND DR, AIRPORT RD, BELLA BELLA RORO, PUMPHOUSE, 0 - 1200 block SHEARWATER RD, UPPER HOTEL, DENNY ISLAND RD...",
@@ -12302,6 +12285,16 @@
           "start": "2020-10-17T16:57:00"
         },
         {
+          "area": "4600 block 214RD",
+          "cause": "Equipment failure",
+          "customers_affected": "< 5",
+          "end": "2020-10-18T16:59:00",
+          "last_updated": "2020-10-18T16:36:00",
+          "municipality": "Dawson Creek",
+          "municipality_code": "day-1 day-3 city--1630954860",
+          "start": "2020-10-18T15:33:00"
+        },
+        {
           "area": "BOUNDARY RD MI 14",
           "cause": "Other",
           "customers_affected": "< 5",
@@ -12618,7 +12611,7 @@
           "end": "2020-10-16T17:00:00",
           "last_updated": "2020-10-16T19:36:00",
           "municipality": "Hazelton",
-          "municipality_code": "day-1 day-3 city-411200875",
+          "municipality_code": "day-3 city-411200875",
           "start": "2020-10-16T12:18:00"
         },
         {
@@ -14002,7 +13995,7 @@
           "end": "2020-10-14T16:30:00",
           "last_updated": "2020-10-15T14:31:00",
           "municipality": "Duncan",
-          "municipality_code": "day-3 city-2058209491",
+          "municipality_code": "city-2058209491",
           "start": "2020-10-14T10:24:00"
         },
         {
@@ -14792,7 +14785,7 @@
           "end": "2020-10-14T16:30:00",
           "last_updated": "2020-10-15T11:03:00",
           "municipality": "Ganges",
-          "municipality_code": "day-3 city-2125630497",
+          "municipality_code": "city-2125630497",
           "start": "2020-10-13T22:16:00"
         },
         {
@@ -15192,7 +15185,7 @@
           "end": "2020-10-14T16:35:00",
           "last_updated": "2020-10-14T16:36:00",
           "municipality": "North Cowichan",
-          "municipality_code": "day-3 city--666037877",
+          "municipality_code": "city--666037877",
           "start": "2020-10-13T14:16:00"
         },
         {
@@ -15352,7 +15345,7 @@
           "end": "",
           "last_updated": "2020-10-15T14:33:00",
           "municipality": "North Cowichan",
-          "municipality_code": "day-3 city--666037877",
+          "municipality_code": "city--666037877",
           "start": "2020-10-14T15:58:00"
         },
         {
@@ -15382,7 +15375,7 @@
           "end": "2020-10-14T17:30:00",
           "last_updated": "2020-10-15T14:27:00",
           "municipality": "North Cowichan",
-          "municipality_code": "day-3 city--666037877",
+          "municipality_code": "city--666037877",
           "start": "2020-10-13T17:54:00"
         },
         {
