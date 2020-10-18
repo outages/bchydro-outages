@@ -1,7 +1,7 @@
 {
   "current": {
     "Lower Mainland": {
-      "customers_affected_14d": 376,
+      "customers_affected_14d": 374,
       "outages": [
         {
           "area": "38700 block N PARALLEL RD, 38600 - 38700 block NO 4 RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -12,26 +12,6 @@
           "municipality_code": "day-1 day-3 city-1230363016",
           "start": "2020-10-18T09:15:00",
           "status": "Crew status: Crew assigned"
-        },
-        {
-          "area": "47200 block CHILLIWACK LAKE RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Under investigation",
-          "customers_affected": "< 5",
-          "last_updated": "2020-10-18T09:46:00",
-          "municipality": "Chilliwack",
-          "municipality_code": "day-1 day-3 city--708005353",
-          "start": "2020-10-18T09:05:00",
-          "status": "Crew status: Crew on-site"
-        },
-        {
-          "area": "2700 block ABERDEEN AVE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Planned work being done on our equipment",
-          "customers_affected": "< 5",
-          "last_updated": "2020-10-18T07:01:00",
-          "municipality": "Coquitlam",
-          "municipality_code": "day-1 day-3 city--3101987",
-          "start": "2020-10-17T08:19:00",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 18 3:00 p.m."
         },
         {
           "area": "26600 block 58 AVE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -47,11 +27,11 @@
           "area": "East of 152ND ST, South of 81ST AVE, West of 156TH ST, North of 76TH AVE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "338",
-          "last_updated": "2020-10-18T10:49:00",
+          "last_updated": "2020-10-18T11:17:00",
           "municipality": "Surrey",
           "municipality_code": "day-1 day-3 city--1807186826",
           "start": "2020-10-18T10:36:00",
-          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 18 11:50 a.m."
+          "status": "Crew status: Crew on-site"
         },
         {
           "area": "17400 block 61A AVE, 6000 - 6100 block 175A ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -3689,7 +3669,7 @@
       "region_id": "848340027"
     },
     "Lower Mainland": {
-      "customers_affected_14d": 144959,
+      "customers_affected_14d": 144961,
       "outages": [
         {
           "area": "North of MACLURE RD, East of MT LEHMAN RD, West of Hwy 11",
@@ -4088,7 +4068,7 @@
           "end": "",
           "last_updated": "2020-10-15T11:16:00",
           "municipality": "Abbotsford",
-          "municipality_code": "day-3 city-1230363016",
+          "municipality_code": "city-1230363016",
           "start": "2020-10-14T00:15:00"
         },
         {
@@ -4238,7 +4218,7 @@
           "end": "",
           "last_updated": "2020-10-15T11:15:00",
           "municipality": "Abbotsford",
-          "municipality_code": "day-3 city-1230363016",
+          "municipality_code": "city-1230363016",
           "start": "2020-10-13T13:45:00"
         },
         {
@@ -4248,7 +4228,7 @@
           "end": "",
           "last_updated": "2020-10-15T11:16:00",
           "municipality": "Abbotsford",
-          "municipality_code": "day-3 city-1230363016",
+          "municipality_code": "city-1230363016",
           "start": "2020-10-14T06:39:00"
         },
         {
@@ -4258,7 +4238,7 @@
           "end": "",
           "last_updated": "2020-10-15T11:15:00",
           "municipality": "Abbotsford",
-          "municipality_code": "day-3 city-1230363016",
+          "municipality_code": "city-1230363016",
           "start": "2020-10-14T07:13:00"
         },
         {
@@ -4268,7 +4248,7 @@
           "end": "",
           "last_updated": "2020-10-15T11:15:00",
           "municipality": "Abbotsford",
-          "municipality_code": "day-3 city-1230363016",
+          "municipality_code": "city-1230363016",
           "start": "2020-10-14T07:33:00"
         },
         {
@@ -5122,6 +5102,16 @@
           "start": "2020-10-06T19:40:00"
         },
         {
+          "area": "47200 block CHILLIWACK LAKE RD",
+          "cause": "Under investigation",
+          "customers_affected": "< 5",
+          "end": "2020-10-18T11:30:00",
+          "last_updated": "2020-10-18T11:22:00",
+          "municipality": "Chilliwack",
+          "municipality_code": "day-1 day-3 city--708005353",
+          "start": "2020-10-18T09:05:00"
+        },
+        {
           "area": "45800 block PROMONTORY RD",
           "cause": "Planned work being done on our equipment",
           "customers_affected": "< 5",
@@ -5410,6 +5400,16 @@
           "municipality": "Coquitlam",
           "municipality_code": "day-3 city--3101987",
           "start": "2020-10-16T09:53:00"
+        },
+        {
+          "area": "2700 block ABERDEEN AVE",
+          "cause": "Planned work being done on our equipment",
+          "customers_affected": "< 5",
+          "end": "2020-10-18T15:00:00",
+          "last_updated": "2020-10-18T11:23:00",
+          "municipality": "Coquitlam",
+          "municipality_code": "day-1 day-3 city--3101987",
+          "start": "2020-10-17T08:19:00"
         },
         {
           "area": "3500 block GISLASON AVE",
@@ -6658,7 +6658,7 @@
           "end": "2020-10-14T11:53:00",
           "last_updated": "2020-10-15T09:59:00",
           "municipality": "Langley",
-          "municipality_code": "day-3 city-1612593490",
+          "municipality_code": "city-1612593490",
           "start": "2020-10-14T08:50:00"
         },
         {
@@ -6668,7 +6668,7 @@
           "end": "2020-10-14T12:05:00",
           "last_updated": "2020-10-15T09:50:00",
           "municipality": "Langley",
-          "municipality_code": "day-3 city-1612593490",
+          "municipality_code": "city-1612593490",
           "start": "2020-10-13T16:37:00"
         },
         {
@@ -12432,7 +12432,7 @@
           "end": "",
           "last_updated": "2020-10-16T16:37:00",
           "municipality": "Fort St. James",
-          "municipality_code": "day-1 day-3 city-2077380636",
+          "municipality_code": "day-3 city-2077380636",
           "start": "2020-10-16T10:52:00"
         },
         {
@@ -15246,7 +15246,7 @@
           "end": "2020-10-14T11:26:00",
           "last_updated": "2020-10-15T09:42:00",
           "municipality": "North Cowichan",
-          "municipality_code": "day-3 city--666037877",
+          "municipality_code": "city--666037877",
           "start": "2020-10-13T13:08:00"
         },
         {
@@ -15796,7 +15796,7 @@
           "end": "",
           "last_updated": "2020-10-14T13:13:00",
           "municipality": "Saanich",
-          "municipality_code": "day-3 city--776615533",
+          "municipality_code": "city--776615533",
           "start": "2020-10-14T08:23:00"
         },
         {
@@ -15826,7 +15826,7 @@
           "end": "2020-10-14T12:07:00",
           "last_updated": "2020-10-14T13:13:00",
           "municipality": "Saanich",
-          "municipality_code": "day-3 city--776615533",
+          "municipality_code": "city--776615533",
           "start": "2020-10-14T07:07:00"
         },
         {
@@ -15976,7 +15976,7 @@
           "end": "2020-10-16T11:45:00",
           "last_updated": "2020-10-16T11:32:00",
           "municipality": "Saturna Island",
-          "municipality_code": "day-1 day-3 city-501274559",
+          "municipality_code": "day-3 city-501274559",
           "start": "2020-10-16T07:58:00"
         },
         {
@@ -17013,7 +17013,7 @@
           "end": "",
           "last_updated": "2020-10-16T11:18:00",
           "municipality": "Clearwater",
-          "municipality_code": "day-1 day-3 city-1282265866",
+          "municipality_code": "day-3 city-1282265866",
           "start": "2020-10-16T07:46:00"
         },
         {
