@@ -111,7 +111,7 @@
       "region_id": "848340027"
     },
     "Lower Mainland": {
-      "customers_affected_14d": 8651,
+      "customers_affected_14d": 8589,
       "outages": [
         {
           "area": "1944, 1954, 1966, 1976 Albion St; 32666-32749 Cordova Ave; 325, 32760 Marshall Rd, 32414-32750 Pandora Ave; 1911-1944 Valencia Crt, Abbotsford",
@@ -1364,16 +1364,6 @@
           "start": "2020-10-22T09:00:00"
         },
         {
-          "area": "1241,1243,1245,1247,1249 Cartwright St, 1360 Johnston St., Vancouver",
-          "cause": "Planned work being done on our equipment",
-          "customers_affected": "7",
-          "end": "2020-10-15T20:00:00",
-          "last_updated": "2020-09-25T12:17:00",
-          "municipality": "Vancouver",
-          "municipality_code": "day-1 day-3 city--1786794435",
-          "start": "2020-10-15T09:00:00"
-        },
-        {
           "area": "Outage Rescheduled from Sep 25th.6137, 6161 Cambie St, Vancouver",
           "cause": "Planned work being done on our equipment",
           "customers_affected": "< 5",
@@ -1432,16 +1422,6 @@
           "municipality": "Whistler",
           "municipality_code": "day-1 day-3 city--2067392640",
           "start": "2020-10-23T13:00:00"
-        },
-        {
-          "area": "8300-8398 Glen Abbey Lane, 8069-8080 Nicklaus N Blvd, Whistler",
-          "cause": "Planned work being done on our equipment",
-          "customers_affected": "55",
-          "end": "2020-10-15T20:00:00",
-          "last_updated": "2020-09-28T13:57:00",
-          "municipality": "Whistler",
-          "municipality_code": "day-1 day-3 city--2067392640",
-          "start": "2020-10-15T08:00:00"
         },
         {
           "area": "**EMERGENT**1442,1480 Foster St, 1333-1399 Johnston Rd, 15168 Thrift Ave, 1354-1368 Winter St",
@@ -5111,7 +5091,7 @@
           "end": "",
           "last_updated": "2020-10-13T20:06:00",
           "municipality": "Chilliwack",
-          "municipality_code": "day-3 city--708005353",
+          "municipality_code": "city--708005353",
           "start": "2020-10-13T15:45:00"
         },
         {
@@ -6221,7 +6201,7 @@
           "end": "2020-10-13T19:55:00",
           "last_updated": "2020-10-14T14:39:00",
           "municipality": "Langley",
-          "municipality_code": "day-3 city-1612593490",
+          "municipality_code": "city-1612593490",
           "start": "2020-10-13T15:00:00"
         },
         {
@@ -7931,7 +7911,7 @@
           "end": "2020-10-13T12:00:00",
           "last_updated": "2020-10-13T19:52:00",
           "municipality": "Richmond",
-          "municipality_code": "day-3 city--1486145068",
+          "municipality_code": "city--1486145068",
           "start": "2020-10-13T09:00:00"
         },
         {
@@ -8831,7 +8811,7 @@
           "end": "2020-10-13T20:25:00",
           "last_updated": "2020-10-14T11:39:00",
           "municipality": "Surrey",
-          "municipality_code": "day-3 city--1807186826",
+          "municipality_code": "city--1807186826",
           "start": "2020-10-13T12:10:00"
         },
         {
@@ -9678,7 +9658,7 @@
           "end": "",
           "last_updated": "2020-10-15T11:51:00",
           "municipality": "Campbell River",
-          "municipality_code": "day-3 city-1240464880",
+          "municipality_code": "city-1240464880",
           "start": "2020-10-13T13:57:00"
         },
         {
@@ -9948,7 +9928,7 @@
           "end": "",
           "last_updated": "2020-10-13T20:09:00",
           "municipality": "Courtenay",
-          "municipality_code": "day-3 city--824228212",
+          "municipality_code": "city--824228212",
           "start": "2020-10-13T13:01:00"
         },
         {
@@ -10448,7 +10428,7 @@
           "end": "2020-10-13T19:55:00",
           "last_updated": "2020-10-15T07:27:00",
           "municipality": "Nanaimo",
-          "municipality_code": "day-3 city--907547835",
+          "municipality_code": "city--907547835",
           "start": "2020-10-13T12:20:00"
         },
         {
@@ -10818,7 +10798,7 @@
           "end": "2020-10-14T20:31:00",
           "last_updated": "2020-10-14T16:43:00",
           "municipality": "North Cowichan",
-          "municipality_code": "day-3 city--666037877",
+          "municipality_code": "city--666037877",
           "start": "2020-10-13T19:26:00"
         },
         {
@@ -11358,7 +11338,7 @@
           "end": "",
           "last_updated": "2020-10-13T19:53:00",
           "municipality": "Qualicum Beach",
-          "municipality_code": "day-3 city--154309756",
+          "municipality_code": "city--154309756",
           "start": "2020-10-13T19:24:00"
         },
         {
@@ -11388,7 +11368,7 @@
           "end": "",
           "last_updated": "2020-10-13T19:53:00",
           "municipality": "Qualicum Beach",
-          "municipality_code": "day-3 city--154309756",
+          "municipality_code": "city--154309756",
           "start": "2020-10-13T19:21:00"
         },
         {
@@ -11478,7 +11458,7 @@
           "end": "",
           "last_updated": "2020-10-13T19:53:00",
           "municipality": "Qualicum Beach",
-          "municipality_code": "day-3 city--154309756",
+          "municipality_code": "city--154309756",
           "start": "2020-10-13T19:39:00"
         },
         {
@@ -13879,7 +13859,7 @@
           "end": "",
           "last_updated": "2020-10-13T20:06:00",
           "municipality": "Central Saanich",
-          "municipality_code": "day-3 city--769735224",
+          "municipality_code": "city--769735224",
           "start": "2020-10-13T18:47:00"
         },
         {
@@ -15589,7 +15569,7 @@
           "end": "2020-10-13T20:00:00",
           "last_updated": "2020-10-16T09:30:00",
           "municipality": "Oak Bay",
-          "municipality_code": "day-3 city--24788973",
+          "municipality_code": "city--24788973",
           "start": "2020-10-13T11:27:00"
         },
         {
