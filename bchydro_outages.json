@@ -25,9 +25,9 @@
         },
         {
           "area": "17400 block 61A AVE, 6000 - 6100 block 175A ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Under investigation",
+          "cause": "Cable fault",
           "customers_affected": "16",
-          "last_updated": "2020-10-18T05:03:00",
+          "last_updated": "2020-10-18T05:30:00",
           "municipality": "Surrey",
           "municipality_code": "day-1 day-3 city--1807186826",
           "start": "2020-10-17T23:28:00",
@@ -70,23 +70,6 @@
       ],
       "region_code": "Northern",
       "region_id": "1602964060"
-    },
-    "South VI": {
-      "customers_affected_14d": 12,
-      "outages": [
-        {
-          "area": "2200 block CLAM BAY RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Under investigation",
-          "customers_affected": "12",
-          "last_updated": "2020-10-18T05:03:00",
-          "municipality": "Pender Island",
-          "municipality_code": "day-1 day-3 city--635217187",
-          "start": "2020-10-18T00:28:00",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 18 5:45 a.m."
-        }
-      ],
-      "region_code": "South VI",
-      "region_id": "1812901382"
     },
     "Thompson/Shuswap": {
       "customers_affected_14d": -1,
@@ -4825,7 +4808,7 @@
           "end": "",
           "last_updated": "2020-10-14T05:18:00",
           "municipality": "Chilliwack",
-          "municipality_code": "day-3 city--708005353",
+          "municipality_code": "city--708005353",
           "start": "2020-10-13T19:55:00"
         },
         {
@@ -4915,7 +4898,7 @@
           "end": "",
           "last_updated": "2020-10-14T05:16:00",
           "municipality": "Chilliwack",
-          "municipality_code": "day-3 city--708005353",
+          "municipality_code": "city--708005353",
           "start": "2020-10-13T20:10:00"
         },
         {
@@ -4955,7 +4938,7 @@
           "end": "",
           "last_updated": "2020-10-14T05:30:00",
           "municipality": "Chilliwack",
-          "municipality_code": "day-3 city--708005353",
+          "municipality_code": "city--708005353",
           "start": "2020-10-13T22:02:00"
         },
         {
@@ -11352,7 +11335,7 @@
           "end": "",
           "last_updated": "2020-10-15T09:26:00",
           "municipality": "Qualicum Beach",
-          "municipality_code": "day-3 city--154309756",
+          "municipality_code": "city--154309756",
           "start": "2020-10-13T13:42:00"
         },
         {
@@ -13754,7 +13737,7 @@
       "region_id": "2072041405"
     },
     "South VI": {
-      "customers_affected_14d": 73696,
+      "customers_affected_14d": 73708,
       "outages": [
         {
           "area": "North of CHURCH RD, West of STAUTW RD, East of TETAYUT RD, South of MT NEWTON XRD",
@@ -15585,6 +15568,16 @@
           "municipality": "Pender Island",
           "municipality_code": "day-3 city--635217187",
           "start": "2020-10-14T07:56:00"
+        },
+        {
+          "area": "2200 block CLAM BAY RD",
+          "cause": "Tree down across our wires",
+          "customers_affected": "12",
+          "end": "2020-10-18T05:45:00",
+          "last_updated": "2020-10-18T05:13:00",
+          "municipality": "Pender Island",
+          "municipality_code": "day-1 day-3 city--635217187",
+          "start": "2020-10-18T00:28:00"
         },
         {
           "area": "6600 block RAZOR POINT RD, 6600 block HARBOUR HILL DR",
