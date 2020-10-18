@@ -17,11 +17,11 @@
           "area": "North-West of CLIVEDEN AVE, East of CARLETON CRT, South of HWY 91\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Planned work being done on our equipment",
           "customers_affected": "37",
-          "last_updated": "2020-10-17T15:03:00",
+          "last_updated": "2020-10-17T20:59:00",
           "municipality": "Delta",
           "municipality_code": "day-1 day-3 city-65915800",
           "start": "2020-10-17T09:24:00",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 17 9:00 p.m."
+          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 17 9:30 p.m."
         },
         {
           "area": "1700 block NAPIER ST, 1000 block COMMERCIAL DR\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -54,6 +54,23 @@
       "region_code": "North VI",
       "region_id": "1602896846"
     },
+    "Okanagan/Kootenay": {
+      "customers_affected_14d": 17,
+      "outages": [
+        {
+          "area": "2800 - 3100 block REEVES RD, GARAGE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Tree down across our wires",
+          "customers_affected": "17",
+          "last_updated": "2020-10-17T20:46:00",
+          "municipality": "Golden",
+          "municipality_code": "day-1 day-3 city-2138497321",
+          "start": "2020-10-17T18:56:00",
+          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 17 9:30 p.m."
+        }
+      ],
+      "region_code": "Okanagan/Kootenay",
+      "region_id": "2072041405"
+    },
     "Thompson/Shuswap": {
       "customers_affected_14d": -1,
       "outages": [
@@ -61,11 +78,11 @@
           "area": "1600 block E TRANS CANADA HWY\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-17T20:35:00",
+          "last_updated": "2020-10-17T20:57:00",
           "municipality": "Kamloops",
           "municipality_code": "day-1 day-3 city-979034872",
           "start": "2020-10-17T20:24:00",
-          "status": "Crew status: Crew on-site"
+          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 17 10:00 p.m."
         },
         {
           "area": "MP 10 9\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -3771,7 +3788,7 @@
           "end": "",
           "last_updated": "2020-10-15T11:53:00",
           "municipality": "Abbotsford",
-          "municipality_code": "day-3 city-1230363016",
+          "municipality_code": "city-1230363016",
           "start": "2020-10-13T17:10:00"
         },
         {
@@ -3811,7 +3828,7 @@
           "end": "2020-10-13T21:47:00",
           "last_updated": "2020-10-15T11:08:00",
           "municipality": "Abbotsford",
-          "municipality_code": "day-3 city-1230363016",
+          "municipality_code": "city-1230363016",
           "start": "2020-10-13T14:27:00"
         },
         {
@@ -4091,7 +4108,7 @@
           "end": "2020-10-13T21:02:00",
           "last_updated": "2020-10-15T11:23:00",
           "municipality": "Abbotsford",
-          "municipality_code": "day-3 city-1230363016",
+          "municipality_code": "city-1230363016",
           "start": "2020-10-13T13:22:00"
         },
         {
@@ -5101,7 +5118,7 @@
           "end": "",
           "last_updated": "2020-10-13T20:50:00",
           "municipality": "Chilliwack",
-          "municipality_code": "day-3 city--708005353",
+          "municipality_code": "city--708005353",
           "start": "2020-10-13T13:03:00"
         },
         {
@@ -6221,7 +6238,7 @@
           "end": "",
           "last_updated": "2020-10-15T11:01:00",
           "municipality": "Langley",
-          "municipality_code": "day-3 city-1612593490",
+          "municipality_code": "city-1612593490",
           "start": "2020-10-13T16:38:00"
         },
         {
@@ -6781,7 +6798,7 @@
           "end": "2020-10-13T21:30:00",
           "last_updated": "2020-10-13T21:19:00",
           "municipality": "Maple Ridge",
-          "municipality_code": "day-3 city-598891104",
+          "municipality_code": "city-598891104",
           "start": "2020-10-13T15:25:00"
         },
         {
@@ -6911,7 +6928,7 @@
           "end": "2020-10-13T23:15:00",
           "last_updated": "2020-10-13T21:21:00",
           "municipality": "Maple Ridge",
-          "municipality_code": "day-3 city-598891104",
+          "municipality_code": "city-598891104",
           "start": "2020-10-13T16:27:00"
         },
         {
@@ -9151,7 +9168,7 @@
           "end": "2020-10-13T21:00:00",
           "last_updated": "2020-10-13T20:56:00",
           "municipality": "Vancouver",
-          "municipality_code": "day-3 city--1786794435",
+          "municipality_code": "city--1786794435",
           "start": "2020-10-13T09:31:00"
         },
         {
@@ -9948,7 +9965,7 @@
           "end": "",
           "last_updated": "2020-10-13T20:54:00",
           "municipality": "Courtenay",
-          "municipality_code": "day-3 city--824228212",
+          "municipality_code": "city--824228212",
           "start": "2020-10-13T17:34:00"
         },
         {
@@ -14659,7 +14676,7 @@
           "end": "2020-10-13T21:15:00",
           "last_updated": "2020-10-14T08:39:00",
           "municipality": "Ganges",
-          "municipality_code": "day-3 city-2125630497",
+          "municipality_code": "city-2125630497",
           "start": "2020-10-13T13:17:00"
         },
         {
@@ -14929,7 +14946,7 @@
           "end": "",
           "last_updated": "2020-10-16T10:39:00",
           "municipality": "Highlands",
-          "municipality_code": "day-3 city-1322525542",
+          "municipality_code": "city-1322525542",
           "start": "2020-10-13T15:55:00"
         },
         {
