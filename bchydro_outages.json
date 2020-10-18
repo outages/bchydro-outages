@@ -1,7 +1,7 @@
 {
   "current": {
     "Lower Mainland": {
-      "customers_affected_14d": 20,
+      "customers_affected_14d": 36,
       "outages": [
         {
           "area": "2700 block ABERDEEN AVE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -22,6 +22,16 @@
           "municipality_code": "day-1 day-3 city--1486145068",
           "start": "2020-10-17T22:42:00",
           "status": "Crew status: Crew assigned"
+        },
+        {
+          "area": "17400 block 61A AVE, 6000 - 6100 block 175A ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Under investigation",
+          "customers_affected": "16",
+          "last_updated": "2020-10-17T23:30:00",
+          "municipality": "Surrey",
+          "municipality_code": "day-1 day-3 city--1807186826",
+          "start": "2020-10-17T23:28:00",
+          "status": "Crew status: No crew assigned yet"
         }
       ],
       "region_code": "Lower Mainland",
@@ -51,11 +61,11 @@
           "area": "SWAN LAKE RD P61\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-17T23:02:00",
+          "last_updated": "2020-10-17T23:21:00",
           "municipality": "Hazelton",
           "municipality_code": "day-1 day-3 city-411200875",
           "start": "2020-10-17T22:38:00",
-          "status": "Crew status: Crew assigned"
+          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 18 1:25 a.m."
         }
       ],
       "region_code": "Northern",
@@ -3918,7 +3928,7 @@
           "end": "",
           "last_updated": "2020-10-15T11:55:00",
           "municipality": "Abbotsford",
-          "municipality_code": "day-3 city-1230363016",
+          "municipality_code": "city-1230363016",
           "start": "2020-10-13T19:27:00"
         },
         {
@@ -4043,10 +4053,10 @@
         },
         {
           "area": "40800 block NO 2 RD",
-          "cause": "Under investigation",
+          "cause": "Bird contacting our wires",
           "customers_affected": "< 5",
           "end": "2020-10-17T23:00:00",
-          "last_updated": "2020-10-17T22:56:00",
+          "last_updated": "2020-10-17T23:27:00",
           "municipality": "Abbotsford",
           "municipality_code": "day-1 day-3 city-1230363016",
           "start": "2020-10-17T21:09:00"
@@ -4628,7 +4638,7 @@
           "end": "",
           "last_updated": "2020-10-13T23:11:00",
           "municipality": "Chilliwack",
-          "municipality_code": "day-3 city--708005353",
+          "municipality_code": "city--708005353",
           "start": "2020-10-13T12:31:00"
         },
         {
@@ -4968,7 +4978,7 @@
           "end": "2020-10-14T02:00:00",
           "last_updated": "2020-10-13T23:20:00",
           "municipality": "Chilliwack",
-          "municipality_code": "day-3 city--708005353",
+          "municipality_code": "city--708005353",
           "start": "2020-10-13T14:24:00"
         },
         {
@@ -5698,7 +5708,7 @@
           "end": "2020-10-13T23:07:00",
           "last_updated": "2020-10-13T23:27:00",
           "municipality": "Hope",
-          "municipality_code": "day-3 city-2255196",
+          "municipality_code": "city-2255196",
           "start": "2020-10-13T14:47:00"
         },
         {
@@ -7208,7 +7218,7 @@
           "end": "",
           "last_updated": "2020-10-15T11:43:00",
           "municipality": "Mission",
-          "municipality_code": "day-3 city--1560864404",
+          "municipality_code": "city--1560864404",
           "start": "2020-10-13T13:22:00"
         },
         {
@@ -7228,7 +7238,7 @@
           "end": "",
           "last_updated": "2020-10-15T11:14:00",
           "municipality": "Mission",
-          "municipality_code": "day-3 city--1560864404",
+          "municipality_code": "city--1560864404",
           "start": "2020-10-13T13:23:00"
         },
         {
@@ -10515,7 +10525,7 @@
           "end": "",
           "last_updated": "2020-10-16T10:13:00",
           "municipality": "Nanaimo",
-          "municipality_code": "day-3 city--907547835",
+          "municipality_code": "city--907547835",
           "start": "2020-10-13T14:48:00"
         },
         {
@@ -14096,7 +14106,7 @@
           "end": "",
           "last_updated": "2020-10-15T14:11:00",
           "municipality": "Duncan",
-          "municipality_code": "day-3 city-2058209491",
+          "municipality_code": "city-2058209491",
           "start": "2020-10-13T12:21:00"
         },
         {
@@ -14906,7 +14916,7 @@
           "end": "",
           "last_updated": "2020-10-13T23:15:00",
           "municipality": "Ganges",
-          "municipality_code": "day-3 city-2125630497",
+          "municipality_code": "city-2125630497",
           "start": "2020-10-13T15:10:00"
         },
         {
@@ -16256,7 +16266,7 @@
           "end": "",
           "last_updated": "2020-10-14T09:11:00",
           "municipality": "Victoria",
-          "municipality_code": "day-3 city-1201273535",
+          "municipality_code": "city-1201273535",
           "start": "2020-10-13T20:13:00"
         },
         {
