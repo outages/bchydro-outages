@@ -65,25 +65,15 @@
           "municipality": "Hazelton",
           "municipality_code": "day-1 day-3 city-411200875",
           "start": "2020-10-17T22:38:00",
-          "status": "Crew status: Crew on-site"
+          "status": "Crew status: Suspended"
         }
       ],
       "region_code": "Northern",
       "region_id": "1602964060"
     },
     "South VI": {
-      "customers_affected_14d": 38,
+      "customers_affected_14d": 18,
       "outages": [
-        {
-          "area": "400 - 5700 block LAKES RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Under investigation",
-          "customers_affected": "20",
-          "last_updated": "2020-10-18T01:53:00",
-          "municipality": "Duncan, North Cowichan",
-          "municipality_code": "day-1 day-3 city-2058209491 city--666037877",
-          "start": "2020-10-18T01:14:00",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 18 2:30 a.m."
-        },
         {
           "area": "100 block GRANTVILLE ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Wire down",
@@ -98,11 +88,11 @@
           "area": "8600 block SWALLOWFIELD RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-18T00:50:00",
+          "last_updated": "2020-10-18T02:12:00",
           "municipality": "North Cowichan",
           "municipality_code": "day-1 day-3 city--666037877",
           "start": "2020-10-18T00:47:00",
-          "status": "Crew status: Crew assigned"
+          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 18 3:00 a.m."
         },
         {
           "area": "2200 block CLAM BAY RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -13676,7 +13666,7 @@
           "end": "2020-10-14T02:30:00",
           "last_updated": "2020-10-15T14:07:00",
           "municipality": "Vernon",
-          "municipality_code": "day-3 city--1736079254",
+          "municipality_code": "city--1736079254",
           "start": "2020-10-13T20:48:00"
         },
         {
@@ -13774,7 +13764,7 @@
       "region_id": "2072041405"
     },
     "South VI": {
-      "customers_affected_14d": 73670,
+      "customers_affected_14d": 73690,
       "outages": [
         {
           "area": "North of CHURCH RD, West of STAUTW RD, East of TETAYUT RD, South of MT NEWTON XRD",
@@ -14335,6 +14325,16 @@
           "municipality": "Duncan",
           "municipality_code": "city-2058209491",
           "start": "2020-10-13T11:54:00"
+        },
+        {
+          "area": "400 - 5700 block LAKES RD",
+          "cause": "Equipment failure",
+          "customers_affected": "20",
+          "end": "2020-10-18T02:30:00",
+          "last_updated": "2020-10-18T02:12:00",
+          "municipality": "Duncan, North Cowichan",
+          "municipality_code": "day-1 day-3 city-2058209491 city--666037877",
+          "start": "2020-10-18T01:14:00"
         },
         {
           "area": "North of CARLISLE AVE, South of COLVILLE RD, West of ROCKHEIGHTS AVE, East of NELSON ST",
@@ -15823,7 +15823,7 @@
           "end": "2020-10-14T02:30:00",
           "last_updated": "2020-10-14T08:38:00",
           "municipality": "Saturna Island",
-          "municipality_code": "day-3 city-501274559",
+          "municipality_code": "city-501274559",
           "start": "2020-10-13T10:19:00"
         },
         {
