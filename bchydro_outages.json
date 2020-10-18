@@ -1,17 +1,17 @@
 {
   "current": {
     "Lower Mainland": {
-      "customers_affected_14d": 39,
+      "customers_affected_14d": -1,
       "outages": [
         {
           "area": "40800 block NO 2 RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-17T21:10:00",
+          "last_updated": "2020-10-17T22:18:00",
           "municipality": "Abbotsford",
           "municipality_code": "day-1 day-3 city-1230363016",
           "start": "2020-10-17T21:09:00",
-          "status": "Crew status: Crew assigned"
+          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 17 11:00 p.m."
         },
         {
           "area": "2700 block ABERDEEN AVE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -22,16 +22,6 @@
           "municipality_code": "day-1 day-3 city--3101987",
           "start": "2020-10-17T08:19:00",
           "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 18 3:00 p.m."
-        },
-        {
-          "area": "North-West of CLIVEDEN AVE, East of CARLETON CRT, South of HWY 91\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Planned work being done on our equipment",
-          "customers_affected": "37",
-          "last_updated": "2020-10-17T20:59:00",
-          "municipality": "Delta",
-          "municipality_code": "day-1 day-3 city-65915800",
-          "start": "2020-10-17T09:24:00",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 17 9:30 p.m."
         }
       ],
       "region_code": "Lower Mainland",
@@ -3612,7 +3602,7 @@
       "region_id": "848340027"
     },
     "Lower Mainland": {
-      "customers_affected_14d": 144909,
+      "customers_affected_14d": 144957,
       "outages": [
         {
           "area": "North of MACLURE RD, East of MT LEHMAN RD, West of Hwy 11",
@@ -3751,7 +3741,7 @@
           "end": "",
           "last_updated": "2020-10-15T11:22:00",
           "municipality": "Abbotsford",
-          "municipality_code": "day-3 city-1230363016",
+          "municipality_code": "city-1230363016",
           "start": "2020-10-13T14:14:00"
         },
         {
@@ -3881,7 +3871,7 @@
           "end": "",
           "last_updated": "2020-10-15T11:18:00",
           "municipality": "Abbotsford",
-          "municipality_code": "day-3 city-1230363016",
+          "municipality_code": "city-1230363016",
           "start": "2020-10-13T15:47:00"
         },
         {
@@ -5501,7 +5491,7 @@
           "end": "2020-10-13T23:00:00",
           "last_updated": "2020-10-14T11:35:00",
           "municipality": "Delta",
-          "municipality_code": "day-3 city-65915800",
+          "municipality_code": "city-65915800",
           "start": "2020-10-13T18:12:00"
         },
         {
@@ -5791,7 +5781,7 @@
           "end": "",
           "last_updated": "2020-10-13T22:26:00",
           "municipality": "Kent",
-          "municipality_code": "day-3 city-2334912",
+          "municipality_code": "city-2334912",
           "start": "2020-10-13T13:06:00"
         },
         {
@@ -5951,7 +5941,7 @@
           "end": "2020-10-13T22:30:00",
           "last_updated": "2020-10-15T09:49:00",
           "municipality": "Langley",
-          "municipality_code": "day-3 city-1612593490",
+          "municipality_code": "city-1612593490",
           "start": "2020-10-13T14:12:00"
         },
         {
@@ -5961,7 +5951,7 @@
           "end": "",
           "last_updated": "2020-10-15T11:05:00",
           "municipality": "Langley",
-          "municipality_code": "day-3 city-1612593490",
+          "municipality_code": "city-1612593490",
           "start": "2020-10-13T14:01:00"
         },
         {
@@ -6013,6 +6003,16 @@
           "municipality": "Langley",
           "municipality_code": "city-1612593490",
           "start": "2020-10-13T17:48:00"
+        },
+        {
+          "area": "East of 240TH ST, South of ARMSTRONG RD, West of 248TH ST, North of 72ND AVE",
+          "cause": "Tree down across our wires",
+          "customers_affected": "48",
+          "end": "2020-10-17T20:00:00",
+          "last_updated": "2020-10-17T22:18:00",
+          "municipality": "Langley",
+          "municipality_code": "day-1 day-3 city-1612593490",
+          "start": "2020-10-16T16:53:00"
         },
         {
           "area": "North of 52ND AVE, West of 256TH ST, East of 248TH ST, South of 56TH AVE",
@@ -6111,7 +6111,7 @@
           "end": "2020-10-13T22:30:00",
           "last_updated": "2020-10-14T10:23:00",
           "municipality": "Langley",
-          "municipality_code": "day-3 city-1612593490",
+          "municipality_code": "city-1612593490",
           "start": "2020-10-13T17:52:00"
         },
         {
@@ -6461,7 +6461,7 @@
           "end": "2020-10-13T23:22:00",
           "last_updated": "2020-10-14T14:35:00",
           "municipality": "Langley",
-          "municipality_code": "day-3 city-1612593490",
+          "municipality_code": "city-1612593490",
           "start": "2020-10-13T14:39:00"
         },
         {
@@ -13442,7 +13442,7 @@
           "end": "2020-10-13T22:50:00",
           "last_updated": "2020-10-15T08:55:00",
           "municipality": "Lumby",
-          "municipality_code": "day-3 city-73781051",
+          "municipality_code": "city-73781051",
           "start": "2020-10-13T20:45:00"
         },
         {
@@ -14689,7 +14689,7 @@
           "end": "",
           "last_updated": "2020-10-13T22:22:00",
           "municipality": "Ganges",
-          "municipality_code": "day-3 city-2125630497",
+          "municipality_code": "city-2125630497",
           "start": "2020-10-13T11:31:00"
         },
         {
@@ -14799,7 +14799,7 @@
           "end": "2020-10-13T22:30:00",
           "last_updated": "2020-10-14T08:40:00",
           "municipality": "Ganges",
-          "municipality_code": "day-3 city-2125630497",
+          "municipality_code": "city-2125630497",
           "start": "2020-10-13T15:23:00"
         },
         {
@@ -16009,7 +16009,7 @@
           "end": "",
           "last_updated": "2020-10-14T11:09:00",
           "municipality": "Sooke",
-          "municipality_code": "day-3 city-80069133",
+          "municipality_code": "city-80069133",
           "start": "2020-10-13T12:45:00"
         },
         {
