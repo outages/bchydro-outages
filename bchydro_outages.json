@@ -17,21 +17,21 @@
           "area": "2900 block 196 ST, 3100 block 196TH ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-18T08:26:00",
+          "last_updated": "2020-10-18T08:43:00",
           "municipality": "Langley, Surrey",
           "municipality_code": "day-1 day-3 city-1612593490 city--1807186826",
           "start": "2020-10-18T08:13:00",
-          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 18 9:15 a.m."
+          "status": "Crew status: Crew on-site"
         },
         {
           "area": "17400 block 61A AVE, 6000 - 6100 block 175A ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Cable fault",
           "customers_affected": "16",
-          "last_updated": "2020-10-18T07:00:00",
+          "last_updated": "2020-10-18T08:41:00",
           "municipality": "Surrey",
           "municipality_code": "day-1 day-3 city--1807186826",
           "start": "2020-10-17T23:28:00",
-          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 18 7:20 a.m."
+          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 18 12:30 p.m."
         },
         {
           "area": "16500 block 96 AVE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -56,23 +56,6 @@
       ],
       "region_code": "Lower Mainland",
       "region_id": "521980323"
-    },
-    "Northern": {
-      "customers_affected_14d": 7,
-      "outages": [
-        {
-          "area": "North of SWAN LAKE RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Wire down",
-          "customers_affected": "7",
-          "last_updated": "2020-10-18T08:02:00",
-          "municipality": "Hazelton",
-          "municipality_code": "day-1 day-3 city-411200875",
-          "start": "2020-10-17T22:38:00",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 18 8:30 a.m."
-        }
-      ],
-      "region_code": "Northern",
-      "region_id": "1602964060"
     },
     "Okanagan/Kootenay": {
       "customers_affected_14d": 121,
@@ -11075,7 +11058,7 @@
           "end": "2020-10-14T09:15:00",
           "last_updated": "2020-10-15T12:00:00",
           "municipality": "Port Hardy",
-          "municipality_code": "day-3 city-368562319",
+          "municipality_code": "city-368562319",
           "start": "2020-10-13T05:31:00"
         },
         {
@@ -11245,7 +11228,7 @@
           "end": "",
           "last_updated": "2020-10-16T11:49:00",
           "municipality": "Qualicum Beach",
-          "municipality_code": "day-3 city--154309756",
+          "municipality_code": "city--154309756",
           "start": "2020-10-13T12:52:00"
         },
         {
@@ -11680,10 +11663,10 @@
         },
         {
           "area": "1300 block CLAYMORE RD LAB",
-          "cause": "Under investigation",
+          "cause": "Other",
           "customers_affected": "< 5",
           "end": "",
-          "last_updated": "2020-10-18T08:22:00",
+          "last_updated": "2020-10-18T08:44:00",
           "municipality": "Qualicum Beach",
           "municipality_code": "day-1 day-3 city--154309756",
           "start": "2020-10-17T16:01:00"
@@ -11873,7 +11856,7 @@
       "region_id": "1602896846"
     },
     "Northern": {
-      "customers_affected_14d": 12503,
+      "customers_affected_14d": 12510,
       "outages": [
         {
           "area": "100 - 200 block WABALISLA ST, 0 - 100 block WAGLISLA ST, 500 block CHEENIS ST, 700 block GOOSE ISLAND DR, AIRPORT RD, BELLA BELLA RORO, PUMPHOUSE, 0 - 1200 block SHEARWATER RD, UPPER HOTEL, DENNY ISLAND RD...",
@@ -12634,6 +12617,16 @@
           "municipality": "Hazelton",
           "municipality_code": "city-411200875",
           "start": "2020-10-05T14:45:00"
+        },
+        {
+          "area": "North of SWAN LAKE RD",
+          "cause": "Tree down across our wires",
+          "customers_affected": "7",
+          "end": "2020-10-18T08:30:00",
+          "last_updated": "2020-10-18T08:39:00",
+          "municipality": "Hazelton",
+          "municipality_code": "day-1 day-3 city-411200875",
+          "start": "2020-10-17T22:38:00"
         },
         {
           "area": "South-West of KISPIOX VALLEY RD, East of HELEN LAKE RD",
