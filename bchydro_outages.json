@@ -1,5 +1,22 @@
 {
   "current": {
+    "Central Interior": {
+      "customers_affected_14d": -1,
+      "outages": [
+        {
+          "area": "East-West of WEST LAKE ESTATES RD, North of WESTLAKE ESTATES RD, South of FLYNN RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Under investigation",
+          "customers_affected": "< 5",
+          "last_updated": "2020-10-18T13:34:00",
+          "municipality": "Prince George",
+          "municipality_code": "day-1 day-3 city-1835674262",
+          "start": "2020-10-18T13:25:00",
+          "status": "Crew status: Crew assigned"
+        }
+      ],
+      "region_code": "Central Interior",
+      "region_id": "848340027"
+    },
     "Lower Mainland": {
       "customers_affected_14d": -1,
       "outages": [
@@ -17,32 +34,15 @@
           "area": "1300 block POWELL ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-18T12:55:00",
+          "last_updated": "2020-10-18T13:36:00",
           "municipality": "Vancouver",
           "municipality_code": "day-1 day-3 city--1786794435",
           "start": "2020-10-18T12:48:00",
-          "status": "Crew status: Crew assigned"
+          "status": "Crew status: Crew on-site"
         }
       ],
       "region_code": "Lower Mainland",
       "region_id": "521980323"
-    },
-    "North VI": {
-      "customers_affected_14d": 19,
-      "outages": [
-        {
-          "area": "North of 11TH ST, South of 6TH ST, East of HARMSTON AVE, West of FITZGERALD AVE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Planned work being done on our equipment",
-          "customers_affected": "19",
-          "last_updated": "2020-10-18T12:28:00",
-          "municipality": "Courtenay",
-          "municipality_code": "day-1 day-3 city--824228212",
-          "start": "2020-10-18T09:43:00",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 18 2:00 p.m."
-        }
-      ],
-      "region_code": "North VI",
-      "region_id": "1602896846"
     }
   },
   "planned": {
@@ -3694,7 +3694,7 @@
           "end": "2020-10-16T13:22:00",
           "last_updated": "2020-10-16T13:40:00",
           "municipality": "Abbotsford",
-          "municipality_code": "day-1 day-3 city-1230363016",
+          "municipality_code": "day-3 city-1230363016",
           "start": "2020-10-16T10:47:00"
         },
         {
@@ -7554,7 +7554,7 @@
           "end": "2020-10-14T16:00:00",
           "last_updated": "2020-10-14T14:22:00",
           "municipality": "Pemberton",
-          "municipality_code": "day-3 city--2076154532",
+          "municipality_code": "city--2076154532",
           "start": "2020-10-14T09:57:00"
         },
         {
@@ -8609,10 +8609,10 @@
         },
         {
           "area": "17400 block 61A AVE, 6000 - 6100 block 175A ST",
-          "cause": "Cable fault",
+          "cause": "Equipment failure",
           "customers_affected": "16",
           "end": "2020-10-18T14:00:00",
-          "last_updated": "2020-10-18T13:23:00",
+          "last_updated": "2020-10-18T13:28:00",
           "municipality": "Surrey",
           "municipality_code": "day-1 day-3 city--1807186826",
           "start": "2020-10-17T23:28:00"
@@ -9492,7 +9492,7 @@
       "region_id": "521980323"
     },
     "North VI": {
-      "customers_affected_14d": 67059,
+      "customers_affected_14d": 67078,
       "outages": [
         {
           "area": "West of ALDER ST, East of DOGWOOD ST, South of ROCKLAND RD, North of HOLM RD",
@@ -9933,6 +9933,16 @@
           "municipality": "Courtenay",
           "municipality_code": "city--824228212",
           "start": "2020-10-13T10:31:00"
+        },
+        {
+          "area": "North of 11TH ST, South of 6TH ST, East of HARMSTON AVE, West of FITZGERALD AVE",
+          "cause": "Planned work being done on our equipment",
+          "customers_affected": "19",
+          "end": "2020-10-18T14:00:00",
+          "last_updated": "2020-10-18T13:32:00",
+          "municipality": "Courtenay",
+          "municipality_code": "day-1 day-3 city--824228212",
+          "start": "2020-10-18T09:43:00"
         },
         {
           "area": "West of FITZGERALD RD, East of FORTNUM RD, South of FARNHAM RD, North of MILMAN RD",
@@ -11731,7 +11741,7 @@
           "end": "",
           "last_updated": "2020-10-15T12:27:00",
           "municipality": "Qualicum Beach",
-          "municipality_code": "day-3 city--154309756",
+          "municipality_code": "city--154309756",
           "start": "2020-10-14T10:06:00"
         },
         {
@@ -13585,7 +13595,7 @@
           "end": "2020-10-16T16:00:00",
           "last_updated": "2020-10-16T13:32:00",
           "municipality": "Vernon",
-          "municipality_code": "day-1 day-3 city--1736079254",
+          "municipality_code": "day-3 city--1736079254",
           "start": "2020-10-16T09:09:00"
         },
         {
@@ -14122,7 +14132,7 @@
           "end": "2020-10-14T14:00:00",
           "last_updated": "2020-10-15T14:03:00",
           "municipality": "Duncan",
-          "municipality_code": "day-3 city-2058209491",
+          "municipality_code": "city-2058209491",
           "start": "2020-10-13T10:22:00"
         },
         {
@@ -15282,7 +15292,7 @@
           "end": "2020-10-14T13:36:00",
           "last_updated": "2020-10-15T14:29:00",
           "municipality": "North Cowichan",
-          "municipality_code": "day-3 city--666037877",
+          "municipality_code": "city--666037877",
           "start": "2020-10-14T09:43:00"
         },
         {
@@ -15572,7 +15582,7 @@
           "end": "",
           "last_updated": "2020-10-16T13:24:00",
           "municipality": "Oak Bay",
-          "municipality_code": "day-3 city--24788973",
+          "municipality_code": "city--24788973",
           "start": "2020-10-14T10:15:00"
         },
         {
@@ -17239,7 +17249,7 @@
           "end": "",
           "last_updated": "2020-10-16T13:32:00",
           "municipality": "Kamloops",
-          "municipality_code": "day-1 day-3 city-979034872",
+          "municipality_code": "day-3 city-979034872",
           "start": "2020-10-16T12:01:00"
         },
         {
