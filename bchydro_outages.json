@@ -21,16 +21,6 @@
       "customers_affected_14d": -1,
       "outages": [
         {
-          "area": "26600 block 58 AVE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Equipment failure",
-          "customers_affected": "< 5",
-          "last_updated": "2020-10-18T13:41:00",
-          "municipality": "Langley",
-          "municipality_code": "day-1 day-3 city-1612593490",
-          "start": "2020-10-18T09:53:00",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 18 2:40 p.m."
-        },
-        {
           "area": "1300 block POWELL ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "< 5",
@@ -43,6 +33,23 @@
       ],
       "region_code": "Lower Mainland",
       "region_id": "521980323"
+    },
+    "North VI": {
+      "customers_affected_14d": 1709,
+      "outages": [
+        {
+          "area": "East of DUVAL RD, North of HOLBERG RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Under investigation",
+          "customers_affected": "1709",
+          "last_updated": "2020-10-18T14:05:00",
+          "municipality": "Port Hardy",
+          "municipality_code": "day-1 day-3 city-368562319",
+          "start": "2020-10-18T14:00:00",
+          "status": "Crew status: Crew assigned"
+        }
+      ],
+      "region_code": "North VI",
+      "region_id": "1602896846"
     }
   },
   "planned": {
@@ -1922,7 +1929,7 @@
       "region_id": "2072041405"
     },
     "South VI": {
-      "customers_affected_14d": 1397,
+      "customers_affected_14d": 1340,
       "outages": [
         {
           "area": "1746 Verling Ave; 1763 Sean Hts, Saanichton",
@@ -1933,16 +1940,6 @@
           "municipality": "Central Saanich",
           "municipality_code": "day-1 day-3 city--769735224",
           "start": "2020-10-24T09:30:00"
-        },
-        {
-          "area": "4741 Koksilah Rd; 4705-4798 Fairbridge Dr, Duncan",
-          "cause": "Pole replacement",
-          "customers_affected": "41",
-          "end": "2020-10-16T14:00:00",
-          "last_updated": "2020-09-30T06:47:00",
-          "municipality": "Duncan",
-          "municipality_code": "day-1 day-3 city-2058209491",
-          "start": "2020-10-16T10:00:00"
         },
         {
           "area": "2760 Shawnigan Lk Rd; 1750, 1751, 1752, 1753, 1755, 1757, 1761, 1769, 1775 Shawn Mill Bay Rd; 2749 Dundas Rd; 1764 Kalmar Rd., Shawnigan Lake | Duncan",
@@ -2315,16 +2312,6 @@
           "start": "2020-10-27T11:30:00"
         },
         {
-          "area": "6467-6545 Central Saanich Rd, 2341 Styan Rd",
-          "cause": "Pole replacement",
-          "customers_affected": "13",
-          "end": "2020-10-16T14:00:00",
-          "last_updated": "2020-10-07T12:22:00",
-          "municipality": "Victoria",
-          "municipality_code": "day-1 day-3 city-1201273535",
-          "start": "2020-10-16T12:00:00"
-        },
-        {
           "area": "1848-1863 Feltham Rd, Victoria",
           "cause": "Planned work being done on our equipment",
           "customers_affected": "13",
@@ -2483,16 +2470,6 @@
           "municipality": "Victoria",
           "municipality_code": "day-1 day-3 city-1201273535",
           "start": "2020-10-26T09:00:00"
-        },
-        {
-          "area": "6516 Central Saanich Rd",
-          "cause": "Pole replacement",
-          "customers_affected": "< 5",
-          "end": "2020-10-16T14:00:00",
-          "last_updated": "2020-10-08T09:18:00",
-          "municipality": "Victoria",
-          "municipality_code": "day-1 day-3 city-1201273535",
-          "start": "2020-10-16T09:00:00"
         }
       ],
       "region_code": "South VI",
@@ -5084,7 +5061,7 @@
           "end": "2020-10-14T14:30:00",
           "last_updated": "2020-10-14T13:56:00",
           "municipality": "Chilliwack",
-          "municipality_code": "day-3 city--708005353",
+          "municipality_code": "city--708005353",
           "start": "2020-10-14T10:42:00"
         },
         {
@@ -5094,7 +5071,7 @@
           "end": "",
           "last_updated": "2020-10-14T13:55:00",
           "municipality": "Chilliwack",
-          "municipality_code": "day-3 city--708005353",
+          "municipality_code": "city--708005353",
           "start": "2020-10-13T13:28:00"
         },
         {
@@ -8514,7 +8491,7 @@
           "end": "2020-10-14T16:00:00",
           "last_updated": "2020-10-14T14:21:00",
           "municipality": "Surrey",
-          "municipality_code": "day-3 city--1807186826",
+          "municipality_code": "city--1807186826",
           "start": "2020-10-14T09:06:00"
         },
         {
@@ -9154,7 +9131,7 @@
           "end": "2020-10-16T14:15:00",
           "last_updated": "2020-10-16T14:10:00",
           "municipality": "Vancouver",
-          "municipality_code": "day-1 day-3 city--1786794435",
+          "municipality_code": "day-3 city--1786794435",
           "start": "2020-10-16T09:42:00"
         },
         {
@@ -10681,7 +10658,7 @@
           "end": "2020-10-14T14:30:00",
           "last_updated": "2020-10-14T16:45:00",
           "municipality": "Nanaimo",
-          "municipality_code": "day-3 city--907547835",
+          "municipality_code": "city--907547835",
           "start": "2020-10-13T15:11:00"
         },
         {
@@ -10811,7 +10788,7 @@
           "end": "",
           "last_updated": "2020-10-15T07:28:00",
           "municipality": "North Cowichan",
-          "municipality_code": "day-3 city--666037877",
+          "municipality_code": "city--666037877",
           "start": "2020-10-14T11:47:00"
         },
         {
@@ -11461,7 +11438,7 @@
           "end": "2020-10-14T14:15:00",
           "last_updated": "2020-10-15T09:26:00",
           "municipality": "Qualicum Beach",
-          "municipality_code": "day-3 city--154309756",
+          "municipality_code": "city--154309756",
           "start": "2020-10-14T07:21:00"
         },
         {
@@ -11701,7 +11678,7 @@
           "end": "",
           "last_updated": "2020-10-15T12:18:00",
           "municipality": "Qualicum Beach",
-          "municipality_code": "day-3 city--154309756",
+          "municipality_code": "city--154309756",
           "start": "2020-10-14T10:13:00"
         },
         {
@@ -11968,7 +11945,7 @@
           "end": "2020-10-16T14:00:00",
           "last_updated": "2020-10-16T13:55:00",
           "municipality": "Burns Lake",
-          "municipality_code": "day-1 day-3 city--2121425941",
+          "municipality_code": "day-3 city--2121425941",
           "start": "2020-10-16T11:07:00"
         },
         {
@@ -12218,7 +12195,7 @@
           "end": "2020-10-16T16:00:00",
           "last_updated": "2020-10-16T16:09:00",
           "municipality": "Dawson Creek",
-          "municipality_code": "day-1 day-3 city--1630954860",
+          "municipality_code": "day-3 city--1630954860",
           "start": "2020-10-16T10:09:00"
         },
         {
@@ -16849,7 +16826,7 @@
           "end": "2020-10-16T14:30:00",
           "last_updated": "2020-10-16T13:57:00",
           "municipality": "Clearwater",
-          "municipality_code": "day-1 day-3 city-1282265866",
+          "municipality_code": "day-3 city-1282265866",
           "start": "2020-10-16T09:15:00"
         },
         {
@@ -17029,7 +17006,7 @@
           "end": "2020-10-16T14:00:00",
           "last_updated": "2020-10-16T13:56:00",
           "municipality": "Clearwater",
-          "municipality_code": "day-1 day-3 city-1282265866",
+          "municipality_code": "day-3 city-1282265866",
           "start": "2020-10-16T12:28:00"
         },
         {
@@ -17469,7 +17446,7 @@
           "end": "2020-10-14T13:54:00",
           "last_updated": "2020-10-14T14:09:00",
           "municipality": "Lillooet",
-          "municipality_code": "day-3 city-1203310572",
+          "municipality_code": "city-1203310572",
           "start": "2020-10-14T12:29:00"
         },
         {
