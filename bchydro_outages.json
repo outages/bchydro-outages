@@ -1,16 +1,26 @@
 {
   "current": {
     "Central Interior": {
-      "customers_affected_14d": 19,
+      "customers_affected_14d": 21,
       "outages": [
         {
           "area": "East of HWY 97 , South of WIDDIS RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "19",
-          "last_updated": "2020-10-19T08:01:00",
+          "last_updated": "2020-10-19T08:12:00",
           "municipality": "Prince George",
           "municipality_code": "day-1 day-3 city-1835674262",
           "start": "2020-10-19T07:56:00",
+          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 19 9:15 a.m."
+        },
+        {
+          "area": "12600 block LUND RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Under investigation",
+          "customers_affected": "< 5",
+          "last_updated": "2020-10-19T08:24:00",
+          "municipality": "Prince George",
+          "municipality_code": "day-1 day-3 city-1835674262",
+          "start": "2020-10-19T08:21:00",
           "status": "Crew status: Crew assigned"
         }
       ],
@@ -34,7 +44,7 @@
           "area": "4600 block VANGUARD RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Transformer burn out",
           "customers_affected": "7",
-          "last_updated": "2020-10-19T06:52:00",
+          "last_updated": "2020-10-19T08:21:00",
           "municipality": "Richmond",
           "municipality_code": "day-1 day-3 city--1486145068",
           "start": "2020-10-18T15:39:00",
@@ -45,31 +55,38 @@
       "region_id": "521980323"
     },
     "Northern": {
-      "customers_affected_14d": 463,
+      "customers_affected_14d": -1,
       "outages": [
-        {
-          "area": "South of STELLA RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Under investigation",
-          "customers_affected": "461",
-          "last_updated": "2020-10-19T06:55:00",
-          "municipality": "Fraser Lake",
-          "municipality_code": "day-1 day-3 city--90749596",
-          "start": "2020-10-19T03:51:00",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 19 8:45 a.m."
-        },
         {
           "area": "14200 block BRAESIDE RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-19T07:24:00",
+          "last_updated": "2020-10-19T08:15:00",
           "municipality": "Vanderhoof",
           "municipality_code": "day-1 day-3 city-1041981516",
           "start": "2020-10-19T07:14:00",
-          "status": "Crew status: Crew assigned"
+          "status": "Crew status: Crew on-site"
         }
       ],
       "region_code": "Northern",
       "region_id": "1602964060"
+    },
+    "Okanagan/Kootenay": {
+      "customers_affected_14d": -1,
+      "outages": [
+        {
+          "area": "600 block INDUSTRIAL 2 RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Under investigation",
+          "customers_affected": "< 5",
+          "last_updated": "2020-10-19T08:13:00",
+          "municipality": "Cranbrook",
+          "municipality_code": "day-1 day-3 city--591720257",
+          "start": "2020-10-19T08:08:00",
+          "status": "Crew status: Crew assigned"
+        }
+      ],
+      "region_code": "Okanagan/Kootenay",
+      "region_id": "2072041405"
     },
     "South VI": {
       "customers_affected_14d": 145,
@@ -106,13 +123,13 @@
         },
         {
           "area": "East of BUKIN PL, North of MUNNS RD, South of PROSPECT LAKE RD, West of HECTOR RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Under investigation",
+          "cause": "Tree down across our wires",
           "customers_affected": "41",
-          "last_updated": "2020-10-19T07:26:00",
+          "last_updated": "2020-10-19T08:23:00",
           "municipality": "Saanich",
           "municipality_code": "day-1 day-3 city--776615533",
           "start": "2020-10-19T05:54:00",
-          "status": "Crew status: Crew on-site"
+          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 19 12:30 p.m."
         }
       ],
       "region_code": "South VI",
@@ -125,21 +142,21 @@
           "area": "East of CHRISTMAS ISLAN RD, South of POWERHOUSE RD, North of WESTERBURG RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "311",
-          "last_updated": "2020-10-19T08:04:00",
+          "last_updated": "2020-10-19T08:06:00",
           "municipality": "Revelstoke",
           "municipality_code": "day-1 day-3 city-1039954398",
           "start": "2020-10-19T04:53:00",
-          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 19 9:00 a.m."
+          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 19 10:00 a.m."
         },
         {
           "area": "North-East of HWY 23\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "251",
-          "last_updated": "2020-10-19T08:05:00",
+          "last_updated": "2020-10-19T08:07:00",
           "municipality": "Revelstoke",
           "municipality_code": "day-1 day-3 city-1039954398",
           "start": "2020-10-19T06:39:00",
-          "status": "Crew status: No crew assigned yet\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 19 9:30 a.m."
+          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 19 9:30 a.m."
         },
         {
           "area": "1700 block BELL ST, 1600 block MILL ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -1218,11 +1235,11 @@
           "start": "2020-10-23T08:30:00"
         },
         {
-          "area": "9454 Wallace Cres, 9384-9418 Prince Charles Blvd, Surrey",
+          "area": "* CANCELLED *9454 Wallace Cres, 9384-9418 Prince Charles Blvd, Surrey",
           "cause": "Planned work being done on our equipment",
           "customers_affected": "9",
           "end": "2020-10-22T20:00:00",
-          "last_updated": "2020-10-14T13:05:00",
+          "last_updated": "2020-10-19T08:07:00",
           "municipality": "Surrey",
           "municipality_code": "day-1 day-3 city--1807186826",
           "start": "2020-10-22T08:00:00"
@@ -10850,7 +10867,7 @@
           "cause": "Other",
           "customers_affected": "< 5",
           "end": "",
-          "last_updated": "2020-10-17T15:54:00",
+          "last_updated": "2020-10-19T08:23:00",
           "municipality": "Port Alberni",
           "municipality_code": "day-1 day-3 city-383682720",
           "start": "2020-10-17T15:04:00"
@@ -11090,7 +11107,7 @@
           "cause": "Tree down across our wires",
           "customers_affected": "3102",
           "end": "2020-10-13T23:00:00",
-          "last_updated": "2020-10-13T22:46:00",
+          "last_updated": "2020-10-19T08:15:00",
           "municipality": "Qualicum Beach",
           "municipality_code": "city--154309756",
           "start": "2020-10-13T11:52:00"
@@ -11590,7 +11607,7 @@
           "cause": "Tree down across our wires",
           "customers_affected": "< 5",
           "end": "",
-          "last_updated": "2020-10-14T15:29:00",
+          "last_updated": "2020-10-19T08:14:00",
           "municipality": "Qualicum Beach",
           "municipality_code": "city--154309756",
           "start": "2020-10-13T19:02:00"
@@ -11690,7 +11707,7 @@
           "cause": "Tree down across our wires",
           "customers_affected": "< 5",
           "end": "2020-10-13T10:00:00",
-          "last_updated": "2020-10-13T10:04:00",
+          "last_updated": "2020-10-19T08:16:00",
           "municipality": "Qualicum Beach",
           "municipality_code": "city--154309756",
           "start": "2020-10-13T07:35:00"
@@ -11730,7 +11747,7 @@
           "cause": "Tree down across our wires",
           "customers_affected": "< 5",
           "end": "2020-10-17T13:30:00",
-          "last_updated": "2020-10-17T13:22:00",
+          "last_updated": "2020-10-19T08:23:00",
           "municipality": "Tofino",
           "municipality_code": "day-1 day-3 city--1784464673",
           "start": "2020-10-17T10:15:00"
@@ -11790,7 +11807,7 @@
       "region_id": "1602896846"
     },
     "Northern": {
-      "customers_affected_14d": 12376,
+      "customers_affected_14d": 12837,
       "outages": [
         {
           "area": "100 - 200 block WABALISLA ST, 0 - 100 block WAGLISLA ST, 500 block CHEENIS ST, 700 block GOOSE ISLAND DR, AIRPORT RD, BELLA BELLA RORO, PUMPHOUSE, 0 - 1200 block SHEARWATER RD, UPPER HOTEL, DENNY ISLAND RD...",
@@ -12461,6 +12478,16 @@
           "municipality": "Fort St. John",
           "municipality_code": "city-205572915",
           "start": "2020-10-06T07:18:00"
+        },
+        {
+          "area": "South of STELLA RD",
+          "cause": "Equipment failure",
+          "customers_affected": "461",
+          "end": "2020-10-19T08:45:00",
+          "last_updated": "2020-10-19T08:16:00",
+          "municipality": "Fraser Lake",
+          "municipality_code": "day-1 day-3 city--90749596",
+          "start": "2020-10-19T03:51:00"
         },
         {
           "area": "South of STELLA RD",
@@ -13801,7 +13828,7 @@
           "cause": "Tree down across our wires",
           "customers_affected": "2063",
           "end": "2020-10-16T12:30:00",
-          "last_updated": "2020-10-16T12:16:00",
+          "last_updated": "2020-10-19T08:17:00",
           "municipality": "Duncan",
           "municipality_code": "day-3 city-2058209491",
           "start": "2020-10-16T11:33:00"
@@ -14051,7 +14078,7 @@
           "cause": "Tree down across our wires",
           "customers_affected": "6",
           "end": "2020-10-16T16:00:00",
-          "last_updated": "2020-10-16T15:56:00",
+          "last_updated": "2020-10-19T08:19:00",
           "municipality": "Duncan",
           "municipality_code": "day-3 city-2058209491",
           "start": "2020-10-16T12:07:00"
@@ -14161,7 +14188,7 @@
           "cause": "Other",
           "customers_affected": "< 5",
           "end": "2020-10-16T16:00:00",
-          "last_updated": "2020-10-16T15:58:00",
+          "last_updated": "2020-10-19T08:18:00",
           "municipality": "Duncan",
           "municipality_code": "day-3 city-2058209491",
           "start": "2020-10-16T14:32:00"
@@ -14201,7 +14228,7 @@
           "cause": "Equipment failure",
           "customers_affected": "20",
           "end": "2020-10-18T02:30:00",
-          "last_updated": "2020-10-18T02:12:00",
+          "last_updated": "2020-10-19T08:18:00",
           "municipality": "Duncan, North Cowichan",
           "municipality_code": "day-1 day-3 city-2058209491 city--666037877",
           "start": "2020-10-18T01:14:00"
@@ -15141,7 +15168,7 @@
           "cause": "Other",
           "customers_affected": "< 5",
           "end": "2020-10-18T03:00:00",
-          "last_updated": "2020-10-18T03:07:00",
+          "last_updated": "2020-10-19T08:19:00",
           "municipality": "North Cowichan",
           "municipality_code": "day-1 day-3 city--666037877",
           "start": "2020-10-18T00:47:00"
