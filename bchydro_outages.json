@@ -7,32 +7,15 @@
           "area": "2100 block PRIMROSE ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Transformer burn out",
           "customers_affected": "11",
-          "last_updated": "2020-10-18T18:08:00",
+          "last_updated": "2020-10-18T18:31:00",
           "municipality": "Abbotsford",
           "municipality_code": "day-1 day-3 city-1230363016",
           "start": "2020-10-18T17:15:00",
-          "status": "Crew status: Crew on-site"
+          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 18 8:00 p.m."
         }
       ],
       "region_code": "Lower Mainland",
       "region_id": "521980323"
-    },
-    "Okanagan/Kootenay": {
-      "customers_affected_14d": -1,
-      "outages": [
-        {
-          "area": "3200 block 35 AVE, 3300 block 35TH AVE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Under investigation",
-          "customers_affected": "< 5",
-          "last_updated": "2020-10-18T17:41:00",
-          "municipality": "Vernon",
-          "municipality_code": "day-1 day-3 city--1736079254",
-          "start": "2020-10-18T16:55:00",
-          "status": "Crew status: Crew assigned\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 18 5:35 p.m."
-        }
-      ],
-      "region_code": "Okanagan/Kootenay",
-      "region_id": "2072041405"
     },
     "South VI": {
       "customers_affected_14d": 736,
@@ -41,7 +24,7 @@
           "area": "4700 block BADGER PL\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-18T18:00:00",
+          "last_updated": "2020-10-18T18:20:00",
           "municipality": "Metchosin",
           "municipality_code": "day-1 day-3 city-1000109226",
           "start": "2020-10-18T17:42:00",
@@ -91,7 +74,7 @@
       "region_id": "848340027"
     },
     "Lower Mainland": {
-      "customers_affected_14d": 8356,
+      "customers_affected_14d": 7900,
       "outages": [
         {
           "area": "1944, 1954, 1966, 1976 Albion St; 32666-32749 Cordova Ave; 325, 32760 Marshall Rd, 32414-32750 Pandora Ave; 1911-1944 Valencia Crt, Abbotsford",
@@ -852,16 +835,6 @@
           "municipality": "North Vancouver",
           "municipality_code": "day-1 day-3 city--1636626238",
           "start": "2020-10-26T09:00:00"
-        },
-        {
-          "area": "Parts of Birken; D'Arcy; Mount Currie; Pemberton and Squamish and surrounding areas",
-          "cause": "Pole replacement",
-          "customers_affected": "456",
-          "end": "2020-10-16T18:30:00",
-          "last_updated": "2020-09-30T16:21:00",
-          "municipality": "Pemberton",
-          "municipality_code": "day-1 day-3 city--2076154532",
-          "start": "2020-10-16T08:30:00"
         },
         {
           "area": "18893 to 18946 119B Ave",
@@ -2854,7 +2827,7 @@
           "end": "2020-10-16T18:45:00",
           "last_updated": "2020-10-16T18:33:00",
           "municipality": "Prince George",
-          "municipality_code": "day-1 day-3 city-1835674262",
+          "municipality_code": "day-3 city-1835674262",
           "start": "2020-10-16T11:41:00"
         },
         {
@@ -2864,7 +2837,7 @@
           "end": "",
           "last_updated": "2020-10-16T18:28:00",
           "municipality": "Prince George",
-          "municipality_code": "day-1 day-3 city-1835674262",
+          "municipality_code": "day-3 city-1835674262",
           "start": "2020-10-16T18:16:00"
         },
         {
@@ -4791,7 +4764,7 @@
           "end": "",
           "last_updated": "2020-10-14T18:35:00",
           "municipality": "Chilliwack",
-          "municipality_code": "day-3 city--708005353",
+          "municipality_code": "city--708005353",
           "start": "2020-10-14T08:13:00"
         },
         {
@@ -10368,7 +10341,7 @@
           "end": "",
           "last_updated": "2020-10-15T15:42:00",
           "municipality": "Nanaimo",
-          "municipality_code": "day-3 city--907547835",
+          "municipality_code": "city--907547835",
           "start": "2020-10-14T16:13:00"
         },
         {
@@ -11028,7 +11001,7 @@
           "end": "",
           "last_updated": "2020-10-15T11:58:00",
           "municipality": "Port Hardy",
-          "municipality_code": "day-3 city-368562319",
+          "municipality_code": "city-368562319",
           "start": "2020-10-13T04:27:00"
         },
         {
@@ -11358,7 +11331,7 @@
           "end": "2020-10-14T18:30:00",
           "last_updated": "2020-10-14T18:41:00",
           "municipality": "Qualicum Beach",
-          "municipality_code": "day-3 city--154309756",
+          "municipality_code": "city--154309756",
           "start": "2020-10-13T16:00:00"
         },
         {
@@ -11718,7 +11691,7 @@
           "end": "2020-10-14T18:51:00",
           "last_updated": "2020-10-16T11:46:00",
           "municipality": "Qualicum Beach",
-          "municipality_code": "day-3 city--154309756",
+          "municipality_code": "city--154309756",
           "start": "2020-10-13T18:12:00"
         },
         {
@@ -13093,7 +13066,7 @@
       "region_id": "1602964060"
     },
     "Okanagan/Kootenay": {
-      "customers_affected_14d": 15457,
+      "customers_affected_14d": 15459,
       "outages": [
         {
           "area": "South of LEARMOUTH RD, West of COACHWOOD CRS, East of BREWER RD",
@@ -13552,7 +13525,7 @@
           "end": "",
           "last_updated": "2020-10-16T18:46:00",
           "municipality": "Spallumcheen",
-          "municipality_code": "day-1 day-3 city-2134222637",
+          "municipality_code": "day-3 city-2134222637",
           "start": "2020-10-16T15:55:00"
         },
         {
@@ -13634,6 +13607,16 @@
           "municipality": "Vernon",
           "municipality_code": "day-3 city--1736079254",
           "start": "2020-10-15T08:20:00"
+        },
+        {
+          "area": "3200 block 35 AVE, 3300 block 35TH AVE",
+          "cause": "Other",
+          "customers_affected": "< 5",
+          "end": "",
+          "last_updated": "2020-10-18T18:22:00",
+          "municipality": "Vernon",
+          "municipality_code": "day-1 day-3 city--1736079254",
+          "start": "2020-10-18T16:55:00"
         },
         {
           "area": "100 - 5700 block HWY 97",
@@ -14179,7 +14162,7 @@
           "end": "2020-10-14T18:52:00",
           "last_updated": "2020-10-15T14:25:00",
           "municipality": "Duncan",
-          "municipality_code": "day-3 city-2058209491",
+          "municipality_code": "city-2058209491",
           "start": "2020-10-13T15:15:00"
         },
         {
@@ -16536,7 +16519,7 @@
           "end": "2020-10-16T19:00:00",
           "last_updated": "2020-10-16T18:52:00",
           "municipality": "100 Mile House",
-          "municipality_code": "day-1 day-3 city-950857956",
+          "municipality_code": "day-3 city-950857956",
           "start": "2020-10-16T11:55:00"
         },
         {
