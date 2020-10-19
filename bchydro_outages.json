@@ -1,7 +1,7 @@
 {
   "current": {
     "Lower Mainland": {
-      "customers_affected_14d": 11,
+      "customers_affected_14d": 18,
       "outages": [
         {
           "area": "2100 block PRIMROSE ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -12,6 +12,16 @@
           "municipality_code": "day-1 day-3 city-1230363016",
           "start": "2020-10-18T17:15:00",
           "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 18 8:00 p.m."
+        },
+        {
+          "area": "4600 block VANGUARD RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Transformer burn out",
+          "customers_affected": "7",
+          "last_updated": "2020-10-18T19:15:00",
+          "municipality": "Richmond",
+          "municipality_code": "day-1 day-3 city--1486145068",
+          "start": "2020-10-18T15:39:00",
+          "status": "Crew status: Suspended"
         }
       ],
       "region_code": "Lower Mainland",
@@ -24,7 +34,7 @@
           "area": "4700 block BADGER PL\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-18T18:20:00",
+          "last_updated": "2020-10-18T19:11:00",
           "municipality": "Metchosin",
           "municipality_code": "day-1 day-3 city-1000109226",
           "start": "2020-10-18T17:42:00",
@@ -34,7 +44,7 @@
           "area": "West of SOOKE RD, East of SEA LION WAY\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Tree down across our wires",
           "customers_affected": "735",
-          "last_updated": "2020-10-18T18:58:00",
+          "last_updated": "2020-10-18T19:13:00",
           "municipality": "Sooke",
           "municipality_code": "day-1 day-3 city-80069133",
           "start": "2020-10-18T17:47:00",
@@ -3714,7 +3724,7 @@
           "end": "2020-10-14T20:03:00",
           "last_updated": "2020-10-14T19:16:00",
           "municipality": "Abbotsford",
-          "municipality_code": "day-3 city-1230363016",
+          "municipality_code": "city-1230363016",
           "start": "2020-10-14T16:17:00"
         },
         {
@@ -4094,7 +4104,7 @@
           "end": "2020-10-16T19:00:00",
           "last_updated": "2020-10-16T19:11:00",
           "municipality": "Bowen Island",
-          "municipality_code": "day-1 day-3 city-1522211618",
+          "municipality_code": "day-3 city-1522211618",
           "start": "2020-10-16T16:40:00"
         },
         {
@@ -11591,7 +11601,7 @@
           "end": "2020-10-14T19:30:00",
           "last_updated": "2020-10-15T12:25:00",
           "municipality": "Qualicum Beach",
-          "municipality_code": "day-3 city--154309756",
+          "municipality_code": "city--154309756",
           "start": "2020-10-14T17:29:00"
         },
         {
@@ -11988,7 +11998,7 @@
           "end": "2020-10-16T19:30:00",
           "last_updated": "2020-10-16T19:39:00",
           "municipality": "Burns Lake",
-          "municipality_code": "day-1 day-3 city--2121425941",
+          "municipality_code": "day-3 city--2121425941",
           "start": "2020-10-16T16:30:00"
         },
         {
