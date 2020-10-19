@@ -17,18 +17,45 @@
       "region_code": "Lower Mainland",
       "region_id": "521980323"
     },
+    "North VI": {
+      "customers_affected_14d": -1,
+      "outages": [
+        {
+          "area": "3100 block WILLOW CREEK RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Under investigation",
+          "customers_affected": "< 5",
+          "last_updated": "2020-10-18T22:00:00",
+          "municipality": "Campbell River",
+          "municipality_code": "day-1 day-3 city-1240464880",
+          "start": "2020-10-18T21:42:00",
+          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 18 10:55 p.m."
+        },
+        {
+          "area": "400 block TWILLINGATE RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Under investigation",
+          "customers_affected": "< 5",
+          "last_updated": "2020-10-18T22:00:00",
+          "municipality": "Campbell River",
+          "municipality_code": "day-1 day-3 city-1240464880",
+          "start": "2020-10-18T21:43:00",
+          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 18 10:55 p.m."
+        }
+      ],
+      "region_code": "North VI",
+      "region_id": "1602896846"
+    },
     "South VI": {
       "customers_affected_14d": 623,
       "outages": [
         {
           "area": "4700 block BADGER PL\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Under investigation",
+          "cause": "Tree down across our wires",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-18T21:22:00",
+          "last_updated": "2020-10-18T22:03:00",
           "municipality": "Metchosin",
           "municipality_code": "day-1 day-3 city-1000109226",
           "start": "2020-10-18T17:42:00",
-          "status": "Crew status: Crew on-site"
+          "status": "Crew status: Crew assigned"
         },
         {
           "area": "South-West of SOOKE RD, East of SEA LION WAY\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -2837,7 +2864,7 @@
           "end": "",
           "last_updated": "2020-10-16T21:55:00",
           "municipality": "Prince George",
-          "municipality_code": "day-1 day-3 city-1835674262",
+          "municipality_code": "day-3 city-1835674262",
           "start": "2020-10-16T09:07:00"
         },
         {
@@ -2887,7 +2914,7 @@
           "end": "",
           "last_updated": "2020-10-16T21:57:00",
           "municipality": "Prince George",
-          "municipality_code": "day-1 day-3 city-1835674262",
+          "municipality_code": "day-3 city-1835674262",
           "start": "2020-10-16T13:26:00"
         },
         {
@@ -8954,7 +8981,7 @@
           "end": "",
           "last_updated": "2020-10-14T22:05:00",
           "municipality": "Vancouver",
-          "municipality_code": "day-3 city--1786794435",
+          "municipality_code": "city--1786794435",
           "start": "2020-10-14T18:55:00"
         },
         {
@@ -14512,7 +14539,7 @@
           "end": "2020-10-16T22:30:00",
           "last_updated": "2020-10-16T22:04:00",
           "municipality": "Galiano Island",
-          "municipality_code": "day-1 day-3 city--995767958",
+          "municipality_code": "day-3 city--995767958",
           "start": "2020-10-16T17:33:00"
         },
         {
@@ -17409,7 +17436,7 @@
           "end": "",
           "last_updated": "2020-10-16T21:53:00",
           "municipality": "Kamloops, Salmon Arm",
-          "municipality_code": "day-1 day-3 city-979034872 city-2118875562",
+          "municipality_code": "day-3 city-979034872 city-2118875562",
           "start": "2020-10-16T21:37:00"
         },
         {
