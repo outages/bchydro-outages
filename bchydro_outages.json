@@ -55,27 +55,17 @@
       "region_id": "1602964060"
     },
     "South VI": {
-      "customers_affected_14d": 623,
+      "customers_affected_14d": -1,
       "outages": [
         {
           "area": "4700 block BADGER PL\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Tree down across our wires",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-18T23:03:00",
+          "last_updated": "2020-10-19T01:43:00",
           "municipality": "Metchosin",
           "municipality_code": "day-1 day-3 city-1000109226",
           "start": "2020-10-18T17:42:00",
-          "status": "Crew status: Crew assigned"
-        },
-        {
-          "area": "South-West of SOOKE RD, East of SEA LION WAY\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Tree down across our wires",
-          "customers_affected": "622",
-          "last_updated": "2020-10-18T23:03:00",
-          "municipality": "Sooke",
-          "municipality_code": "day-1 day-3 city-80069133",
-          "start": "2020-10-18T17:47:00",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 19 2:00 a.m."
+          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 19 2:45 a.m."
         }
       ],
       "region_code": "South VI",
@@ -13540,7 +13530,7 @@
       "region_id": "2072041405"
     },
     "South VI": {
-      "customers_affected_14d": 73728,
+      "customers_affected_14d": 74463,
       "outages": [
         {
           "area": "North of CHURCH RD, West of STAUTW RD, East of TETAYUT RD, South of MT NEWTON XRD",
@@ -15691,6 +15681,16 @@
           "municipality": "Sooke",
           "municipality_code": "city-80069133",
           "start": "2020-10-11T23:54:00"
+        },
+        {
+          "area": "West of SOOKE RD, East of SEA LION WAY",
+          "cause": "Tree down across our wires",
+          "customers_affected": "735",
+          "end": "2020-10-19T02:00:00",
+          "last_updated": "2020-10-19T01:44:00",
+          "municipality": "Sooke",
+          "municipality_code": "day-1 day-3 city-80069133",
+          "start": "2020-10-18T17:47:00"
         },
         {
           "area": "North of WADAMS WAY, West of STEEPLE CHS, East of CEDARRIDGE DR, South of HELGESEN RD",
