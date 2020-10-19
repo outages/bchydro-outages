@@ -60,6 +60,23 @@
       ],
       "region_code": "South VI",
       "region_id": "1812901382"
+    },
+    "Thompson/Shuswap": {
+      "customers_affected_14d": 311,
+      "outages": [
+        {
+          "area": "East of CHRISTMAS ISLAN RD, South of POWERHOUSE RD, North of WESTERBURG RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Under investigation",
+          "customers_affected": "311",
+          "last_updated": "2020-10-19T05:07:00",
+          "municipality": "Revelstoke",
+          "municipality_code": "day-1 day-3 city-1039954398",
+          "start": "2020-10-19T04:53:00",
+          "status": "Crew status: Crew assigned"
+        }
+      ],
+      "region_code": "Thompson/Shuswap",
+      "region_id": "725364552"
     }
   },
   "planned": {
@@ -12775,7 +12792,7 @@
           "end": "2020-10-15T05:00:00",
           "last_updated": "2020-10-15T08:50:00",
           "municipality": "Vanderhoof",
-          "municipality_code": "day-3 city-1041981516",
+          "municipality_code": "city-1041981516",
           "start": "2020-10-14T23:22:00"
         },
         {
