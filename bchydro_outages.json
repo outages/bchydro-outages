@@ -1,18 +1,8 @@
 {
   "current": {
     "Lower Mainland": {
-      "customers_affected_14d": 18,
+      "customers_affected_14d": 7,
       "outages": [
-        {
-          "area": "2100 block PRIMROSE ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Transformer burn out",
-          "customers_affected": "11",
-          "last_updated": "2020-10-18T18:31:00",
-          "municipality": "Abbotsford",
-          "municipality_code": "day-1 day-3 city-1230363016",
-          "start": "2020-10-18T17:15:00",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 18 8:00 p.m."
-        },
         {
           "area": "4600 block VANGUARD RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Transformer burn out",
@@ -28,7 +18,7 @@
       "region_id": "521980323"
     },
     "South VI": {
-      "customers_affected_14d": 736,
+      "customers_affected_14d": 623,
       "outages": [
         {
           "area": "4700 block BADGER PL\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -41,10 +31,10 @@
           "status": "Crew status: Crew assigned"
         },
         {
-          "area": "West of SOOKE RD, East of SEA LION WAY\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "area": "South-West of SOOKE RD, East of SEA LION WAY\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Tree down across our wires",
-          "customers_affected": "735",
-          "last_updated": "2020-10-18T20:03:00",
+          "customers_affected": "622",
+          "last_updated": "2020-10-18T20:25:00",
           "municipality": "Sooke",
           "municipality_code": "day-1 day-3 city-80069133",
           "start": "2020-10-18T17:47:00",
@@ -3365,7 +3355,7 @@
       "region_id": "848340027"
     },
     "Lower Mainland": {
-      "customers_affected_14d": 145337,
+      "customers_affected_14d": 145348,
       "outages": [
         {
           "area": "North of MACLURE RD, East of MT LEHMAN RD, West of Hwy 11",
@@ -3576,6 +3566,16 @@
           "municipality": "Abbotsford",
           "municipality_code": "city-1230363016",
           "start": "2020-10-10T14:34:00"
+        },
+        {
+          "area": "2100 block PRIMROSE ST",
+          "cause": "Transformer burn out",
+          "customers_affected": "11",
+          "end": "2020-10-18T20:00:00",
+          "last_updated": "2020-10-18T20:16:00",
+          "municipality": "Abbotsford",
+          "municipality_code": "day-1 day-3 city-1230363016",
+          "start": "2020-10-18T17:15:00"
         },
         {
           "area": "31500 block SUNNYSIDE CRES",
@@ -6574,7 +6574,7 @@
           "end": "2020-10-16T20:00:00",
           "last_updated": "2020-10-16T20:48:00",
           "municipality": "Maple Ridge",
-          "municipality_code": "day-1 day-3 city-598891104",
+          "municipality_code": "day-3 city-598891104",
           "start": "2020-10-16T07:38:00"
         },
         {
@@ -8794,7 +8794,7 @@
           "end": "2020-10-14T21:23:00",
           "last_updated": "2020-10-15T09:49:00",
           "municipality": "Surrey",
-          "municipality_code": "day-3 city--1807186826",
+          "municipality_code": "city--1807186826",
           "start": "2020-10-14T18:33:00"
         },
         {
