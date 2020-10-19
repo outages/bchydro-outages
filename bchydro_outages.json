@@ -17,6 +17,23 @@
       "region_code": "Lower Mainland",
       "region_id": "521980323"
     },
+    "Northern": {
+      "customers_affected_14d": 6,
+      "outages": [
+        {
+          "area": "North-East-West of HWY 16\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Under investigation",
+          "customers_affected": "6",
+          "last_updated": "2020-10-19T04:02:00",
+          "municipality": "Vanderhoof",
+          "municipality_code": "day-1 day-3 city-1041981516",
+          "start": "2020-10-19T03:56:00",
+          "status": "Crew status: Crew assigned"
+        }
+      ],
+      "region_code": "Northern",
+      "region_id": "1602964060"
+    },
     "South VI": {
       "customers_affected_14d": 1672,
       "outages": [
@@ -24,11 +41,11 @@
           "area": "East of HAPPY VALLEY RD, South of LANGFORD PKY, North of WENDEY DR, West of VETERANS MEMORIAL PKY\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Motor vehicle accident",
           "customers_affected": "1671",
-          "last_updated": "2020-10-19T03:45:00",
+          "last_updated": "2020-10-19T03:55:00",
           "municipality": "Colwood, Langford",
           "municipality_code": "day-1 day-3 city--1680531443 city--1549378615",
           "start": "2020-10-19T01:37:00",
-          "status": "Crew status: Crew assigned"
+          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 19 4:55 a.m."
         },
         {
           "area": "4700 block BADGER PL\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -3689,10 +3706,10 @@
         },
         {
           "area": "7500 block LEFEUVRE RD",
-          "cause": "Wire down",
+          "cause": "Tree down across our wires",
           "customers_affected": "< 5",
           "end": "2020-10-19T04:00:00",
-          "last_updated": "2020-10-19T03:21:00",
+          "last_updated": "2020-10-19T03:59:00",
           "municipality": "Abbotsford",
           "municipality_code": "day-1 day-3 city-1230363016",
           "start": "2020-10-19T00:07:00"
@@ -16799,7 +16816,7 @@
           "end": "2020-10-15T04:30:00",
           "last_updated": "2020-10-15T08:03:00",
           "municipality": "Enderby, Spallumcheen",
-          "municipality_code": "day-3 city-57924863 city-2134222637",
+          "municipality_code": "city-57924863 city-2134222637",
           "start": "2020-10-15T00:51:00"
         },
         {
