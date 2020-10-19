@@ -28,7 +28,7 @@
       "region_id": "848340027"
     },
     "Lower Mainland": {
-      "customers_affected_14d": 473,
+      "customers_affected_14d": 474,
       "outages": [
         {
           "area": "East of LOOK OUT PT, West of MARINE AVE, North of BELCARRA BAY RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -79,6 +79,16 @@
           "municipality_code": "day-1 day-3 city-1612593490",
           "start": "2020-10-19T09:53:00",
           "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 19 12:00 p.m."
+        },
+        {
+          "area": "9800 block 216 ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Work being done on our equipment",
+          "customers_affected": "< 5",
+          "last_updated": "2020-10-19T11:31:00",
+          "municipality": "Langley",
+          "municipality_code": "day-1 day-3 city-1612593490",
+          "start": "2020-10-19T09:35:00",
+          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 19 12:30 p.m."
         },
         {
           "area": "2600 block 224 ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -169,7 +179,7 @@
       "region_id": "2072041405"
     },
     "South VI": {
-      "customers_affected_14d": 350,
+      "customers_affected_14d": 257,
       "outages": [
         {
           "area": "7400 block E SAANICH RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -185,11 +195,11 @@
           "area": "North of OLD W SAANICH RD, East of SAANICH RD, South of MCHATTIE RD, West of BRYN RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Tree down across our wires",
           "customers_affected": "53",
-          "last_updated": "2020-10-19T11:17:00",
+          "last_updated": "2020-10-19T11:32:00",
           "municipality": "Central Saanich, Saanich",
           "municipality_code": "day-1 day-3 city--769735224 city--776615533",
           "start": "2020-10-19T10:58:00",
-          "status": "Crew status: Crew assigned"
+          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 19 12:35 p.m."
         },
         {
           "area": "0 block HIGHBANK RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -230,16 +240,6 @@
           "municipality_code": "day-1 day-3 city--1549378615",
           "start": "2020-10-19T10:04:00",
           "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 19 3:00 p.m."
-        },
-        {
-          "area": "East of SOOKE RD, West of HAPPY VALLEY RD, South of PROPOSED ROAD A , North of LINDHOLM RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Tree down across our wires",
-          "customers_affected": "93",
-          "last_updated": "2020-10-19T11:08:00",
-          "municipality": "Metchosin",
-          "municipality_code": "day-1 day-3 city-1000109226",
-          "start": "2020-10-19T07:25:00",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 19 11:30 a.m."
         },
         {
           "area": "4700 block BADGER PL\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -286,8 +286,18 @@
       "region_id": "1812901382"
     },
     "Thompson/Shuswap": {
-      "customers_affected_14d": 276,
+      "customers_affected_14d": 282,
       "outages": [
+        {
+          "area": "South-West of HWY 5 , East of AVOLA VILLAGE RD, North of BRAZIER RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Planned work being done on our equipment",
+          "customers_affected": "6",
+          "last_updated": "2020-10-19T11:38:00",
+          "municipality": "Clearwater",
+          "municipality_code": "day-1 day-3 city-1282265866",
+          "start": "2020-10-19T11:36:00",
+          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 19 5:00 p.m."
+        },
         {
           "area": "North-East of HWY 23\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
@@ -6490,7 +6500,7 @@
           "cause": "Bird contacting our wires",
           "customers_affected": "< 5",
           "end": "2020-10-17T12:00:00",
-          "last_updated": "2020-10-17T13:21:00",
+          "last_updated": "2020-10-19T11:40:00",
           "municipality": "Langley",
           "municipality_code": "day-1 day-3 city-1612593490",
           "start": "2020-10-17T10:23:00"
@@ -8980,7 +8990,7 @@
           "cause": "Equipment failure",
           "customers_affected": "< 5",
           "end": "2020-10-17T20:30:00",
-          "last_updated": "2020-10-17T20:28:00",
+          "last_updated": "2020-10-19T11:41:00",
           "municipality": "Surrey",
           "municipality_code": "day-1 day-3 city--1807186826",
           "start": "2020-10-17T14:40:00"
@@ -9632,7 +9642,7 @@
           "end": "2020-10-17T11:30:00",
           "last_updated": "2020-10-17T13:00:00",
           "municipality": "White Rock",
-          "municipality_code": "day-1 day-3 city--2102123204",
+          "municipality_code": "day-3 city--2102123204",
           "start": "2020-10-17T10:34:00"
         }
       ],
@@ -13961,7 +13971,7 @@
       "region_id": "2072041405"
     },
     "South VI": {
-      "customers_affected_14d": 78130,
+      "customers_affected_14d": 78223,
       "outages": [
         {
           "area": "North of CHURCH RD, West of STAUTW RD, East of TETAYUT RD, South of MT NEWTON XRD",
@@ -15282,6 +15292,16 @@
           "municipality": "Mayne Island, Saturna Island",
           "municipality_code": "city-48997657 city-501274559",
           "start": "2020-10-13T16:24:00"
+        },
+        {
+          "area": "East of SOOKE RD, West of HAPPY VALLEY RD, South of PROPOSED ROAD A , North of LINDHOLM RD",
+          "cause": "Tree down across our wires",
+          "customers_affected": "93",
+          "end": "2020-10-19T11:30:00",
+          "last_updated": "2020-10-19T11:35:00",
+          "municipality": "Metchosin",
+          "municipality_code": "day-1 day-3 city-1000109226",
+          "start": "2020-10-19T07:25:00"
         },
         {
           "area": "4700 block SOOKE RD",
