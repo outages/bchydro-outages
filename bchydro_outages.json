@@ -18,7 +18,7 @@
       "region_id": "848340027"
     },
     "Lower Mainland": {
-      "customers_affected_14d": 225,
+      "customers_affected_14d": 213,
       "outages": [
         {
           "area": "25900 block 48 AVE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -44,11 +44,11 @@
           "area": "East of NELSON ST, North of SILVERDALE AVE, West of TURNER ST, South of MCFALL TCE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Motor vehicle accident",
           "customers_affected": "17",
-          "last_updated": "2020-10-19T16:20:00",
+          "last_updated": "2020-10-19T16:22:00",
           "municipality": "Mission",
           "municipality_code": "day-1 day-3 city--1560864404",
           "start": "2020-10-19T14:32:00",
-          "status": "Crew status: Crew assigned"
+          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 19 5:25 p.m."
         },
         {
           "area": "5700 block SUNSHINE FALLS LANE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -71,26 +71,6 @@
           "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 19 5:05 p.m."
         },
         {
-          "area": "15100 block 92A AVE, 9200 - 9300 block 151 ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Planned work being done on our equipment",
-          "customers_affected": "11",
-          "last_updated": "2020-10-19T15:10:00",
-          "municipality": "Surrey",
-          "municipality_code": "day-1 day-3 city--1807186826",
-          "start": "2020-10-19T09:57:00",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 19 5:00 p.m."
-        },
-        {
-          "area": "3700 block 168 ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Under investigation",
-          "customers_affected": "< 5",
-          "last_updated": "2020-10-19T15:39:00",
-          "municipality": "Surrey",
-          "municipality_code": "day-1 day-3 city--1807186826",
-          "start": "2020-10-19T15:06:00",
-          "status": "Crew status: Crew on-site"
-        },
-        {
           "area": "North of 52ND AVE, South of 48TH AVE, West of COLUMBIA ST, East of CAMBIE ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Planned work being done on our equipment",
           "customers_affected": "187",
@@ -103,6 +83,23 @@
       ],
       "region_code": "Lower Mainland",
       "region_id": "521980323"
+    },
+    "North VI": {
+      "customers_affected_14d": -1,
+      "outages": [
+        {
+          "area": "2500 block PARKER WAY\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Tree down across our wires",
+          "customers_affected": "< 5",
+          "last_updated": "2020-10-19T16:26:00",
+          "municipality": "Qualicum Beach",
+          "municipality_code": "day-1 day-3 city--154309756",
+          "start": "2020-10-19T16:10:00",
+          "status": "Crew status: Crew assigned"
+        }
+      ],
+      "region_code": "North VI",
+      "region_id": "1602896846"
     },
     "Northern": {
       "customers_affected_14d": -1,
@@ -133,16 +130,6 @@
           "municipality_code": "day-1 day-3 city--1969008230",
           "start": "2020-10-19T12:03:00",
           "status": "Crew status: Crew on-site"
-        },
-        {
-          "area": "3200 block 35 AVE, 3300 block 35TH AVE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Under investigation",
-          "customers_affected": "< 5",
-          "last_updated": "2020-10-19T16:20:00",
-          "municipality": "Vernon",
-          "municipality_code": "day-1 day-3 city--1736079254",
-          "start": "2020-10-19T15:23:00",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 19 4:25 p.m."
         }
       ],
       "region_code": "Okanagan/Kootenay",
@@ -215,7 +202,7 @@
       "region_id": "848340027"
     },
     "Lower Mainland": {
-      "customers_affected_14d": 7935,
+      "customers_affected_14d": 7932,
       "outages": [
         {
           "area": "1944, 1954, 1966, 1976 Albion St; 32666-32749 Cordova Ave; 325, 32760 Marshall Rd, 32414-32750 Pandora Ave; 1911-1944 Valencia Crt, Abbotsford",
@@ -706,36 +693,6 @@
           "municipality": "Delta",
           "municipality_code": "day-1 day-3 city-65915800",
           "start": "2020-10-27T10:00:00"
-        },
-        {
-          "area": "** Re scheduled from Sep 26th to Oct 17th**628 Derwent way Delta (P03)",
-          "cause": "Planned work being done on our equipment",
-          "customers_affected": "< 5",
-          "end": "2020-10-17T16:30:00",
-          "last_updated": "2020-09-23T12:56:00",
-          "municipality": "Delta",
-          "municipality_code": "day-1 day-3 city-65915800",
-          "start": "2020-10-17T08:30:00"
-        },
-        {
-          "area": "**Re scheduled  Oct 17th from Sep 26th**634 Derwent Way Delta (P01)",
-          "cause": "Pole replacement",
-          "customers_affected": "< 5",
-          "end": "2020-10-17T16:30:00",
-          "last_updated": "2020-09-23T13:09:00",
-          "municipality": "Delta",
-          "municipality_code": "day-1 day-3 city-65915800",
-          "start": "2020-10-17T08:30:00"
-        },
-        {
-          "area": "*Rescheduled from September 26, 2020*610 Derwent Way",
-          "cause": "Pole replacement",
-          "customers_affected": "< 5",
-          "end": "2020-10-17T16:30:00",
-          "last_updated": "2020-09-28T12:37:00",
-          "municipality": "Delta",
-          "municipality_code": "day-1 day-3 city-65915800",
-          "start": "2020-10-17T08:30:00"
         },
         {
           "area": "14651,14661,14671,14680,14690,14691\r\n14701,14721,14731,14741,14751,14761\r\nAlpine Blv., Hope",
@@ -3736,7 +3693,7 @@
       "region_id": "848340027"
     },
     "Lower Mainland": {
-      "customers_affected_14d": 146101,
+      "customers_affected_14d": 146113,
       "outages": [
         {
           "area": "North of MACLURE RD, East of MT LEHMAN RD, West of Hwy 11",
@@ -4665,7 +4622,7 @@
           "end": "",
           "last_updated": "2020-10-16T07:36:00",
           "municipality": "Burnaby",
-          "municipality_code": "day-3 city-1903966249",
+          "municipality_code": "city-1903966249",
           "start": "2020-10-15T11:13:00"
         },
         {
@@ -7955,7 +7912,7 @@
           "end": "2020-10-15T17:30:00",
           "last_updated": "2020-10-15T16:26:00",
           "municipality": "Pitt Meadows",
-          "municipality_code": "day-3 city--253788407",
+          "municipality_code": "city--253788407",
           "start": "2020-10-15T08:35:00"
         },
         {
@@ -8999,6 +8956,16 @@
           "start": "2020-10-13T08:50:00"
         },
         {
+          "area": "15100 block 92A AVE, 9200 - 9300 block 151 ST",
+          "cause": "Planned work being done on our equipment",
+          "customers_affected": "11",
+          "end": "2020-10-19T17:00:00",
+          "last_updated": "2020-10-19T16:23:00",
+          "municipality": "Surrey",
+          "municipality_code": "day-1 day-3 city--1807186826",
+          "start": "2020-10-19T09:57:00"
+        },
+        {
           "area": "West of KING GEORGE BLV, East of ELGIN RD, South of NICOMEKL RD, North of CRESCENT RD",
           "cause": "Planned work being done on our equipment",
           "customers_affected": "11",
@@ -9217,6 +9184,16 @@
           "municipality": "Surrey",
           "municipality_code": "day-1 day-3 city--1807186826",
           "start": "2020-10-18T07:51:00"
+        },
+        {
+          "area": "3700 block 168 ST",
+          "cause": "Equipment failure",
+          "customers_affected": "< 5",
+          "end": "",
+          "last_updated": "2020-10-19T16:27:00",
+          "municipality": "Surrey",
+          "municipality_code": "day-1 day-3 city--1807186826",
+          "start": "2020-10-19T15:06:00"
         },
         {
           "area": "100 block 184 ST",
@@ -13567,7 +13544,7 @@
       "region_id": "1602964060"
     },
     "Okanagan/Kootenay": {
-      "customers_affected_14d": 14191,
+      "customers_affected_14d": 14193,
       "outages": [
         {
           "area": "South of LEARMOUTH RD, West of COACHWOOD CRS, East of BREWER RD",
@@ -14068,6 +14045,16 @@
           "municipality": "Vernon",
           "municipality_code": "day-1 day-3 city--1736079254",
           "start": "2020-10-18T16:55:00"
+        },
+        {
+          "area": "3200 block 35 AVE, 3300 block 35TH AVE",
+          "cause": "Other",
+          "customers_affected": "< 5",
+          "end": "2020-10-19T16:21:00",
+          "last_updated": "2020-10-19T16:24:00",
+          "municipality": "Vernon",
+          "municipality_code": "day-1 day-3 city--1736079254",
+          "start": "2020-10-19T15:23:00"
         },
         {
           "area": "100 - 5700 block HWY 97",
