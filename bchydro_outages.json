@@ -1,27 +1,17 @@
 {
   "current": {
     "Lower Mainland": {
-      "customers_affected_14d": 12,
+      "customers_affected_14d": 11,
       "outages": [
         {
           "area": "2100 block PRIMROSE ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Under investigation",
+          "cause": "Transformer burn out",
           "customers_affected": "11",
-          "last_updated": "2020-10-18T17:20:00",
+          "last_updated": "2020-10-18T18:08:00",
           "municipality": "Abbotsford",
           "municipality_code": "day-1 day-3 city-1230363016",
           "start": "2020-10-18T17:15:00",
-          "status": "Crew status: No crew assigned yet"
-        },
-        {
-          "area": "3100 block BEACH AVE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Under investigation",
-          "customers_affected": "< 5",
-          "last_updated": "2020-10-18T17:08:00",
-          "municipality": "Sechelt",
-          "municipality_code": "day-1 day-3 city--660434186",
-          "start": "2020-10-18T15:38:00",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 18 5:50 p.m."
+          "status": "Crew status: Crew on-site"
         }
       ],
       "region_code": "Lower Mainland",
@@ -34,15 +24,42 @@
           "area": "3200 block 35 AVE, 3300 block 35TH AVE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-18T17:08:00",
+          "last_updated": "2020-10-18T17:41:00",
           "municipality": "Vernon",
           "municipality_code": "day-1 day-3 city--1736079254",
           "start": "2020-10-18T16:55:00",
-          "status": "Crew status: Crew assigned"
+          "status": "Crew status: Crew assigned\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 18 5:35 p.m."
         }
       ],
       "region_code": "Okanagan/Kootenay",
       "region_id": "2072041405"
+    },
+    "South VI": {
+      "customers_affected_14d": 736,
+      "outages": [
+        {
+          "area": "4700 block BADGER PL\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Under investigation",
+          "customers_affected": "< 5",
+          "last_updated": "2020-10-18T18:00:00",
+          "municipality": "Metchosin",
+          "municipality_code": "day-1 day-3 city-1000109226",
+          "start": "2020-10-18T17:42:00",
+          "status": "Crew status: Crew assigned"
+        },
+        {
+          "area": "West of SOOKE RD, East of SEA LION WAY\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Tree down across our wires",
+          "customers_affected": "735",
+          "last_updated": "2020-10-18T18:13:00",
+          "municipality": "Sooke",
+          "municipality_code": "day-1 day-3 city-80069133",
+          "start": "2020-10-18T17:47:00",
+          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 18 6:45 p.m."
+        }
+      ],
+      "region_code": "South VI",
+      "region_id": "1812901382"
     }
   },
   "planned": {
@@ -74,7 +91,7 @@
       "region_id": "848340027"
     },
     "Lower Mainland": {
-      "customers_affected_14d": 8557,
+      "customers_affected_14d": 8356,
       "outages": [
         {
           "area": "1944, 1954, 1966, 1976 Albion St; 32666-32749 Cordova Ave; 325, 32760 Marshall Rd, 32414-32750 Pandora Ave; 1911-1944 Valencia Crt, Abbotsford",
@@ -165,16 +182,6 @@
           "municipality": "Burnaby",
           "municipality_code": "day-1 day-3 city-1903966249",
           "start": "2020-10-29T09:00:00"
-        },
-        {
-          "area": "* Cancelled / Rescheduled Thurs, Oct 29 *6425 Silver Ave, Burnaby",
-          "cause": "Planned work being done on our equipment",
-          "customers_affected": "49",
-          "end": "2020-10-16T18:00:00",
-          "last_updated": "2020-10-16T10:09:00",
-          "municipality": "Burnaby",
-          "municipality_code": "day-1 day-3 city-1903966249",
-          "start": "2020-10-16T09:00:00"
         },
         {
           "area": "2999,3001,3001,3003,3005,3007,3009\r\n3010,3011,3012,3013,3014,3015,3016\r\n3017,3018,3019,3020,3021,3023,3025\r\n3027,3029,3031,3033,3035 Aries PL\r\nBurnaby",
@@ -545,16 +552,6 @@
           "municipality": "Delta",
           "municipality_code": "day-1 day-3 city-65915800",
           "start": "2020-10-23T09:00:00"
-        },
-        {
-          "area": "**CANCELLED**1455 Cliveden Ave",
-          "cause": "Planned work being done on our equipment",
-          "customers_affected": "< 5",
-          "end": "2020-10-16T18:00:00",
-          "last_updated": "2020-10-14T12:21:00",
-          "municipality": "Delta",
-          "municipality_code": "day-1 day-3 city-65915800",
-          "start": "2020-10-16T10:00:00"
         },
         {
           "area": "** Re scheduled from Sep 26th to Oct 17th**628 Derwent way Delta (P03)",
@@ -1055,16 +1052,6 @@
           "municipality": "Surrey",
           "municipality_code": "day-1 day-3 city--1807186826",
           "start": "2020-10-28T08:00:00"
-        },
-        {
-          "area": "CANCELLED - Rescheduled to Oct 28, 2020 **Emergent**13710, 13714, 13718, 13722, 13726, 13730, 13734, 13738, 13742, 13746, 13750, 13758, 13762, 13766, 13770, 13774, 13775, 13778, 13782 74 Ave., Surrey",
-          "cause": "Planned work being done on our equipment",
-          "customers_affected": "150",
-          "end": "2020-10-16T18:00:00",
-          "last_updated": "2020-10-13T09:28:00",
-          "municipality": "Surrey",
-          "municipality_code": "day-1 day-3 city--1807186826",
-          "start": "2020-10-16T08:00:00"
         },
         {
           "area": "**Rescheduled from September 30, 2020**15310, 15323, 15336 17A Ave. Surrey",
@@ -3405,7 +3392,7 @@
       "region_id": "848340027"
     },
     "Lower Mainland": {
-      "customers_affected_14d": 145336,
+      "customers_affected_14d": 145337,
       "outages": [
         {
           "area": "North of MACLURE RD, East of MT LEHMAN RD, West of Hwy 11",
@@ -4664,7 +4651,7 @@
           "end": "",
           "last_updated": "2020-10-14T18:59:00",
           "municipality": "Chilliwack",
-          "municipality_code": "day-3 city--708005353",
+          "municipality_code": "city--708005353",
           "start": "2020-10-14T14:39:00"
         },
         {
@@ -5644,7 +5631,7 @@
           "end": "2020-10-14T19:00:00",
           "last_updated": "2020-10-14T17:45:00",
           "municipality": "Kent",
-          "municipality_code": "day-3 city-2334912",
+          "municipality_code": "city-2334912",
           "start": "2020-10-13T14:39:00"
         },
         {
@@ -6214,7 +6201,7 @@
           "end": "2020-10-14T18:23:00",
           "last_updated": "2020-10-15T09:48:00",
           "municipality": "Langley",
-          "municipality_code": "day-3 city-1612593490",
+          "municipality_code": "city-1612593490",
           "start": "2020-10-14T14:34:00"
         },
         {
@@ -7414,7 +7401,7 @@
           "end": "2020-10-16T18:30:00",
           "last_updated": "2020-10-16T17:27:00",
           "municipality": "Pemberton",
-          "municipality_code": "day-1 day-3 city--2076154532",
+          "municipality_code": "day-3 city--2076154532",
           "start": "2020-10-16T07:57:00"
         },
         {
@@ -8044,7 +8031,7 @@
           "end": "2020-10-16T18:00:00",
           "last_updated": "2020-10-16T19:16:00",
           "municipality": "Sechelt",
-          "municipality_code": "day-1 day-3 city--660434186",
+          "municipality_code": "day-3 city--660434186",
           "start": "2020-10-16T11:57:00"
         },
         {
@@ -8136,6 +8123,16 @@
           "municipality": "Sechelt",
           "municipality_code": "city--660434186",
           "start": "2020-10-11T16:18:00"
+        },
+        {
+          "area": "3100 block BEACH AVE",
+          "cause": "Other",
+          "customers_affected": "< 5",
+          "end": "2020-10-18T17:50:00",
+          "last_updated": "2020-10-18T17:42:00",
+          "municipality": "Sechelt",
+          "municipality_code": "day-1 day-3 city--660434186",
+          "start": "2020-10-18T15:38:00"
         },
         {
           "area": "11600 block GULFVIEW RD",
@@ -8334,7 +8331,7 @@
           "end": "2020-10-14T18:30:00",
           "last_updated": "2020-10-15T09:47:00",
           "municipality": "Surrey",
-          "municipality_code": "day-3 city--1807186826",
+          "municipality_code": "city--1807186826",
           "start": "2020-10-14T12:03:00"
         },
         {
@@ -11581,7 +11578,7 @@
           "end": "2020-10-14T19:00:00",
           "last_updated": "2020-10-15T12:26:00",
           "municipality": "Qualicum Beach",
-          "municipality_code": "day-3 city--154309756",
+          "municipality_code": "city--154309756",
           "start": "2020-10-14T12:28:00"
         },
         {
@@ -11591,7 +11588,7 @@
           "end": "2020-10-14T17:45:00",
           "last_updated": "2020-10-15T09:29:00",
           "municipality": "Qualicum Beach",
-          "municipality_code": "day-3 city--154309756",
+          "municipality_code": "city--154309756",
           "start": "2020-10-13T18:18:00"
         },
         {
@@ -11711,7 +11708,7 @@
           "end": "",
           "last_updated": "2020-10-14T18:14:00",
           "municipality": "Qualicum Beach",
-          "municipality_code": "day-3 city--154309756",
+          "municipality_code": "city--154309756",
           "start": "2020-10-14T16:01:00"
         },
         {
@@ -11948,7 +11945,7 @@
           "end": "2020-10-16T17:00:00",
           "last_updated": "2020-10-16T19:45:00",
           "municipality": "Burns Lake",
-          "municipality_code": "day-1 day-3 city--2121425941",
+          "municipality_code": "day-3 city--2121425941",
           "start": "2020-10-16T11:51:00"
         },
         {
@@ -12098,7 +12095,7 @@
           "end": "",
           "last_updated": "2020-10-15T06:39:00",
           "municipality": "Chetwynd",
-          "municipality_code": "day-3 city-1617615372",
+          "municipality_code": "city-1617615372",
           "start": "2020-10-14T12:57:00"
         },
         {
@@ -12298,7 +12295,7 @@
           "end": "",
           "last_updated": "2020-10-16T17:36:00",
           "municipality": "Dawson Creek",
-          "municipality_code": "day-1 day-3 city--1630954860",
+          "municipality_code": "day-3 city--1630954860",
           "start": "2020-10-16T15:51:00"
         },
         {
@@ -12868,7 +12865,7 @@
           "end": "2020-10-14T18:25:00",
           "last_updated": "2020-10-14T18:20:00",
           "municipality": "Smithers",
-          "municipality_code": "day-3 city--305588573",
+          "municipality_code": "city--305588573",
           "start": "2020-10-14T17:16:00"
         },
         {
@@ -14112,7 +14109,7 @@
           "end": "2020-10-14T18:00:00",
           "last_updated": "2020-10-15T09:36:00",
           "municipality": "Duncan",
-          "municipality_code": "day-3 city-2058209491",
+          "municipality_code": "city-2058209491",
           "start": "2020-10-13T10:46:00"
         },
         {
@@ -14902,7 +14899,7 @@
           "end": "2020-10-14T19:00:00",
           "last_updated": "2020-10-15T16:17:00",
           "municipality": "Ganges",
-          "municipality_code": "day-3 city-2125630497",
+          "municipality_code": "city-2125630497",
           "start": "2020-10-13T13:19:00"
         },
         {
@@ -17579,7 +17576,7 @@
           "end": "",
           "last_updated": "2020-10-16T09:58:00",
           "municipality": "Merritt",
-          "municipality_code": "day-3 city--1676334159",
+          "municipality_code": "city--1676334159",
           "start": "2020-10-14T16:47:00"
         },
         {
@@ -17849,7 +17846,7 @@
           "end": "2020-10-16T18:00:00",
           "last_updated": "2020-10-16T17:57:00",
           "municipality": "Valemount",
-          "municipality_code": "day-1 day-3 city-788397333",
+          "municipality_code": "day-3 city-788397333",
           "start": "2020-10-16T15:38:00"
         }
       ],
