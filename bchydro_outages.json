@@ -34,11 +34,11 @@
           "area": "West of SOOKE RD, East of SEA LION WAY\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Tree down across our wires",
           "customers_affected": "735",
-          "last_updated": "2020-10-18T18:13:00",
+          "last_updated": "2020-10-18T18:58:00",
           "municipality": "Sooke",
           "municipality_code": "day-1 day-3 city-80069133",
           "start": "2020-10-18T17:47:00",
-          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 18 6:45 p.m."
+          "status": "Crew status: Crew on-site"
         }
       ],
       "region_code": "South VI",
@@ -74,7 +74,7 @@
       "region_id": "848340027"
     },
     "Lower Mainland": {
-      "customers_affected_14d": 7900,
+      "customers_affected_14d": 7867,
       "outages": [
         {
           "area": "1944, 1954, 1966, 1976 Albion St; 32666-32749 Cordova Ave; 325, 32760 Marshall Rd, 32414-32750 Pandora Ave; 1911-1944 Valencia Crt, Abbotsford",
@@ -1195,16 +1195,6 @@
           "municipality": "Vancouver",
           "municipality_code": "day-1 day-3 city--1786794435",
           "start": "2020-10-23T08:00:00"
-        },
-        {
-          "area": "2425 Cypress St, Vancouver",
-          "cause": "Planned work being done on our equipment",
-          "customers_affected": "33",
-          "end": "2020-10-16T19:00:00",
-          "last_updated": "2020-10-07T08:31:00",
-          "municipality": "Vancouver",
-          "municipality_code": "day-1 day-3 city--1786794435",
-          "start": "2020-10-16T09:00:00"
         },
         {
           "area": "***CANCELLED**3136 Kingsway, Vancouver (Hse, 101-114, 201-214)",
@@ -3127,7 +3117,7 @@
           "end": "2020-10-14T20:30:00",
           "last_updated": "2020-10-14T19:06:00",
           "municipality": "Quesnel",
-          "municipality_code": "day-3 city--1975191965",
+          "municipality_code": "city--1975191965",
           "start": "2020-10-14T16:26:00"
         },
         {
@@ -4404,7 +4394,7 @@
           "end": "2020-10-14T19:00:00",
           "last_updated": "2020-10-14T19:16:00",
           "municipality": "Chilliwack",
-          "municipality_code": "day-3 city--708005353",
+          "municipality_code": "city--708005353",
           "start": "2020-10-13T11:12:00"
         },
         {
@@ -4654,7 +4644,7 @@
           "end": "2020-10-14T18:00:00",
           "last_updated": "2020-10-14T18:55:00",
           "municipality": "Chilliwack",
-          "municipality_code": "day-3 city--708005353",
+          "municipality_code": "city--708005353",
           "start": "2020-10-13T12:51:00"
         },
         {
@@ -9571,7 +9561,7 @@
           "end": "2020-10-14T19:30:00",
           "last_updated": "2020-10-15T11:51:00",
           "municipality": "Campbell River, Courtenay",
-          "municipality_code": "day-3 city-1240464880 city--824228212",
+          "municipality_code": "city-1240464880 city--824228212",
           "start": "2020-10-14T17:02:00"
         },
         {
@@ -14182,7 +14172,7 @@
           "end": "2020-10-14T19:30:00",
           "last_updated": "2020-10-15T14:33:00",
           "municipality": "Duncan",
-          "municipality_code": "day-3 city-2058209491",
+          "municipality_code": "city-2058209491",
           "start": "2020-10-14T16:17:00"
         },
         {
@@ -16002,7 +15992,7 @@
           "end": "",
           "last_updated": "2020-10-16T19:54:00",
           "municipality": "Sooke",
-          "municipality_code": "day-1 day-3 city-80069133",
+          "municipality_code": "day-3 city-80069133",
           "start": "2020-10-16T15:33:00"
         },
         {
@@ -17319,7 +17309,7 @@
           "end": "2020-10-14T16:49:00",
           "last_updated": "2020-10-14T18:55:00",
           "municipality": "Kamloops",
-          "municipality_code": "day-3 city-979034872",
+          "municipality_code": "city-979034872",
           "start": "2020-10-14T13:09:00"
         },
         {
