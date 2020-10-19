@@ -17,7 +17,7 @@
           "area": "12600 block LUND RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-19T08:24:00",
+          "last_updated": "2020-10-19T08:53:00",
           "municipality": "Prince George",
           "municipality_code": "day-1 day-3 city-1835674262",
           "start": "2020-10-19T08:21:00",
@@ -28,8 +28,28 @@
       "region_id": "848340027"
     },
     "Lower Mainland": {
-      "customers_affected_14d": 225,
+      "customers_affected_14d": 247,
       "outages": [
+        {
+          "area": "25900 - 26100 block 48 AVE, 26000 block 48TH AVE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Wire down",
+          "customers_affected": "13",
+          "last_updated": "2020-10-19T08:53:00",
+          "municipality": "Langley",
+          "municipality_code": "day-1 day-3 city-1612593490",
+          "start": "2020-10-19T08:11:00",
+          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 19 9:30 a.m."
+        },
+        {
+          "area": "4600 block 203 ST, 4600 block 203A ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Planned work being done on our equipment",
+          "customers_affected": "9",
+          "last_updated": "2020-10-19T09:05:00",
+          "municipality": "Langley",
+          "municipality_code": "day-1 day-3 city-1612593490",
+          "start": "2020-10-19T09:04:00",
+          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 19 2:00 p.m."
+        },
         {
           "area": "West of DEWDNEY TRUNK RD, East of HAYWARD ST, North of SILVERHILL AVE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Motor vehicle accident",
@@ -57,6 +77,16 @@
     "Northern": {
       "customers_affected_14d": -1,
       "outages": [
+        {
+          "area": "14900 block 217 RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Under investigation",
+          "customers_affected": "< 5",
+          "last_updated": "2020-10-19T09:01:00",
+          "municipality": "Dawson Creek",
+          "municipality_code": "day-1 day-3 city--1630954860",
+          "start": "2020-10-19T08:57:00",
+          "status": "Crew status: No crew assigned yet"
+        },
         {
           "area": "14200 block BRAESIDE RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
@@ -95,11 +125,11 @@
           "area": "South of FIREHALL CREEK RD, East of HAPPY VALLEY RD, West of road a RD, North of ACADIAN RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "71",
-          "last_updated": "2020-10-19T08:46:00",
+          "last_updated": "2020-10-19T08:55:00",
           "municipality": "Langford",
           "municipality_code": "day-1 day-3 city--1549378615",
           "start": "2020-10-19T08:25:00",
-          "status": "Crew status: No crew assigned yet\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 19 9:35 a.m."
+          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 19 9:30 a.m."
         },
         {
           "area": "East of SOOKE RD, West of HAPPY VALLEY RD, South of PROPOSED ROAD A , North of LINDHOLM RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -136,7 +166,7 @@
       "region_id": "1812901382"
     },
     "Thompson/Shuswap": {
-      "customers_affected_14d": 565,
+      "customers_affected_14d": 590,
       "outages": [
         {
           "area": "East of CHRISTMAS ISLAN RD, South of POWERHOUSE RD, North of WESTERBURG RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -157,6 +187,16 @@
           "municipality_code": "day-1 day-3 city-1039954398",
           "start": "2020-10-19T06:39:00",
           "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 19 9:30 a.m."
+        },
+        {
+          "area": "South of Trans Can , North of 4TH ST, West of Trans Can HWY, East of HWY 23\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Under investigation",
+          "customers_affected": "25",
+          "last_updated": "2020-10-19T08:59:00",
+          "municipality": "Revelstoke",
+          "municipality_code": "day-1 day-3 city-1039954398",
+          "start": "2020-10-19T08:27:00",
+          "status": "Crew status: Crew on-site"
         },
         {
           "area": "1700 block BELL ST, 1600 block MILL ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -1813,8 +1853,18 @@
       "region_id": "1602964060"
     },
     "Okanagan/Kootenay": {
-      "customers_affected_14d": 2350,
+      "customers_affected_14d": 2689,
       "outages": [
+        {
+          "area": "* Outage to occur MDT *417, 441, 436 304th Ave, 818 30th Ave, 901-940 Ben Keer Dr, 2-11 Purcell Clo, 1, 5 Turner Clo, 590, 595, 695 305th Ave; 320-896 305th St, 605-898 306th St; 536-700 306th Ave; 545-812 308th St, 410-840 308th Ave,543-833 309th Ave, 761-840 309th St, Marysville",
+          "cause": "Pole replacement",
+          "customers_affected": "339",
+          "end": "2020-10-27T11:00:00",
+          "last_updated": "2020-10-19T09:01:00",
+          "municipality": "Cranbrook",
+          "municipality_code": "day-1 day-3 city--591720257",
+          "start": "2020-10-27T10:00:00"
+        },
         {
           "area": "EMERGENT / OUTAGE HOURS ARE MDTCranbrook Airport; 9370 - 992 Airport Access Rd; 9398 - 9698 Clearview Rd; 9663 - 9765 Ermacora Rd; 3391 - 3473 Foster Rd; Hwy 95A; 2950 - 2959 Mellor Rd; 3329 - 9950 Mission Wycliffe Rd; Old Airpot Rd; 9790, 9850 Reserve Rd; 9453 - 9659 Summerfeldt Rd; 9489 Stonefield Circle; 3053 Wycliffe Rd",
           "cause": "Pole down",
@@ -9160,7 +9210,7 @@
           "cause": "Equipment failure",
           "customers_affected": "< 5",
           "end": "2020-10-17T16:00:00",
-          "last_updated": "2020-10-17T18:14:00",
+          "last_updated": "2020-10-19T09:03:00",
           "municipality": "Vancouver",
           "municipality_code": "day-1 day-3 city--1786794435",
           "start": "2020-10-17T05:52:00"
@@ -9180,7 +9230,7 @@
           "cause": "Equipment failure",
           "customers_affected": "< 5",
           "end": "2020-10-18T14:30:00",
-          "last_updated": "2020-10-18T14:43:00",
+          "last_updated": "2020-10-19T09:06:00",
           "municipality": "Vancouver",
           "municipality_code": "day-1 day-3 city--1786794435",
           "start": "2020-10-18T12:48:00"
@@ -12336,7 +12386,7 @@
           "end": "2020-10-15T09:00:00",
           "last_updated": "2020-10-15T08:53:00",
           "municipality": "Fort St. John",
-          "municipality_code": "day-3 city-205572915",
+          "municipality_code": "city-205572915",
           "start": "2020-10-15T08:31:00"
         },
         {
@@ -14578,7 +14628,7 @@
           "cause": "Tree down across our wires",
           "customers_affected": "26",
           "end": "2020-10-14T10:30:00",
-          "last_updated": "2020-10-14T10:12:00",
+          "last_updated": "2020-10-19T09:04:00",
           "municipality": "Ganges",
           "municipality_code": "city-2125630497",
           "start": "2020-10-13T16:50:00"
@@ -14698,7 +14748,7 @@
           "cause": "Tree down across our wires",
           "customers_affected": "< 5",
           "end": "",
-          "last_updated": "2020-10-14T11:34:00",
+          "last_updated": "2020-10-19T08:56:00",
           "municipality": "Ganges",
           "municipality_code": "city-2125630497",
           "start": "2020-10-13T16:11:00"
