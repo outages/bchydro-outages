@@ -7,7 +7,7 @@
           "area": "East of JOLAR RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Wire down",
           "customers_affected": "393",
-          "last_updated": "2020-10-19T15:05:00",
+          "last_updated": "2020-10-19T15:45:00",
           "municipality": "Wells",
           "municipality_code": "day-1 day-3 city-83462469",
           "start": "2020-10-19T13:57:00",
@@ -64,11 +64,11 @@
           "area": "2600 block 224 ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-19T15:10:00",
+          "last_updated": "2020-10-19T15:35:00",
           "municipality": "Langley",
           "municipality_code": "day-1 day-3 city-1612593490",
           "start": "2020-10-19T09:48:00",
-          "status": "Crew status: Crew on-site"
+          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 19 4:35 p.m."
         },
         {
           "area": "5700 block SUNSHINE FALLS LANE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -84,11 +84,11 @@
           "area": "13800 - 14000 block 224TH ST, 13900 - 14000 block 224 ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-19T15:10:00",
+          "last_updated": "2020-10-19T15:34:00",
           "municipality": "Pitt Meadows",
           "municipality_code": "day-1 day-3 city--253788407",
           "start": "2020-10-19T14:47:00",
-          "status": "Crew status: No crew assigned yet"
+          "status": "Crew status: Crew assigned"
         },
         {
           "area": "4600 block VANGUARD RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -124,11 +124,11 @@
           "area": "3700 block 168 ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-19T15:24:00",
+          "last_updated": "2020-10-19T15:39:00",
           "municipality": "Surrey",
           "municipality_code": "day-1 day-3 city--1807186826",
           "start": "2020-10-19T15:06:00",
-          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 19 4:25 p.m."
+          "status": "Crew status: Crew on-site"
         },
         {
           "area": "North of 52ND AVE, South of 48TH AVE, West of COLUMBIA ST, East of CAMBIE ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -2120,7 +2120,7 @@
       "region_id": "2072041405"
     },
     "South VI": {
-      "customers_affected_14d": 1467,
+      "customers_affected_14d": 1480,
       "outages": [
         {
           "area": "1746 Verling Ave; 1763 Sean Hts, Saanichton",
@@ -2551,6 +2551,16 @@
           "municipality": "Victoria",
           "municipality_code": "day-1 day-3 city-1201273535",
           "start": "2020-10-22T08:00:00"
+        },
+        {
+          "area": "3610, 3620, 3640, 3680, 3700, and 3838 Trans Canada Hwy",
+          "cause": "Pole replacement",
+          "customers_affected": "13",
+          "end": "2020-10-28T15:30:00",
+          "last_updated": "2020-10-19T15:32:00",
+          "municipality": "Victoria",
+          "municipality_code": "day-1 day-3 city-1201273535",
+          "start": "2020-10-28T09:30:00"
         },
         {
           "area": "4088, 4090, 4092, 4094 Atlas Pl, 4083, 4084, 4086, 4087, 4091, 4095, 4096, 4098 N Raymond St, Victoria",
@@ -5050,7 +5060,7 @@
           "cause": "Tree down across our wires",
           "customers_affected": "10",
           "end": "",
-          "last_updated": "2020-10-13T20:34:00",
+          "last_updated": "2020-10-19T15:41:00",
           "municipality": "Chilliwack",
           "municipality_code": "city--708005353",
           "start": "2020-10-13T13:55:00"
@@ -5130,7 +5140,7 @@
           "cause": "Other",
           "customers_affected": "< 5",
           "end": "2020-10-14T02:00:00",
-          "last_updated": "2020-10-13T23:20:00",
+          "last_updated": "2020-10-19T15:36:00",
           "municipality": "Chilliwack",
           "municipality_code": "city--708005353",
           "start": "2020-10-13T14:24:00"
@@ -5180,7 +5190,7 @@
           "cause": "Other",
           "customers_affected": "< 5",
           "end": "2020-10-15T13:00:00",
-          "last_updated": "2020-10-15T12:14:00",
+          "last_updated": "2020-10-19T15:35:00",
           "municipality": "Chilliwack",
           "municipality_code": "city--708005353",
           "start": "2020-10-15T08:11:00"
@@ -5930,7 +5940,7 @@
           "cause": "Tree down across our wires",
           "customers_affected": "< 5",
           "end": "2020-10-14T14:04:00",
-          "last_updated": "2020-10-14T15:15:00",
+          "last_updated": "2020-10-19T15:40:00",
           "municipality": "Hope",
           "municipality_code": "city-2255196",
           "start": "2020-10-13T22:57:00"
@@ -7682,7 +7692,7 @@
           "end": "2020-10-15T16:00:00",
           "last_updated": "2020-10-15T16:33:00",
           "municipality": "North Vancouver",
-          "municipality_code": "day-3 city--1636626238",
+          "municipality_code": "city--1636626238",
           "start": "2020-10-15T15:36:00"
         },
         {
@@ -7722,7 +7732,7 @@
           "end": "",
           "last_updated": "2020-10-15T15:39:00",
           "municipality": "North Vancouver",
-          "municipality_code": "day-3 city--1636626238",
+          "municipality_code": "city--1636626238",
           "start": "2020-10-15T15:38:00"
         },
         {
@@ -12766,7 +12776,7 @@
           "end": "2020-10-17T15:52:00",
           "last_updated": "2020-10-17T15:46:00",
           "municipality": "Fort St. James",
-          "municipality_code": "day-1 day-3 city-2077380636",
+          "municipality_code": "day-3 city-2077380636",
           "start": "2020-10-17T12:28:00"
         },
         {
@@ -14970,7 +14980,7 @@
           "end": "2020-10-15T15:30:00",
           "last_updated": "2020-10-15T16:31:00",
           "municipality": "Galiano Island",
-          "municipality_code": "day-3 city--995767958",
+          "municipality_code": "city--995767958",
           "start": "2020-10-15T11:32:00"
         },
         {
