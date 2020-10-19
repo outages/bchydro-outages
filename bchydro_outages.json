@@ -7,11 +7,11 @@
           "area": "East of BROWNING DR, West of MINSTER DR, South of GARRETT DR, North of 72ND AVE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "96",
-          "last_updated": "2020-10-18T23:12:00",
+          "last_updated": "2020-10-18T23:38:00",
           "municipality": "Delta",
           "municipality_code": "day-1 day-3 city-65915800",
           "start": "2020-10-18T22:46:00",
-          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 19 12:15 a.m."
+          "status": "Crew status: Crew assigned\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 19 12:15 a.m."
         },
         {
           "area": "4600 block VANGUARD RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -31,16 +31,6 @@
       "customers_affected_14d": -1,
       "outages": [
         {
-          "area": "3100 block WILLOW CREEK RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Under investigation",
-          "customers_affected": "< 5",
-          "last_updated": "2020-10-18T23:17:00",
-          "municipality": "Campbell River",
-          "municipality_code": "day-1 day-3 city-1240464880",
-          "start": "2020-10-18T21:42:00",
-          "status": "Crew status: Crew on-site"
-        },
-        {
           "area": "400 block TWILLINGATE RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "< 5",
@@ -53,6 +43,23 @@
       ],
       "region_code": "North VI",
       "region_id": "1602896846"
+    },
+    "Northern": {
+      "customers_affected_14d": 5,
+      "outages": [
+        {
+          "area": "North of SALMON RIVER RD, East of RIVER RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Under investigation",
+          "customers_affected": "5",
+          "last_updated": "2020-10-18T23:44:00",
+          "municipality": "Hazelton",
+          "municipality_code": "day-1 day-3 city-411200875",
+          "start": "2020-10-18T23:28:00",
+          "status": "Crew status: Crew assigned"
+        }
+      ],
+      "region_code": "Northern",
+      "region_id": "1602964060"
     },
     "South VI": {
       "customers_affected_14d": 623,
@@ -9406,7 +9413,7 @@
       "region_id": "521980323"
     },
     "North VI": {
-      "customers_affected_14d": 74147,
+      "customers_affected_14d": 74150,
       "outages": [
         {
           "area": "North of ISLAND HWY",
@@ -9537,6 +9544,16 @@
           "municipality": "Campbell River",
           "municipality_code": "day-1 day-3 city-1240464880",
           "start": "2020-10-17T09:50:00"
+        },
+        {
+          "area": "3100 block WILLOW CREEK RD",
+          "cause": "Under investigation",
+          "customers_affected": "< 5",
+          "end": "",
+          "last_updated": "2020-10-18T23:45:00",
+          "municipality": "Campbell River",
+          "municipality_code": "day-1 day-3 city-1240464880",
+          "start": "2020-10-18T21:42:00"
         },
         {
           "area": "South of SNOWDEN RD, North-East of BREWSTER LAKE RD",
@@ -11105,7 +11122,7 @@
           "end": "2020-10-14T23:59:00",
           "last_updated": "2020-10-15T12:01:00",
           "municipality": "Port Hardy",
-          "municipality_code": "day-3 city-368562319",
+          "municipality_code": "city-368562319",
           "start": "2020-10-13T08:03:00"
         },
         {
@@ -12952,7 +12969,7 @@
           "end": "2020-10-14T23:00:00",
           "last_updated": "2020-10-15T06:41:00",
           "municipality": "Tumbler Ridge",
-          "municipality_code": "day-3 city-53995150",
+          "municipality_code": "city-53995150",
           "start": "2020-10-14T17:55:00"
         },
         {
