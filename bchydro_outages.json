@@ -1,13 +1,23 @@
 {
   "current": {
     "Lower Mainland": {
-      "customers_affected_14d": 7,
+      "customers_affected_14d": 103,
       "outages": [
+        {
+          "area": "East of BROWNING DR, West of MINSTER DR, South of GARRETT DR, North of 72ND AVE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Under investigation",
+          "customers_affected": "96",
+          "last_updated": "2020-10-18T23:03:00",
+          "municipality": "Delta",
+          "municipality_code": "day-1 day-3 city-65915800",
+          "start": "2020-10-18T22:46:00",
+          "status": "Crew status: Crew assigned"
+        },
         {
           "area": "4600 block VANGUARD RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Transformer burn out",
           "customers_affected": "7",
-          "last_updated": "2020-10-18T19:34:00",
+          "last_updated": "2020-10-18T23:06:00",
           "municipality": "Richmond",
           "municipality_code": "day-1 day-3 city--1486145068",
           "start": "2020-10-18T15:39:00",
@@ -24,7 +34,7 @@
           "area": "3100 block WILLOW CREEK RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-18T22:31:00",
+          "last_updated": "2020-10-18T23:03:00",
           "municipality": "Campbell River",
           "municipality_code": "day-1 day-3 city-1240464880",
           "start": "2020-10-18T21:42:00",
@@ -34,7 +44,7 @@
           "area": "400 block TWILLINGATE RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-18T22:43:00",
+          "last_updated": "2020-10-18T23:03:00",
           "municipality": "Campbell River",
           "municipality_code": "day-1 day-3 city-1240464880",
           "start": "2020-10-18T21:43:00",
@@ -51,7 +61,7 @@
           "area": "4700 block BADGER PL\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Tree down across our wires",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-18T22:12:00",
+          "last_updated": "2020-10-18T23:03:00",
           "municipality": "Metchosin",
           "municipality_code": "day-1 day-3 city-1000109226",
           "start": "2020-10-18T17:42:00",
@@ -61,7 +71,7 @@
           "area": "South-West of SOOKE RD, East of SEA LION WAY\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Tree down across our wires",
           "customers_affected": "622",
-          "last_updated": "2020-10-18T22:28:00",
+          "last_updated": "2020-10-18T23:03:00",
           "municipality": "Sooke",
           "municipality_code": "day-1 day-3 city-80069133",
           "start": "2020-10-18T17:47:00",
@@ -17323,7 +17333,7 @@
           "end": "",
           "last_updated": "2020-10-16T23:17:00",
           "municipality": "Kamloops",
-          "municipality_code": "day-1 day-3 city-979034872",
+          "municipality_code": "day-3 city-979034872",
           "start": "2020-10-16T19:49:00"
         },
         {
