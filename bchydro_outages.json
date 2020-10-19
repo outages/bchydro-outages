@@ -28,7 +28,7 @@
       "region_id": "848340027"
     },
     "Lower Mainland": {
-      "customers_affected_14d": 491,
+      "customers_affected_14d": 485,
       "outages": [
         {
           "area": "East of LOOK OUT PT, West of MARINE AVE, North of BELCARRA BAY RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -51,16 +51,6 @@
           "status": "Crew status: Crew assigned"
         },
         {
-          "area": "4600 block 203 ST, 4600 block 203A ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Planned work being done on our equipment",
-          "customers_affected": "9",
-          "last_updated": "2020-10-19T11:08:00",
-          "municipality": "Langley",
-          "municipality_code": "day-1 day-3 city-1612593490",
-          "start": "2020-10-19T09:04:00",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 19 2:00 p.m."
-        },
-        {
           "area": "25900 block 48 AVE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Wire down",
           "customers_affected": "< 5",
@@ -79,6 +69,16 @@
           "municipality_code": "day-1 day-3 city-1612593490",
           "start": "2020-10-19T09:53:00",
           "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 19 12:00 p.m."
+        },
+        {
+          "area": "19700 block 8 AVE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Planned work being done on our equipment",
+          "customers_affected": "< 5",
+          "last_updated": "2020-10-19T11:58:00",
+          "municipality": "Langley",
+          "municipality_code": "day-1 day-3 city-1612593490",
+          "start": "2020-10-19T11:57:00",
+          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 19 2:30 p.m."
         },
         {
           "area": "9800 block 216 ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -238,11 +238,11 @@
           "area": "4700 block BADGER PL\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Tree down across our wires",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-19T11:21:00",
+          "last_updated": "2020-10-19T11:59:00",
           "municipality": "Metchosin",
           "municipality_code": "day-1 day-3 city-1000109226",
           "start": "2020-10-18T17:42:00",
-          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 19 12:15 p.m."
+          "status": "Crew status: Crew assigned\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 19 12:45 p.m."
         },
         {
           "area": "North of LURLINE AVE, South of CADILLAC AVE, East of REGINA AVE, West of HARRIET RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -279,7 +279,7 @@
       "region_id": "1812901382"
     },
     "Thompson/Shuswap": {
-      "customers_affected_14d": 282,
+      "customers_affected_14d": 257,
       "outages": [
         {
           "area": "South-West of HWY 5 , East of AVOLA VILLAGE RD, North of BRAZIER RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -300,16 +300,6 @@
           "municipality_code": "day-1 day-3 city-1039954398",
           "start": "2020-10-19T06:37:00",
           "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 19 3:00 p.m."
-        },
-        {
-          "area": "South of Trans Can , North of 4TH ST, West of Trans Can HWY, East of HWY 23\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Under investigation",
-          "customers_affected": "25",
-          "last_updated": "2020-10-19T11:45:00",
-          "municipality": "Revelstoke",
-          "municipality_code": "day-1 day-3 city-1039954398",
-          "start": "2020-10-19T08:27:00",
-          "status": "Crew status: Crew on-site"
         }
       ],
       "region_code": "Thompson/Shuswap",
@@ -1782,11 +1772,11 @@
           "start": "2020-10-22T10:00:00"
         },
         {
-          "area": "**Emergent**Briar Ridge Rd and 207 Rd., Dawson Creek",
+          "area": "**Emergent**12069 207 Rd; 400, 408, 423, 437, 444, 447, 11053, 11455, 12933, 13120 Briar Ridge Rd; 11075, 12822 Briar Ridge Rd 207; 13202 Dayus Rd; 13130, 13155, 13156, 13173, 13187 Kendrew Sub; 212, 228, 245, 247, 253 Patterson Rd; 222, 223, 228, 232, 237, 242, 243, 247 Patterson Rd 204; 206C Riddle Rd; 296 Riddle Rd 206c; 73, 79, 104, 126, 139, 143, 151, 152, 167, 186, 187, 222, 239, 253, 269, 278, 300, 324, 326 Riverside Rd., Dawson Creek | Pouce Coupe",
           "cause": "Pole replacement",
           "customers_affected": "74",
           "end": "2020-10-29T14:00:00",
-          "last_updated": "2020-10-19T11:21:00",
+          "last_updated": "2020-10-19T11:52:00",
           "municipality": "Dawson Creek",
           "municipality_code": "day-1 day-3 city--1630954860",
           "start": "2020-10-29T10:00:00"
@@ -3646,7 +3636,7 @@
       "region_id": "848340027"
     },
     "Lower Mainland": {
-      "customers_affected_14d": 145567,
+      "customers_affected_14d": 145576,
       "outages": [
         {
           "area": "North of MACLURE RD, East of MT LEHMAN RD, West of Hwy 11",
@@ -3815,7 +3805,7 @@
           "end": "2020-10-15T16:00:00",
           "last_updated": "2020-10-15T12:05:00",
           "municipality": "Abbotsford",
-          "municipality_code": "day-3 city-1230363016",
+          "municipality_code": "city-1230363016",
           "start": "2020-10-15T10:38:00"
         },
         {
@@ -5463,7 +5453,7 @@
           "cause": "Tree down across our wires",
           "customers_affected": "96",
           "end": "2020-10-19T03:30:00",
-          "last_updated": "2020-10-19T04:14:00",
+          "last_updated": "2020-10-19T11:53:00",
           "municipality": "Delta",
           "municipality_code": "day-1 day-3 city-65915800",
           "start": "2020-10-18T22:46:00"
@@ -6123,7 +6113,7 @@
           "cause": "equipment contact",
           "customers_affected": "47",
           "end": "2020-10-16T11:30:00",
-          "last_updated": "2020-10-16T13:15:00",
+          "last_updated": "2020-10-19T11:55:00",
           "municipality": "Langley",
           "municipality_code": "day-3 city-1612593490",
           "start": "2020-10-16T03:53:00"
@@ -6267,6 +6257,16 @@
           "municipality": "Langley",
           "municipality_code": "city-1612593490",
           "start": "2020-10-13T16:14:00"
+        },
+        {
+          "area": "4600 block 203 ST, 4600 block 203A ST",
+          "cause": "Planned work being done on our equipment",
+          "customers_affected": "9",
+          "end": "2020-10-19T12:00:00",
+          "last_updated": "2020-10-19T11:57:00",
+          "municipality": "Langley",
+          "municipality_code": "day-1 day-3 city-1612593490",
+          "start": "2020-10-19T09:04:00"
         },
         {
           "area": "7200 block 202A ST, 7200 block 202 ST",
@@ -6793,7 +6793,7 @@
           "cause": "Tree down across our wires",
           "customers_affected": "< 5",
           "end": "2020-10-18T10:45:00",
-          "last_updated": "2020-10-18T10:50:00",
+          "last_updated": "2020-10-19T11:51:00",
           "municipality": "Langley, Surrey",
           "municipality_code": "day-1 day-3 city-1612593490 city--1807186826",
           "start": "2020-10-18T08:13:00"
@@ -8123,7 +8123,7 @@
           "cause": "Other",
           "customers_affected": "< 5",
           "end": "2020-10-18T06:45:00",
-          "last_updated": "2020-10-18T06:36:00",
+          "last_updated": "2020-10-19T11:51:00",
           "municipality": "Richmond",
           "municipality_code": "day-1 day-3 city--1486145068",
           "start": "2020-10-18T03:23:00"
@@ -8183,7 +8183,7 @@
           "cause": "Equipment failure",
           "customers_affected": "< 5",
           "end": "2020-10-19T11:30:00",
-          "last_updated": "2020-10-19T11:43:00",
+          "last_updated": "2020-10-19T11:54:00",
           "municipality": "Richmond",
           "municipality_code": "day-1 day-3 city--1486145068",
           "start": "2020-10-19T09:16:00"
@@ -8533,7 +8533,7 @@
           "cause": "Tree down across our wires",
           "customers_affected": "338",
           "end": "2020-10-18T12:30:00",
-          "last_updated": "2020-10-18T12:22:00",
+          "last_updated": "2020-10-19T11:51:00",
           "municipality": "Surrey",
           "municipality_code": "day-1 day-3 city--1807186826",
           "start": "2020-10-18T10:36:00"
@@ -9003,7 +9003,7 @@
           "cause": "Motor vehicle accident",
           "customers_affected": "< 5",
           "end": "2020-10-18T09:30:00",
-          "last_updated": "2020-10-19T11:44:00",
+          "last_updated": "2020-10-19T11:47:00",
           "municipality": "Surrey",
           "municipality_code": "day-1 day-3 city--1807186826",
           "start": "2020-10-18T07:53:00"
@@ -9013,7 +9013,7 @@
           "cause": "Other",
           "customers_affected": "< 5",
           "end": "",
-          "last_updated": "2020-10-18T10:49:00",
+          "last_updated": "2020-10-19T11:51:00",
           "municipality": "Surrey",
           "municipality_code": "day-1 day-3 city--1807186826",
           "start": "2020-10-18T07:51:00"
@@ -9625,7 +9625,7 @@
           "end": "2020-10-17T11:30:00",
           "last_updated": "2020-10-17T13:00:00",
           "municipality": "White Rock",
-          "municipality_code": "day-1 day-3 city--2102123204",
+          "municipality_code": "day-3 city--2102123204",
           "start": "2020-10-17T09:14:00"
         },
         {
@@ -13934,7 +13934,7 @@
           "cause": "Other",
           "customers_affected": "35",
           "end": "",
-          "last_updated": "2020-10-16T14:21:00",
+          "last_updated": "2020-10-19T12:04:00",
           "municipality": "West Kelowna",
           "municipality_code": "day-3 city-1974628732",
           "start": "2020-10-16T08:01:00"
@@ -17738,7 +17738,7 @@
           "cause": "Equipment failure",
           "customers_affected": "60",
           "end": "2020-10-13T23:30:00",
-          "last_updated": "2020-10-16T09:56:00",
+          "last_updated": "2020-10-19T12:03:00",
           "municipality": "Merritt",
           "municipality_code": "city--1676334159",
           "start": "2020-10-13T19:44:00"
@@ -17758,7 +17758,7 @@
           "cause": "Other",
           "customers_affected": "45",
           "end": "2020-10-07T19:00:00",
-          "last_updated": "2020-10-16T09:50:00",
+          "last_updated": "2020-10-19T12:00:00",
           "municipality": "Merritt",
           "municipality_code": "city--1676334159",
           "start": "2020-10-07T16:06:00"
@@ -17838,7 +17838,7 @@
           "cause": "Customer's equipment",
           "customers_affected": "< 5",
           "end": "2020-10-05T18:30:00",
-          "last_updated": "2020-10-16T09:49:00",
+          "last_updated": "2020-10-19T11:56:00",
           "municipality": "Merritt",
           "municipality_code": "city--1676334159",
           "start": "2020-10-05T14:43:00"
