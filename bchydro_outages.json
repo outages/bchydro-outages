@@ -7,11 +7,11 @@
           "area": "4400 block KIMBALL RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-19T12:35:00",
+          "last_updated": "2020-10-19T13:04:00",
           "municipality": "Prince George",
           "municipality_code": "day-1 day-3 city-1835674262",
           "start": "2020-10-19T09:37:00",
-          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 19 1:15 p.m."
+          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 19 2:05 p.m."
         }
       ],
       "region_code": "Central Interior",
@@ -156,16 +156,6 @@
           "municipality_code": "day-1 day-3 city--1969008230",
           "start": "2020-10-19T12:03:00",
           "status": "Crew status: Crew assigned"
-        },
-        {
-          "area": "COMMONAGE RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Planned work being done on our equipment",
-          "customers_affected": "< 5",
-          "last_updated": "2020-10-19T11:20:00",
-          "municipality": "Vernon",
-          "municipality_code": "day-1 day-3 city--1736079254",
-          "start": "2020-10-19T11:19:00",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 19 1:00 p.m."
         }
       ],
       "region_code": "Okanagan/Kootenay",
@@ -248,11 +238,11 @@
           "area": "1900 block W BURNSIDE RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Tree down across our wires",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-19T12:41:00",
+          "last_updated": "2020-10-19T12:57:00",
           "municipality": "Saanich, View Royal",
           "municipality_code": "day-1 day-3 city--776615533 city--1360221748",
           "start": "2020-10-19T11:17:00",
-          "status": "Crew status: Crew on-site"
+          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 19 1:15 p.m."
         }
       ],
       "region_code": "South VI",
@@ -315,7 +305,7 @@
       "region_id": "848340027"
     },
     "Lower Mainland": {
-      "customers_affected_14d": 7877,
+      "customers_affected_14d": 7895,
       "outages": [
         {
           "area": "1944, 1954, 1966, 1976 Albion St; 32666-32749 Cordova Ave; 325, 32760 Marshall Rd, 32414-32750 Pandora Ave; 1911-1944 Valencia Crt, Abbotsford",
@@ -1068,6 +1058,16 @@
           "start": "2020-10-29T21:00:00"
         },
         {
+          "area": "2500 Chesterfield Ave, 2515, 2525, 2529, 2539, 2547, 2553, 2561, 2567, 2609, 2611, 2617, 2626, 2627, 2631, 2632, 2635, 2645 Western Ave, North Vancouver",
+          "cause": "Pole replacement",
+          "customers_affected": "18",
+          "end": "2020-10-23T16:00:00",
+          "last_updated": "2020-10-19T12:46:00",
+          "municipality": "North Vancouver",
+          "municipality_code": "day-1 day-3 city--1636626238",
+          "start": "2020-10-23T09:30:00"
+        },
+        {
           "area": "232, 238, 244, 252, 258, 262 W 26th St, 239, 245, 251, 251, 255, 259, 265 W 27th St, 2624 Mahon Ave, North Vancouver",
           "cause": "Planned work being done on our equipment",
           "customers_affected": "14",
@@ -1602,7 +1602,7 @@
       "region_id": "521980323"
     },
     "North VI": {
-      "customers_affected_14d": 209,
+      "customers_affected_14d": 458,
       "outages": [
         {
           "area": "Outage location is on Quadra Island1527,1528,1530 Antler Rd; 714 Cramer Rd; 725 Esplanade Rd, Quadra Island",
@@ -1703,6 +1703,16 @@
           "municipality": "Gold River",
           "municipality_code": "day-1 day-3 city--1035423156",
           "start": "2020-10-21T10:00:00"
+        },
+        {
+          "area": "3945 - 4325 Biggs Rd; 3915 - 3928 Deerwood BLVD; 3907- 3968 Excalibur St; 3853 - 3880 Honey Locust Dr; 3800 - 3911 King Arthur Dr; 3954 - 4028 Magnolia Dr; 3830 - 3875 Maplewood Dr; 3900 - 3905 Merlin St; 3846 - 3910 Mimosa Dr; 3904 - 4076 Valewood Dr",
+          "cause": "Planned work being done on our equipment",
+          "customers_affected": "249",
+          "end": "2020-11-01T14:00:00",
+          "last_updated": "2020-10-19T12:49:00",
+          "municipality": "Nanaimo",
+          "municipality_code": "day-1 day-3 city--907547835",
+          "start": "2020-11-01T09:00:00"
         },
         {
           "area": "106, 110, 111, 120, 121, 126, 128, 130, 131, 132, 136, 141, 150, 154, 161, 202, 204, 206, 210, 214, 220 olumbia St, Nanaimo",
@@ -7635,7 +7645,7 @@
           "end": "2020-10-15T13:30:00",
           "last_updated": "2020-10-15T13:11:00",
           "municipality": "North Vancouver",
-          "municipality_code": "day-3 city--1636626238",
+          "municipality_code": "city--1636626238",
           "start": "2020-10-15T09:36:00"
         },
         {
@@ -7695,7 +7705,7 @@
           "end": "2020-10-15T12:50:00",
           "last_updated": "2020-10-15T16:13:00",
           "municipality": "North Vancouver",
-          "municipality_code": "day-3 city--1636626238",
+          "municipality_code": "city--1636626238",
           "start": "2020-10-15T11:36:00"
         },
         {
@@ -14163,7 +14173,7 @@
           "end": "2020-10-15T13:00:00",
           "last_updated": "2020-10-16T07:31:00",
           "municipality": "Central Saanich, Saanich",
-          "municipality_code": "day-3 city--769735224 city--776615533",
+          "municipality_code": "city--769735224 city--776615533",
           "start": "2020-10-15T09:49:00"
         },
         {
@@ -14993,7 +15003,7 @@
           "end": "2020-10-15T13:00:00",
           "last_updated": "2020-10-16T10:10:00",
           "municipality": "Ganges",
-          "municipality_code": "day-3 city-2125630497",
+          "municipality_code": "city-2125630497",
           "start": "2020-10-15T11:12:00"
         },
         {
@@ -15268,10 +15278,10 @@
         },
         {
           "area": "South of FIREHALL CREEK RD, East of HAPPY VALLEY RD, West of road a RD, North of ACADIAN RD",
-          "cause": "Animal contacting our wires",
+          "cause": "equipment contact",
           "customers_affected": "71",
           "end": "2020-10-19T12:30:00",
-          "last_updated": "2020-10-19T12:12:00",
+          "last_updated": "2020-10-19T12:59:00",
           "municipality": "Langford",
           "municipality_code": "day-1 day-3 city--1549378615",
           "start": "2020-10-19T08:25:00"
@@ -15953,7 +15963,7 @@
           "end": "2020-10-15T13:00:00",
           "last_updated": "2020-10-19T10:30:00",
           "municipality": "Saanich",
-          "municipality_code": "day-3 city--776615533",
+          "municipality_code": "city--776615533",
           "start": "2020-10-15T10:10:00"
         },
         {
