@@ -15,13 +15,13 @@
         },
         {
           "area": "East of BROWNING DR, West of MINSTER DR, South of GARRETT DR, North of 72ND AVE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Under investigation",
+          "cause": "Tree down across our wires",
           "customers_affected": "96",
-          "last_updated": "2020-10-19T01:17:00",
+          "last_updated": "2020-10-19T01:52:00",
           "municipality": "Delta",
           "municipality_code": "day-1 day-3 city-65915800",
           "start": "2020-10-18T22:46:00",
-          "status": "Crew status: Crew on-site"
+          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 19 3:30 a.m."
         },
         {
           "area": "4600 block VANGUARD RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -55,17 +55,27 @@
       "region_id": "1602964060"
     },
     "South VI": {
-      "customers_affected_14d": -1,
+      "customers_affected_14d": 3625,
       "outages": [
+        {
+          "area": "North of CITADEL PL, South of PICKFORD RD, East of TURNSTONE DR, West of OCEAN BLV\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Motor vehicle accident",
+          "customers_affected": "3624",
+          "last_updated": "2020-10-19T01:57:00",
+          "municipality": "Colwood, Langford, Metchosin",
+          "municipality_code": "day-1 day-3 city--1680531443 city--1549378615 city-1000109226",
+          "start": "2020-10-19T01:37:00",
+          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 19 2:55 a.m."
+        },
         {
           "area": "4700 block BADGER PL\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Tree down across our wires",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-19T01:43:00",
+          "last_updated": "2020-10-19T01:55:00",
           "municipality": "Metchosin",
           "municipality_code": "day-1 day-3 city-1000109226",
           "start": "2020-10-18T17:42:00",
-          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 19 2:45 a.m."
+          "status": "Crew status: Crew assigned"
         }
       ],
       "region_code": "South VI",
@@ -4891,7 +4901,7 @@
           "end": "",
           "last_updated": "2020-10-15T03:29:00",
           "municipality": "Chilliwack",
-          "municipality_code": "day-3 city--708005353",
+          "municipality_code": "city--708005353",
           "start": "2020-10-14T19:02:00"
         },
         {
@@ -6561,7 +6571,7 @@
           "end": "2020-10-17T02:00:00",
           "last_updated": "2020-10-17T01:57:00",
           "municipality": "Maple Ridge",
-          "municipality_code": "day-1 day-3 city-598891104",
+          "municipality_code": "day-3 city-598891104",
           "start": "2020-10-16T22:43:00"
         },
         {
@@ -15499,7 +15509,7 @@
           "end": "2020-10-15T02:30:00",
           "last_updated": "2020-10-15T02:14:00",
           "municipality": "Saanich",
-          "municipality_code": "day-3 city--776615533",
+          "municipality_code": "city--776615533",
           "start": "2020-10-14T21:23:00"
         },
         {
@@ -16049,7 +16059,7 @@
           "end": "2020-10-15T02:00:00",
           "last_updated": "2020-10-16T06:59:00",
           "municipality": "Victoria",
-          "municipality_code": "day-3 city-1201273535",
+          "municipality_code": "city-1201273535",
           "start": "2020-10-14T18:54:00"
         },
         {
