@@ -4,16 +4,6 @@
       "customers_affected_14d": -1,
       "outages": [
         {
-          "area": "12600 block LUND RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Under investigation",
-          "customers_affected": "< 5",
-          "last_updated": "2020-10-19T10:47:00",
-          "municipality": "Prince George",
-          "municipality_code": "day-1 day-3 city-1835674262",
-          "start": "2020-10-19T08:21:00",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 19 12:15 p.m."
-        },
-        {
           "area": "4400 block KIMBALL RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "< 5",
@@ -28,17 +18,27 @@
       "region_id": "848340027"
     },
     "Lower Mainland": {
-      "customers_affected_14d": 485,
+      "customers_affected_14d": 558,
       "outages": [
         {
           "area": "East of LOOK OUT PT, West of MARINE AVE, North of BELCARRA BAY RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Planned work being done on our equipment",
           "customers_affected": "80",
-          "last_updated": "2020-10-19T09:54:00",
+          "last_updated": "2020-10-19T12:19:00",
           "municipality": "Belcarra",
           "municipality_code": "day-1 day-3 city-1691303482",
           "start": "2020-10-19T09:05:00",
-          "status": "Crew status: Crew assigned\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 19 9:15 a.m."
+          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 19 3:00 p.m."
+        },
+        {
+          "area": "6500 block BURLINGTON AVE, 6500 block MARLBOROUGH AVE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Planned work being done on our equipment",
+          "customers_affected": "73",
+          "last_updated": "2020-10-19T12:08:00",
+          "municipality": "Burnaby",
+          "municipality_code": "day-1 day-3 city-1903966249",
+          "start": "2020-10-19T12:07:00",
+          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 19 1:30 p.m."
         },
         {
           "area": "East of 224TH ST, North of 40TH AVE, South of FRASER HWY, West of 232ND ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -158,6 +158,16 @@
       "customers_affected_14d": -1,
       "outages": [
         {
+          "area": "3200 block HWY 23, 3200 block N HWY 23\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Under investigation",
+          "customers_affected": "< 5",
+          "last_updated": "2020-10-19T12:19:00",
+          "municipality": "Nakusp",
+          "municipality_code": "day-1 day-3 city--1969008230",
+          "start": "2020-10-19T12:03:00",
+          "status": "Crew status: Crew assigned"
+        },
+        {
           "area": "COMMONAGE RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Planned work being done on our equipment",
           "customers_affected": "< 5",
@@ -172,7 +182,7 @@
       "region_id": "2072041405"
     },
     "South VI": {
-      "customers_affected_14d": 257,
+      "customers_affected_14d": 245,
       "outages": [
         {
           "area": "7400 block E SAANICH RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -188,21 +198,11 @@
           "area": "North of OLD W SAANICH RD, East of SAANICH RD, South of MCHATTIE RD, West of BRYN RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Tree down across our wires",
           "customers_affected": "53",
-          "last_updated": "2020-10-19T11:43:00",
+          "last_updated": "2020-10-19T12:19:00",
           "municipality": "Central Saanich, Saanich",
           "municipality_code": "day-1 day-3 city--769735224 city--776615533",
           "start": "2020-10-19T10:58:00",
-          "status": "Crew status: Crew on-site"
-        },
-        {
-          "area": "0 block HIGHBANK RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Planned work being done on our equipment",
-          "customers_affected": "12",
-          "last_updated": "2020-10-19T09:43:00",
-          "municipality": "Colwood, Langford, View Royal",
-          "municipality_code": "day-1 day-3 city--1680531443 city--1549378615 city--1360221748",
-          "start": "2020-10-19T09:41:00",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 19 2:30 p.m."
+          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 19 1:20 p.m."
         },
         {
           "area": "2700 - 2800 block DINGWALL RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -216,9 +216,9 @@
         },
         {
           "area": "South of FIREHALL CREEK RD, East of HAPPY VALLEY RD, West of road a RD, North of ACADIAN RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Under investigation",
+          "cause": "Animal contacting our wires",
           "customers_affected": "71",
-          "last_updated": "2020-10-19T11:24:00",
+          "last_updated": "2020-10-19T12:12:00",
           "municipality": "Langford",
           "municipality_code": "day-1 day-3 city--1549378615",
           "start": "2020-10-19T08:25:00",
@@ -268,11 +268,11 @@
           "area": "1900 block W BURNSIDE RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Tree down across our wires",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-19T11:24:00",
+          "last_updated": "2020-10-19T12:13:00",
           "municipality": "Saanich, View Royal",
           "municipality_code": "day-1 day-3 city--776615533 city--1360221748",
           "start": "2020-10-19T11:17:00",
-          "status": "Crew status: Crew assigned"
+          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 19 1:15 p.m."
         }
       ],
       "region_code": "South VI",
@@ -335,7 +335,7 @@
       "region_id": "848340027"
     },
     "Lower Mainland": {
-      "customers_affected_14d": 7830,
+      "customers_affected_14d": 7848,
       "outages": [
         {
           "area": "1944, 1954, 1966, 1976 Albion St; 32666-32749 Cordova Ave; 325, 32760 Marshall Rd, 32414-32750 Pandora Ave; 1911-1944 Valencia Crt, Abbotsford",
@@ -356,6 +356,16 @@
           "municipality": "Abbotsford",
           "municipality_code": "day-1 day-3 city-1230363016",
           "start": "2020-10-23T09:00:00"
+        },
+        {
+          "area": "**Emergent**2760, 2790 Gladwin Rd., Abbotsford",
+          "cause": "Planned work being done on our equipment",
+          "customers_affected": "18",
+          "end": "2020-10-29T17:00:00",
+          "last_updated": "2020-10-19T12:17:00",
+          "municipality": "Abbotsford",
+          "municipality_code": "day-1 day-3 city-1230363016",
+          "start": "2020-10-29T09:00:00"
         },
         {
           "area": "34715 - 34752 Mierau St",
@@ -2103,7 +2113,7 @@
       "region_id": "2072041405"
     },
     "South VI": {
-      "customers_affected_14d": 1311,
+      "customers_affected_14d": 1397,
       "outages": [
         {
           "area": "1746 Verling Ave; 1763 Sean Hts, Saanichton",
@@ -2214,6 +2224,16 @@
           "municipality": "Saanich",
           "municipality_code": "day-1 day-3 city--776615533",
           "start": "2020-10-26T09:30:00"
+        },
+        {
+          "area": "2070 Amelia Ave, Sidney",
+          "cause": "Planned work being done on our equipment",
+          "customers_affected": "86",
+          "end": "2020-10-27T12:30:00",
+          "last_updated": "2020-10-19T12:12:00",
+          "municipality": "Sidney",
+          "municipality_code": "day-1 day-3 city--1818689996",
+          "start": "2020-10-27T09:30:00"
         },
         {
           "area": "8949 (A,B), 8957,8959 (A,B), 8969\r\n8979 (A,B),8988 (A,B),8989 Xpaen lane, Sidney/North Saanich",
@@ -2809,7 +2829,7 @@
   },
   "restored": {
     "Central Interior": {
-      "customers_affected_14d": 15660,
+      "customers_affected_14d": 15662,
       "outages": [
         {
           "area": "North of HWY 97",
@@ -3120,6 +3140,16 @@
           "municipality": "Prince George",
           "municipality_code": "day-3 city-1835674262",
           "start": "2020-10-16T11:41:00"
+        },
+        {
+          "area": "12600 block LUND RD",
+          "cause": "Under investigation",
+          "customers_affected": "< 5",
+          "end": "2020-10-19T12:15:00",
+          "last_updated": "2020-10-19T12:16:00",
+          "municipality": "Prince George",
+          "municipality_code": "day-1 day-3 city-1835674262",
+          "start": "2020-10-19T08:21:00"
         },
         {
           "area": "ST MARYS LAKE, 50000 block WILLOW CALE FOREST RD",
@@ -5065,7 +5095,7 @@
           "end": "2020-10-15T13:00:00",
           "last_updated": "2020-10-15T12:14:00",
           "municipality": "Chilliwack",
-          "municipality_code": "day-3 city--708005353",
+          "municipality_code": "city--708005353",
           "start": "2020-10-15T08:11:00"
         },
         {
@@ -13796,7 +13826,7 @@
           "end": "2020-10-15T12:00:00",
           "last_updated": "2020-10-15T12:10:00",
           "municipality": "Vernon",
-          "municipality_code": "day-3 city--1736079254",
+          "municipality_code": "city--1736079254",
           "start": "2020-10-15T09:58:00"
         },
         {
@@ -13984,7 +14014,7 @@
       "region_id": "2072041405"
     },
     "South VI": {
-      "customers_affected_14d": 78223,
+      "customers_affected_14d": 78235,
       "outages": [
         {
           "area": "North of CHURCH RD, West of STAUTW RD, East of TETAYUT RD, South of MT NEWTON XRD",
@@ -14145,6 +14175,16 @@
           "municipality": "Colwood, Langford",
           "municipality_code": "day-1 day-3 city--1680531443 city--1549378615",
           "start": "2020-10-19T01:37:00"
+        },
+        {
+          "area": "0 block HIGHBANK RD",
+          "cause": "Planned work being done on our equipment",
+          "customers_affected": "12",
+          "end": "2020-10-19T14:30:00",
+          "last_updated": "2020-10-19T12:15:00",
+          "municipality": "Colwood, Langford, View Royal",
+          "municipality_code": "day-1 day-3 city--1680531443 city--1549378615 city--1360221748",
+          "start": "2020-10-19T09:41:00"
         },
         {
           "area": "South of KINGBURNE DR",
