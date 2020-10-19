@@ -28,7 +28,7 @@
       "region_id": "848340027"
     },
     "Lower Mainland": {
-      "customers_affected_14d": 474,
+      "customers_affected_14d": 491,
       "outages": [
         {
           "area": "East of LOOK OUT PT, West of MARINE AVE, North of BELCARRA BAY RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -44,11 +44,11 @@
           "area": "East of 224TH ST, North of 40TH AVE, South of FRASER HWY, West of 232ND ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Wire down",
           "customers_affected": "62",
-          "last_updated": "2020-10-19T11:02:00",
+          "last_updated": "2020-10-19T11:42:00",
           "municipality": "Langley",
           "municipality_code": "day-1 day-3 city-1612593490",
           "start": "2020-10-19T10:31:00",
-          "status": "Crew status: Crew on-site"
+          "status": "Crew status: Crew assigned"
         },
         {
           "area": "4600 block 203 ST, 4600 block 203A ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -139,27 +139,20 @@
           "municipality_code": "day-1 day-3 city--1786794435",
           "start": "2020-10-19T09:55:00",
           "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 19 10:00 p.m."
+        },
+        {
+          "area": "North of CHARLES ST, East of RENFREW ST, West of NOOTKA ST, South of PARKER ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Motor vehicle accident",
+          "customers_affected": "17",
+          "last_updated": "2020-10-19T11:44:00",
+          "municipality": "Vancouver",
+          "municipality_code": "day-1 day-3 city--1786794435",
+          "start": "2020-10-19T10:33:00",
+          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 19 1:15 p.m."
         }
       ],
       "region_code": "Lower Mainland",
       "region_id": "521980323"
-    },
-    "Northern": {
-      "customers_affected_14d": -1,
-      "outages": [
-        {
-          "area": "14900 block 217 RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Under investigation",
-          "customers_affected": "< 5",
-          "last_updated": "2020-10-19T10:03:00",
-          "municipality": "Dawson Creek",
-          "municipality_code": "day-1 day-3 city--1630954860",
-          "start": "2020-10-19T08:57:00",
-          "status": "Crew status: Crew on-site"
-        }
-      ],
-      "region_code": "Northern",
-      "region_id": "1602964060"
     },
     "Okanagan/Kootenay": {
       "customers_affected_14d": -1,
@@ -195,11 +188,11 @@
           "area": "North of OLD W SAANICH RD, East of SAANICH RD, South of MCHATTIE RD, West of BRYN RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Tree down across our wires",
           "customers_affected": "53",
-          "last_updated": "2020-10-19T11:32:00",
+          "last_updated": "2020-10-19T11:43:00",
           "municipality": "Central Saanich, Saanich",
           "municipality_code": "day-1 day-3 city--769735224 city--776615533",
           "start": "2020-10-19T10:58:00",
-          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 19 12:35 p.m."
+          "status": "Crew status: Crew on-site"
         },
         {
           "area": "0 block HIGHBANK RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -312,7 +305,7 @@
           "area": "South of Trans Can , North of 4TH ST, West of Trans Can HWY, East of HWY 23\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "25",
-          "last_updated": "2020-10-19T08:59:00",
+          "last_updated": "2020-10-19T11:45:00",
           "municipality": "Revelstoke",
           "municipality_code": "day-1 day-3 city-1039954398",
           "start": "2020-10-19T08:27:00",
@@ -2120,7 +2113,7 @@
       "region_id": "2072041405"
     },
     "South VI": {
-      "customers_affected_14d": 1308,
+      "customers_affected_14d": 1311,
       "outages": [
         {
           "area": "1746 Verling Ave; 1763 Sean Hts, Saanichton",
@@ -2161,6 +2154,16 @@
           "municipality": "Duncan",
           "municipality_code": "day-1 day-3 city-2058209491",
           "start": "2020-10-19T10:00:00"
+        },
+        {
+          "area": "5330, 5351 West Riverbottom Rd, Duncan",
+          "cause": "Pole replacement",
+          "customers_affected": "< 5",
+          "end": "2020-10-23T14:30:00",
+          "last_updated": "2020-10-19T11:45:00",
+          "municipality": "Duncan",
+          "municipality_code": "day-1 day-3 city-2058209491",
+          "start": "2020-10-23T08:30:00"
         },
         {
           "area": "7147, 7150, 7153, 7156, 7161 Hagan Rd; Brentwood Bay",
@@ -6400,7 +6403,7 @@
           "cause": "Bird contacting our wires",
           "customers_affected": "< 5",
           "end": "2020-10-17T20:05:00",
-          "last_updated": "2020-10-17T19:43:00",
+          "last_updated": "2020-10-19T11:42:00",
           "municipality": "Langley",
           "municipality_code": "day-1 day-3 city-1612593490",
           "start": "2020-10-17T16:55:00"
@@ -6502,7 +6505,7 @@
           "end": "2020-10-17T12:00:00",
           "last_updated": "2020-10-19T11:40:00",
           "municipality": "Langley",
-          "municipality_code": "day-1 day-3 city-1612593490",
+          "municipality_code": "day-3 city-1612593490",
           "start": "2020-10-17T10:23:00"
         },
         {
@@ -8020,7 +8023,7 @@
           "cause": "Equipment failure",
           "customers_affected": "19",
           "end": "2020-10-18T03:05:00",
-          "last_updated": "2020-10-18T03:04:00",
+          "last_updated": "2020-10-19T11:43:00",
           "municipality": "Richmond",
           "municipality_code": "day-1 day-3 city--1486145068",
           "start": "2020-10-17T22:42:00"
@@ -8177,10 +8180,10 @@
         },
         {
           "area": "11100 block CAMBIE RD",
-          "cause": "Under investigation",
+          "cause": "Equipment failure",
           "customers_affected": "< 5",
           "end": "2020-10-19T11:30:00",
-          "last_updated": "2020-10-19T11:26:00",
+          "last_updated": "2020-10-19T11:43:00",
           "municipality": "Richmond",
           "municipality_code": "day-1 day-3 city--1486145068",
           "start": "2020-10-19T09:16:00"
@@ -8770,7 +8773,7 @@
           "cause": "Equipment failure",
           "customers_affected": "16",
           "end": "2020-10-18T14:00:00",
-          "last_updated": "2020-10-18T13:28:00",
+          "last_updated": "2020-10-19T11:43:00",
           "municipality": "Surrey",
           "municipality_code": "day-1 day-3 city--1807186826",
           "start": "2020-10-17T23:28:00"
@@ -8990,7 +8993,7 @@
           "cause": "Equipment failure",
           "customers_affected": "< 5",
           "end": "2020-10-17T20:30:00",
-          "last_updated": "2020-10-19T11:41:00",
+          "last_updated": "2020-10-19T11:42:00",
           "municipality": "Surrey",
           "municipality_code": "day-1 day-3 city--1807186826",
           "start": "2020-10-17T14:40:00"
@@ -9000,7 +9003,7 @@
           "cause": "Motor vehicle accident",
           "customers_affected": "< 5",
           "end": "2020-10-18T09:30:00",
-          "last_updated": "2020-10-18T09:47:00",
+          "last_updated": "2020-10-19T11:44:00",
           "municipality": "Surrey",
           "municipality_code": "day-1 day-3 city--1807186826",
           "start": "2020-10-18T07:53:00"
@@ -11019,7 +11022,7 @@
           "end": "2020-10-15T12:00:00",
           "last_updated": "2020-10-15T12:20:00",
           "municipality": "Parksville",
-          "municipality_code": "day-3 city--1370510519",
+          "municipality_code": "city--1370510519",
           "start": "2020-10-15T11:20:00"
         },
         {
@@ -12087,7 +12090,7 @@
       "region_id": "1602896846"
     },
     "Northern": {
-      "customers_affected_14d": 12851,
+      "customers_affected_14d": 12852,
       "outages": [
         {
           "area": "100 - 200 block WABALISLA ST, 0 - 100 block WAGLISLA ST, 500 block CHEENIS ST, 700 block GOOSE ISLAND DR, AIRPORT RD, BELLA BELLA RORO, PUMPHOUSE, 0 - 1200 block SHEARWATER RD, UPPER HOTEL, DENNY ISLAND RD...",
@@ -12498,6 +12501,16 @@
           "municipality": "Dawson Creek",
           "municipality_code": "day-1 day-3 city--1630954860",
           "start": "2020-10-17T16:57:00"
+        },
+        {
+          "area": "14900 block 217 RD",
+          "cause": "Equipment failure",
+          "customers_affected": "< 5",
+          "end": "",
+          "last_updated": "2020-10-19T11:42:00",
+          "municipality": "Dawson Creek",
+          "municipality_code": "day-1 day-3 city--1630954860",
+          "start": "2020-10-19T08:57:00"
         },
         {
           "area": "4600 block 214RD",
