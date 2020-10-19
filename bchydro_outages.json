@@ -78,28 +78,28 @@
           "area": "600 block INDUSTRIAL 2 RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-19T08:13:00",
+          "last_updated": "2020-10-19T08:32:00",
           "municipality": "Cranbrook",
           "municipality_code": "day-1 day-3 city--591720257",
           "start": "2020-10-19T08:08:00",
-          "status": "Crew status: Crew assigned"
+          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 19 9:35 a.m."
         }
       ],
       "region_code": "Okanagan/Kootenay",
       "region_id": "2072041405"
     },
     "South VI": {
-      "customers_affected_14d": 145,
+      "customers_affected_14d": 206,
       "outages": [
         {
-          "area": "North of GROUSEWOOD PL, East of SEDGWICK DR, South of SUNRIDGE VLY DR, West of VETERANS MEMORIAL PKY\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Motor vehicle accident",
-          "customers_affected": "10",
-          "last_updated": "2020-10-19T07:45:00",
-          "municipality": "Colwood, Langford",
-          "municipality_code": "day-1 day-3 city--1680531443 city--1549378615",
-          "start": "2020-10-19T01:37:00",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 19 9:00 a.m."
+          "area": "South of FIREHALL CREEK RD, East of HAPPY VALLEY RD, West of road a RD, North of ACADIAN RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Under investigation",
+          "customers_affected": "71",
+          "last_updated": "2020-10-19T08:33:00",
+          "municipality": "Langford",
+          "municipality_code": "day-1 day-3 city--1549378615",
+          "start": "2020-10-19T08:25:00",
+          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 19 9:35 a.m."
         },
         {
           "area": "East of SOOKE RD, West of HAPPY VALLEY RD, South of PROPOSED ROAD A , North of LINDHOLM RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -125,11 +125,11 @@
           "area": "East of BUKIN PL, North of MUNNS RD, South of PROSPECT LAKE RD, West of HECTOR RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Tree down across our wires",
           "customers_affected": "41",
-          "last_updated": "2020-10-19T08:23:00",
+          "last_updated": "2020-10-19T08:35:00",
           "municipality": "Saanich",
           "municipality_code": "day-1 day-3 city--776615533",
           "start": "2020-10-19T05:54:00",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 19 12:30 p.m."
+          "status": "Crew status: Crew assigned\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 19 12:30 p.m."
         }
       ],
       "region_code": "South VI",
@@ -13661,7 +13661,7 @@
       "region_id": "2072041405"
     },
     "South VI": {
-      "customers_affected_14d": 74463,
+      "customers_affected_14d": 78087,
       "outages": [
         {
           "area": "North of CHURCH RD, West of STAUTW RD, East of TETAYUT RD, South of MT NEWTON XRD",
@@ -13812,6 +13812,16 @@
           "municipality": "Central Saanich, Saanich",
           "municipality_code": "city--769735224 city--776615533",
           "start": "2020-10-13T13:14:00"
+        },
+        {
+          "area": "North of CITADEL PL, South of PICKFORD RD, East of TURNSTONE DR, West of OCEAN BLV",
+          "cause": "Motor vehicle accident",
+          "customers_affected": "3624",
+          "end": "2020-10-19T09:00:00",
+          "last_updated": "2020-10-19T08:30:00",
+          "municipality": "Colwood, Langford",
+          "municipality_code": "day-1 day-3 city--1680531443 city--1549378615",
+          "start": "2020-10-19T01:37:00"
         },
         {
           "area": "South of KINGBURNE DR",
@@ -16527,7 +16537,7 @@
           "end": "2020-10-15T08:45:00",
           "last_updated": "2020-10-16T09:58:00",
           "municipality": "Ashcroft",
-          "municipality_code": "day-3 city--625370600",
+          "municipality_code": "city--625370600",
           "start": "2020-10-15T07:40:00"
         },
         {
