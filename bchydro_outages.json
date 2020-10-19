@@ -51,7 +51,7 @@
           "area": "4700 block BADGER PL\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Tree down across our wires",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-18T22:03:00",
+          "last_updated": "2020-10-18T22:12:00",
           "municipality": "Metchosin",
           "municipality_code": "day-1 day-3 city-1000109226",
           "start": "2020-10-18T17:42:00",
@@ -70,6 +70,23 @@
       ],
       "region_code": "South VI",
       "region_id": "1812901382"
+    },
+    "Thompson/Shuswap": {
+      "customers_affected_14d": 18,
+      "outages": [
+        {
+          "area": "1300 block BURFIELD DR\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Under investigation",
+          "customers_affected": "18",
+          "last_updated": "2020-10-18T22:21:00",
+          "municipality": "Kamloops",
+          "municipality_code": "day-1 day-3 city-979034872",
+          "start": "2020-10-18T22:15:00",
+          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 18 11:25 p.m."
+        }
+      ],
+      "region_code": "Thompson/Shuswap",
+      "region_id": "725364552"
     }
   },
   "planned": {
@@ -5041,7 +5058,7 @@
           "end": "2020-10-16T22:00:00",
           "last_updated": "2020-10-16T22:29:00",
           "municipality": "Chilliwack, Kent",
-          "municipality_code": "day-1 day-3 city--708005353 city-2334912",
+          "municipality_code": "day-3 city--708005353 city-2334912",
           "start": "2020-10-16T12:54:00"
         },
         {
