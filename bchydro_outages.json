@@ -35,7 +35,7 @@
       "region_id": "1602964060"
     },
     "South VI": {
-      "customers_affected_14d": 1672,
+      "customers_affected_14d": 1713,
       "outages": [
         {
           "area": "East of HAPPY VALLEY RD, South of LANGFORD PKY, North of WENDEY DR, West of VETERANS MEMORIAL PKY\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -56,23 +56,53 @@
           "municipality_code": "day-1 day-3 city-1000109226",
           "start": "2020-10-18T17:42:00",
           "status": "Crew status: No crew assigned yet"
+        },
+        {
+          "area": "East of BUKIN PL, North of MUNNS RD, South of PROSPECT LAKE RD, West of HECTOR RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Under investigation",
+          "customers_affected": "41",
+          "last_updated": "2020-10-19T06:01:00",
+          "municipality": "Saanich",
+          "municipality_code": "day-1 day-3 city--776615533",
+          "start": "2020-10-19T05:54:00",
+          "status": "Crew status: No crew assigned yet"
         }
       ],
       "region_code": "South VI",
       "region_id": "1812901382"
     },
     "Thompson/Shuswap": {
-      "customers_affected_14d": 311,
+      "customers_affected_14d": 453,
       "outages": [
         {
           "area": "East of CHRISTMAS ISLAN RD, South of POWERHOUSE RD, North of WESTERBURG RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "311",
-          "last_updated": "2020-10-19T05:45:00",
+          "last_updated": "2020-10-19T06:04:00",
           "municipality": "Revelstoke",
           "municipality_code": "day-1 day-3 city-1039954398",
           "start": "2020-10-19T04:53:00",
-          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 19 6:40 a.m."
+          "status": "Crew status: Crew assigned\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 19 6:40 a.m."
+        },
+        {
+          "area": "West of LUNDELL RD, South of TRANS CANADA HWY, North-East of HWY 23\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Wire down",
+          "customers_affected": "118",
+          "last_updated": "2020-10-19T06:04:00",
+          "municipality": "Revelstoke",
+          "municipality_code": "day-1 day-3 city-1039954398",
+          "start": "2020-10-19T05:52:00",
+          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 19 7:05 a.m."
+        },
+        {
+          "area": "South of Trans Can , North of 4TH ST, West of Trans Can HWY, East of HWY 23\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Under investigation",
+          "customers_affected": "24",
+          "last_updated": "2020-10-19T06:05:00",
+          "municipality": "Revelstoke",
+          "municipality_code": "day-1 day-3 city-1039954398",
+          "start": "2020-10-19T05:56:00",
+          "status": "Crew status: Crew assigned"
         }
       ],
       "region_code": "Thompson/Shuswap",
