@@ -182,7 +182,7 @@
       "region_id": "2072041405"
     },
     "South VI": {
-      "customers_affected_14d": 245,
+      "customers_affected_14d": 174,
       "outages": [
         {
           "area": "7400 block E SAANICH RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -215,16 +215,6 @@
           "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 19 2:00 p.m."
         },
         {
-          "area": "South of FIREHALL CREEK RD, East of HAPPY VALLEY RD, West of road a RD, North of ACADIAN RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Animal contacting our wires",
-          "customers_affected": "71",
-          "last_updated": "2020-10-19T12:12:00",
-          "municipality": "Langford",
-          "municipality_code": "day-1 day-3 city--1549378615",
-          "start": "2020-10-19T08:25:00",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 19 12:30 p.m."
-        },
-        {
           "area": "800 block WALFRED RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Planned work being done on our equipment",
           "customers_affected": "8",
@@ -238,11 +228,11 @@
           "area": "4700 block BADGER PL\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Tree down across our wires",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-19T11:59:00",
+          "last_updated": "2020-10-19T12:21:00",
           "municipality": "Metchosin",
           "municipality_code": "day-1 day-3 city-1000109226",
           "start": "2020-10-18T17:42:00",
-          "status": "Crew status: Crew assigned\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 19 12:45 p.m."
+          "status": "Crew status: Crew assigned"
         },
         {
           "area": "North of LURLINE AVE, South of CADILLAC AVE, East of REGINA AVE, West of HARRIET RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -14014,7 +14004,7 @@
       "region_id": "2072041405"
     },
     "South VI": {
-      "customers_affected_14d": 78235,
+      "customers_affected_14d": 78306,
       "outages": [
         {
           "area": "North of CHURCH RD, West of STAUTW RD, East of TETAYUT RD, South of MT NEWTON XRD",
@@ -15255,6 +15245,16 @@
           "municipality": "Langford",
           "municipality_code": "city--1549378615",
           "start": "2020-10-08T13:23:00"
+        },
+        {
+          "area": "South of FIREHALL CREEK RD, East of HAPPY VALLEY RD, West of road a RD, North of ACADIAN RD",
+          "cause": "Animal contacting our wires",
+          "customers_affected": "71",
+          "end": "2020-10-19T12:30:00",
+          "last_updated": "2020-10-19T12:12:00",
+          "municipality": "Langford",
+          "municipality_code": "day-1 day-3 city--1549378615",
+          "start": "2020-10-19T08:25:00"
         },
         {
           "area": "East of JACKLIN RD, West of PEATT RD, South of GOLDSTREAM AVE, North of ORONO AVE",
