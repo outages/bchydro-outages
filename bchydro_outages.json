@@ -1,21 +1,48 @@
 {
   "current": {
     "Lower Mainland": {
-      "customers_affected_14d": -1,
+      "customers_affected_14d": 12,
       "outages": [
+        {
+          "area": "2100 block PRIMROSE ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Under investigation",
+          "customers_affected": "11",
+          "last_updated": "2020-10-18T17:20:00",
+          "municipality": "Abbotsford",
+          "municipality_code": "day-1 day-3 city-1230363016",
+          "start": "2020-10-18T17:15:00",
+          "status": "Crew status: No crew assigned yet"
+        },
         {
           "area": "3100 block BEACH AVE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-18T16:24:00",
+          "last_updated": "2020-10-18T17:08:00",
           "municipality": "Sechelt",
           "municipality_code": "day-1 day-3 city--660434186",
           "start": "2020-10-18T15:38:00",
-          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 18 5:25 p.m."
+          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 18 5:50 p.m."
         }
       ],
       "region_code": "Lower Mainland",
       "region_id": "521980323"
+    },
+    "Okanagan/Kootenay": {
+      "customers_affected_14d": -1,
+      "outages": [
+        {
+          "area": "3200 block 35 AVE, 3300 block 35TH AVE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Under investigation",
+          "customers_affected": "< 5",
+          "last_updated": "2020-10-18T17:08:00",
+          "municipality": "Vernon",
+          "municipality_code": "day-1 day-3 city--1736079254",
+          "start": "2020-10-18T16:55:00",
+          "status": "Crew status: Crew assigned"
+        }
+      ],
+      "region_code": "Okanagan/Kootenay",
+      "region_id": "2072041405"
     }
   },
   "planned": {
@@ -47,7 +74,7 @@
       "region_id": "848340027"
     },
     "Lower Mainland": {
-      "customers_affected_14d": 8650,
+      "customers_affected_14d": 8557,
       "outages": [
         {
           "area": "1944, 1954, 1966, 1976 Albion St; 32666-32749 Cordova Ave; 325, 32760 Marshall Rd, 32414-32750 Pandora Ave; 1911-1944 Valencia Crt, Abbotsford",
@@ -1190,16 +1217,6 @@
           "start": "2020-10-22T09:00:00"
         },
         {
-          "area": "1515 to 1681 W 28 Ave; 1525 to 1669 W 29 Ave; 1509 to 1588 W 32 Ave; 1519 to 1569 W 33 Ave (odd numbers only); 4376 Alexandra St; 4515 to 4850 Connaught Dr; 4325 to 4883 Granville St (odd numbers only); 4316 to 4462 Marguerite St (even numbers only); 1506 to 1680 Nanton Ave (even numbers only).",
-          "cause": "Pole replacement",
-          "customers_affected": "93",
-          "end": "2020-10-16T17:00:00",
-          "last_updated": "2020-10-09T15:36:00",
-          "municipality": "Vancouver",
-          "municipality_code": "day-1 day-3 city--1786794435",
-          "start": "2020-10-16T09:00:00"
-        },
-        {
           "area": "2003-2098 W 28th Ave; 2007-2098 W 29th Ave; 2019-2079 W 30th Ave;  4426-4492 Arbustus St; 4408-4555 Magnolia St; 4309-4491 Maple St; 2008-2092 Nanton Ave, Vancouver",
           "cause": "Planned work being done on our equipment",
           "customers_affected": "72",
@@ -1481,7 +1498,7 @@
       "region_id": "1602896846"
     },
     "Northern": {
-      "customers_affected_14d": 7364,
+      "customers_affected_14d": 7349,
       "outages": [
         {
           "area": "Burns Lake Substation - Burns Lake; Danskin; Decker Lake; Endako; Francois Lake, Fraser Lake; Grassy Plains; Houston; Noralee; Ootsa Lake; Priestley; Southbank; Takysie Lake; Tchesinkut Lake; Topley",
@@ -1552,16 +1569,6 @@
           "municipality": "Fort St. John",
           "municipality_code": "day-1 day-3 city-205572915",
           "start": "2020-10-23T08:00:00"
-        },
-        {
-          "area": "10603, 10604, 10607, 10608, 10611, 10612, 10615, 10616, 10618, 10619, 10620, 10621, 10622, 10703, 10707 89 St., Fort St. John",
-          "cause": "Pole replacement",
-          "customers_affected": "15",
-          "end": "2020-10-16T17:00:00",
-          "last_updated": "2020-10-07T11:02:00",
-          "municipality": "Fort St. John",
-          "municipality_code": "day-1 day-3 city-205572915",
-          "start": "2020-10-16T08:00:00"
         },
         {
           "area": "**Rescheduled from September 11, 2020**9203, 9205, 9207, 9209, 9211, 9213, 9215, 9217, 9219, 9221, 9223, 9225, 9227, 9229 102 Ave. Fort St John",
@@ -1835,7 +1842,7 @@
       "region_id": "2072041405"
     },
     "South VI": {
-      "customers_affected_14d": 1310,
+      "customers_affected_14d": 1283,
       "outages": [
         {
           "area": "1746 Verling Ave; 1763 Sean Hts, Saanichton",
@@ -2106,16 +2113,6 @@
           "municipality": "Victoria",
           "municipality_code": "day-1 day-3 city-1201273535",
           "start": "2020-10-20T09:00:00"
-        },
-        {
-          "area": "1001,1011,1030,1051,1090,1110,1111\r\n1112,1114,1120,1129,1140 (A,B),\r\n1149,1159,1170,1179,1180,1182(A,B,C),1190,1192,1201\r\nKosapsum Cres, 1001 Thomas Rd Victoria",
-          "cause": "Planned work being done on our equipment",
-          "customers_affected": "27",
-          "end": "2020-10-16T17:00:00",
-          "last_updated": "2020-09-29T14:32:00",
-          "municipality": "Victoria",
-          "municipality_code": "day-1 day-3 city-1201273535",
-          "start": "2020-10-16T09:30:00"
         },
         {
           "area": "1390 - 1590 Neild Rd; 1505 - 1600 Zanita Heights",
@@ -3130,7 +3127,7 @@
           "end": "2020-10-14T17:00:00",
           "last_updated": "2020-10-14T17:01:00",
           "municipality": "Quesnel",
-          "municipality_code": "day-3 city--1975191965",
+          "municipality_code": "city--1975191965",
           "start": "2020-10-14T16:14:00"
         },
         {
@@ -5017,7 +5014,7 @@
           "end": "",
           "last_updated": "2020-10-14T16:54:00",
           "municipality": "Chilliwack",
-          "municipality_code": "day-3 city--708005353",
+          "municipality_code": "city--708005353",
           "start": "2020-10-14T09:09:00"
         },
         {
@@ -5027,7 +5024,7 @@
           "end": "2020-10-14T17:00:00",
           "last_updated": "2020-10-14T16:54:00",
           "municipality": "Chilliwack",
-          "municipality_code": "day-3 city--708005353",
+          "municipality_code": "city--708005353",
           "start": "2020-10-14T15:27:00"
         },
         {
@@ -5587,7 +5584,7 @@
           "end": "2020-10-14T17:36:00",
           "last_updated": "2020-10-14T18:04:00",
           "municipality": "Kent",
-          "municipality_code": "day-3 city-2334912",
+          "municipality_code": "city-2334912",
           "start": "2020-10-13T12:50:00"
         },
         {
@@ -6157,7 +6154,7 @@
           "end": "2020-10-16T16:45:00",
           "last_updated": "2020-10-16T16:55:00",
           "municipality": "Langley",
-          "municipality_code": "day-1 day-3 city-1612593490",
+          "municipality_code": "day-3 city-1612593490",
           "start": "2020-10-16T11:56:00"
         },
         {
@@ -6255,7 +6252,7 @@
           "cause": "Equipment failure",
           "customers_affected": "< 5",
           "end": "2020-10-18T14:40:00",
-          "last_updated": "2020-10-18T14:05:00",
+          "last_updated": "2020-10-18T16:52:00",
           "municipality": "Langley",
           "municipality_code": "day-1 day-3 city-1612593490",
           "start": "2020-10-18T09:53:00"
@@ -9474,7 +9471,7 @@
           "end": "",
           "last_updated": "2020-10-16T16:56:00",
           "municipality": "Campbell River",
-          "municipality_code": "day-1 day-3 city-1240464880",
+          "municipality_code": "day-3 city-1240464880",
           "start": "2020-10-16T15:41:00"
         },
         {
@@ -10024,7 +10021,7 @@
           "end": "2020-10-14T17:45:00",
           "last_updated": "2020-10-14T17:11:00",
           "municipality": "Courtenay",
-          "municipality_code": "day-3 city--824228212",
+          "municipality_code": "city--824228212",
           "start": "2020-10-14T14:59:00"
         },
         {
@@ -10614,7 +10611,7 @@
           "end": "2020-10-14T17:30:00",
           "last_updated": "2020-10-15T07:29:00",
           "municipality": "Nanaimo",
-          "municipality_code": "day-3 city--907547835",
+          "municipality_code": "city--907547835",
           "start": "2020-10-14T14:16:00"
         },
         {
@@ -11931,7 +11928,7 @@
           "end": "2020-10-16T17:15:00",
           "last_updated": "2020-10-16T19:38:00",
           "municipality": "Burns Lake",
-          "municipality_code": "day-1 day-3 city--2121425941",
+          "municipality_code": "day-3 city--2121425941",
           "start": "2020-10-16T10:06:00"
         },
         {
@@ -11941,7 +11938,7 @@
           "end": "2020-10-16T17:00:00",
           "last_updated": "2020-10-16T19:39:00",
           "municipality": "Burns Lake",
-          "municipality_code": "day-1 day-3 city--2121425941",
+          "municipality_code": "day-3 city--2121425941",
           "start": "2020-10-16T10:17:00"
         },
         {
@@ -12781,7 +12778,7 @@
           "end": "2020-10-14T17:30:00",
           "last_updated": "2020-10-14T17:19:00",
           "municipality": "Prince Rupert",
-          "municipality_code": "day-3 city--2129578383",
+          "municipality_code": "city--2129578383",
           "start": "2020-10-14T17:04:00"
         },
         {
@@ -16832,7 +16829,7 @@
           "end": "2020-10-14T17:00:00",
           "last_updated": "2020-10-14T16:59:00",
           "municipality": "Clearwater",
-          "municipality_code": "day-3 city-1282265866",
+          "municipality_code": "city-1282265866",
           "start": "2020-10-14T09:52:00"
         },
         {
@@ -17362,7 +17359,7 @@
           "end": "",
           "last_updated": "2020-10-14T17:07:00",
           "municipality": "Kamloops",
-          "municipality_code": "day-3 city-979034872",
+          "municipality_code": "city-979034872",
           "start": "2020-10-14T13:03:00"
         },
         {
