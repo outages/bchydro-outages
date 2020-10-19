@@ -1,17 +1,27 @@
 {
   "current": {
     "Lower Mainland": {
-      "customers_affected_14d": 103,
+      "customers_affected_14d": 105,
       "outages": [
+        {
+          "area": "7500 block LEFEUVRE RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Under investigation",
+          "customers_affected": "< 5",
+          "last_updated": "2020-10-19T00:27:00",
+          "municipality": "Abbotsford",
+          "municipality_code": "day-1 day-3 city-1230363016",
+          "start": "2020-10-19T00:07:00",
+          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 19 1:30 a.m."
+        },
         {
           "area": "East of BROWNING DR, West of MINSTER DR, South of GARRETT DR, North of 72ND AVE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "96",
-          "last_updated": "2020-10-18T23:38:00",
+          "last_updated": "2020-10-19T00:35:00",
           "municipality": "Delta",
           "municipality_code": "day-1 day-3 city-65915800",
           "start": "2020-10-18T22:46:00",
-          "status": "Crew status: Crew assigned\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 19 12:15 a.m."
+          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 19 12:15 a.m."
         },
         {
           "area": "4600 block VANGUARD RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -34,11 +44,11 @@
           "area": "North of SALMON RIVER RD, East of RIVER RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "5",
-          "last_updated": "2020-10-18T23:49:00",
+          "last_updated": "2020-10-19T00:12:00",
           "municipality": "Hazelton",
           "municipality_code": "day-1 day-3 city-411200875",
           "start": "2020-10-18T23:28:00",
-          "status": "Crew status: Crew assigned"
+          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 19 2:15 a.m."
         }
       ],
       "region_code": "Northern",
@@ -70,23 +80,6 @@
       ],
       "region_code": "South VI",
       "region_id": "1812901382"
-    },
-    "Thompson/Shuswap": {
-      "customers_affected_14d": 18,
-      "outages": [
-        {
-          "area": "1300 block BURFIELD DR\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Under investigation",
-          "customers_affected": "18",
-          "last_updated": "2020-10-18T23:08:00",
-          "municipality": "Kamloops",
-          "municipality_code": "day-1 day-3 city-979034872",
-          "start": "2020-10-18T22:15:00",
-          "status": "Crew status: Crew on-site"
-        }
-      ],
-      "region_code": "Thompson/Shuswap",
-      "region_id": "725364552"
     }
   },
   "planned": {
@@ -16104,7 +16097,7 @@
       "region_id": "1812901382"
     },
     "Thompson/Shuswap": {
-      "customers_affected_14d": 14292,
+      "customers_affected_14d": 14310,
       "outages": [
         {
           "area": "East of WILCOX RD, North of TRIP RD",
@@ -16905,6 +16898,16 @@
           "municipality": "Kamloops",
           "municipality_code": "city-979034872",
           "start": "2020-10-06T08:52:00"
+        },
+        {
+          "area": "1300 block BURFIELD DR",
+          "cause": "Equipment failure",
+          "customers_affected": "18",
+          "end": "2020-10-19T00:45:00",
+          "last_updated": "2020-10-19T00:35:00",
+          "municipality": "Kamloops",
+          "municipality_code": "day-1 day-3 city-979034872",
+          "start": "2020-10-18T22:15:00"
         },
         {
           "area": "9000 - 9700 block BARNHARTVALE RD",
