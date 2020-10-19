@@ -7,18 +7,18 @@
           "area": "4400 block KIMBALL RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-19T09:48:00",
+          "last_updated": "2020-10-19T12:35:00",
           "municipality": "Prince George",
           "municipality_code": "day-1 day-3 city-1835674262",
           "start": "2020-10-19T09:37:00",
-          "status": "Crew status: Crew assigned"
+          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 19 1:15 p.m."
         }
       ],
       "region_code": "Central Interior",
       "region_id": "848340027"
     },
     "Lower Mainland": {
-      "customers_affected_14d": 558,
+      "customers_affected_14d": 555,
       "outages": [
         {
           "area": "East of LOOK OUT PT, West of MARINE AVE, North of BELCARRA BAY RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -59,16 +59,6 @@
           "municipality_code": "day-1 day-3 city-1612593490",
           "start": "2020-10-19T08:11:00",
           "status": "Crew status: Crew assigned\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 19 9:40 a.m."
-        },
-        {
-          "area": "3600 block 260 ST, 26000 block 36 AVE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Planned work being done on our equipment",
-          "customers_affected": "< 5",
-          "last_updated": "2020-10-19T09:55:00",
-          "municipality": "Langley",
-          "municipality_code": "day-1 day-3 city-1612593490",
-          "start": "2020-10-19T09:53:00",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 19 12:00 p.m."
         },
         {
           "area": "19700 block 8 AVE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -258,11 +248,11 @@
           "area": "1900 block W BURNSIDE RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Tree down across our wires",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-19T12:13:00",
+          "last_updated": "2020-10-19T12:41:00",
           "municipality": "Saanich, View Royal",
           "municipality_code": "day-1 day-3 city--776615533 city--1360221748",
           "start": "2020-10-19T11:17:00",
-          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 19 1:15 p.m."
+          "status": "Crew status: Crew on-site"
         }
       ],
       "region_code": "South VI",
@@ -325,7 +315,7 @@
       "region_id": "848340027"
     },
     "Lower Mainland": {
-      "customers_affected_14d": 7848,
+      "customers_affected_14d": 7877,
       "outages": [
         {
           "area": "1944, 1954, 1966, 1976 Albion St; 32666-32749 Cordova Ave; 325, 32760 Marshall Rd, 32414-32750 Pandora Ave; 1911-1944 Valencia Crt, Abbotsford",
@@ -836,6 +826,16 @@
           "municipality": "Delta",
           "municipality_code": "day-1 day-3 city-65915800",
           "start": "2020-10-17T08:30:00"
+        },
+        {
+          "area": "14651,14661,14671,14680,14690,14691\r\n14701,14721,14731,14741,14751,14761\r\nAlpine Blv., Hope",
+          "cause": "Pole replacement",
+          "customers_affected": "12",
+          "end": "2020-10-27T16:00:00",
+          "last_updated": "2020-10-19T12:38:00",
+          "municipality": "Hope",
+          "municipality_code": "day-1 day-3 city-2255196",
+          "start": "2020-10-27T10:00:00"
         },
         {
           "area": "* Continued work from Sat Sep 26 and Sun Sep 27 *20271-2017 82 Ave; 20348-20458 84 Ave; 8212-8258 202 St; 8271 203 St; 8050-8328 204 St; 8258 202A St; 8207-8371 202B St; 8217 204B St; 20261-20397 82A Ave; 20217-20394 82B Ave; 20345, 20415, 20498 82 Ave; 20349-20473 83A Ave; 20347-20451 83B Ave, 20344 and 20422 84 Ave Langley",
@@ -1478,6 +1478,16 @@
           "start": "2020-10-19T09:00:00"
         },
         {
+          "area": "230, 250 E 41st Ave, 5736, 5738, 5742, 5764, 5778, 5790, 5806 Cree St, 5725, 5735, 5751, 5767, 5783, 5785, 5787, 5807 Sophia St, Vancouver",
+          "cause": "Planned work being done on our equipment",
+          "customers_affected": "17",
+          "end": "2020-10-23T16:00:00",
+          "last_updated": "2020-10-19T12:36:00",
+          "municipality": "Vancouver",
+          "municipality_code": "day-1 day-3 city--1786794435",
+          "start": "2020-10-23T09:00:00"
+        },
+        {
           "area": "2305, 2315, 2343, 2353, 2363, 2373, 2383 Grant St, 2306, 2316, 2326, 2336, 2346, 2356, 2366 Kitchener St, Vancouver",
           "cause": "Pole replacement",
           "customers_affected": "14",
@@ -2103,7 +2113,7 @@
       "region_id": "2072041405"
     },
     "South VI": {
-      "customers_affected_14d": 1397,
+      "customers_affected_14d": 1514,
       "outages": [
         {
           "area": "1746 Verling Ave; 1763 Sean Hts, Saanichton",
@@ -2274,6 +2284,16 @@
           "municipality": "Victoria",
           "municipality_code": "day-1 day-3 city-1201273535",
           "start": "2020-10-27T09:30:00"
+        },
+        {
+          "area": "530 - 541 Westbay Tce, Victoria",
+          "cause": "Planned work being done on our equipment",
+          "customers_affected": "117",
+          "end": "2020-10-26T15:30:00",
+          "last_updated": "2020-10-19T12:35:00",
+          "municipality": "Victoria",
+          "municipality_code": "day-1 day-3 city-1201273535",
+          "start": "2020-10-26T09:30:00"
         },
         {
           "area": "1145-1281 Cherry Rd, 1265, 1268, 1272 Cherry Lane, 4204-4285 Ponderosa Cres, 4163, 4164, 4167 Wilkinson Rd, Victoria",
@@ -3136,7 +3156,7 @@
           "cause": "Under investigation",
           "customers_affected": "< 5",
           "end": "2020-10-19T12:15:00",
-          "last_updated": "2020-10-19T12:16:00",
+          "last_updated": "2020-10-19T12:36:00",
           "municipality": "Prince George",
           "municipality_code": "day-1 day-3 city-1835674262",
           "start": "2020-10-19T08:21:00"
@@ -8085,7 +8105,7 @@
           "end": "2020-10-15T14:00:00",
           "last_updated": "2020-10-15T13:38:00",
           "municipality": "Richmond",
-          "municipality_code": "day-3 city--1486145068",
+          "municipality_code": "city--1486145068",
           "start": "2020-10-15T09:36:00"
         },
         {
@@ -8875,7 +8895,7 @@
           "end": "2020-10-15T13:00:00",
           "last_updated": "2020-10-15T12:43:00",
           "municipality": "Surrey",
-          "municipality_code": "day-3 city--1807186826",
+          "municipality_code": "city--1807186826",
           "start": "2020-10-15T09:44:00"
         },
         {
