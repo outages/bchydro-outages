@@ -1,7 +1,7 @@
 {
   "current": {
     "Central Interior": {
-      "customers_affected_14d": 430,
+      "customers_affected_14d": 376,
       "outages": [
         {
           "area": "North-South-East-West of BARKERVILLE HWY\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -12,34 +12,14 @@
           "municipality_code": "day-1 day-3 city-83462469",
           "start": "2020-10-19T13:57:00",
           "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 19 7:00 p.m."
-        },
-        {
-          "area": "North-West of DOG CREEK RD, South of CHIMNEY VALLEY RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Under investigation",
-          "customers_affected": "54",
-          "last_updated": "2020-10-19T15:46:00",
-          "municipality": "Williams Lake",
-          "municipality_code": "day-1 day-3 city--1905642465",
-          "start": "2020-10-19T15:04:00",
-          "status": "Crew status: Crew on-site"
         }
       ],
       "region_code": "Central Interior",
       "region_id": "848340027"
     },
     "Lower Mainland": {
-      "customers_affected_14d": 270,
+      "customers_affected_14d": 225,
       "outages": [
-        {
-          "area": "East of 224TH ST, North of 40TH AVE, South of FRASER HWY, West of 232ND ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Wire down",
-          "customers_affected": "62",
-          "last_updated": "2020-10-19T15:10:00",
-          "municipality": "Langley",
-          "municipality_code": "day-1 day-3 city-1612593490",
-          "start": "2020-10-19T10:31:00",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 19 4:00 p.m."
-        },
         {
           "area": "25900 block 48 AVE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Wire down",
@@ -59,6 +39,16 @@
           "municipality_code": "day-1 day-3 city-1612593490",
           "start": "2020-10-19T09:48:00",
           "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 19 4:35 p.m."
+        },
+        {
+          "area": "East of NELSON ST, North of SILVERDALE AVE, West of TURNER ST, South of MCFALL TCE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Motor vehicle accident",
+          "customers_affected": "17",
+          "last_updated": "2020-10-19T16:20:00",
+          "municipality": "Mission",
+          "municipality_code": "day-1 day-3 city--1560864404",
+          "start": "2020-10-19T14:32:00",
+          "status": "Crew status: Crew assigned"
         },
         {
           "area": "5700 block SUNSHINE FALLS LANE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -148,32 +138,15 @@
           "area": "3200 block 35 AVE, 3300 block 35TH AVE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-19T15:29:00",
+          "last_updated": "2020-10-19T16:20:00",
           "municipality": "Vernon",
           "municipality_code": "day-1 day-3 city--1736079254",
           "start": "2020-10-19T15:23:00",
-          "status": "Crew status: Crew assigned"
+          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 19 4:25 p.m."
         }
       ],
       "region_code": "Okanagan/Kootenay",
       "region_id": "2072041405"
-    },
-    "South VI": {
-      "customers_affected_14d": -1,
-      "outages": [
-        {
-          "area": "4700 block BADGER PL\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Tree down across our wires",
-          "customers_affected": "< 5",
-          "last_updated": "2020-10-19T15:07:00",
-          "municipality": "Metchosin",
-          "municipality_code": "day-1 day-3 city-1000109226",
-          "start": "2020-10-18T17:42:00",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 19 4:30 p.m."
-        }
-      ],
-      "region_code": "South VI",
-      "region_id": "1812901382"
     },
     "Thompson/Shuswap": {
       "customers_affected_14d": 27,
@@ -202,7 +175,7 @@
           "area": "700 block N WESTSYDE RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-19T15:59:00",
+          "last_updated": "2020-10-19T16:14:00",
           "municipality": "Kamloops",
           "municipality_code": "day-1 day-3 city-979034872",
           "start": "2020-10-19T15:38:00",
@@ -1736,7 +1709,7 @@
       "region_id": "1602896846"
     },
     "Northern": {
-      "customers_affected_14d": 7423,
+      "customers_affected_14d": 7436,
       "outages": [
         {
           "area": "Burns Lake Substation - Burns Lake; Danskin; Decker Lake; Endako; Francois Lake, Fraser Lake; Grassy Plains; Houston; Noralee; Ootsa Lake; Priestley; Southbank; Takysie Lake; Tchesinkut Lake; Topley",
@@ -1757,6 +1730,16 @@
           "municipality": "Chetwynd",
           "municipality_code": "day-1 day-3 city-1617615372",
           "start": "2020-10-25T07:00:00"
+        },
+        {
+          "area": "4716,4717,4720,4721,4724,4725,4728\r\n4729,4732,4733,4736,4741,4745\r\n45th St., Chetwynd",
+          "cause": "Planned work being done on our equipment",
+          "customers_affected": "13",
+          "end": "2020-10-30T17:00:00",
+          "last_updated": "2020-10-19T16:16:00",
+          "municipality": "Chetwynd",
+          "municipality_code": "day-1 day-3 city-1617615372",
+          "start": "2020-10-30T08:00:00"
         },
         {
           "area": "**Emergent**10727, 10728, 10729, 10731, 10732 18 St; 1800, 1804, 1808, 1812, 1816, 1820, 1824, 1828, 1832, 1836, 1840, 1900, 1904, 1908, 1912, 1916, 1920, 1924, 1928, 1932, 1936, 1940 108 Ave; 1801, 1805, 1809, 1813, 1817, 1821, 1825, 1829, 1833, 1837, 1841, 1901, 1905 Aspen Dr; 1704, 1706, 1707, 1708, 1710, 1711, 1712, 1714, 1715, 1716, 1718, 1719, 1720, 1722, 1723, 1724, 1726, 1727, 1728, 1730, 1731, 1732, 1735 Cedarwood Crt; 10712, 10714, 10715, 10717, 10718, 10719, 10720, 10721, 10723, 10724, 10725, 10728, 10729 Cottonwood Cres; 10700, 10701, 10702, 10704, 10705, 10706, 10708, 10709, 10710, 10712, 10713, 10714, 10716, 10717, 10718, 10720, 10721, 10722, 10724, 10725, 10728, 10729, 10730, 10732, 10733, 10734, 10737 Cypress Crt; 2001, 2009, 2013, 2017, 2021, 10724, 10728 Willowview Dr., Dawson Creek",
@@ -2886,7 +2869,7 @@
   },
   "restored": {
     "Central Interior": {
-      "customers_affected_14d": 16056,
+      "customers_affected_14d": 16110,
       "outages": [
         {
           "area": "North of HWY 97",
@@ -3599,6 +3582,16 @@
           "start": "2020-10-05T11:59:00"
         },
         {
+          "area": "North-West of DOG CREEK RD, South of CHIMNEY VALLEY RD",
+          "cause": "Bird contacting our wires",
+          "customers_affected": "54",
+          "end": "",
+          "last_updated": "2020-10-19T16:16:00",
+          "municipality": "Williams Lake",
+          "municipality_code": "day-1 day-3 city--1905642465",
+          "start": "2020-10-19T15:04:00"
+        },
+        {
           "area": "5600 block GARDEN RD, 5500 - 5600 block MARSHALL CREEK RD, 5500 block MARSHALL  CRK RD, 5500 block MARSHALL RD, 5500 block MARSHALL CRK RD, QUESNEL LAKE RELOAD RD",
           "cause": "Under investigation",
           "customers_affected": "43",
@@ -3743,7 +3736,7 @@
       "region_id": "848340027"
     },
     "Lower Mainland": {
-      "customers_affected_14d": 145682,
+      "customers_affected_14d": 146101,
       "outages": [
         {
           "area": "North of MACLURE RD, East of MT LEHMAN RD, West of Hwy 11",
@@ -6136,6 +6129,16 @@
           "start": "2020-10-13T12:28:00"
         },
         {
+          "area": "East of 224TH ST, North of 40TH AVE, South of FRASER HWY, West of 232ND ST",
+          "cause": "Construction",
+          "customers_affected": "402",
+          "end": "2020-10-19T16:00:00",
+          "last_updated": "2020-10-19T16:19:00",
+          "municipality": "Langley",
+          "municipality_code": "day-1 day-3 city-1612593490",
+          "start": "2020-10-19T10:31:00"
+        },
+        {
           "area": "South of 48TH AVE, East of 224TH ST, West of 240TH ST, North of 16TH AVE",
           "cause": "Other",
           "customers_affected": "402",
@@ -7546,6 +7549,16 @@
           "start": "2020-10-13T11:55:00"
         },
         {
+          "area": "East of NELSON ST, North of SILVERDALE AVE, West of TURNER ST, South of MCFALL TCE",
+          "cause": "Under investigation",
+          "customers_affected": "17",
+          "end": "",
+          "last_updated": "2020-10-19T16:17:00",
+          "municipality": "Mission",
+          "municipality_code": "day-1 day-3 city--1560864404",
+          "start": "2020-10-19T16:14:00"
+        },
+        {
           "area": "33500 - 33600 block 2ND AVE, 33500 block 2 AVE",
           "cause": "Bird contacting our wires",
           "customers_affected": "17",
@@ -7642,7 +7655,7 @@
           "end": "2020-10-15T15:30:00",
           "last_updated": "2020-10-16T07:20:00",
           "municipality": "Mission",
-          "municipality_code": "day-3 city--1560864404",
+          "municipality_code": "city--1560864404",
           "start": "2020-10-13T15:39:00"
         },
         {
@@ -9152,7 +9165,7 @@
           "end": "2020-10-15T16:20:00",
           "last_updated": "2020-10-16T09:47:00",
           "municipality": "Surrey",
-          "municipality_code": "day-3 city--1807186826",
+          "municipality_code": "city--1807186826",
           "start": "2020-10-15T14:36:00"
         },
         {
@@ -14211,7 +14224,7 @@
       "region_id": "2072041405"
     },
     "South VI": {
-      "customers_affected_14d": 78507,
+      "customers_affected_14d": 78508,
       "outages": [
         {
           "area": "North of CHURCH RD, West of STAUTW RD, East of TETAYUT RD, South of MT NEWTON XRD",
@@ -15612,6 +15625,16 @@
           "municipality": "Metchosin",
           "municipality_code": "city-1000109226",
           "start": "2020-10-11T13:42:00"
+        },
+        {
+          "area": "4700 block BADGER PL",
+          "cause": "Tree down across our wires",
+          "customers_affected": "< 5",
+          "end": "2020-10-19T16:30:00",
+          "last_updated": "2020-10-19T16:19:00",
+          "municipality": "Metchosin",
+          "municipality_code": "day-1 day-3 city-1000109226",
+          "start": "2020-10-18T17:42:00"
         },
         {
           "area": "5000 block ROCKY POINT RD",
