@@ -1,13 +1,13 @@
 {
   "current": {
     "Central Interior": {
-      "customers_affected_14d": 447,
+      "customers_affected_14d": 430,
       "outages": [
         {
-          "area": "East of JOLAR RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "area": "North-South-East-West of BARKERVILLE HWY\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Wire down",
-          "customers_affected": "393",
-          "last_updated": "2020-10-19T15:45:00",
+          "customers_affected": "376",
+          "last_updated": "2020-10-19T15:46:00",
           "municipality": "Wells",
           "municipality_code": "day-1 day-3 city-83462469",
           "start": "2020-10-19T13:57:00",
@@ -17,29 +17,19 @@
           "area": "North-West of DOG CREEK RD, South of CHIMNEY VALLEY RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "54",
-          "last_updated": "2020-10-19T15:25:00",
+          "last_updated": "2020-10-19T15:46:00",
           "municipality": "Williams Lake",
           "municipality_code": "day-1 day-3 city--1905642465",
           "start": "2020-10-19T15:04:00",
-          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 19 4:20 p.m."
+          "status": "Crew status: Crew on-site"
         }
       ],
       "region_code": "Central Interior",
       "region_id": "848340027"
     },
     "Lower Mainland": {
-      "customers_affected_14d": 389,
+      "customers_affected_14d": 270,
       "outages": [
-        {
-          "area": "2700 block ABERDEEN AVE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Bird contacting our wires",
-          "customers_affected": "< 5",
-          "last_updated": "2020-10-19T15:30:00",
-          "municipality": "Coquitlam",
-          "municipality_code": "day-1 day-3 city--3101987",
-          "start": "2020-10-19T14:21:00",
-          "status": "Crew status: Crew on-site"
-        },
         {
           "area": "East of 224TH ST, North of 40TH AVE, South of FRASER HWY, West of 232ND ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Wire down",
@@ -84,31 +74,11 @@
           "area": "13800 - 14000 block 224TH ST, 13900 - 14000 block 224 ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-19T15:34:00",
+          "last_updated": "2020-10-19T16:04:00",
           "municipality": "Pitt Meadows",
           "municipality_code": "day-1 day-3 city--253788407",
           "start": "2020-10-19T14:47:00",
-          "status": "Crew status: Crew assigned"
-        },
-        {
-          "area": "4600 block VANGUARD RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Transformer burn out",
-          "customers_affected": "7",
-          "last_updated": "2020-10-19T15:10:00",
-          "municipality": "Richmond",
-          "municipality_code": "day-1 day-3 city--1486145068",
-          "start": "2020-10-18T15:39:00",
-          "status": "Crew status: Crew on-site"
-        },
-        {
-          "area": "15300 block 17A AVE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Planned work being done on our equipment",
-          "customers_affected": "110",
-          "last_updated": "2020-10-19T15:10:00",
-          "municipality": "Surrey",
-          "municipality_code": "day-1 day-3 city--1807186826",
-          "start": "2020-10-19T11:00:00",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 19 4:00 p.m."
+          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 19 5:05 p.m."
         },
         {
           "area": "15100 block 92A AVE, 9200 - 9300 block 151 ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -168,11 +138,11 @@
           "area": "3200 block HWY 23, 3200 block N HWY 23\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-19T14:50:00",
+          "last_updated": "2020-10-19T16:00:00",
           "municipality": "Nakusp",
           "municipality_code": "day-1 day-3 city--1969008230",
           "start": "2020-10-19T12:03:00",
-          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 19 4:00 p.m."
+          "status": "Crew status: Crew on-site"
         },
         {
           "area": "3200 block 35 AVE, 3300 block 35TH AVE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -189,7 +159,7 @@
       "region_id": "2072041405"
     },
     "South VI": {
-      "customers_affected_14d": 15,
+      "customers_affected_14d": -1,
       "outages": [
         {
           "area": "4700 block BADGER PL\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -200,24 +170,24 @@
           "municipality_code": "day-1 day-3 city-1000109226",
           "start": "2020-10-18T17:42:00",
           "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 19 4:30 p.m."
-        },
-        {
-          "area": "North of GORGE RD, West of PARKVIEW DR, South-East of DYSART RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Planned work being done on our equipment",
-          "customers_affected": "14",
-          "last_updated": "2020-10-19T15:01:00",
-          "municipality": "Saanich",
-          "municipality_code": "day-1 day-3 city--776615533",
-          "start": "2020-10-19T13:57:00",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 19 3:00 p.m."
         }
       ],
       "region_code": "South VI",
       "region_id": "1812901382"
     },
     "Thompson/Shuswap": {
-      "customers_affected_14d": 6,
+      "customers_affected_14d": 27,
       "outages": [
+        {
+          "area": "North of CHASE BRIDGE RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Wire down",
+          "customers_affected": "20",
+          "last_updated": "2020-10-19T16:03:00",
+          "municipality": "Chase",
+          "municipality_code": "day-1 day-3 city-65071054",
+          "start": "2020-10-10T18:32:00",
+          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 19 5:00 p.m."
+        },
         {
           "area": "South-West of HWY 5 , East of AVOLA VILLAGE RD, North of BRAZIER RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Planned work being done on our equipment",
@@ -227,6 +197,16 @@
           "municipality_code": "day-1 day-3 city-1282265866",
           "start": "2020-10-19T11:36:00",
           "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 19 5:00 p.m."
+        },
+        {
+          "area": "700 block N WESTSYDE RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Under investigation",
+          "customers_affected": "< 5",
+          "last_updated": "2020-10-19T15:59:00",
+          "municipality": "Kamloops",
+          "municipality_code": "day-1 day-3 city-979034872",
+          "start": "2020-10-19T15:38:00",
+          "status": "Crew status: Crew assigned"
         }
       ],
       "region_code": "Thompson/Shuswap",
@@ -2003,7 +1983,7 @@
       "region_id": "1602964060"
     },
     "Okanagan/Kootenay": {
-      "customers_affected_14d": 2689,
+      "customers_affected_14d": 2706,
       "outages": [
         {
           "area": "* Outage to occur MDT *417, 441, 436 304th Ave, 818 30th Ave, 901-940 Ben Keer Dr, 2-11 Purcell Clo, 1, 5 Turner Clo, 590, 595, 695 305th Ave; 320-896 305th St, 605-898 306th St; 536-700 306th Ave; 545-812 308th St, 410-840 308th Ave,543-833 309th Ave, 761-840 309th St, Marysville",
@@ -2086,6 +2066,16 @@
           "start": "2020-10-28T08:00:00"
         },
         {
+          "area": "3189, 3190, 3195, 3196, 3201, 3202, 3207, 3208, 3213, 3214, 3219, 3220, 3225, 3226, 3227, 3231 Sunset Pl., West Kelowna",
+          "cause": "Planned work being done on our equipment",
+          "customers_affected": "17",
+          "end": "2020-10-27T15:30:00",
+          "last_updated": "2020-10-19T15:56:00",
+          "municipality": "West Kelowna",
+          "municipality_code": "day-1 day-3 city-1974628732",
+          "start": "2020-10-27T09:00:00"
+        },
+        {
           "area": "2139 Shannon Way, 3195-3220 Sagebrush Crt, Westbank",
           "cause": "Planned work being done on our equipment",
           "customers_affected": "10",
@@ -2120,7 +2110,7 @@
       "region_id": "2072041405"
     },
     "South VI": {
-      "customers_affected_14d": 1480,
+      "customers_affected_14d": 1484,
       "outages": [
         {
           "area": "1746 Verling Ave; 1763 Sean Hts, Saanichton",
@@ -2691,6 +2681,16 @@
           "municipality": "Victoria",
           "municipality_code": "day-1 day-3 city-1201273535",
           "start": "2020-10-23T09:30:00"
+        },
+        {
+          "area": "5110 Cordova Bay Rd, Victoria, (Units 37, 39, 41, and 43 only)",
+          "cause": "Transformer replacement",
+          "customers_affected": "< 5",
+          "end": "2020-10-27T16:00:00",
+          "last_updated": "2020-10-19T16:01:00",
+          "municipality": "Victoria",
+          "municipality_code": "day-1 day-3 city-1201273535",
+          "start": "2020-10-27T12:30:00"
         },
         {
           "area": "971-990 Arundel Dr",
@@ -3743,7 +3743,7 @@
       "region_id": "848340027"
     },
     "Lower Mainland": {
-      "customers_affected_14d": 145563,
+      "customers_affected_14d": 145682,
       "outages": [
         {
           "area": "North of MACLURE RD, East of MT LEHMAN RD, West of Hwy 11",
@@ -5527,6 +5527,16 @@
         },
         {
           "area": "2700 block ABERDEEN AVE",
+          "cause": "equipment contact",
+          "customers_affected": "< 5",
+          "end": "",
+          "last_updated": "2020-10-19T15:57:00",
+          "municipality": "Coquitlam",
+          "municipality_code": "day-1 day-3 city--3101987",
+          "start": "2020-10-19T14:21:00"
+        },
+        {
+          "area": "2700 block ABERDEEN AVE",
           "cause": "Planned work being done on our equipment",
           "customers_affected": "< 5",
           "end": "2020-10-18T15:00:00",
@@ -6662,7 +6672,7 @@
           "end": "2020-10-17T16:30:00",
           "last_updated": "2020-10-19T09:25:00",
           "municipality": "Langley",
-          "municipality_code": "day-1 day-3 city-1612593490",
+          "municipality_code": "day-3 city-1612593490",
           "start": "2020-10-17T12:23:00"
         },
         {
@@ -8276,6 +8286,16 @@
           "start": "2020-10-15T10:08:00"
         },
         {
+          "area": "4600 block VANGUARD RD",
+          "cause": "Equipment failure",
+          "customers_affected": "7",
+          "end": "",
+          "last_updated": "2020-10-19T16:03:00",
+          "municipality": "Richmond",
+          "municipality_code": "day-1 day-3 city--1486145068",
+          "start": "2020-10-18T15:39:00"
+        },
+        {
           "area": "16200 - 16300 block CAMBIE RD",
           "cause": "Other",
           "customers_affected": "< 5",
@@ -8754,6 +8774,16 @@
           "municipality": "Surrey",
           "municipality_code": "city--1807186826",
           "start": "2020-10-15T09:25:00"
+        },
+        {
+          "area": "15300 block 17A AVE",
+          "cause": "Planned work being done on our equipment",
+          "customers_affected": "110",
+          "end": "2020-10-19T16:00:00",
+          "last_updated": "2020-10-19T15:58:00",
+          "municipality": "Surrey",
+          "municipality_code": "day-1 day-3 city--1807186826",
+          "start": "2020-10-19T11:00:00"
         },
         {
           "area": "3100 block 160 ST, 15900 block 32 AVE",
@@ -9602,7 +9632,7 @@
           "end": "2020-10-17T16:00:00",
           "last_updated": "2020-10-19T09:03:00",
           "municipality": "Vancouver",
-          "municipality_code": "day-1 day-3 city--1786794435",
+          "municipality_code": "day-3 city--1786794435",
           "start": "2020-10-17T05:52:00"
         },
         {
@@ -11319,7 +11349,7 @@
           "end": "",
           "last_updated": "2020-10-19T08:23:00",
           "municipality": "Port Alberni",
-          "municipality_code": "day-1 day-3 city-383682720",
+          "municipality_code": "day-3 city-383682720",
           "start": "2020-10-17T15:04:00"
         },
         {
@@ -13783,7 +13813,7 @@
           "end": "2020-10-15T16:00:00",
           "last_updated": "2020-10-19T08:06:00",
           "municipality": "Invermere",
-          "municipality_code": "day-3 city--13155575",
+          "municipality_code": "city--13155575",
           "start": "2020-10-15T14:59:00"
         },
         {
@@ -14181,7 +14211,7 @@
       "region_id": "2072041405"
     },
     "South VI": {
-      "customers_affected_14d": 78471,
+      "customers_affected_14d": 78507,
       "outages": [
         {
           "area": "North of CHURCH RD, West of STAUTW RD, East of TETAYUT RD, South of MT NEWTON XRD",
@@ -15504,6 +15534,16 @@
           "start": "2020-10-12T00:31:00"
         },
         {
+          "area": "800 block WALFRED RD",
+          "cause": "Planned work being done on our equipment",
+          "customers_affected": "8",
+          "end": "2020-10-19T15:00:00",
+          "last_updated": "2020-10-19T15:52:00",
+          "municipality": "Langford",
+          "municipality_code": "day-1 day-3 city--1549378615",
+          "start": "2020-10-19T10:04:00"
+        },
+        {
           "area": "2900 block JACKLIN RD",
           "cause": "Equipment failure",
           "customers_affected": "< 5",
@@ -16244,6 +16284,16 @@
           "start": "2020-10-06T09:49:00"
         },
         {
+          "area": "North of GORGE RD, West of PARKVIEW DR, South-East of DYSART RD",
+          "cause": "Planned work being done on our equipment",
+          "customers_affected": "28",
+          "end": "2020-10-19T15:00:00",
+          "last_updated": "2020-10-19T15:52:00",
+          "municipality": "Saanich",
+          "municipality_code": "day-1 day-3 city--776615533",
+          "start": "2020-10-19T13:57:00"
+        },
+        {
           "area": "West of TILLICUM RD, North-East of GORGE RD, South of VINCENT AVE",
           "cause": "Planned work being done on our equipment",
           "customers_affected": "28",
@@ -16780,7 +16830,7 @@
           "end": "2020-10-15T16:00:00",
           "last_updated": "2020-10-15T16:00:00",
           "municipality": "Victoria",
-          "municipality_code": "day-3 city-1201273535",
+          "municipality_code": "city-1201273535",
           "start": "2020-10-15T10:34:00"
         },
         {
