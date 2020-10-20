@@ -17,6 +17,23 @@
       "region_code": "Lower Mainland",
       "region_id": "521980323"
     },
+    "Okanagan/Kootenay": {
+      "customers_affected_14d": -1,
+      "outages": [
+        {
+          "area": "3100 block CREIGHTON VLY RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Under investigation",
+          "customers_affected": "< 5",
+          "last_updated": "2020-10-20T06:05:00",
+          "municipality": "Vernon",
+          "municipality_code": "day-1 day-3 city--1736079254",
+          "start": "2020-10-20T06:04:00",
+          "status": "Crew status: No crew assigned yet"
+        }
+      ],
+      "region_code": "Okanagan/Kootenay",
+      "region_id": "2072041405"
+    },
     "Thompson/Shuswap": {
       "customers_affected_14d": -1,
       "outages": [
