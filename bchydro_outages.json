@@ -1,7 +1,7 @@
 {
   "current": {
     "Lower Mainland": {
-      "customers_affected_14d": 224,
+      "customers_affected_14d": 1568,
       "outages": [
         {
           "area": "West of GLADWIN RD, South of MARSHALL RD, North of TRANS CANADA HWY, East of CORDOVA CRT\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -114,6 +114,16 @@
           "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 20 2:30 p.m."
         },
         {
+          "area": "West of 138TH ST, North of 102A AVE, South of 108TH AVE, East of OLD YALE RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Under investigation",
+          "customers_affected": "1344",
+          "last_updated": "2020-10-20T13:34:00",
+          "municipality": "Surrey",
+          "municipality_code": "day-1 day-3 city--1807186826",
+          "start": "2020-10-20T13:32:00",
+          "status": "Crew status: No crew assigned yet"
+        },
+        {
           "area": "14400 block 116A AVE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "< 5",
@@ -219,18 +229,8 @@
       "region_id": "2072041405"
     },
     "South VI": {
-      "customers_affected_14d": 49,
+      "customers_affected_14d": 40,
       "outages": [
-        {
-          "area": "1100 block WYCHBURY AVE, 400 block LAMPSON ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Planned work being done on our equipment",
-          "customers_affected": "9",
-          "last_updated": "2020-10-20T09:50:00",
-          "municipality": "Esquimalt",
-          "municipality_code": "day-1 day-3 city--941955629",
-          "start": "2020-10-20T09:49:00",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 20 3:00 p.m."
-        },
         {
           "area": "4300 block TORRINGTON PL\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Planned work being done on our equipment",
@@ -4132,7 +4132,7 @@
           "end": "2020-10-16T13:22:00",
           "last_updated": "2020-10-19T09:40:00",
           "municipality": "Abbotsford",
-          "municipality_code": "day-3 city-1230363016",
+          "municipality_code": "city-1230363016",
           "start": "2020-10-16T10:47:00"
         },
         {
@@ -10509,7 +10509,7 @@
           "end": "2020-10-18T14:00:00",
           "last_updated": "2020-10-18T13:32:00",
           "municipality": "Courtenay",
-          "municipality_code": "day-1 day-3 city--824228212",
+          "municipality_code": "day-3 city--824228212",
           "start": "2020-10-18T09:43:00"
         },
         {
@@ -10597,7 +10597,7 @@
           "cause": "Equipment failure",
           "customers_affected": "< 5",
           "end": "",
-          "last_updated": "2020-10-19T11:12:00",
+          "last_updated": "2020-10-20T13:32:00",
           "municipality": "Courtenay",
           "municipality_code": "day-1 day-3 city--824228212",
           "start": "2020-10-19T09:08:00"
@@ -14093,7 +14093,7 @@
           "end": "2020-10-16T16:00:00",
           "last_updated": "2020-10-16T13:32:00",
           "municipality": "Vernon",
-          "municipality_code": "day-3 city--1736079254",
+          "municipality_code": "city--1736079254",
           "start": "2020-10-16T09:09:00"
         },
         {
@@ -14321,7 +14321,7 @@
       "region_id": "2072041405"
     },
     "South VI": {
-      "customers_affected_14d": 78432,
+      "customers_affected_14d": 78441,
       "outages": [
         {
           "area": "North of CHURCH RD, West of STAUTW RD, East of TETAYUT RD, South of MT NEWTON XRD",
@@ -14982,6 +14982,16 @@
           "municipality": "Esquimalt",
           "municipality_code": "city--941955629",
           "start": "2020-10-12T07:58:00"
+        },
+        {
+          "area": "1100 block WYCHBURY AVE, 400 block LAMPSON ST",
+          "cause": "Planned work being done on our equipment",
+          "customers_affected": "9",
+          "end": "2020-10-20T15:00:00",
+          "last_updated": "2020-10-20T13:33:00",
+          "municipality": "Esquimalt",
+          "municipality_code": "day-1 day-3 city--941955629",
+          "start": "2020-10-20T09:49:00"
         },
         {
           "area": "1100 block HADFIELD AVE, 300 block KINVER ST",
@@ -17857,7 +17867,7 @@
           "end": "",
           "last_updated": "2020-10-20T11:13:00",
           "municipality": "Kamloops",
-          "municipality_code": "day-3 city-979034872",
+          "municipality_code": "city-979034872",
           "start": "2020-10-16T12:01:00"
         },
         {
