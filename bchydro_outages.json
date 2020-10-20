@@ -1,7 +1,7 @@
 {
   "current": {
     "Lower Mainland": {
-      "customers_affected_14d": 64,
+      "customers_affected_14d": 65,
       "outages": [
         {
           "area": "East of CLIFF AVE, West of BARNET RD, North-South of INLET DR\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -12,6 +12,16 @@
           "municipality_code": "day-1 day-3 city-1903966249",
           "start": "2020-10-20T08:48:00",
           "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 20 5:00 p.m."
+        },
+        {
+          "area": "4500 block LOUGHEED HWY\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Planned work being done on our equipment",
+          "customers_affected": "< 5",
+          "last_updated": "2020-10-20T09:38:00",
+          "municipality": "Burnaby",
+          "municipality_code": "day-1 day-3 city-1903966249",
+          "start": "2020-10-20T09:37:00",
+          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 20 6:00 p.m."
         },
         {
           "area": "2600 block GILMORE AVE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -85,18 +95,8 @@
       "region_id": "1602896846"
     },
     "Northern": {
-      "customers_affected_14d": 635,
+      "customers_affected_14d": 48,
       "outages": [
-        {
-          "area": "CREW TRAILER, SAWMILL, DENNY ISLAND SHED, 0 - 100 block WAGLISLA ST, 300 block KIMSQUIT CRE, SCHOOL L1 BLK 20, 0 - 500 block NUDA DR, 300 block CLATSJA ST, WAGLISLA WHARF, AIRPORT ROAD...\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Substation fault",
-          "customers_affected": "587",
-          "last_updated": "2020-10-20T08:58:00",
-          "municipality": "Bella Bella",
-          "municipality_code": "day-1 day-3 city-1769381020",
-          "start": "2020-10-20T08:46:00",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 20 9:30 a.m."
-        },
         {
           "area": "0 block COLLINS RD, COLLINS RD SEWAGE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
@@ -169,8 +169,18 @@
       "region_id": "1812901382"
     },
     "Thompson/Shuswap": {
-      "customers_affected_14d": 8,
+      "customers_affected_14d": 16,
       "outages": [
+        {
+          "area": "South of 1ST AVE, West of WILSON ST, North of BELL ST, East of AYLMER RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Planned work being done on our equipment",
+          "customers_affected": "8",
+          "last_updated": "2020-10-20T09:39:00",
+          "municipality": "Chase",
+          "municipality_code": "day-1 day-3 city-65071054",
+          "start": "2020-10-20T09:38:00",
+          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 20 11:30 a.m."
+        },
         {
           "area": "South-West of HWY 5 , East of AVOLA VILLAGE RD, North of BRAZIER RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Planned work being done on our equipment",
@@ -185,11 +195,11 @@
           "area": "700 block N WESTSYDE RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Wire down",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-20T07:38:00",
+          "last_updated": "2020-10-20T09:43:00",
           "municipality": "Kamloops",
           "municipality_code": "day-1 day-3 city-979034872",
           "start": "2020-10-19T15:38:00",
-          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 20 9:00 a.m."
+          "status": "Crew status: Crew on-site"
         },
         {
           "area": "700 block S HWY 23\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -1739,7 +1749,7 @@
       "region_id": "1602896846"
     },
     "Northern": {
-      "customers_affected_14d": 7447,
+      "customers_affected_14d": 7491,
       "outages": [
         {
           "area": "Burns Lake Substation - Burns Lake; Danskin; Decker Lake; Endako; Francois Lake, Fraser Lake; Grassy Plains; Houston; Noralee; Ootsa Lake; Priestley; Southbank; Takysie Lake; Tchesinkut Lake; Topley",
@@ -1790,6 +1800,16 @@
           "municipality": "Dawson Creek",
           "municipality_code": "day-1 day-3 city--1630954860",
           "start": "2020-10-29T10:00:00"
+        },
+        {
+          "area": "EMERGENT / OUTAGE TIMES ARE MDT901 - 1021 94 Ave (south side of street only); 900 - 1020 (north side of street only)",
+          "cause": "Pole replacement",
+          "customers_affected": "44",
+          "end": "2020-10-27T16:00:00",
+          "last_updated": "2020-10-20T09:37:00",
+          "municipality": "Dawson Creek",
+          "municipality_code": "day-1 day-3 city--1630954860",
+          "start": "2020-10-27T09:30:00"
         },
         {
           "area": "233 ALASKA HWY; 2014 ALASKA HWY; Alaska Hwy Mile 232; Alaska Hwy Km431 Pt 6, Alaska Hwy Lt 8 Shop2, Alaska Hwy M233, Alaska Hwy M237, Alaska Hwy M275, Alaska Hwy M280 P59, Alaska Hwy M282 P44, Alaska Hwy M284 P20, Alaska Hwy M284 P49z, Alaska Hwy Mi 232, Alaska Hwy Mi 232 34, Andy Bailey Rd P, Andy Bailey Rd P1, Andy Bailey Rd P23, Andy Bailey Rd P34, Andy Bailey Rd P65, Andy Bailey Rd P65, Apachie Rd P12, Apatchie Rd Pz1, Apatchie Rd Pz20, Apatchie Rd Pz3, Bougie Crk, Duplex 25, Duplex 25, Duplex 26, Duplex 26, Hewitt Rd P015, Hewitt Rd P020, House 0 to 33, Pre School, Prophet  River Lot 20  to Lot 53, 40 Prophet River, Prophet River 18, Prophet River 35, Prophet River L20, Prophet River Loop Rd,  Prophet River M265, Prophet River Rd 50, Prophet River School, Prophet River Sub 7, Prophet River Sub L16, Prophet Rvr Lot 1a 1a, Prophet Rvr Lot 1d, Pumphouse, Rd A Line Lot 36 36, Rd A Lot 53 53, Road B Lot 43 43, Shop/warehouse, Water Tower.",
@@ -3576,7 +3596,7 @@
           "cause": "Tree down across our wires",
           "customers_affected": "393",
           "end": "2020-10-19T19:00:00",
-          "last_updated": "2020-10-20T09:27:00",
+          "last_updated": "2020-10-20T09:39:00",
           "municipality": "Wells",
           "municipality_code": "day-1 day-3 city-83462469",
           "start": "2020-10-19T13:57:00"
@@ -8793,7 +8813,7 @@
           "cause": "Bird contacting our wires",
           "customers_affected": "26",
           "end": "2020-10-20T08:00:00",
-          "last_updated": "2020-10-20T07:48:00",
+          "last_updated": "2020-10-20T09:39:00",
           "municipality": "Surrey",
           "municipality_code": "day-1 day-3 city--1807186826",
           "start": "2020-10-20T05:40:00"
@@ -12160,8 +12180,18 @@
       "region_id": "1602896846"
     },
     "Northern": {
-      "customers_affected_14d": 10846,
+      "customers_affected_14d": 11433,
       "outages": [
+        {
+          "area": "CREW TRAILER, SAWMILL, DENNY ISLAND SHED, 0 - 100 block WAGLISLA ST, 300 block KIMSQUIT CRE, SCHOOL L1 BLK 20, 0 - 500 block NUDA DR, 300 block CLATSJA ST, WAGLISLA WHARF, AIRPORT ROAD...",
+          "cause": "Substation fault",
+          "customers_affected": "587",
+          "end": "2020-10-20T09:30:00",
+          "last_updated": "2020-10-20T09:38:00",
+          "municipality": "Bella Bella",
+          "municipality_code": "day-1 day-3 city-1769381020",
+          "start": "2020-10-20T08:46:00"
+        },
         {
           "area": "100 - 200 block WABALISLA ST, 0 - 100 block WAGLISLA ST, 500 block CHEENIS ST, 700 block GOOSE ISLAND DR, AIRPORT RD, BELLA BELLA RORO, PUMPHOUSE, 0 - 1200 block SHEARWATER RD, UPPER HOTEL, DENNY ISLAND RD...",
           "cause": "Other",
@@ -13079,7 +13109,7 @@
           "end": "2020-10-16T09:58:00",
           "last_updated": "2020-10-19T10:36:00",
           "municipality": "Smithers",
-          "municipality_code": "day-3 city--305588573",
+          "municipality_code": "city--305588573",
           "start": "2020-10-16T07:11:00"
         },
         {
@@ -17818,7 +17848,7 @@
           "cause": "Tree down across our wires",
           "customers_affected": "311",
           "end": "",
-          "last_updated": "2020-10-19T11:01:00",
+          "last_updated": "2020-10-20T09:43:00",
           "municipality": "Revelstoke",
           "municipality_code": "day-1 day-3 city-1039954398",
           "start": "2020-10-19T04:53:00"
@@ -17838,7 +17868,7 @@
           "cause": "Other",
           "customers_affected": "251",
           "end": "2020-10-19T15:00:00",
-          "last_updated": "2020-10-19T15:23:00",
+          "last_updated": "2020-10-20T09:44:00",
           "municipality": "Revelstoke",
           "municipality_code": "day-1 day-3 city-1039954398",
           "start": "2020-10-19T06:37:00"
@@ -17868,7 +17898,7 @@
           "cause": "Under investigation",
           "customers_affected": "25",
           "end": "2020-10-19T12:00:00",
-          "last_updated": "2020-10-19T14:16:00",
+          "last_updated": "2020-10-20T09:46:00",
           "municipality": "Revelstoke",
           "municipality_code": "day-1 day-3 city-1039954398",
           "start": "2020-10-19T08:27:00"
@@ -17898,7 +17928,7 @@
           "cause": "Tree down across our wires",
           "customers_affected": "< 5",
           "end": "",
-          "last_updated": "2020-10-19T11:02:00",
+          "last_updated": "2020-10-20T09:45:00",
           "municipality": "Revelstoke",
           "municipality_code": "day-1 day-3 city-1039954398",
           "start": "2020-10-19T07:29:00"
