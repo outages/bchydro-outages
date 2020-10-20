@@ -18,8 +18,18 @@
       "region_id": "848340027"
     },
     "Lower Mainland": {
-      "customers_affected_14d": 187,
+      "customers_affected_14d": 323,
       "outages": [
+        {
+          "area": "North of ROAD ACCESS , East of VANMAR ST, West of PREST RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Motor vehicle accident",
+          "customers_affected": "136",
+          "last_updated": "2020-10-19T23:49:00",
+          "municipality": "Chilliwack",
+          "municipality_code": "day-1 day-3 city--708005353",
+          "start": "2020-10-19T21:28:00",
+          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 20 2:30 a.m."
+        },
         {
           "area": "North of 52ND AVE, South of 48TH AVE, West of COLUMBIA ST, East of CAMBIE ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Planned work being done on our equipment",
@@ -81,7 +91,7 @@
       "region_id": "848340027"
     },
     "Lower Mainland": {
-      "customers_affected_14d": 7663,
+      "customers_affected_14d": 7729,
       "outages": [
         {
           "area": "1944, 1954, 1966, 1976 Albion St; 32666-32749 Cordova Ave; 325, 32760 Marshall Rd, 32414-32750 Pandora Ave; 1911-1944 Valencia Crt, Abbotsford",
@@ -354,6 +364,16 @@
           "start": "2020-11-02T09:00:00"
         },
         {
+          "area": "8600 Nelson Ave., Burnaby",
+          "cause": "Planned work being done on our equipment",
+          "customers_affected": "< 5",
+          "end": "2020-11-03T17:00:00",
+          "last_updated": "2020-10-19T15:59:00",
+          "municipality": "Burnaby",
+          "municipality_code": "day-1 day-3 city-1903966249",
+          "start": "2020-11-03T09:00:00"
+        },
+        {
           "area": "CANCELLED4333 Ledger Ave",
           "cause": "Transformer replacement",
           "customers_affected": "< 5",
@@ -574,6 +594,16 @@
           "start": "2020-10-27T10:00:00"
         },
         {
+          "area": "14860-14893 Alpine Blvd",
+          "cause": "Planned work being done on our equipment",
+          "customers_affected": "9",
+          "end": "2020-11-03T14:30:00",
+          "last_updated": "2020-10-16T14:56:00",
+          "municipality": "Hope",
+          "municipality_code": "day-1 day-3 city-2255196",
+          "start": "2020-11-03T09:30:00"
+        },
+        {
           "area": "* Continued work from Sat Sep 26 and Sun Sep 27 *20271-2017 82 Ave; 20348-20458 84 Ave; 8212-8258 202 St; 8271 203 St; 8050-8328 204 St; 8258 202A St; 8207-8371 202B St; 8217 204B St; 20261-20397 82A Ave; 20217-20394 82B Ave; 20345, 20415, 20498 82 Ave; 20349-20473 83A Ave; 20347-20451 83B Ave, 20344 and 20422 84 Ave Langley",
           "cause": "Planned work being done on our equipment",
           "customers_affected": "945",
@@ -692,6 +722,16 @@
           "municipality": "Maple Ridge",
           "municipality_code": "day-1 day-3 city-598891104",
           "start": "2020-10-22T09:00:00"
+        },
+        {
+          "area": "26429-27170 108 Ave, 10585-10721 268 St, 10811 272 St, 26421-26796 Cunningham Ave, Maple Ridge / Whonnock",
+          "cause": "Planned work being done on our equipment",
+          "customers_affected": "56",
+          "end": "2020-11-03T17:00:00",
+          "last_updated": "2020-10-19T13:59:00",
+          "municipality": "Maple Ridge",
+          "municipality_code": "day-1 day-3 city-598891104",
+          "start": "2020-11-03T09:00:00"
         },
         {
           "area": "20295 113b Ave",
@@ -1368,7 +1408,7 @@
       "region_id": "521980323"
     },
     "North VI": {
-      "customers_affected_14d": 458,
+      "customers_affected_14d": 809,
       "outages": [
         {
           "area": "Outage location is on Quadra Island1527,1528,1530 Antler Rd; 714 Cramer Rd; 725 Esplanade Rd, Quadra Island",
@@ -1451,6 +1491,16 @@
           "start": "2020-10-26T09:00:00"
         },
         {
+          "area": "315 to 410 Alder Cres; 402 to 542 Cedar Cres; 530 to 675 Dogwood Dr and Sewg Lift; 490 to 595 Eagle Cres; 561 to 635 Hummingbird Lane; 500 to 549 Mallard Way; 390 Muchalat Dr; 375 to 649 Nimpkish Dr; 395 Nimpkish Court; 405 to 601 Trumpeter Dr, Gold River",
+          "cause": "Planned work being done on our equipment",
+          "customers_affected": "351",
+          "end": "2020-11-03T17:00:00",
+          "last_updated": "2020-10-19T10:52:00",
+          "municipality": "Gold River",
+          "municipality_code": "day-1 day-3 city--1035423156",
+          "start": "2020-11-03T08:00:00"
+        },
+        {
           "area": "1, 800 Mill Rd; 300 Western Rd; 1 Bowater Rd; Gold River",
           "cause": "Planned work being done on our equipment",
           "customers_affected": "17",
@@ -1525,7 +1575,7 @@
       "region_id": "1602896846"
     },
     "Northern": {
-      "customers_affected_14d": 7436,
+      "customers_affected_14d": 7447,
       "outages": [
         {
           "area": "Burns Lake Substation - Burns Lake; Danskin; Decker Lake; Endako; Francois Lake, Fraser Lake; Grassy Plains; Houston; Noralee; Ootsa Lake; Priestley; Southbank; Takysie Lake; Tchesinkut Lake; Topley",
@@ -1596,6 +1646,16 @@
           "municipality": "Fort Nelson",
           "municipality_code": "day-1 day-3 city--494521134",
           "start": "2020-10-25T09:00:00"
+        },
+        {
+          "area": "4604,4607,4608,4611,4612,4615,4619\r\n4623,4703,4707 Spruce Ave, Fort Nelson",
+          "cause": "Planned work being done on our equipment",
+          "customers_affected": "11",
+          "end": "2020-11-03T14:30:00",
+          "last_updated": "2020-10-19T15:27:00",
+          "municipality": "Fort Nelson",
+          "municipality_code": "day-1 day-3 city--494521134",
+          "start": "2020-11-03T09:30:00"
         },
         {
           "area": "RESCHEDULED FROM SEPTEMBER 17 / OUTAGE TIMES ARE MDT9207 82 St, Fort St. John",
@@ -2695,7 +2755,7 @@
   },
   "restored": {
     "Central Interior": {
-      "customers_affected_14d": 16503,
+      "customers_affected_14d": 16175,
       "outages": [
         {
           "area": "North of HWY 97",
@@ -2706,16 +2766,6 @@
           "municipality": "Mackenzie",
           "municipality_code": "city-642381361",
           "start": "2020-10-14T06:08:00"
-        },
-        {
-          "area": "East of HWY 97",
-          "cause": "Tree down across our wires",
-          "customers_affected": "5",
-          "end": "2020-10-05T14:00:00",
-          "last_updated": "2020-10-06T08:23:00",
-          "municipality": "Mackenzie",
-          "municipality_code": "city-642381361",
-          "start": "2020-10-04T17:08:00"
         },
         {
           "area": "56200 block HWY 97 P946",
@@ -2898,16 +2948,6 @@
           "start": "2020-10-16T08:01:00"
         },
         {
-          "area": "East of NESSVIEW RD, North-South-West of LAKESIDE DR",
-          "cause": "equipment contact",
-          "customers_affected": "9",
-          "end": "2020-10-05T17:20:00",
-          "last_updated": "2020-10-06T08:23:00",
-          "municipality": "Prince George",
-          "municipality_code": "city-1835674262",
-          "start": "2020-10-05T14:57:00"
-        },
-        {
           "area": "5900 - 12400 block FERGUSON LAKE RD, 6000 block FERGUSON LAKE",
           "cause": "Tree down across our wires",
           "customers_affected": "8",
@@ -2956,16 +2996,6 @@
           "municipality": "Prince George",
           "municipality_code": "city-1835674262",
           "start": "2020-10-10T07:32:00"
-        },
-        {
-          "area": "6500 block FOOTHILLS BLV, HEATHER RD LANDFILL",
-          "cause": "Other",
-          "customers_affected": "< 5",
-          "end": "2020-10-05T20:30:00",
-          "last_updated": "2020-10-06T08:24:00",
-          "municipality": "Prince George",
-          "municipality_code": "city-1835674262",
-          "start": "2020-10-05T17:38:00"
         },
         {
           "area": "7200 - 7300 block POOLEY RD",
@@ -3118,16 +3148,6 @@
           "start": "2020-10-16T07:35:00"
         },
         {
-          "area": "6900 block IRENE RD",
-          "cause": "Tree down across our wires",
-          "customers_affected": "< 5",
-          "end": "2020-10-05T18:40:00",
-          "last_updated": "2020-10-06T08:23:00",
-          "municipality": "Prince George",
-          "municipality_code": "city-1835674262",
-          "start": "2020-10-05T17:23:00"
-        },
-        {
           "area": "FOOTHILLS BLV",
           "cause": "Bird contacting our wires",
           "customers_affected": "< 5",
@@ -3268,16 +3288,6 @@
           "start": "2020-10-14T16:14:00"
         },
         {
-          "area": "800 block CARSON PIT RD, CARSON PIT RD P6",
-          "cause": "Tree down across our wires",
-          "customers_affected": "< 5",
-          "end": "2020-10-05T16:30:00",
-          "last_updated": "2020-10-07T16:30:00",
-          "municipality": "Quesnel",
-          "municipality_code": "city--1975191965",
-          "start": "2020-10-05T14:44:00"
-        },
-        {
           "area": "4900 block N CARIBOO HWY",
           "cause": "Planned work being done on our equipment",
           "customers_affected": "< 5",
@@ -3408,16 +3418,6 @@
           "start": "2020-10-11T01:30:00"
         },
         {
-          "area": "4200 - 4600 block LIKELY HWY, 3300 - 4200 block OVERTON RD, 3000 - 3200 block PRITCHARD RD, LIKELY RD P275, 3088 GLEASON CRS, LIKELY RD P262A/4/14, SWANSON LAKE RD B, 2600 - 2900 block BEAVER LAKE RD, LIKELY RD P281, BIG LAKE RD P42...",
-          "cause": "Tree down across our wires",
-          "customers_affected": "302",
-          "end": "2020-10-05T12:45:00",
-          "last_updated": "2020-10-06T11:33:00",
-          "municipality": "Williams Lake",
-          "municipality_code": "city--1905642465",
-          "start": "2020-10-05T11:59:00"
-        },
-        {
           "area": "North-West of DOG CREEK RD, South of CHIMNEY VALLEY RD",
           "cause": "Bird contacting our wires",
           "customers_affected": "54",
@@ -3476,16 +3476,6 @@
           "municipality": "Williams Lake",
           "municipality_code": "city--1905642465",
           "start": "2020-10-12T18:05:00"
-        },
-        {
-          "area": "ANAHAM RES P890/2 SHP, ANAHAM RES P890",
-          "cause": "Bird contacting our wires",
-          "customers_affected": "< 5",
-          "end": "2020-10-05T17:00:00",
-          "last_updated": "2020-10-06T11:28:00",
-          "municipality": "Williams Lake",
-          "municipality_code": "city--1905642465",
-          "start": "2020-10-05T14:22:00"
         },
         {
           "area": "7200 block PHILEMON LAKE RD",
@@ -3556,23 +3546,13 @@
           "municipality": "Williams Lake",
           "municipality_code": "day-3 city--1905642465",
           "start": "2020-10-16T15:07:00"
-        },
-        {
-          "area": "1200 block PIGEON AVE",
-          "cause": "Under investigation",
-          "customers_affected": "< 5",
-          "end": "",
-          "last_updated": "2020-10-05T10:53:00",
-          "municipality": "Williams Lake",
-          "municipality_code": "city--1905642465",
-          "start": "2020-10-05T09:26:00"
         }
       ],
       "region_code": "Central Interior",
       "region_id": "848340027"
     },
     "Lower Mainland": {
-      "customers_affected_14d": 148058,
+      "customers_affected_14d": 147645,
       "outages": [
         {
           "area": "North of MACLURE RD, East of MT LEHMAN RD, West of Hwy 11",
@@ -4015,26 +3995,6 @@
           "start": "2020-10-14T00:15:00"
         },
         {
-          "area": "31800 - 31900 block DOWNES RD",
-          "cause": "Planned work being done on our equipment",
-          "customers_affected": "< 5",
-          "end": "2020-10-05T11:15:00",
-          "last_updated": "2020-10-05T12:12:00",
-          "municipality": "Abbotsford",
-          "municipality_code": "city-1230363016",
-          "start": "2020-10-05T10:12:00"
-        },
-        {
-          "area": "4200 - 4300 block GLENMORE RD",
-          "cause": "Planned work being done on our equipment",
-          "customers_affected": "< 5",
-          "end": "2020-10-05T13:30:00",
-          "last_updated": "2020-10-05T13:41:00",
-          "municipality": "Abbotsford",
-          "municipality_code": "city-1230363016",
-          "start": "2020-10-05T12:26:00"
-        },
-        {
           "area": "40800 block NO 2 RD",
           "cause": "Bird contacting our wires",
           "customers_affected": "< 5",
@@ -4405,16 +4365,6 @@
           "start": "2020-10-19T12:07:00"
         },
         {
-          "area": "South-East of WAYBURNE DR, West of GARDEN GROVE DR, North of CEDARGLEN PL",
-          "cause": "Planned work being done on our equipment",
-          "customers_affected": "49",
-          "end": "2020-10-05T16:00:00",
-          "last_updated": "2020-10-05T15:22:00",
-          "municipality": "Burnaby",
-          "municipality_code": "city-1903966249",
-          "start": "2020-10-05T09:01:00"
-        },
-        {
           "area": "BETA AVE/BNR, 2300 block BETA AVE",
           "cause": "Planned work being done on our equipment",
           "customers_affected": "40",
@@ -4423,16 +4373,6 @@
           "municipality": "Burnaby",
           "municipality_code": "city-1903966249",
           "start": "2020-10-09T11:06:00"
-        },
-        {
-          "area": "4700 block WILLOWDALE PL",
-          "cause": "Planned work being done on our equipment",
-          "customers_affected": "25",
-          "end": "2020-10-05T15:30:00",
-          "last_updated": "2020-10-05T15:21:00",
-          "municipality": "Burnaby",
-          "municipality_code": "city-1903966249",
-          "start": "2020-10-05T15:08:00"
         },
         {
           "area": "East of BUCKINGHAM AVE, South-West of CANADA WAY, North of GORDON AVE",
@@ -4545,16 +4485,6 @@
           "start": "2020-10-13T12:09:00"
         },
         {
-          "area": "7500 block CANADA WAY, 7700 block 15TH AVE",
-          "cause": "Planned work being done on our equipment",
-          "customers_affected": "13",
-          "end": "2020-10-05T13:00:00",
-          "last_updated": "2020-10-05T13:35:00",
-          "municipality": "Burnaby",
-          "municipality_code": "city-1903966249",
-          "start": "2020-10-05T09:00:00"
-        },
-        {
           "area": "5500 block HASTINGS ST",
           "cause": "Planned work being done on our equipment",
           "customers_affected": "12",
@@ -4563,16 +4493,6 @@
           "municipality": "Burnaby",
           "municipality_code": "city-1903966249",
           "start": "2020-10-07T09:57:00"
-        },
-        {
-          "area": "7900 block WINSTON ST",
-          "cause": "Planned work being done on our equipment",
-          "customers_affected": "8",
-          "end": "2020-10-05T16:00:00",
-          "last_updated": "2020-10-05T15:10:00",
-          "municipality": "Burnaby",
-          "municipality_code": "city-1903966249",
-          "start": "2020-10-05T09:13:00"
         },
         {
           "area": "7900 block GRAHAM AVE",
@@ -4593,16 +4513,6 @@
           "municipality": "Burnaby",
           "municipality_code": "city-1903966249",
           "start": "2020-10-06T19:32:00"
-        },
-        {
-          "area": "5200 block REGENT ST",
-          "cause": "Under investigation",
-          "customers_affected": "< 5",
-          "end": "",
-          "last_updated": "2020-10-06T07:16:00",
-          "municipality": "Burnaby",
-          "municipality_code": "city-1903966249",
-          "start": "2020-10-05T11:05:00"
         },
         {
           "area": "North of AUSTIN AVE, East of NORTH RD, South of REGAN AVE, West of TOWNLEY ST",
@@ -5593,16 +5503,6 @@
           "municipality": "Gibsons",
           "municipality_code": "city-1688353985",
           "start": "2020-10-12T13:08:00"
-        },
-        {
-          "area": "600 block GLEN RD",
-          "cause": "Equipment failure",
-          "customers_affected": "5",
-          "end": "2020-10-05T18:30:00",
-          "last_updated": "2020-10-09T07:40:00",
-          "municipality": "Gibsons",
-          "municipality_code": "city-1688353985",
-          "start": "2020-10-05T13:23:00"
         },
         {
           "area": "North of ELSE RD",
@@ -6755,16 +6655,6 @@
           "start": "2020-10-13T13:15:00"
         },
         {
-          "area": "200 block 264 ST",
-          "cause": "Bird contacting our wires",
-          "customers_affected": "< 5",
-          "end": "2020-10-05T11:45:00",
-          "last_updated": "2020-10-06T09:19:00",
-          "municipality": "Langley",
-          "municipality_code": "city-1612593490",
-          "start": "2020-10-05T10:29:00"
-        },
-        {
           "area": "West of 241A ST, East of ALLARD CRS, South of CHERRYWOOD DR, North of GLOVER RD",
           "cause": "Tree down across our wires",
           "customers_affected": "3205",
@@ -7655,16 +7545,6 @@
           "start": "2020-10-15T09:36:00"
         },
         {
-          "area": "2100 - 2200 block GREYLYNN CRES, 2100 block GREYLYNN CRE",
-          "cause": "Work being done on our equipment",
-          "customers_affected": "13",
-          "end": "2020-10-05T16:30:00",
-          "last_updated": "2020-10-06T07:39:00",
-          "municipality": "North Vancouver",
-          "municipality_code": "city--1636626238",
-          "start": "2020-10-05T15:11:00"
-        },
-        {
           "area": "300 block E 16TH ST",
           "cause": "Equipment failure",
           "customers_affected": "12",
@@ -7855,16 +7735,6 @@
           "start": "2020-10-19T14:47:00"
         },
         {
-          "area": "West of FREMONT ST, South of LYNWOOD AVE, East of CEDAR DR, North of PAISLEY AVE",
-          "cause": "Planned work being done on our equipment",
-          "customers_affected": "122",
-          "end": "2020-10-05T15:30:00",
-          "last_updated": "2020-10-05T14:36:00",
-          "municipality": "Port Coquitlam",
-          "municipality_code": "city-1843021342",
-          "start": "2020-10-05T10:07:00"
-        },
-        {
           "area": "South of PATRICIA AVE, East of FIR ST, North of PRAIRIE AVE, West of DEVON RD",
           "cause": "Planned work being done on our equipment",
           "customers_affected": "56",
@@ -7883,16 +7753,6 @@
           "municipality": "Port Moody",
           "municipality_code": "city-373594115",
           "start": "2020-10-07T10:44:00"
-        },
-        {
-          "area": "300 block IOCO RD",
-          "cause": "Equipment failure",
-          "customers_affected": "< 5",
-          "end": "2020-10-05T17:00:00",
-          "last_updated": "2020-10-06T07:20:00",
-          "municipality": "Port Moody",
-          "municipality_code": "city-373594115",
-          "start": "2020-10-05T15:33:00"
         },
         {
           "area": "East of BEACH GARDENS RD, West of STEVENSON RD, South of TOBA ST",
@@ -7983,16 +7843,6 @@
           "municipality": "Powell River",
           "municipality_code": "city-1665178489",
           "start": "2020-10-11T14:15:00"
-        },
-        {
-          "area": "North-East of WATERFRONT RD, South of SALISH RD, West of SLIAMMON RD",
-          "cause": "Bird contacting our wires",
-          "customers_affected": "12",
-          "end": "",
-          "last_updated": "2020-10-09T07:41:00",
-          "municipality": "Powell River",
-          "municipality_code": "city-1665178489",
-          "start": "2020-10-05T12:19:00"
         },
         {
           "area": "10500 block ANGEL RD, 2000 - 2100 block MAHOOD RD",
@@ -8103,16 +7953,6 @@
           "municipality": "Richmond",
           "municipality_code": "day-1 day-3 city--1486145068",
           "start": "2020-10-17T22:42:00"
-        },
-        {
-          "area": "South of SEAFIELD CRS, North of SEAHAM CRS, East of SHELL RD, West of SEACOTE RD",
-          "cause": "Planned work being done on our equipment",
-          "customers_affected": "16",
-          "end": "2020-10-05T13:30:00",
-          "last_updated": "2020-10-05T14:20:00",
-          "municipality": "Richmond",
-          "municipality_code": "city--1486145068",
-          "start": "2020-10-05T13:16:00"
         },
         {
           "area": "7000 - 7100 block BRIDGE ST, 9500 block SILLS AVE",
@@ -8313,26 +8153,6 @@
           "municipality": "Richmond",
           "municipality_code": "city--1486145068",
           "start": "2020-10-12T15:18:00"
-        },
-        {
-          "area": "13100 block GILBERT RD",
-          "cause": "Other",
-          "customers_affected": "< 5",
-          "end": "2020-10-05T11:55:00",
-          "last_updated": "2020-10-05T12:34:00",
-          "municipality": "Richmond",
-          "municipality_code": "city--1486145068",
-          "start": "2020-10-05T09:51:00"
-        },
-        {
-          "area": "9100 block CHAPMOND CRES",
-          "cause": "Other",
-          "customers_affected": "< 5",
-          "end": "2020-10-05T11:46:00",
-          "last_updated": "2020-10-05T12:34:00",
-          "municipality": "Richmond",
-          "municipality_code": "city--1486145068",
-          "start": "2020-10-05T10:26:00"
         },
         {
           "area": "West of SUNVIEW RD, North of SUNSHINE COAST HWY",
@@ -8735,16 +8555,6 @@
           "start": "2020-10-13T15:55:00"
         },
         {
-          "area": "East of 120A ST, North of 122A ST, South of 82ND AVE, West of 123RD ST",
-          "cause": "Equipment failure",
-          "customers_affected": "43",
-          "end": "2020-10-05T15:25:00",
-          "last_updated": "2020-10-06T13:02:00",
-          "municipality": "Surrey",
-          "municipality_code": "city--1807186826",
-          "start": "2020-10-05T13:15:00"
-        },
-        {
           "area": "North of 42A AVE, South-West of 192ND ST, East of 188TH ST",
           "cause": "Tree down across our wires",
           "customers_affected": "36",
@@ -8795,16 +8605,6 @@
           "start": "2020-10-07T09:25:00"
         },
         {
-          "area": "North of 70TH AVE, West of 194A ST, South of 72ND AVE, East of 192ND ST",
-          "cause": "Planned work being done on our equipment",
-          "customers_affected": "28",
-          "end": "2020-10-05T10:30:00",
-          "last_updated": "2020-10-05T10:00:00",
-          "municipality": "Surrey",
-          "municipality_code": "city--1807186826",
-          "start": "2020-10-05T09:33:00"
-        },
-        {
           "area": "East of 134TH ST, South of 27TH AVE, West of 137TH ST, North of 24TH AVE",
           "cause": "Other",
           "customers_affected": "26",
@@ -8813,16 +8613,6 @@
           "municipality": "Surrey",
           "municipality_code": "city--1807186826",
           "start": "2020-10-13T15:56:00"
-        },
-        {
-          "area": "West of 144TH ST, East of 142TH ST, North-South of 143RD ST",
-          "cause": "Planned work being done on our equipment",
-          "customers_affected": "24",
-          "end": "2020-10-05T17:00:00",
-          "last_updated": "2020-10-05T16:40:00",
-          "municipality": "Surrey",
-          "municipality_code": "city--1807186826",
-          "start": "2020-10-05T09:03:00"
         },
         {
           "area": "West of 64TH AVE, East of 188A ST, South of FRASER HWY, North of 63B AVE",
@@ -8853,16 +8643,6 @@
           "municipality": "Surrey",
           "municipality_code": "city--1807186826",
           "start": "2020-10-13T17:49:00"
-        },
-        {
-          "area": "South of 64TH AVE, East of 190TH ST, West of 192ND ST, North of 63B AVE",
-          "cause": "Planned work being done on our equipment",
-          "customers_affected": "17",
-          "end": "2020-10-05T16:00:00",
-          "last_updated": "2020-10-05T15:35:00",
-          "municipality": "Surrey",
-          "municipality_code": "city--1807186826",
-          "start": "2020-10-05T09:10:00"
         },
         {
           "area": "17400 block 61A AVE, 6000 - 6100 block 175A ST",
@@ -9073,16 +8853,6 @@
           "municipality": "Surrey",
           "municipality_code": "city--1807186826",
           "start": "2020-10-15T14:36:00"
-        },
-        {
-          "area": "17100 block 92 AVE, 17100 block 92ND AVE",
-          "cause": "Equipment failure",
-          "customers_affected": "< 5",
-          "end": "2020-10-05T18:45:00",
-          "last_updated": "2020-10-06T12:49:00",
-          "municipality": "Surrey",
-          "municipality_code": "city--1807186826",
-          "start": "2020-10-05T13:12:00"
         },
         {
           "area": "17700 block 68 AVE",
@@ -9465,16 +9235,6 @@
           "start": "2020-10-12T02:51:00"
         },
         {
-          "area": "East of CROWN ST, West of WALLACE ST, North of MARINE DR, South of 39TH AVE",
-          "cause": "Tree down across our wires",
-          "customers_affected": "14",
-          "end": "2020-10-05T18:00:00",
-          "last_updated": "2020-10-06T07:21:00",
-          "municipality": "Vancouver",
-          "municipality_code": "city--1786794435",
-          "start": "2020-10-05T08:03:00"
-        },
-        {
           "area": "400 block W 23RD AVE, 4000 block CAMBIE ST",
           "cause": "Fire",
           "customers_affected": "13",
@@ -9483,16 +9243,6 @@
           "municipality": "Vancouver",
           "municipality_code": "city--1786794435",
           "start": "2020-10-15T02:09:00"
-        },
-        {
-          "area": "2400 block W 19TH AVE, 2400 block W 18TH AVE",
-          "cause": "Planned work being done on our equipment",
-          "customers_affected": "13",
-          "end": "2020-10-05T14:00:00",
-          "last_updated": "2020-10-05T13:30:00",
-          "municipality": "Vancouver",
-          "municipality_code": "city--1786794435",
-          "start": "2020-10-05T08:44:00"
         },
         {
           "area": "West of BLENHEIM ST, South of 27TH AVE, East of COLLINGWOOD ST, North of 28TH AVE",
@@ -9779,7 +9529,7 @@
       "region_id": "521980323"
     },
     "North VI": {
-      "customers_affected_14d": 73617,
+      "customers_affected_14d": 73566,
       "outages": [
         {
           "area": "North of ISLAND HWY",
@@ -10322,16 +10072,6 @@
           "start": "2020-10-12T06:27:00"
         },
         {
-          "area": "4900 block CLIFFE RD",
-          "cause": "Under investigation",
-          "customers_affected": "5",
-          "end": "",
-          "last_updated": "2020-10-05T09:45:00",
-          "municipality": "Courtenay",
-          "municipality_code": "city--824228212",
-          "start": "2020-10-05T09:41:00"
-        },
-        {
           "area": "2400 - 2600 block ARDEN RD",
           "cause": "Tree down across our wires",
           "customers_affected": "< 5",
@@ -10712,16 +10452,6 @@
           "start": "2020-10-13T12:20:00"
         },
         {
-          "area": "400 - 600 block NICOL ST, 500 - 600 block HALIBURTON ST",
-          "cause": "equipment contact",
-          "customers_affected": "27",
-          "end": "2020-10-05T14:10:00",
-          "last_updated": "2020-10-06T07:27:00",
-          "municipality": "Nanaimo",
-          "municipality_code": "city--907547835",
-          "start": "2020-10-05T12:43:00"
-        },
-        {
           "area": "300 block SELBY ST",
           "cause": "Tree down across our wires",
           "customers_affected": "22",
@@ -10740,16 +10470,6 @@
           "municipality": "Nanaimo",
           "municipality_code": "city--907547835",
           "start": "2020-10-13T04:18:00"
-        },
-        {
-          "area": "North of HOCEVAR RD, West of TRANS CANADA HWY, South of THOMAS RD, East of CAMERON RD",
-          "cause": "Planned work being done on our equipment",
-          "customers_affected": "16",
-          "end": "2020-10-05T12:00:00",
-          "last_updated": "2020-10-05T11:28:00",
-          "municipality": "Nanaimo",
-          "municipality_code": "city--907547835",
-          "start": "2020-10-05T10:42:00"
         },
         {
           "area": "West of DAWKINS LN, East of TOWERVIEW CRS, South of JINGLE POT RD, North of TWIGGLY WIGGLY RD",
@@ -10900,16 +10620,6 @@
           "municipality": "Nanaimo",
           "municipality_code": "city--907547835",
           "start": "2020-10-13T14:34:00"
-        },
-        {
-          "area": "1700 block TIMBERLANDS RD",
-          "cause": "Under investigation",
-          "customers_affected": "< 5",
-          "end": "",
-          "last_updated": "2020-10-05T15:35:00",
-          "municipality": "Nanaimo",
-          "municipality_code": "city--907547835",
-          "start": "2020-10-05T15:11:00"
         },
         {
           "area": "2800 - 2900 block NORTH RD",
@@ -12236,7 +11946,7 @@
       "region_id": "1602896846"
     },
     "Northern": {
-      "customers_affected_14d": 12874,
+      "customers_affected_14d": 10846,
       "outages": [
         {
           "area": "100 - 200 block WABALISLA ST, 0 - 100 block WAGLISLA ST, 500 block CHEENIS ST, 700 block GOOSE ISLAND DR, AIRPORT RD, BELLA BELLA RORO, PUMPHOUSE, 0 - 1200 block SHEARWATER RD, UPPER HOTEL, DENNY ISLAND RD...",
@@ -12247,26 +11957,6 @@
           "municipality": "Bella Bella",
           "municipality_code": "day-3 city-1769381020",
           "start": "2020-10-16T02:34:00"
-        },
-        {
-          "area": "North-South-East-West of HWY 20",
-          "cause": "Tree down across our wires",
-          "customers_affected": "915",
-          "end": "",
-          "last_updated": "2020-10-06T10:11:00",
-          "municipality": "Bella Coola",
-          "municipality_code": "city-1770605334",
-          "start": "2020-10-05T06:37:00"
-        },
-        {
-          "area": "West of UQWANI MAMNTA RD, South of ASKIMLIKW MAMNTA RD, East of SNILTH MAMNTA , North of SNUQAAX MAMNTA",
-          "cause": "Bird contacting our wires",
-          "customers_affected": "7",
-          "end": "",
-          "last_updated": "2020-10-06T10:11:00",
-          "municipality": "Bella Coola",
-          "municipality_code": "city-1770605334",
-          "start": "2020-10-05T16:41:00"
         },
         {
           "area": "East of HWY 16",
@@ -12477,26 +12167,6 @@
           "municipality": "Dawson Creek",
           "municipality_code": "city--1630954860",
           "start": "2020-10-10T18:39:00"
-        },
-        {
-          "area": "South of GOLATA CK RD",
-          "cause": "Other",
-          "customers_affected": "435",
-          "end": "2020-10-05T16:30:00",
-          "last_updated": "2020-10-06T07:16:00",
-          "municipality": "Dawson Creek",
-          "municipality_code": "city--1630954860",
-          "start": "2020-10-05T15:36:00"
-        },
-        {
-          "area": "South of GOLATA CK RD",
-          "cause": "Other",
-          "customers_affected": "435",
-          "end": "2020-10-05T13:00:00",
-          "last_updated": "2020-10-06T07:15:00",
-          "municipality": "Dawson Creek",
-          "municipality_code": "city--1630954860",
-          "start": "2020-10-05T10:55:00"
         },
         {
           "area": "East of 227 RD, South of HWY 97 , West of ADAMS RD",
@@ -12859,16 +12529,6 @@
           "start": "2020-10-16T09:17:00"
         },
         {
-          "area": "South of UPPER CACHE RD",
-          "cause": "Planned work being done on our equipment",
-          "customers_affected": "8",
-          "end": "2020-10-05T14:00:00",
-          "last_updated": "2020-10-05T13:54:00",
-          "municipality": "Fort St. John",
-          "municipality_code": "city-205572915",
-          "start": "2020-10-05T08:11:00"
-        },
-        {
           "area": "16200 - 16300 block FOUR RD",
           "cause": "Equipment failure",
           "customers_affected": "< 5",
@@ -12969,16 +12629,6 @@
           "start": "2020-10-16T11:08:00"
         },
         {
-          "area": "North-South-East-West of KISPIOX VALLEY RD",
-          "cause": "Tree down across our wires",
-          "customers_affected": "114",
-          "end": "2020-10-05T11:00:00",
-          "last_updated": "2020-10-06T08:39:00",
-          "municipality": "Hazelton",
-          "municipality_code": "city-411200875",
-          "start": "2020-10-05T06:00:00"
-        },
-        {
           "area": "North of HWY 62",
           "cause": "Tree down across our wires",
           "customers_affected": "81",
@@ -12987,16 +12637,6 @@
           "municipality": "Hazelton",
           "municipality_code": "day-3 city-411200875",
           "start": "2020-10-16T12:18:00"
-        },
-        {
-          "area": "North-South-East-West of HWY 16",
-          "cause": "Tree down across our wires",
-          "customers_affected": "63",
-          "end": "2020-10-05T19:00:00",
-          "last_updated": "2020-10-06T08:41:00",
-          "municipality": "Hazelton",
-          "municipality_code": "city-411200875",
-          "start": "2020-10-05T14:45:00"
         },
         {
           "area": "North of SWAN LAKE RD",
@@ -13079,46 +12719,6 @@
           "start": "2020-10-16T01:13:00"
         },
         {
-          "area": "1300 block ALBATROSS AVE",
-          "cause": "Bird contacting our wires",
-          "customers_affected": "5",
-          "end": "2020-10-05T17:00:00",
-          "last_updated": "2020-10-06T07:15:00",
-          "municipality": "Kitimat",
-          "municipality_code": "city-959724557",
-          "start": "2020-10-05T14:46:00"
-        },
-        {
-          "area": "1300 block ALBATROSS AVE",
-          "cause": "Bird contacting our wires",
-          "customers_affected": "5",
-          "end": "",
-          "last_updated": "2020-10-06T07:15:00",
-          "municipality": "Kitimat",
-          "municipality_code": "city-959724557",
-          "start": "2020-10-05T11:30:00"
-        },
-        {
-          "area": "1300 block ALBATROSS AVE",
-          "cause": "Under investigation",
-          "customers_affected": "5",
-          "end": "",
-          "last_updated": "2020-10-05T14:28:00",
-          "municipality": "Kitimat",
-          "municipality_code": "city-959724557",
-          "start": "2020-10-05T14:17:00"
-        },
-        {
-          "area": "600 block LOOP RD",
-          "cause": "Bird contacting our wires",
-          "customers_affected": "15",
-          "end": "2020-10-05T19:25:00",
-          "last_updated": "2020-10-06T10:11:00",
-          "municipality": "Masset",
-          "municipality_code": "city--1997401405",
-          "start": "2020-10-05T17:47:00"
-        },
-        {
           "area": "North of BOUNDARY DR, West of HWY 16",
           "cause": "Planned work being done on our equipment",
           "customers_affected": "15",
@@ -13147,16 +12747,6 @@
           "municipality": "Prince Rupert",
           "municipality_code": "day-1 day-3 city--2129578383",
           "start": "2020-10-19T09:52:00"
-        },
-        {
-          "area": "0 - 100 block LAKE RD, 0 block PLAYFIELD RD",
-          "cause": "Bird contacting our wires",
-          "customers_affected": "8",
-          "end": "2020-10-05T17:15:00",
-          "last_updated": "2020-10-06T07:15:00",
-          "municipality": "Prince Rupert",
-          "municipality_code": "city--2129578383",
-          "start": "2020-10-05T13:46:00"
         },
         {
           "area": "800 block BORDEN ST",
@@ -13319,16 +12909,6 @@
           "start": "2020-10-12T10:20:00"
         },
         {
-          "area": "South of MONARCH MOUNTAIN RD, North-East of WARM BAY RD",
-          "cause": "Bird contacting our wires",
-          "customers_affected": "8",
-          "end": "",
-          "last_updated": "2020-10-06T10:08:00",
-          "municipality": "Stikine",
-          "municipality_code": "city--225362531",
-          "start": "2020-10-04T20:45:00"
-        },
-        {
           "area": "100 block OWEKENO AVE",
           "cause": "Bird contacting our wires",
           "customers_affected": "5",
@@ -13449,16 +13029,6 @@
           "start": "2020-10-10T00:29:00"
         },
         {
-          "area": "South of BIDWELL RD, North-East-West of STELLA RD",
-          "cause": "Planned work being done on our equipment",
-          "customers_affected": "< 5",
-          "end": "2020-10-05T14:00:00",
-          "last_updated": "2020-10-05T11:51:00",
-          "municipality": "Vanderhoof",
-          "municipality_code": "city-1041981516",
-          "start": "2020-10-05T11:48:00"
-        },
-        {
           "area": "14200 block BRAESIDE RD",
           "cause": "Equipment failure",
           "customers_affected": "< 5",
@@ -13499,16 +13069,6 @@
           "start": "2020-10-09T05:12:00"
         },
         {
-          "area": "LEE SUB RD, STELLA RD P103/6",
-          "cause": "Planned work being done on our equipment",
-          "customers_affected": "< 5",
-          "end": "2020-10-05T14:00:00",
-          "last_updated": "2020-10-05T12:05:00",
-          "municipality": "Vanderhoof",
-          "municipality_code": "city-1041981516",
-          "start": "2020-10-05T11:51:00"
-        },
-        {
           "area": "400 block 3RD AVE",
           "cause": "Equipment failure",
           "customers_affected": "< 5",
@@ -13523,7 +13083,7 @@
       "region_id": "1602964060"
     },
     "Okanagan/Kootenay": {
-      "customers_affected_14d": 14195,
+      "customers_affected_14d": 14192,
       "outages": [
         {
           "area": "South of LEARMOUTH RD, West of COACHWOOD CRS, East of BREWER RD",
@@ -13674,16 +13234,6 @@
           "municipality": "Fernie",
           "municipality_code": "city-2100821431",
           "start": "2020-10-14T08:44:00"
-        },
-        {
-          "area": "5600 block VILLAGE LOOP RD",
-          "cause": "Bird contacting our wires",
-          "customers_affected": "< 5",
-          "end": "",
-          "last_updated": "2020-10-07T14:18:00",
-          "municipality": "Fernie",
-          "municipality_code": "city-2100821431",
-          "start": "2020-10-05T14:16:00"
         },
         {
           "area": "North-South-East-West of HWY 95",
@@ -13924,16 +13474,6 @@
           "municipality": "Nakusp",
           "municipality_code": "day-1 day-3 city--1969008230",
           "start": "2020-10-19T12:03:00"
-        },
-        {
-          "area": "8400 block RED MTN RD P66, 8400 block RED MOUNTAIN RD",
-          "cause": "Other",
-          "customers_affected": "< 5",
-          "end": "2020-10-05T14:00:00",
-          "last_updated": "2020-10-06T07:50:00",
-          "municipality": "Nakusp",
-          "municipality_code": "city--1969008230",
-          "start": "2020-10-05T11:14:00"
         },
         {
           "area": "East of ST ANNES RD, South of EVANS RD, North-West of OTTER LAKE RD",
@@ -14200,7 +13740,7 @@
       "region_id": "2072041405"
     },
     "South VI": {
-      "customers_affected_14d": 78508,
+      "customers_affected_14d": 78394,
       "outages": [
         {
           "area": "North of CHURCH RD, West of STAUTW RD, East of TETAYUT RD, South of MT NEWTON XRD",
@@ -14713,16 +14253,6 @@
           "start": "2020-10-09T13:21:00"
         },
         {
-          "area": "4910 TRANS CAN HWY, 4904 TRANS CAN HWY",
-          "cause": "Equipment failure",
-          "customers_affected": "< 5",
-          "end": "2020-10-05T10:20:00",
-          "last_updated": "2020-10-05T10:25:00",
-          "municipality": "Duncan",
-          "municipality_code": "city-2058209491",
-          "start": "2020-10-05T08:19:00"
-        },
-        {
           "area": "1800 block CLIFFSIDE RD",
           "cause": "Tree down across our wires",
           "customers_affected": "< 5",
@@ -15171,16 +14701,6 @@
           "municipality": "Ganges",
           "municipality_code": "city-2125630497",
           "start": "2020-10-13T16:50:00"
-        },
-        {
-          "area": "1000 block ISABELLA POINT RD, 100 - 300 block HOLMES RD",
-          "cause": "Tree down across our wires",
-          "customers_affected": "21",
-          "end": "2020-10-05T19:00:00",
-          "last_updated": "2020-10-06T08:18:00",
-          "municipality": "Ganges",
-          "municipality_code": "city-2125630497",
-          "start": "2020-10-05T17:07:00"
         },
         {
           "area": "South of FURNESS RD, North-West of MUSGRAVE RD",
@@ -15753,26 +15273,6 @@
           "start": "2020-10-13T11:03:00"
         },
         {
-          "area": "8000 - 8100 block CHEMAINUS RD",
-          "cause": "Planned work being done on our equipment",
-          "customers_affected": "6",
-          "end": "2020-10-05T14:30:00",
-          "last_updated": "2020-10-05T14:39:00",
-          "municipality": "North Cowichan",
-          "municipality_code": "city--666037877",
-          "start": "2020-10-05T13:16:00"
-        },
-        {
-          "area": "North-South-West of GIBBINS RD, East of VIMY RD",
-          "cause": "Other",
-          "customers_affected": "5",
-          "end": "2020-10-05T13:45:00",
-          "last_updated": "2020-10-06T12:23:00",
-          "municipality": "North Cowichan",
-          "municipality_code": "city--666037877",
-          "start": "2020-10-05T12:51:00"
-        },
-        {
           "area": "3000 block WESTHILL PL",
           "cause": "Tree down across our wires",
           "customers_affected": "< 5",
@@ -16193,16 +15693,6 @@
           "start": "2020-10-15T10:10:00"
         },
         {
-          "area": "2800 block AUSTIN AVE, 600 block W GORGE RD",
-          "cause": "Planned work being done on our equipment",
-          "customers_affected": "49",
-          "end": "2020-10-05T16:00:00",
-          "last_updated": "2020-10-05T16:05:00",
-          "municipality": "Saanich",
-          "municipality_code": "city--776615533",
-          "start": "2020-10-05T09:35:00"
-        },
-        {
           "area": "East of BUKIN PL, North of MUNNS RD, South of PROSPECT LAKE RD, West of HECTOR RD",
           "cause": "Tree down across our wires",
           "customers_affected": "41",
@@ -16373,16 +15863,6 @@
           "start": "2020-10-13T11:58:00"
         },
         {
-          "area": "2400 - 2500 block QUEENSWOOD DR",
-          "cause": "Tree down across our wires",
-          "customers_affected": "< 5",
-          "end": "2020-10-05T11:00:00",
-          "last_updated": "2020-10-06T10:41:00",
-          "municipality": "Saanich",
-          "municipality_code": "city--776615533",
-          "start": "2020-10-05T09:20:00"
-        },
-        {
           "area": "1700 block GLASTONBURY RD",
           "cause": "Tree down across our wires",
           "customers_affected": "< 5",
@@ -16411,16 +15891,6 @@
           "municipality": "Saanich",
           "municipality_code": "city--776615533",
           "start": "2020-10-07T14:45:00"
-        },
-        {
-          "area": "1500 block NORTH DAIRY RD",
-          "cause": "Planned work being done on our equipment",
-          "customers_affected": "26",
-          "end": "2020-10-05T12:30:00",
-          "last_updated": "2020-10-05T11:46:00",
-          "municipality": "Saanich, Victoria",
-          "municipality_code": "city--776615533 city-1201273535",
-          "start": "2020-10-05T10:25:00"
         },
         {
           "area": "1900 block W BURNSIDE RD",
@@ -16873,16 +16343,6 @@
           "start": "2020-10-14T18:54:00"
         },
         {
-          "area": "1000 block KOSAPSUM CRES",
-          "cause": "Planned work being done on our equipment",
-          "customers_affected": "< 5",
-          "end": "2020-10-05T15:00:00",
-          "last_updated": "2020-10-05T16:52:00",
-          "municipality": "Victoria",
-          "municipality_code": "city-1201273535",
-          "start": "2020-10-05T09:30:00"
-        },
-        {
           "area": "South of HALLOWELL RD, West of ADMIRALS RD, North-East of MAPLEBANK RD",
           "cause": "Planned work being done on our equipment",
           "customers_affected": "26",
@@ -16917,7 +16377,7 @@
       "region_id": "1812901382"
     },
     "Thompson/Shuswap": {
-      "customers_affected_14d": 15465,
+      "customers_affected_14d": 14839,
       "outages": [
         {
           "area": "East of WILCOX RD, North of TRIP RD",
@@ -17060,16 +16520,6 @@
           "start": "2020-10-16T02:42:00"
         },
         {
-          "area": "7200 - 7300 block CAROLINE RD, 7200 - 7300 block CAROLYN RD",
-          "cause": "Tree down across our wires",
-          "customers_affected": "9",
-          "end": "2020-10-05T16:00:00",
-          "last_updated": "2020-10-07T08:29:00",
-          "municipality": "100 Mile House",
-          "municipality_code": "city-950857956",
-          "start": "2020-10-05T14:48:00"
-        },
-        {
           "area": "6000 block DEMPSEY LAKE S RD",
           "cause": "Tree down across our wires",
           "customers_affected": "7",
@@ -17188,26 +16638,6 @@
           "municipality": "100 Mile House",
           "municipality_code": "city-950857956",
           "start": "2020-10-12T09:13:00"
-        },
-        {
-          "area": "3700 block EMERALD CRS",
-          "cause": "Equipment failure",
-          "customers_affected": "< 5",
-          "end": "",
-          "last_updated": "2020-10-07T08:30:00",
-          "municipality": "100 Mile House",
-          "municipality_code": "city-950857956",
-          "start": "2020-10-05T10:50:00"
-        },
-        {
-          "area": "3700 block EMERALD CRS",
-          "cause": "Under investigation",
-          "customers_affected": "< 5",
-          "end": "",
-          "last_updated": "2020-10-05T15:38:00",
-          "municipality": "100 Mile House",
-          "municipality_code": "city-950857956",
-          "start": "2020-10-05T15:16:00"
         },
         {
           "area": "West of HIGHLAND VALLEY RD, South of 97C HWY, North-East of Trans Can HWY",
@@ -17560,16 +16990,6 @@
           "start": "2020-10-06T09:01:00"
         },
         {
-          "area": "2000 - 2100 block MANN RD",
-          "cause": "Planned work being done on our equipment",
-          "customers_affected": "< 5",
-          "end": "2020-10-05T16:00:00",
-          "last_updated": "2020-10-05T14:42:00",
-          "municipality": "Clearwater",
-          "municipality_code": "city-1282265866",
-          "start": "2020-10-05T11:53:00"
-        },
-        {
           "area": "9500 block HWY 5",
           "cause": "Planned work being done on our equipment",
           "customers_affected": "< 5",
@@ -17668,16 +17088,6 @@
           "municipality": "Kamloops",
           "municipality_code": "city-979034872",
           "start": "2020-10-13T19:26:00"
-        },
-        {
-          "area": "West of FORTUNE DR, East of LILAC AVE, South of HILLTOP AVE, North of VICTORIA ST",
-          "cause": "Equipment failure",
-          "customers_affected": "600",
-          "end": "2020-10-05T05:00:00",
-          "last_updated": "2020-10-05T09:00:00",
-          "municipality": "Kamloops",
-          "municipality_code": "city-979034872",
-          "start": "2020-10-04T23:15:00"
         },
         {
           "area": "West of ROBBINS RANGE RD, South of SILVER STREAM RD",
@@ -17788,16 +17198,6 @@
           "municipality": "Kamloops",
           "municipality_code": "city-979034872",
           "start": "2020-10-14T22:55:00"
-        },
-        {
-          "area": "200 block LARCH AVE",
-          "cause": "Voltage Problem or Overload",
-          "customers_affected": "10",
-          "end": "2020-10-05T12:00:00",
-          "last_updated": "2020-10-06T12:21:00",
-          "municipality": "Kamloops",
-          "municipality_code": "city-979034872",
-          "start": "2020-10-05T09:58:00"
         },
         {
           "area": "6900 - 7000 block BLACKWELL RD",
@@ -18000,16 +17400,6 @@
           "start": "2020-10-07T19:03:00"
         },
         {
-          "area": "300 block ROYAL AVE",
-          "cause": "Other",
-          "customers_affected": "< 5",
-          "end": "2020-10-05T13:00:00",
-          "last_updated": "2020-10-05T13:09:00",
-          "municipality": "Kamloops",
-          "municipality_code": "city-979034872",
-          "start": "2020-10-05T12:25:00"
-        },
-        {
           "area": "North of CHASE FALKLAND RD",
           "cause": "Under investigation",
           "customers_affected": "124",
@@ -18198,16 +17588,6 @@
           "municipality": "Merritt",
           "municipality_code": "city--1676334159",
           "start": "2020-10-13T14:09:00"
-        },
-        {
-          "area": "ENGLISH BRIDGE",
-          "cause": "Customer's equipment",
-          "customers_affected": "< 5",
-          "end": "2020-10-05T18:30:00",
-          "last_updated": "2020-10-19T11:56:00",
-          "municipality": "Merritt",
-          "municipality_code": "city--1676334159",
-          "start": "2020-10-05T14:43:00"
         },
         {
           "area": "East of CHRISTMAS ISLAN RD, South of POWERHOUSE RD, North of WESTERBURG RD",
@@ -18408,16 +17788,6 @@
           "municipality": "Salmon Arm",
           "municipality_code": "city-2118875562",
           "start": "2020-10-13T11:23:00"
-        },
-        {
-          "area": "3500 block OXBOW FTG RD",
-          "cause": "Voltage Problem or Overload",
-          "customers_affected": "< 5",
-          "end": "2020-10-05T19:41:00",
-          "last_updated": "2020-10-06T07:52:00",
-          "municipality": "Salmon Arm",
-          "municipality_code": "city-2118875562",
-          "start": "2020-10-05T16:41:00"
         },
         {
           "area": "1000 block GREEN RD",
