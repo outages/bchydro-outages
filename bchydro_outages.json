@@ -7,7 +7,7 @@
           "area": "3100 block WILLOW CREEK RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-20T08:02:00",
+          "last_updated": "2020-10-20T08:26:00",
           "municipality": "Campbell River",
           "municipality_code": "day-1 day-3 city-1240464880",
           "start": "2020-10-20T07:24:00",
@@ -91,7 +91,7 @@
       "region_id": "848340027"
     },
     "Lower Mainland": {
-      "customers_affected_14d": 7772,
+      "customers_affected_14d": 7781,
       "outages": [
         {
           "area": "1944, 1954, 1966, 1976 Albion St; 32666-32749 Cordova Ave; 325, 32760 Marshall Rd, 32414-32750 Pandora Ave; 1911-1944 Valencia Crt, Abbotsford",
@@ -122,6 +122,16 @@
           "municipality": "Abbotsford",
           "municipality_code": "day-1 day-3 city-1230363016",
           "start": "2020-10-29T09:00:00"
+        },
+        {
+          "area": "1304, 1364, 1545 Bowman Rd; 37664, 37936, 37981, 38163 Wells Line Rd, Abbotsford",
+          "cause": "Pole replacement",
+          "customers_affected": "9",
+          "end": "2020-10-28T16:00:00",
+          "last_updated": "2020-10-20T08:25:00",
+          "municipality": "Abbotsford",
+          "municipality_code": "day-1 day-3 city-1230363016",
+          "start": "2020-10-28T10:00:00"
         },
         {
           "area": "34715 - 34752 Mierau St",
@@ -7209,7 +7219,7 @@
           "cause": "Motor vehicle accident",
           "customers_affected": "1925",
           "end": "2020-10-19T22:00:00",
-          "last_updated": "2020-10-19T23:26:00",
+          "last_updated": "2020-10-20T08:22:00",
           "municipality": "Mission",
           "municipality_code": "day-1 day-3 city--1560864404",
           "start": "2020-10-19T14:32:00"
@@ -11818,7 +11828,7 @@
           "end": "",
           "last_updated": "2020-10-19T07:56:00",
           "municipality": "Qualicum Beach",
-          "municipality_code": "day-1 day-3 city--154309756",
+          "municipality_code": "day-3 city--154309756",
           "start": "2020-10-17T16:01:00"
         },
         {
@@ -13640,7 +13650,7 @@
           "cause": "Other",
           "customers_affected": "< 5",
           "end": "2020-10-19T16:21:00",
-          "last_updated": "2020-10-19T16:24:00",
+          "last_updated": "2020-10-20T08:25:00",
           "municipality": "Vernon",
           "municipality_code": "day-1 day-3 city--1736079254",
           "start": "2020-10-19T15:23:00"
@@ -17886,7 +17896,7 @@
           "end": "2020-10-16T08:30:00",
           "last_updated": "2020-10-19T11:19:00",
           "municipality": "Valemount",
-          "municipality_code": "day-3 city-788397333",
+          "municipality_code": "city-788397333",
           "start": "2020-10-16T07:05:00"
         },
         {
