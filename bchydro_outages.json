@@ -1,22 +1,5 @@
 {
   "current": {
-    "Lower Mainland": {
-      "customers_affected_14d": 26,
-      "outages": [
-        {
-          "area": "South of 52ND AVE, West of 168TH ST, North of 48TH AVE, East of 160TH ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Under investigation",
-          "customers_affected": "26",
-          "last_updated": "2020-10-20T07:29:00",
-          "municipality": "Surrey",
-          "municipality_code": "day-1 day-3 city--1807186826",
-          "start": "2020-10-20T05:40:00",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 20 8:00 a.m."
-        }
-      ],
-      "region_code": "Lower Mainland",
-      "region_id": "521980323"
-    },
     "North VI": {
       "customers_affected_14d": -1,
       "outages": [
@@ -24,11 +7,11 @@
           "area": "3100 block WILLOW CREEK RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-20T07:38:00",
+          "last_updated": "2020-10-20T08:02:00",
           "municipality": "Campbell River",
           "municipality_code": "day-1 day-3 city-1240464880",
           "start": "2020-10-20T07:24:00",
-          "status": "Crew status: Crew assigned"
+          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 20 9:05 a.m."
         }
       ],
       "region_code": "North VI",
@@ -41,11 +24,11 @@
           "area": "3100 block CREIGHTON VLY RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-20T07:26:00",
+          "last_updated": "2020-10-20T07:47:00",
           "municipality": "Vernon",
           "municipality_code": "day-1 day-3 city--1736079254",
           "start": "2020-10-20T06:04:00",
-          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 20 8:30 a.m."
+          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 20 8:30 a.m."
         }
       ],
       "region_code": "Okanagan/Kootenay",
@@ -63,6 +46,16 @@
           "municipality_code": "day-1 day-3 city-979034872",
           "start": "2020-10-19T15:38:00",
           "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 20 9:00 a.m."
+        },
+        {
+          "area": "700 block S HWY 23\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Planned work being done on our equipment",
+          "customers_affected": "< 5",
+          "last_updated": "2020-10-20T07:51:00",
+          "municipality": "Revelstoke",
+          "municipality_code": "day-1 day-3 city-1039954398",
+          "start": "2020-10-20T07:49:00",
+          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 20 4:00 p.m."
         }
       ],
       "region_code": "Thompson/Shuswap",
@@ -1629,7 +1622,7 @@
           "cause": "Planned work being done on our equipment",
           "customers_affected": "13",
           "end": "2020-10-30T17:00:00",
-          "last_updated": "2020-10-19T16:16:00",
+          "last_updated": "2020-10-20T08:04:00",
           "municipality": "Chetwynd",
           "municipality_code": "day-1 day-3 city-1617615372",
           "start": "2020-10-30T08:00:00"
@@ -2811,7 +2804,7 @@
           "end": "2020-10-16T08:00:00",
           "last_updated": "2020-10-19T11:24:00",
           "municipality": "Prince George",
-          "municipality_code": "day-3 city-1835674262",
+          "municipality_code": "city-1835674262",
           "start": "2020-10-16T06:55:00"
         },
         {
@@ -2831,7 +2824,7 @@
           "end": "2020-10-16T08:03:00",
           "last_updated": "2020-10-19T11:24:00",
           "municipality": "Prince George",
-          "municipality_code": "day-3 city-1835674262",
+          "municipality_code": "city-1835674262",
           "start": "2020-10-16T07:25:00"
         },
         {
@@ -3589,7 +3582,7 @@
       "region_id": "848340027"
     },
     "Lower Mainland": {
-      "customers_affected_14d": 147968,
+      "customers_affected_14d": 147994,
       "outages": [
         {
           "area": "North of MACLURE RD, East of MT LEHMAN RD, West of Hwy 11",
@@ -3996,7 +3989,7 @@
           "cause": "Tree down across our wires",
           "customers_affected": "< 5",
           "end": "2020-10-19T04:00:00",
-          "last_updated": "2020-10-19T03:59:00",
+          "last_updated": "2020-10-20T08:03:00",
           "municipality": "Abbotsford",
           "municipality_code": "day-1 day-3 city-1230363016",
           "start": "2020-10-19T00:07:00"
@@ -8276,7 +8269,7 @@
           "cause": "Motor vehicle accident",
           "customers_affected": "152",
           "end": "2020-10-16T18:00:00",
-          "last_updated": "2020-10-16T19:16:00",
+          "last_updated": "2020-10-20T07:52:00",
           "municipality": "Sechelt",
           "municipality_code": "day-3 city--660434186",
           "start": "2020-10-16T11:57:00"
@@ -8650,6 +8643,16 @@
           "municipality": "Surrey",
           "municipality_code": "city--1807186826",
           "start": "2020-10-07T09:25:00"
+        },
+        {
+          "area": "South of 52ND AVE, West of 168TH ST, North of 48TH AVE, East of 160TH ST",
+          "cause": "Bird contacting our wires",
+          "customers_affected": "26",
+          "end": "2020-10-20T08:00:00",
+          "last_updated": "2020-10-20T07:48:00",
+          "municipality": "Surrey",
+          "municipality_code": "day-1 day-3 city--1807186826",
+          "start": "2020-10-20T05:40:00"
         },
         {
           "area": "East of 134TH ST, South of 27TH AVE, West of 137TH ST, North of 24TH AVE",
