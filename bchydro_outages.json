@@ -1,39 +1,5 @@
 {
   "current": {
-    "Central Interior": {
-      "customers_affected_14d": 6,
-      "outages": [
-        {
-          "area": "300 block FRONT ST, 300 block REID ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Planned work being done on our equipment",
-          "customers_affected": "6",
-          "last_updated": "2020-10-19T22:58:00",
-          "municipality": "Quesnel",
-          "municipality_code": "day-1 day-3 city--1975191965",
-          "start": "2020-10-19T20:49:00",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 20 3:00 a.m."
-        }
-      ],
-      "region_code": "Central Interior",
-      "region_id": "848340027"
-    },
-    "Lower Mainland": {
-      "customers_affected_14d": 187,
-      "outages": [
-        {
-          "area": "North of 52ND AVE, South of 48TH AVE, West of COLUMBIA ST, East of CAMBIE ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Planned work being done on our equipment",
-          "customers_affected": "187",
-          "last_updated": "2020-10-19T22:58:00",
-          "municipality": "Vancouver",
-          "municipality_code": "day-1 day-3 city--1786794435",
-          "start": "2020-10-19T09:55:00",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 20 1:30 a.m."
-        }
-      ],
-      "region_code": "Lower Mainland",
-      "region_id": "521980323"
-    },
     "Thompson/Shuswap": {
       "customers_affected_14d": -1,
       "outages": [
@@ -2745,7 +2711,7 @@
   },
   "restored": {
     "Central Interior": {
-      "customers_affected_14d": 16175,
+      "customers_affected_14d": 16181,
       "outages": [
         {
           "area": "North of HWY 97",
@@ -3194,7 +3160,7 @@
           "end": "2020-10-16T02:30:00",
           "last_updated": "2020-10-16T11:09:00",
           "municipality": "Quesnel",
-          "municipality_code": "day-3 city--1975191965",
+          "municipality_code": "city--1975191965",
           "start": "2020-10-15T22:40:00"
         },
         {
@@ -3256,6 +3222,16 @@
           "municipality": "Quesnel",
           "municipality_code": "city--1975191965",
           "start": "2020-10-10T10:49:00"
+        },
+        {
+          "area": "300 block FRONT ST, 300 block REID ST",
+          "cause": "Planned work being done on our equipment",
+          "customers_affected": "6",
+          "end": "2020-10-20T03:00:00",
+          "last_updated": "2020-10-20T01:33:00",
+          "municipality": "Quesnel",
+          "municipality_code": "day-1 day-3 city--1975191965",
+          "start": "2020-10-19T20:49:00"
         },
         {
           "area": "1100 block WEST FRASER RD",
@@ -3542,7 +3518,7 @@
       "region_id": "848340027"
     },
     "Lower Mainland": {
-      "customers_affected_14d": 147645,
+      "customers_affected_14d": 147832,
       "outages": [
         {
           "area": "North of MACLURE RD, East of MT LEHMAN RD, West of Hwy 11",
@@ -9093,6 +9069,16 @@
           "municipality": "Vancouver",
           "municipality_code": "city--1786794435",
           "start": "2020-10-07T19:12:00"
+        },
+        {
+          "area": "North of 52ND AVE, South of 48TH AVE, West of COLUMBIA ST, East of CAMBIE ST",
+          "cause": "Planned work being done on our equipment",
+          "customers_affected": "187",
+          "end": "2020-10-20T01:30:00",
+          "last_updated": "2020-10-20T01:34:00",
+          "municipality": "Vancouver",
+          "municipality_code": "day-1 day-3 city--1786794435",
+          "start": "2020-10-19T09:55:00"
         },
         {
           "area": "West of SCHOOL GRN, South of SCANTLINGS , East of SITKA SQ, North of SCHOOL GR",
