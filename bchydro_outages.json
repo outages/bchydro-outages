@@ -7,7 +7,7 @@
           "area": "South of 52ND AVE, West of 168TH ST, North of 48TH AVE, East of 160TH ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "26",
-          "last_updated": "2020-10-20T06:36:00",
+          "last_updated": "2020-10-20T06:52:00",
           "municipality": "Surrey",
           "municipality_code": "day-1 day-3 city--1807186826",
           "start": "2020-10-20T05:40:00",
@@ -24,7 +24,7 @@
           "area": "3100 block CREIGHTON VLY RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-20T06:10:00",
+          "last_updated": "2020-10-20T06:55:00",
           "municipality": "Vernon",
           "municipality_code": "day-1 day-3 city--1736079254",
           "start": "2020-10-20T06:04:00",
@@ -41,11 +41,11 @@
           "area": "700 block N WESTSYDE RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Wire down",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-19T23:01:00",
+          "last_updated": "2020-10-20T06:54:00",
           "municipality": "Kamloops",
           "municipality_code": "day-1 day-3 city-979034872",
           "start": "2020-10-19T15:38:00",
-          "status": "Crew status: No crew assigned yet\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 20 10:00 a.m."
+          "status": "Crew status: Crew assigned\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 20 10:00 a.m."
         }
       ],
       "region_code": "Thompson/Shuswap",
@@ -81,7 +81,7 @@
       "region_id": "848340027"
     },
     "Lower Mainland": {
-      "customers_affected_14d": 7729,
+      "customers_affected_14d": 7743,
       "outages": [
         {
           "area": "1944, 1954, 1966, 1976 Albion St; 32666-32749 Cordova Ave; 325, 32760 Marshall Rd, 32414-32750 Pandora Ave; 1911-1944 Valencia Crt, Abbotsford",
@@ -542,6 +542,16 @@
           "municipality": "Delta",
           "municipality_code": "day-1 day-3 city-65915800",
           "start": "2020-10-19T08:30:00"
+        },
+        {
+          "area": "602-643 Goldenrod Blvd; 5601, 5611, 5621, 5801 Goldenrod Cres, 644 Bluegrose Pl, Delta",
+          "cause": "Planned work being done on our equipment",
+          "customers_affected": "14",
+          "end": "2020-10-28T19:00:00",
+          "last_updated": "2020-10-20T06:55:00",
+          "municipality": "Delta",
+          "municipality_code": "day-1 day-3 city-65915800",
+          "start": "2020-10-28T10:00:00"
         },
         {
           "area": "10429, 10515, 10555, 10646 64th Ave",
@@ -5289,7 +5299,7 @@
           "cause": "equipment contact",
           "customers_affected": "< 5",
           "end": "",
-          "last_updated": "2020-10-19T15:57:00",
+          "last_updated": "2020-10-20T07:05:00",
           "municipality": "Coquitlam",
           "municipality_code": "day-1 day-3 city--3101987",
           "start": "2020-10-19T14:21:00"
