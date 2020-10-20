@@ -17,6 +17,23 @@
       "region_code": "North VI",
       "region_id": "1602896846"
     },
+    "Northern": {
+      "customers_affected_14d": -1,
+      "outages": [
+        {
+          "area": "0 block COLLINS RD, COLLINS RD SEWAGE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Under investigation",
+          "customers_affected": "< 5",
+          "last_updated": "2020-10-20T08:43:00",
+          "municipality": "Dawson Creek",
+          "municipality_code": "day-1 day-3 city--1630954860",
+          "start": "2020-10-20T08:32:00",
+          "status": "Crew status: Crew assigned"
+        }
+      ],
+      "region_code": "Northern",
+      "region_id": "1602964060"
+    },
     "Okanagan/Kootenay": {
       "customers_affected_14d": -1,
       "outages": [
@@ -52,8 +69,18 @@
       "region_id": "1812901382"
     },
     "Thompson/Shuswap": {
-      "customers_affected_14d": -1,
+      "customers_affected_14d": 8,
       "outages": [
+        {
+          "area": "South-West of HWY 5 , East of AVOLA VILLAGE RD, North of BRAZIER RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Planned work being done on our equipment",
+          "customers_affected": "6",
+          "last_updated": "2020-10-20T08:44:00",
+          "municipality": "Clearwater",
+          "municipality_code": "day-1 day-3 city-1282265866",
+          "start": "2020-10-20T08:42:00",
+          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 20 4:00 p.m."
+        },
         {
           "area": "700 block N WESTSYDE RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Wire down",
@@ -4556,7 +4583,7 @@
           "cause": "Equipment failure",
           "customers_affected": "< 5",
           "end": "2020-10-19T20:00:00",
-          "last_updated": "2020-10-19T19:42:00",
+          "last_updated": "2020-10-20T08:46:00",
           "municipality": "Burnaby",
           "municipality_code": "day-1 day-3 city-1903966249",
           "start": "2020-10-19T17:02:00"
@@ -9276,7 +9303,7 @@
           "cause": "Motor vehicle accident",
           "customers_affected": "17",
           "end": "2020-10-19T13:15:00",
-          "last_updated": "2020-10-19T13:37:00",
+          "last_updated": "2020-10-20T08:44:00",
           "municipality": "Vancouver",
           "municipality_code": "day-1 day-3 city--1786794435",
           "start": "2020-10-19T10:33:00"
