@@ -1,8 +1,28 @@
 {
   "current": {
     "Lower Mainland": {
-      "customers_affected_14d": 65,
+      "customers_affected_14d": 242,
       "outages": [
+        {
+          "area": "West of GLADWIN RD, South of MARSHALL RD, North of TRANS CANADA HWY, East of CORDOVA CRT\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Planned work being done on our equipment",
+          "customers_affected": "126",
+          "last_updated": "2020-10-20T10:04:00",
+          "municipality": "Abbotsford",
+          "municipality_code": "day-1 day-3 city-1230363016",
+          "start": "2020-10-20T10:03:00",
+          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 20 4:00 p.m."
+        },
+        {
+          "area": "2900 - 3000 block ARIES PL\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Planned work being done on our equipment",
+          "customers_affected": "28",
+          "last_updated": "2020-10-20T09:51:00",
+          "municipality": "Burnaby",
+          "municipality_code": "day-1 day-3 city-1903966249",
+          "start": "2020-10-20T09:49:00",
+          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 20 6:00 p.m."
+        },
         {
           "area": "East of CLIFF AVE, West of BARNET RD, North-South of INLET DR\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Planned work being done on our equipment",
@@ -17,7 +37,7 @@
           "area": "4500 block LOUGHEED HWY\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Planned work being done on our equipment",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-20T09:38:00",
+          "last_updated": "2020-10-20T09:46:00",
           "municipality": "Burnaby",
           "municipality_code": "day-1 day-3 city-1903966249",
           "start": "2020-10-20T09:37:00",
@@ -64,6 +84,26 @@
           "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 20 5:30 p.m."
         },
         {
+          "area": "58700 block ST ELMO RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Planned work being done on our equipment",
+          "customers_affected": "5",
+          "last_updated": "2020-10-20T09:53:00",
+          "municipality": "Hope",
+          "municipality_code": "day-1 day-3 city-2255196",
+          "start": "2020-10-20T09:52:00",
+          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 20 1:00 p.m."
+        },
+        {
+          "area": "20400 block 89A AVE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Planned work being done on our equipment",
+          "customers_affected": "6",
+          "last_updated": "2020-10-20T09:56:00",
+          "municipality": "Langley",
+          "municipality_code": "day-1 day-3 city-1612593490",
+          "start": "2020-10-20T09:55:00",
+          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 20 2:00 p.m."
+        },
+        {
           "area": "20900 block 116 AVE, 11500 - 11600 block STEEVES ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Planned work being done on our equipment",
           "customers_affected": "16",
@@ -72,13 +112,23 @@
           "municipality_code": "day-1 day-3 city-598891104",
           "start": "2020-10-20T09:00:00",
           "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 20 4:00 p.m."
+        },
+        {
+          "area": "4700 block FERNWOOD AVE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Planned work being done on our equipment",
+          "customers_affected": "12",
+          "last_updated": "2020-10-20T09:59:00",
+          "municipality": "Powell River",
+          "municipality_code": "day-1 day-3 city-1665178489",
+          "start": "2020-10-20T09:57:00",
+          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 20 4:00 p.m."
         }
       ],
       "region_code": "Lower Mainland",
       "region_id": "521980323"
     },
     "North VI": {
-      "customers_affected_14d": 9,
+      "customers_affected_14d": 42,
       "outages": [
         {
           "area": "1900 block RAVEN PL\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -88,6 +138,16 @@
           "municipality": "Campbell River",
           "municipality_code": "day-1 day-3 city-1240464880",
           "start": "2020-10-20T09:26:00",
+          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 20 3:00 p.m."
+        },
+        {
+          "area": "North-East of PENINSULA RD, West of HELEN RD, South of OTTER ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Planned work being done on our equipment",
+          "customers_affected": "33",
+          "last_updated": "2020-10-20T10:05:00",
+          "municipality": "Ucluelet",
+          "municipality_code": "day-1 day-3 city--1313309491",
+          "start": "2020-10-20T09:48:00",
           "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 20 3:00 p.m."
         }
       ],
@@ -101,11 +161,11 @@
           "area": "0 block COLLINS RD, COLLINS RD SEWAGE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-20T08:48:00",
+          "last_updated": "2020-10-20T10:02:00",
           "municipality": "Dawson Creek",
           "municipality_code": "day-1 day-3 city--1630954860",
           "start": "2020-10-20T08:32:00",
-          "status": "Crew status: Crew assigned"
+          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 20 10:25 a.m."
         },
         {
           "area": "North of 96A AVE, South of 99th AVE, West of 90th ST, East of 92nd ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -131,9 +191,46 @@
       "region_code": "Northern",
       "region_id": "1602964060"
     },
-    "South VI": {
-      "customers_affected_14d": 50,
+    "Okanagan/Kootenay": {
+      "customers_affected_14d": 6,
       "outages": [
+        {
+          "area": "200 block OUGHTRED ST, 2100 - 2200 block WARREN AVE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Planned work being done on our equipment",
+          "customers_affected": "6",
+          "last_updated": "2020-10-20T09:53:00",
+          "municipality": "Kimberley",
+          "municipality_code": "day-1 day-3 city-1047449248",
+          "start": "2020-10-20T09:52:00",
+          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 20 10:30 a.m."
+        }
+      ],
+      "region_code": "Okanagan/Kootenay",
+      "region_id": "2072041405"
+    },
+    "South VI": {
+      "customers_affected_14d": 71,
+      "outages": [
+        {
+          "area": "1100 block WYCHBURY AVE, 400 block LAMPSON ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Planned work being done on our equipment",
+          "customers_affected": "9",
+          "last_updated": "2020-10-20T09:50:00",
+          "municipality": "Esquimalt",
+          "municipality_code": "day-1 day-3 city--941955629",
+          "start": "2020-10-20T09:49:00",
+          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 20 3:00 p.m."
+        },
+        {
+          "area": "2600 - 2700 block FOUL BAY RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Planned work being done on our equipment",
+          "customers_affected": "12",
+          "last_updated": "2020-10-20T09:58:00",
+          "municipality": "Oak Bay, Saanich",
+          "municipality_code": "day-1 day-3 city--24788973 city--776615533",
+          "start": "2020-10-20T09:58:00",
+          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 20 3:30 p.m."
+        },
         {
           "area": "400 block DAVIDA AVE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Planned work being done on our equipment",
@@ -408,11 +505,11 @@
           "start": "2020-10-21T09:00:00"
         },
         {
-          "area": "CANCELLED / TO BE RESCHEDULED AT A LATER DATE7003-7057 Malibu Dr, 410-434 Northcliffe Cres,",
+          "area": "OUTAGE PROCEEDING AS PLANNED7003-7057 Malibu Dr, 410-434 Northcliffe Cres,",
           "cause": "Planned work being done on our equipment",
           "customers_affected": "15",
           "end": "2020-10-20T19:00:00",
-          "last_updated": "2020-10-20T07:40:00",
+          "last_updated": "2020-10-20T09:53:00",
           "municipality": "Burnaby",
           "municipality_code": "day-1 day-3 city-1903966249",
           "start": "2020-10-20T09:00:00"
@@ -1749,7 +1846,7 @@
       "region_id": "1602896846"
     },
     "Northern": {
-      "customers_affected_14d": 7491,
+      "customers_affected_14d": 7528,
       "outages": [
         {
           "area": "Burns Lake Substation - Burns Lake; Danskin; Decker Lake; Endako; Francois Lake, Fraser Lake; Grassy Plains; Houston; Noralee; Ootsa Lake; Priestley; Southbank; Takysie Lake; Tchesinkut Lake; Topley",
@@ -1910,6 +2007,16 @@
           "municipality": "Houston",
           "municipality_code": "day-1 day-3 city--1529782994",
           "start": "2020-10-23T09:00:00"
+        },
+        {
+          "area": "2240 to 2275 Baggerman Place; 3710 to 3895 Baggerman Crescent.",
+          "cause": "Transformer replacement",
+          "customers_affected": "37",
+          "end": "2020-10-28T14:00:00",
+          "last_updated": "2020-10-20T09:50:00",
+          "municipality": "Houston",
+          "municipality_code": "day-1 day-3 city--1529782994",
+          "start": "2020-10-28T10:00:00"
         },
         {
           "area": "EMERGENT2013 Collison Ave; 1533 - 1675 Main St; 1612 - 1690 Orr St",
@@ -3646,7 +3753,7 @@
           "cause": "Other",
           "customers_affected": "10",
           "end": "2020-10-16T16:30:00",
-          "last_updated": "2020-10-16T16:23:00",
+          "last_updated": "2020-10-20T10:06:00",
           "municipality": "Williams Lake",
           "municipality_code": "day-3 city--1905642465",
           "start": "2020-10-16T09:03:00"
@@ -3718,7 +3825,7 @@
           "end": "2020-10-16T10:00:00",
           "last_updated": "2020-10-16T11:20:00",
           "municipality": "Williams Lake",
-          "municipality_code": "day-3 city--1905642465",
+          "municipality_code": "city--1905642465",
           "start": "2020-10-16T07:23:00"
         },
         {
@@ -6713,7 +6820,7 @@
           "cause": "Tree down across our wires",
           "customers_affected": "< 5",
           "end": "",
-          "last_updated": "2020-10-19T09:25:00",
+          "last_updated": "2020-10-20T09:58:00",
           "municipality": "Langley",
           "municipality_code": "city-1612593490",
           "start": "2020-10-13T13:55:00"
@@ -7373,7 +7480,7 @@
           "cause": "Motor vehicle accident",
           "customers_affected": "1925",
           "end": "2020-10-19T22:00:00",
-          "last_updated": "2020-10-20T08:22:00",
+          "last_updated": "2020-10-20T09:57:00",
           "municipality": "Mission",
           "municipality_code": "day-1 day-3 city--1560864404",
           "start": "2020-10-19T14:32:00"
@@ -13179,7 +13286,7 @@
           "end": "2020-10-16T10:00:00",
           "last_updated": "2020-10-16T10:04:00",
           "municipality": "Vanderhoof",
-          "municipality_code": "day-3 city-1041981516",
+          "municipality_code": "city-1041981516",
           "start": "2020-10-16T05:18:00"
         },
         {
@@ -13714,7 +13821,7 @@
           "cause": "Other",
           "customers_affected": "< 5",
           "end": "",
-          "last_updated": "2020-10-19T16:52:00",
+          "last_updated": "2020-10-20T09:49:00",
           "municipality": "Nakusp",
           "municipality_code": "day-1 day-3 city--1969008230",
           "start": "2020-10-19T12:03:00"
@@ -17858,7 +17965,7 @@
           "cause": "Tree down across our wires",
           "customers_affected": "283",
           "end": "",
-          "last_updated": "2020-10-19T11:20:00",
+          "last_updated": "2020-10-20T09:48:00",
           "municipality": "Revelstoke",
           "municipality_code": "day-1 day-3 city-1039954398",
           "start": "2020-10-19T10:55:00"
