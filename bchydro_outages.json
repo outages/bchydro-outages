@@ -1,7 +1,7 @@
 {
   "current": {
     "Lower Mainland": {
-      "customers_affected_14d": 242,
+      "customers_affected_14d": 255,
       "outages": [
         {
           "area": "West of GLADWIN RD, South of MARSHALL RD, North of TRANS CANADA HWY, East of CORDOVA CRT\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -12,6 +12,26 @@
           "municipality_code": "day-1 day-3 city-1230363016",
           "start": "2020-10-20T10:03:00",
           "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 20 4:00 p.m."
+        },
+        {
+          "area": "3900 block CLEARBROOK RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Planned work being done on our equipment",
+          "customers_affected": "< 5",
+          "last_updated": "2020-10-20T10:11:00",
+          "municipality": "Abbotsford",
+          "municipality_code": "day-1 day-3 city-1230363016",
+          "start": "2020-10-20T10:10:00",
+          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 20 2:00 p.m."
+        },
+        {
+          "area": "2100 block MT LEHMAN RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Under investigation",
+          "customers_affected": "< 5",
+          "last_updated": "2020-10-20T10:07:00",
+          "municipality": "Abbotsford",
+          "municipality_code": "day-1 day-3 city-1230363016",
+          "start": "2020-10-20T09:47:00",
+          "status": "Crew status: Crew assigned"
         },
         {
           "area": "2900 - 3000 block ARIES PL\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -122,6 +142,26 @@
           "municipality_code": "day-1 day-3 city-1665178489",
           "start": "2020-10-20T09:57:00",
           "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 20 4:00 p.m."
+        },
+        {
+          "area": "14400 block 116A AVE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Under investigation",
+          "customers_affected": "< 5",
+          "last_updated": "2020-10-20T10:17:00",
+          "municipality": "Surrey",
+          "municipality_code": "day-1 day-3 city--1807186826",
+          "start": "2020-10-20T10:03:00",
+          "status": "Crew status: Crew assigned"
+        },
+        {
+          "area": "6000 - 6100 block COLLINGWOOD ST, 6000 - 6100 block COLLINGWOOD PL\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Planned work being done on our equipment",
+          "customers_affected": "10",
+          "last_updated": "2020-10-20T10:07:00",
+          "municipality": "Vancouver",
+          "municipality_code": "day-1 day-3 city--1786794435",
+          "start": "2020-10-20T10:05:00",
+          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 20 6:00 p.m."
         }
       ],
       "region_code": "Lower Mainland",
@@ -155,18 +195,8 @@
       "region_id": "1602896846"
     },
     "Northern": {
-      "customers_affected_14d": 48,
+      "customers_affected_14d": 46,
       "outages": [
-        {
-          "area": "0 block COLLINS RD, COLLINS RD SEWAGE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Under investigation",
-          "customers_affected": "< 5",
-          "last_updated": "2020-10-20T10:02:00",
-          "municipality": "Dawson Creek",
-          "municipality_code": "day-1 day-3 city--1630954860",
-          "start": "2020-10-20T08:32:00",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 20 10:25 a.m."
-        },
         {
           "area": "North of 96A AVE, South of 99th AVE, West of 90th ST, East of 92nd ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Planned work being done on our equipment",
@@ -190,23 +220,6 @@
       ],
       "region_code": "Northern",
       "region_id": "1602964060"
-    },
-    "Okanagan/Kootenay": {
-      "customers_affected_14d": 6,
-      "outages": [
-        {
-          "area": "200 block OUGHTRED ST, 2100 - 2200 block WARREN AVE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Planned work being done on our equipment",
-          "customers_affected": "6",
-          "last_updated": "2020-10-20T09:53:00",
-          "municipality": "Kimberley",
-          "municipality_code": "day-1 day-3 city-1047449248",
-          "start": "2020-10-20T09:52:00",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 20 10:30 a.m."
-        }
-      ],
-      "region_code": "Okanagan/Kootenay",
-      "region_id": "2072041405"
     },
     "South VI": {
       "customers_affected_14d": 71,
@@ -245,7 +258,7 @@
           "area": "3700 block PHILLIPS RD, 2900 - 3100 block SOOKE RIVER RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Planned work being done on our equipment",
           "customers_affected": "24",
-          "last_updated": "2020-10-20T09:27:00",
+          "last_updated": "2020-10-20T10:18:00",
           "municipality": "Sooke",
           "municipality_code": "day-1 day-3 city-80069133",
           "start": "2020-10-20T09:24:00",
@@ -292,11 +305,11 @@
           "area": "700 block N WESTSYDE RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Wire down",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-20T09:43:00",
+          "last_updated": "2020-10-20T10:15:00",
           "municipality": "Kamloops",
           "municipality_code": "day-1 day-3 city-979034872",
           "start": "2020-10-19T15:38:00",
-          "status": "Crew status: Crew on-site"
+          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 20 4:00 p.m."
         },
         {
           "area": "700 block S HWY 23\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -1846,7 +1859,7 @@
       "region_id": "1602896846"
     },
     "Northern": {
-      "customers_affected_14d": 7528,
+      "customers_affected_14d": 7536,
       "outages": [
         {
           "area": "Burns Lake Substation - Burns Lake; Danskin; Decker Lake; Endako; Francois Lake, Fraser Lake; Grassy Plains; Houston; Noralee; Ootsa Lake; Priestley; Southbank; Takysie Lake; Tchesinkut Lake; Topley",
@@ -2087,6 +2100,16 @@
           "municipality": "Terrace",
           "municipality_code": "day-1 day-3 city-241216082",
           "start": "2020-10-30T11:00:00"
+        },
+        {
+          "area": "3817,3819,3821,3823,3846,3848,3850\r\n3852, Dejong Cres., Terrace",
+          "cause": "Planned work being done on our equipment",
+          "customers_affected": "8",
+          "end": "2020-10-28T15:30:00",
+          "last_updated": "2020-10-20T10:21:00",
+          "municipality": "Terrace",
+          "municipality_code": "day-1 day-3 city-241216082",
+          "start": "2020-10-28T12:30:00"
         },
         {
           "area": "3860 Paquette Ave",
@@ -3525,7 +3548,7 @@
           "end": "2020-10-16T10:30:00",
           "last_updated": "2020-10-16T11:18:00",
           "municipality": "Quesnel",
-          "municipality_code": "day-3 city--1975191965",
+          "municipality_code": "city--1975191965",
           "start": "2020-10-16T09:01:00"
         },
         {
@@ -3743,7 +3766,7 @@
           "cause": "Tree down across our wires",
           "customers_affected": "37",
           "end": "2020-10-16T13:00:00",
-          "last_updated": "2020-10-16T16:09:00",
+          "last_updated": "2020-10-20T10:10:00",
           "municipality": "Williams Lake",
           "municipality_code": "day-3 city--1905642465",
           "start": "2020-10-16T05:19:00"
@@ -3783,7 +3806,7 @@
           "cause": "Other",
           "customers_affected": "< 5",
           "end": "",
-          "last_updated": "2020-10-16T15:01:00",
+          "last_updated": "2020-10-20T10:07:00",
           "municipality": "Williams Lake",
           "municipality_code": "day-3 city--1905642465",
           "start": "2020-10-16T10:11:00"
@@ -5582,7 +5605,7 @@
           "end": "2020-10-16T11:00:00",
           "last_updated": "2020-10-16T10:25:00",
           "municipality": "Coquitlam",
-          "municipality_code": "day-3 city--3101987",
+          "municipality_code": "city--3101987",
           "start": "2020-10-16T09:53:00"
         },
         {
@@ -8842,7 +8865,7 @@
           "end": "2020-10-16T11:00:00",
           "last_updated": "2020-10-16T10:20:00",
           "municipality": "Surrey",
-          "municipality_code": "day-3 city--1807186826",
+          "municipality_code": "city--1807186826",
           "start": "2020-10-16T09:55:00"
         },
         {
@@ -11889,7 +11912,7 @@
           "end": "",
           "last_updated": "2020-10-19T07:56:00",
           "municipality": "Qualicum Beach",
-          "municipality_code": "day-1 day-3 city--154309756",
+          "municipality_code": "day-3 city--154309756",
           "start": "2020-10-18T09:22:00"
         },
         {
@@ -13356,7 +13379,7 @@
           "end": "2020-10-16T10:15:00",
           "last_updated": "2020-10-16T10:28:00",
           "municipality": "Vanderhoof",
-          "municipality_code": "day-3 city-1041981516",
+          "municipality_code": "city-1041981516",
           "start": "2020-10-16T07:55:00"
         },
         {
@@ -13434,7 +13457,7 @@
       "region_id": "1602964060"
     },
     "Okanagan/Kootenay": {
-      "customers_affected_14d": 14193,
+      "customers_affected_14d": 14199,
       "outages": [
         {
           "area": "South of LEARMOUTH RD, West of COACHWOOD CRS, East of BREWER RD",
@@ -13513,7 +13536,7 @@
           "end": "2020-10-18T10:10:00",
           "last_updated": "2020-10-19T08:43:00",
           "municipality": "Cranbrook",
-          "municipality_code": "day-1 day-3 city--591720257",
+          "municipality_code": "day-3 city--591720257",
           "start": "2020-10-18T09:19:00"
         },
         {
@@ -13715,6 +13738,16 @@
           "municipality": "Kimberley",
           "municipality_code": "city-1047449248",
           "start": "2020-10-06T10:17:00"
+        },
+        {
+          "area": "200 block OUGHTRED ST, 2100 - 2200 block WARREN AVE",
+          "cause": "Planned work being done on our equipment",
+          "customers_affected": "6",
+          "end": "2020-10-20T10:30:00",
+          "last_updated": "2020-10-20T10:22:00",
+          "municipality": "Kimberley",
+          "municipality_code": "day-1 day-3 city-1047449248",
+          "start": "2020-10-20T09:52:00"
         },
         {
           "area": "East of OYAMA RD",
@@ -17715,7 +17748,7 @@
           "cause": "Tree down across our wires",
           "customers_affected": "< 5",
           "end": "2020-10-10T20:00:00",
-          "last_updated": "2020-10-20T09:22:00",
+          "last_updated": "2020-10-20T10:18:00",
           "municipality": "Kamloops",
           "municipality_code": "city-979034872",
           "start": "2020-10-10T14:50:00"
