@@ -1,5 +1,22 @@
 {
   "current": {
+    "Central Interior": {
+      "customers_affected_14d": 6,
+      "outages": [
+        {
+          "area": "300 block FRONT ST, 300 block REID ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Planned work being done on our equipment",
+          "customers_affected": "6",
+          "last_updated": "2020-10-19T21:05:00",
+          "municipality": "Quesnel",
+          "municipality_code": "day-1 day-3 city--1975191965",
+          "start": "2020-10-19T20:49:00",
+          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 20 3:00 a.m."
+        }
+      ],
+      "region_code": "Central Interior",
+      "region_id": "848340027"
+    },
     "Lower Mainland": {
       "customers_affected_14d": 204,
       "outages": [
@@ -74,7 +91,7 @@
       "region_id": "848340027"
     },
     "Lower Mainland": {
-      "customers_affected_14d": 7700,
+      "customers_affected_14d": 7663,
       "outages": [
         {
           "area": "1944, 1954, 1966, 1976 Albion St; 32666-32749 Cordova Ave; 325, 32760 Marshall Rd, 32414-32750 Pandora Ave; 1911-1944 Valencia Crt, Abbotsford",
@@ -515,16 +532,6 @@
           "municipality": "Delta",
           "municipality_code": "day-1 day-3 city-65915800",
           "start": "2020-10-22T08:30:00"
-        },
-        {
-          "area": "*Please Note - This outage is NOT Cancelled and will go ahead as planned for Sat, Oct 17th from 9am to 9pm*1285 - 1345 Cliveden Ave; 747 - 820 Cliveden Pl; City of Delta-Signals -Cliveden Ave/Cliveden Pl",
-          "cause": "Planned work being done on our equipment",
-          "customers_affected": "37",
-          "end": "2020-10-17T21:00:00",
-          "last_updated": "2020-10-14T13:20:00",
-          "municipality": "Delta",
-          "municipality_code": "day-1 day-3 city-65915800",
-          "start": "2020-10-17T09:00:00"
         },
         {
           "area": "8340 - 8390 SHEAVES RD (8340 8350 8355 8360 8370 8380 AND 8390)\r\n ; 10219 TO 10298 SHEAVES CRT.",
