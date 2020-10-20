@@ -1,7 +1,7 @@
 {
   "current": {
     "Lower Mainland": {
-      "customers_affected_14d": 255,
+      "customers_affected_14d": 257,
       "outages": [
         {
           "area": "West of GLADWIN RD, South of MARSHALL RD, North of TRANS CANADA HWY, East of CORDOVA CRT\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -142,6 +142,16 @@
           "municipality_code": "day-1 day-3 city-1665178489",
           "start": "2020-10-20T09:57:00",
           "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 20 4:00 p.m."
+        },
+        {
+          "area": "5700 block KYBER RD, 9400 block OLD RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Planned work being done on our equipment",
+          "customers_affected": "< 5",
+          "last_updated": "2020-10-20T10:27:00",
+          "municipality": "Sechelt",
+          "municipality_code": "day-1 day-3 city--660434186",
+          "start": "2020-10-20T10:24:00",
+          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 20 2:30 p.m."
         },
         {
           "area": "14400 block 116A AVE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -12489,7 +12499,7 @@
           "end": "2020-10-16T11:00:00",
           "last_updated": "2020-10-16T10:31:00",
           "municipality": "Burns Lake",
-          "municipality_code": "day-3 city--2121425941",
+          "municipality_code": "city--2121425941",
           "start": "2020-10-15T22:43:00"
         },
         {
