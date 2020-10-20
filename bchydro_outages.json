@@ -3518,7 +3518,7 @@
       "region_id": "848340027"
     },
     "Lower Mainland": {
-      "customers_affected_14d": 147832,
+      "customers_affected_14d": 147968,
       "outages": [
         {
           "area": "North of MACLURE RD, East of MT LEHMAN RD, West of Hwy 11",
@@ -4619,6 +4619,16 @@
           "municipality": "Chilliwack",
           "municipality_code": "city--708005353",
           "start": "2020-10-11T18:04:00"
+        },
+        {
+          "area": "North of ROAD ACCESS , East of VANMAR ST, West of PREST RD",
+          "cause": "Motor vehicle accident",
+          "customers_affected": "136",
+          "end": "2020-10-20T02:30:00",
+          "last_updated": "2020-10-20T02:16:00",
+          "municipality": "Chilliwack",
+          "municipality_code": "day-1 day-3 city--708005353",
+          "start": "2020-10-19T21:28:00"
         },
         {
           "area": "46200 block HAKW'ELES RD",
@@ -14335,7 +14345,7 @@
           "end": "2020-10-18T02:30:00",
           "last_updated": "2020-10-19T08:18:00",
           "municipality": "Duncan, North Cowichan",
-          "municipality_code": "day-1 day-3 city-2058209491 city--666037877",
+          "municipality_code": "day-3 city-2058209491 city--666037877",
           "start": "2020-10-18T01:14:00"
         },
         {
