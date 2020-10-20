@@ -1,18 +1,8 @@
 {
   "current": {
     "Lower Mainland": {
-      "customers_affected_14d": 1542,
+      "customers_affected_14d": 1416,
       "outages": [
-        {
-          "area": "West of GLADWIN RD, South of MARSHALL RD, North of TRANS CANADA HWY, East of CORDOVA CRT\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Planned work being done on our equipment",
-          "customers_affected": "126",
-          "last_updated": "2020-10-20T11:03:00",
-          "municipality": "Abbotsford",
-          "municipality_code": "day-1 day-3 city-1230363016",
-          "start": "2020-10-20T10:03:00",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 20 4:00 p.m."
-        },
         {
           "area": "2900 - 3000 block ARIES PL\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Planned work being done on our equipment",
@@ -67,21 +57,21 @@
           "area": "47500 block CHWK CENTRAL RD, 47500 block CHILLIWACK CENTRAL RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Bird contacting our wires",
           "customers_affected": "6",
-          "last_updated": "2020-10-20T13:13:00",
+          "last_updated": "2020-10-20T14:37:00",
           "municipality": "Chilliwack",
           "municipality_code": "day-1 day-3 city--708005353",
           "start": "2020-10-20T13:09:00",
-          "status": "Crew status: Crew assigned"
+          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 20 3:40 p.m."
         },
         {
           "area": "38600 block BELL RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-20T14:03:00",
+          "last_updated": "2020-10-20T14:38:00",
           "municipality": "Mission",
           "municipality_code": "day-1 day-3 city--1560864404",
           "start": "2020-10-20T13:34:00",
-          "status": "Crew status: Crew on-site"
+          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 20 3:15 p.m."
         },
         {
           "area": "4700 block FERNWOOD AVE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -105,13 +95,13 @@
         },
         {
           "area": "West of 138TH ST, North of 102A AVE, South of 108TH AVE, East of OLD YALE RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Under investigation",
+          "cause": "Cable fault",
           "customers_affected": "1344",
-          "last_updated": "2020-10-20T14:34:00",
+          "last_updated": "2020-10-20T14:38:00",
           "municipality": "Surrey",
           "municipality_code": "day-1 day-3 city--1807186826",
           "start": "2020-10-20T13:32:00",
-          "status": "Crew status: Crew assigned\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 20 2:35 p.m."
+          "status": "Crew status: Crew assigned\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 20 3:30 p.m."
         },
         {
           "area": "6000 - 6100 block COLLINGWOOD ST, 6000 - 6100 block COLLINGWOOD PL\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -178,11 +168,11 @@
           "area": "4200 block HWY 97, 4200 block MCCALLUM RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Motor vehicle accident",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-20T14:16:00",
+          "last_updated": "2020-10-20T14:36:00",
           "municipality": "Spallumcheen",
           "municipality_code": "day-1 day-3 city-2134222637",
           "start": "2020-10-20T13:43:00",
-          "status": "Crew status: Crew on-site"
+          "status": "Crew status: Crew assigned"
         },
         {
           "area": "4700 block S GRANDVIEW FLATS RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -3533,7 +3523,7 @@
           "cause": "Snow storm",
           "customers_affected": "< 5",
           "end": "",
-          "last_updated": "2020-10-20T14:36:00",
+          "last_updated": "2020-10-20T14:41:00",
           "municipality": "Prince George",
           "municipality_code": "day-3 city-1835674262",
           "start": "2020-10-16T00:01:00"
@@ -3943,7 +3933,7 @@
       "region_id": "848340027"
     },
     "Lower Mainland": {
-      "customers_affected_14d": 148060,
+      "customers_affected_14d": 148186,
       "outages": [
         {
           "area": "North of MACLURE RD, East of MT LEHMAN RD, West of Hwy 11",
@@ -4024,6 +4014,16 @@
           "municipality": "Abbotsford",
           "municipality_code": "city-1230363016",
           "start": "2020-10-13T11:10:00"
+        },
+        {
+          "area": "West of GLADWIN RD, South of MARSHALL RD, North of TRANS CANADA HWY, East of CORDOVA CRT",
+          "cause": "Planned work being done on our equipment",
+          "customers_affected": "126",
+          "end": "2020-10-20T16:00:00",
+          "last_updated": "2020-10-20T14:39:00",
+          "municipality": "Abbotsford",
+          "municipality_code": "day-1 day-3 city-1230363016",
+          "start": "2020-10-20T10:03:00"
         },
         {
           "area": "West of SUMAS MOUNTAIN RD, East of SHADBOLT AVE, South of ATWOOD CRS, North of HIGH GROVE PLACE",
@@ -4580,7 +4580,7 @@
           "cause": "Wind storm",
           "customers_affected": "< 5",
           "end": "",
-          "last_updated": "2020-10-20T14:36:00",
+          "last_updated": "2020-10-20T14:41:00",
           "municipality": "Abbotsford, Aldergrove",
           "municipality_code": "city-1230363016 city--826744211",
           "start": "2020-10-13T01:00:00"
@@ -14043,7 +14043,7 @@
           "end": "2020-10-16T15:00:00",
           "last_updated": "2020-10-19T07:53:00",
           "municipality": "Nakusp",
-          "municipality_code": "day-3 city--1969008230",
+          "municipality_code": "city--1969008230",
           "start": "2020-10-16T10:56:00"
         },
         {
@@ -16558,7 +16558,7 @@
           "cause": "Tree down across our wires",
           "customers_affected": "< 5",
           "end": "2020-10-19T13:15:00",
-          "last_updated": "2020-10-19T13:21:00",
+          "last_updated": "2020-10-20T14:41:00",
           "municipality": "Saanich, View Royal",
           "municipality_code": "day-1 day-3 city--776615533 city--1360221748",
           "start": "2020-10-19T11:17:00"
