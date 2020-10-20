@@ -7,11 +7,11 @@
           "area": "3100 block WILLOW CREEK RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-20T08:26:00",
+          "last_updated": "2020-10-20T08:41:00",
           "municipality": "Campbell River",
           "municipality_code": "day-1 day-3 city-1240464880",
           "start": "2020-10-20T07:24:00",
-          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 20 9:05 a.m."
+          "status": "Crew status: Crew on-site"
         }
       ],
       "region_code": "North VI",
@@ -33,6 +33,23 @@
       ],
       "region_code": "Okanagan/Kootenay",
       "region_id": "2072041405"
+    },
+    "South VI": {
+      "customers_affected_14d": 13,
+      "outages": [
+        {
+          "area": "2600 block AVEBURY AVE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Planned work being done on our equipment",
+          "customers_affected": "13",
+          "last_updated": "2020-10-20T08:39:00",
+          "municipality": "Victoria",
+          "municipality_code": "day-1 day-3 city-1201273535",
+          "start": "2020-10-20T08:37:00",
+          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 20 1:00 p.m."
+        }
+      ],
+      "region_code": "South VI",
+      "region_id": "1812901382"
     },
     "Thompson/Shuswap": {
       "customers_affected_14d": -1,
@@ -524,11 +541,11 @@
           "start": "2020-10-23T09:30:00"
         },
         {
-          "area": "**Two 1 Hour Switching between 10am-11am and 6pm-7pm**11105 Southridge Rd., Delta",
+          "area": "**Two 1 Hour Switching between 10am-11am and 6pm-7pm**63 Ave; 63A Ave; 64 Ave; 64A Ave; 64B Ave; 109 St; 120 St; 108A St; 109A St; 116A St; 117A St; Albion Way; Alpine PL; Bond Blvd; Bradford Pl; Brookdale Pl; Cabeldu Cres; Carncross Cres; Carriage Pl; Carstone Cres; Cherry Lane; Commonwealth Cres; Cresview Dr; Dover Pl; Fabel Cres; Hamlin Dr; Hillside Cres; Huff Blvd; Hyland Dr; Kempson Cres; Kent Cres; Kingswood Crt;  Kittson Pky; Knight Dr; Lambert Cres; Lawrie Cres; Lincoln Dr; Lyon Rd; Magnolia Crt; Mason Pl; May Pl; Mckenzie Dr; Newport Pl; Northview Pl; Northview Cres; Parkview Pl; Paterson Rd; Ridgecrest Dr; Ridgewood Pl; Rockford Pl; Ryall Cres_Pl; Sandpiper Pl; Sheffiled Pl; Shelley Pl; Somerset Cres; Stewart Rd; Stewart Pl; Stoney Cres; Summit Cres; Sunshine Dr; Sunwood Dr; Sussex Cres; Sussex Pl; Thunderbird Crt; Wade Rd; Westview Dr; Woodcrest Pl; Woodglen St; Woodgrove Ave; Woodlynn Crt; Woodrige Cres., Delta",
           "cause": "Planned work being done on our equipment",
           "customers_affected": "1704",
           "end": "2020-10-23T19:00:00",
-          "last_updated": "2020-10-16T12:17:00",
+          "last_updated": "2020-10-20T08:36:00",
           "municipality": "Delta",
           "municipality_code": "day-1 day-3 city-65915800",
           "start": "2020-10-23T10:00:00"
@@ -538,7 +555,7 @@
           "cause": "Planned work being done on our equipment",
           "customers_affected": "253",
           "end": "2020-10-23T19:00:00",
-          "last_updated": "2020-10-16T14:14:00",
+          "last_updated": "2020-10-20T08:39:00",
           "municipality": "Delta",
           "municipality_code": "day-1 day-3 city-65915800",
           "start": "2020-10-23T10:00:00"
@@ -4699,7 +4716,7 @@
           "cause": "Motor vehicle accident",
           "customers_affected": "136",
           "end": "2020-10-20T02:30:00",
-          "last_updated": "2020-10-20T02:16:00",
+          "last_updated": "2020-10-20T08:31:00",
           "municipality": "Chilliwack",
           "municipality_code": "day-1 day-3 city--708005353",
           "start": "2020-10-19T21:28:00"
@@ -7779,7 +7796,7 @@
           "cause": "Bird contacting our wires",
           "customers_affected": "< 5",
           "end": "2020-10-19T17:20:00",
-          "last_updated": "2020-10-19T17:11:00",
+          "last_updated": "2020-10-20T08:40:00",
           "municipality": "Pitt Meadows",
           "municipality_code": "day-1 day-3 city--253788407",
           "start": "2020-10-19T14:47:00"
@@ -12715,7 +12732,7 @@
           "end": "2020-10-18T08:30:00",
           "last_updated": "2020-10-18T08:39:00",
           "municipality": "Hazelton",
-          "municipality_code": "day-1 day-3 city-411200875",
+          "municipality_code": "day-3 city-411200875",
           "start": "2020-10-17T22:38:00"
         },
         {
