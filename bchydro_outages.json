@@ -1,18 +1,8 @@
 {
   "current": {
     "Lower Mainland": {
-      "customers_affected_14d": 205,
+      "customers_affected_14d": 204,
       "outages": [
-        {
-          "area": "7900 block GRAHAM AVE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Under investigation",
-          "customers_affected": "< 5",
-          "last_updated": "2020-10-19T19:30:00",
-          "municipality": "Burnaby",
-          "municipality_code": "day-1 day-3 city-1903966249",
-          "start": "2020-10-19T17:02:00",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 19 8:00 p.m."
-        },
         {
           "area": "East of NELSON ST, North of SILVERDALE AVE, West of TURNER ST, South of MCFALL TCE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Motor vehicle accident",
@@ -3585,7 +3575,7 @@
       "region_id": "848340027"
     },
     "Lower Mainland": {
-      "customers_affected_14d": 146132,
+      "customers_affected_14d": 146133,
       "outages": [
         {
           "area": "North of MACLURE RD, East of MT LEHMAN RD, West of Hwy 11",
@@ -4586,6 +4576,16 @@
           "municipality": "Burnaby",
           "municipality_code": "city-1903966249",
           "start": "2020-10-05T09:13:00"
+        },
+        {
+          "area": "7900 block GRAHAM AVE",
+          "cause": "Equipment failure",
+          "customers_affected": "< 5",
+          "end": "2020-10-19T20:00:00",
+          "last_updated": "2020-10-19T19:42:00",
+          "municipality": "Burnaby",
+          "municipality_code": "day-1 day-3 city-1903966249",
+          "start": "2020-10-19T17:02:00"
         },
         {
           "area": "4500 block SARDIS ST",
