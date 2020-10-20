@@ -3572,7 +3572,7 @@
       "region_id": "848340027"
     },
     "Lower Mainland": {
-      "customers_affected_14d": 146133,
+      "customers_affected_14d": 148058,
       "outages": [
         {
           "area": "North of MACLURE RD, East of MT LEHMAN RD, West of Hwy 11",
@@ -7273,6 +7273,16 @@
           "municipality": "Maple Ridge, Pitt Meadows",
           "municipality_code": "city-598891104 city--253788407",
           "start": "2020-10-13T12:23:00"
+        },
+        {
+          "area": "East of NELSON ST, North of SILVERDALE AVE, West of TURNER ST, South of MCFALL TCE",
+          "cause": "Motor vehicle accident",
+          "customers_affected": "1925",
+          "end": "2020-10-19T22:00:00",
+          "last_updated": "2020-10-19T23:26:00",
+          "municipality": "Mission",
+          "municipality_code": "day-1 day-3 city--1560864404",
+          "start": "2020-10-19T14:32:00"
         },
         {
           "area": "East of DEWDNEY TRUNK RD, North of WALTERS ST",
