@@ -94,6 +94,16 @@
           "status": "Crew status: Crew assigned"
         },
         {
+          "area": "38600 block BELL RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Under investigation",
+          "customers_affected": "< 5",
+          "last_updated": "2020-10-20T13:42:00",
+          "municipality": "Mission",
+          "municipality_code": "day-1 day-3 city--1560864404",
+          "start": "2020-10-20T13:34:00",
+          "status": "Crew status: Crew assigned"
+        },
+        {
           "area": "4700 block FERNWOOD AVE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Planned work being done on our equipment",
           "customers_affected": "12",
@@ -117,21 +127,11 @@
           "area": "West of 138TH ST, North of 102A AVE, South of 108TH AVE, East of OLD YALE RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "1344",
-          "last_updated": "2020-10-20T13:34:00",
+          "last_updated": "2020-10-20T13:39:00",
           "municipality": "Surrey",
           "municipality_code": "day-1 day-3 city--1807186826",
           "start": "2020-10-20T13:32:00",
-          "status": "Crew status: No crew assigned yet"
-        },
-        {
-          "area": "14400 block 116A AVE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Under investigation",
-          "customers_affected": "< 5",
-          "last_updated": "2020-10-20T11:22:00",
-          "municipality": "Surrey",
-          "municipality_code": "day-1 day-3 city--1807186826",
-          "start": "2020-10-20T10:03:00",
-          "status": "Crew status: Crew on-site"
+          "status": "Crew status: Crew assigned"
         },
         {
           "area": "13500 block 13A AVE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -158,7 +158,7 @@
       "region_id": "521980323"
     },
     "North VI": {
-      "customers_affected_14d": 36,
+      "customers_affected_14d": -1,
       "outages": [
         {
           "area": "2500 block PARKER WAY\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -171,14 +171,14 @@
           "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 20 3:00 p.m."
         },
         {
-          "area": "North-East of PENINSULA RD, West of HELEN RD, South of OTTER ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Planned work being done on our equipment",
-          "customers_affected": "33",
-          "last_updated": "2020-10-20T10:05:00",
-          "municipality": "Ucluelet",
-          "municipality_code": "day-1 day-3 city--1313309491",
-          "start": "2020-10-20T09:48:00",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 20 3:00 p.m."
+          "area": "1400 block STATION RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Tree down across our wires",
+          "customers_affected": "< 5",
+          "last_updated": "2020-10-20T13:45:00",
+          "municipality": "Qualicum Beach",
+          "municipality_code": "day-1 day-3 city--154309756",
+          "start": "2020-10-20T13:43:00",
+          "status": "Crew status: Crew assigned"
         }
       ],
       "region_code": "North VI",
@@ -3973,7 +3973,7 @@
       "region_id": "848340027"
     },
     "Lower Mainland": {
-      "customers_affected_14d": 148033,
+      "customers_affected_14d": 148034,
       "outages": [
         {
           "area": "North of MACLURE RD, East of MT LEHMAN RD, West of Hwy 11",
@@ -9386,6 +9386,16 @@
           "start": "2020-10-19T15:06:00"
         },
         {
+          "area": "14400 block 116A AVE",
+          "cause": "Equipment failure",
+          "customers_affected": "< 5",
+          "end": "",
+          "last_updated": "2020-10-20T13:38:00",
+          "municipality": "Surrey",
+          "municipality_code": "day-1 day-3 city--1807186826",
+          "start": "2020-10-20T10:03:00"
+        },
+        {
           "area": "100 block 184 ST",
           "cause": "Tree down across our wires",
           "customers_affected": "< 5",
@@ -10020,7 +10030,7 @@
       "region_id": "521980323"
     },
     "North VI": {
-      "customers_affected_14d": 73584,
+      "customers_affected_14d": 73617,
       "outages": [
         {
           "area": "North of ISLAND HWY",
@@ -12431,6 +12441,16 @@
           "municipality": "Ucluelet",
           "municipality_code": "city--1313309491",
           "start": "2020-10-13T17:08:00"
+        },
+        {
+          "area": "North-East of PENINSULA RD, West of HELEN RD, South of OTTER ST",
+          "cause": "Planned work being done on our equipment",
+          "customers_affected": "33",
+          "end": "2020-10-20T15:00:00",
+          "last_updated": "2020-10-20T13:43:00",
+          "municipality": "Ucluelet",
+          "municipality_code": "day-1 day-3 city--1313309491",
+          "start": "2020-10-20T09:48:00"
         },
         {
           "area": "900 block PENINSULA RD",
@@ -17507,7 +17527,7 @@
           "end": "",
           "last_updated": "2020-10-19T10:30:00",
           "municipality": "Clearwater",
-          "municipality_code": "day-3 city-1282265866",
+          "municipality_code": "city-1282265866",
           "start": "2020-10-16T07:43:00"
         },
         {
