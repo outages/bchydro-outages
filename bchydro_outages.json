@@ -7,15 +7,32 @@
           "area": "South of 52ND AVE, West of 168TH ST, North of 48TH AVE, East of 160TH ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "26",
-          "last_updated": "2020-10-20T07:15:00",
+          "last_updated": "2020-10-20T07:29:00",
           "municipality": "Surrey",
           "municipality_code": "day-1 day-3 city--1807186826",
           "start": "2020-10-20T05:40:00",
-          "status": "Crew status: Crew on-site"
+          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 20 8:00 a.m."
         }
       ],
       "region_code": "Lower Mainland",
       "region_id": "521980323"
+    },
+    "North VI": {
+      "customers_affected_14d": -1,
+      "outages": [
+        {
+          "area": "3100 block WILLOW CREEK RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Under investigation",
+          "customers_affected": "< 5",
+          "last_updated": "2020-10-20T07:33:00",
+          "municipality": "Campbell River",
+          "municipality_code": "day-1 day-3 city-1240464880",
+          "start": "2020-10-20T07:24:00",
+          "status": "Crew status: No crew assigned yet"
+        }
+      ],
+      "region_code": "North VI",
+      "region_id": "1602896846"
     },
     "Okanagan/Kootenay": {
       "customers_affected_14d": -1,
@@ -24,11 +41,11 @@
           "area": "3100 block CREIGHTON VLY RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-20T06:55:00",
+          "last_updated": "2020-10-20T07:26:00",
           "municipality": "Vernon",
           "municipality_code": "day-1 day-3 city--1736079254",
           "start": "2020-10-20T06:04:00",
-          "status": "Crew status: Crew assigned"
+          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 20 8:30 a.m."
         }
       ],
       "region_code": "Okanagan/Kootenay",
@@ -81,7 +98,7 @@
       "region_id": "848340027"
     },
     "Lower Mainland": {
-      "customers_affected_14d": 7743,
+      "customers_affected_14d": 7772,
       "outages": [
         {
           "area": "1944, 1954, 1966, 1976 Albion St; 32666-32749 Cordova Ave; 325, 32760 Marshall Rd, 32414-32750 Pandora Ave; 1911-1944 Valencia Crt, Abbotsford",
@@ -982,6 +999,16 @@
           "municipality": "Richmond",
           "municipality_code": "day-1 day-3 city--1486145068",
           "start": "2020-10-21T10:00:00"
+        },
+        {
+          "area": "11511 Steveston Hwy, Richmond",
+          "cause": "Pole replacement",
+          "customers_affected": "29",
+          "end": "2020-10-28T16:30:00",
+          "last_updated": "2020-10-20T07:28:00",
+          "municipality": "Richmond",
+          "municipality_code": "day-1 day-3 city--1486145068",
+          "start": "2020-10-28T08:30:00"
         },
         {
           "area": "12211, 12231, 12291 Bridgeport Rd",
@@ -12383,7 +12410,7 @@
           "cause": "Other",
           "customers_affected": "< 5",
           "end": "",
-          "last_updated": "2020-10-16T17:36:00",
+          "last_updated": "2020-10-20T07:36:00",
           "municipality": "Dawson Creek",
           "municipality_code": "day-3 city--1630954860",
           "start": "2020-10-16T15:51:00"
@@ -12393,7 +12420,7 @@
           "cause": "Bird contacting our wires",
           "customers_affected": "< 5",
           "end": "",
-          "last_updated": "2020-10-16T21:14:00",
+          "last_updated": "2020-10-20T07:36:00",
           "municipality": "Dawson Creek",
           "municipality_code": "day-3 city--1630954860",
           "start": "2020-10-16T19:39:00"
@@ -12413,7 +12440,7 @@
           "cause": "Customer's equipment",
           "customers_affected": "< 5",
           "end": "",
-          "last_updated": "2020-10-16T16:08:00",
+          "last_updated": "2020-10-20T07:36:00",
           "municipality": "Dawson Creek",
           "municipality_code": "day-3 city--1630954860",
           "start": "2020-10-16T09:03:00"
