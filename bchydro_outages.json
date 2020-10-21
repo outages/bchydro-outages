@@ -148,34 +148,24 @@
       "region_id": "521980323"
     },
     "North VI": {
-      "customers_affected_14d": 43,
+      "customers_affected_14d": -1,
       "outages": [
         {
-          "area": "300 block WESTERN DR, GOLD RIVER 8507 WHARF WHS, MILL RD GRAVEL PIT PLANT, MILL RD GRAVEL PIT, GOLD RIVER BOAT RAMP, 0 - 800 block MILL RD, TEMP I R-12, GOLD RIVER PUBLIC DOC CRANE, DRYLAND SORT, I R 12...\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Planned work being done on our equipment",
-          "customers_affected": "17",
-          "last_updated": "2020-10-21T10:27:00",
-          "municipality": "Gold River",
-          "municipality_code": "day-1 day-3 city--1035423156",
-          "start": "2020-10-21T10:24:00",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 21 1:30 p.m."
-        },
-        {
-          "area": "North of GIBSON ST, South of CAMPBELL ST, East of 1ST ST, West of 3RD ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Planned work being done on our equipment",
-          "customers_affected": "26",
-          "last_updated": "2020-10-21T09:49:00",
-          "municipality": "Tofino",
-          "municipality_code": "day-1 day-3 city--1784464673",
-          "start": "2020-10-21T09:47:00",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 21 3:00 p.m."
+          "area": "2500 block PARKER WAY\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Under investigation",
+          "customers_affected": "< 5",
+          "last_updated": "2020-10-21T13:00:00",
+          "municipality": "Qualicum Beach",
+          "municipality_code": "day-1 day-3 city--154309756",
+          "start": "2020-10-21T12:51:00",
+          "status": "Crew status: No crew assigned yet"
         }
       ],
       "region_code": "North VI",
       "region_id": "1602896846"
     },
     "Northern": {
-      "customers_affected_14d": 24,
+      "customers_affected_14d": 25,
       "outages": [
         {
           "area": "South of 52ND AVE, East of 42ND ST, North of 52A PL, West of 40TH ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -196,6 +186,16 @@
           "municipality_code": "day-1 day-3 city-205572915",
           "start": "2020-10-21T11:01:00",
           "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 21 3:00 p.m."
+        },
+        {
+          "area": "16800 block 137 RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Planned work being done on our equipment",
+          "customers_affected": "< 5",
+          "last_updated": "2020-10-21T12:51:00",
+          "municipality": "Fort St. John",
+          "municipality_code": "day-1 day-3 city-205572915",
+          "start": "2020-10-21T12:50:00",
+          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 21 2:00 p.m."
         },
         {
           "area": "500 block CONWAY ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -302,11 +302,11 @@
           "area": "2600 block HWY 5A\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-21T12:11:00",
+          "last_updated": "2020-10-21T13:04:00",
           "municipality": "Kamloops",
           "municipality_code": "day-1 day-3 city-979034872",
           "start": "2020-10-21T10:28:00",
-          "status": "Crew status: Crew on-site"
+          "status": "Crew status: Crew assigned"
         }
       ],
       "region_code": "Thompson/Shuswap",
@@ -342,7 +342,7 @@
       "region_id": "848340027"
     },
     "Lower Mainland": {
-      "customers_affected_14d": 8719,
+      "customers_affected_14d": 8723,
       "outages": [
         {
           "area": "1944, 1954, 1966, 1976 Albion St; 32666-32749 Cordova Ave; 325, 32760 Marshall Rd, 32414-32750 Pandora Ave; 1911-1944 Valencia Crt, Abbotsford",
@@ -499,7 +499,7 @@
           "cause": "Planned work being done on our equipment",
           "customers_affected": "28",
           "end": "2020-10-30T18:30:00",
-          "last_updated": "2020-10-21T12:36:00",
+          "last_updated": "2020-10-21T13:01:00",
           "municipality": "Burnaby",
           "municipality_code": "day-1 day-3 city-1903966249",
           "start": "2020-10-30T09:00:00"
@@ -785,11 +785,11 @@
           "start": "2020-10-21T09:30:00"
         },
         {
-          "area": "1252, 1253, 1254, 1255, 1256, 1257, 1258, 1259, 1260, 1261, 1262, 1264 Brian Dr; Flynn Cres., Coquitlam",
+          "area": "1252, 1253, 1254, 1255, 1256, 1257, 1258, 1259, 1260, 1261, 1262, 1264 Brian Dr; 1955 Flynn Cres., Coquitlam",
           "cause": "Planned work being done on our equipment",
           "customers_affected": "14",
           "end": "2020-10-30T15:30:00",
-          "last_updated": "2020-10-21T12:43:00",
+          "last_updated": "2020-10-21T12:47:00",
           "municipality": "Coquitlam",
           "municipality_code": "day-1 day-3 city--3101987",
           "start": "2020-10-30T09:30:00"
@@ -1623,6 +1623,16 @@
           "municipality": "Surrey",
           "municipality_code": "day-1 day-3 city--1807186826",
           "start": "2020-10-29T09:00:00"
+        },
+        {
+          "area": "*Emergent outage*5761, 5775, 5783, 5788 126 St",
+          "cause": "Planned work being done on our equipment",
+          "customers_affected": "< 5",
+          "end": "2020-10-22T16:00:00",
+          "last_updated": "2020-10-21T12:46:00",
+          "municipality": "Surrey",
+          "municipality_code": "day-1 day-3 city--1807186826",
+          "start": "2020-10-22T09:00:00"
         },
         {
           "area": "18328, 18331, 18336 59A Ave, Surrey",
@@ -3763,7 +3773,7 @@
           "cause": "Snow storm",
           "customers_affected": "< 5",
           "end": "",
-          "last_updated": "2020-10-21T12:46:00",
+          "last_updated": "2020-10-21T13:06:00",
           "municipality": "Prince George",
           "municipality_code": "city-1835674262",
           "start": "2020-10-16T00:01:00"
@@ -4203,7 +4213,7 @@
       "region_id": "848340027"
     },
     "Lower Mainland": {
-      "customers_affected_14d": 149570,
+      "customers_affected_14d": 149607,
       "outages": [
         {
           "area": "North of MACLURE RD, East of MT LEHMAN RD, West of Hwy 11",
@@ -4860,7 +4870,7 @@
           "cause": "Wind storm",
           "customers_affected": "< 5",
           "end": "",
-          "last_updated": "2020-10-21T12:46:00",
+          "last_updated": "2020-10-21T13:06:00",
           "municipality": "Abbotsford, Aldergrove",
           "municipality_code": "city-1230363016 city--826744211",
           "start": "2020-10-13T01:00:00"
@@ -6420,7 +6430,7 @@
           "cause": "Wind storm",
           "customers_affected": "< 5",
           "end": "",
-          "last_updated": "2020-10-21T12:46:00",
+          "last_updated": "2020-10-21T13:06:00",
           "municipality": "Hope, Chilliwack",
           "municipality_code": "city--708005353 city-2255196",
           "start": "2020-10-13T01:00:00"
@@ -6540,7 +6550,7 @@
           "cause": "Wind storm",
           "customers_affected": "< 5",
           "end": "",
-          "last_updated": "2020-10-21T12:46:00",
+          "last_updated": "2020-10-21T13:06:00",
           "municipality": "Ladner, Richmond, Tsawwassen, Langley, Delta, Surrey, White Rock",
           "municipality_code": "city-65915800 city--2026482228 city-1612593490 city--1486145068 city--1807186826 city--2033441752 city--2102123204",
           "start": "2020-10-13T01:00:00"
@@ -8180,7 +8190,7 @@
           "cause": "Wind storm",
           "customers_affected": "< 5",
           "end": "",
-          "last_updated": "2020-10-21T12:46:00",
+          "last_updated": "2020-10-21T13:06:00",
           "municipality": "Mission, Pitt Meadows, Maple Ridge",
           "municipality_code": "city-598891104 city--1560864404 city--253788407",
           "start": "2020-10-13T01:00:00"
@@ -9316,6 +9326,16 @@
           "start": "2020-10-13T15:55:00"
         },
         {
+          "area": "East of HWY 10 , West of 142ND ST, South of 58 AVENUE , North of 56TH AVE",
+          "cause": "Planned work being done on our equipment",
+          "customers_affected": "37",
+          "end": "2020-10-21T12:00:00",
+          "last_updated": "2020-10-21T13:05:00",
+          "municipality": "Surrey",
+          "municipality_code": "day-1 day-3 city--1807186826",
+          "start": "2020-10-21T10:37:00"
+        },
+        {
           "area": "North of 42A AVE, South-West of 192ND ST, East of 188TH ST",
           "cause": "Tree down across our wires",
           "customers_affected": "36",
@@ -10270,7 +10290,7 @@
       "region_id": "521980323"
     },
     "North VI": {
-      "customers_affected_14d": 73670,
+      "customers_affected_14d": 73713,
       "outages": [
         {
           "area": "North of ISLAND HWY",
@@ -10957,7 +10977,7 @@
           "cause": "Wind storm",
           "customers_affected": "< 5",
           "end": "",
-          "last_updated": "2020-10-21T12:46:00",
+          "last_updated": "2020-10-21T13:06:00",
           "municipality": "Courtenay",
           "municipality_code": "city--824228212",
           "start": "2020-10-13T01:00:00"
@@ -11011,6 +11031,16 @@
           "municipality": "Gold River",
           "municipality_code": "city--1035423156",
           "start": "2020-10-13T23:12:00"
+        },
+        {
+          "area": "300 block WESTERN DR, GOLD RIVER 8507 WHARF WHS, MILL RD GRAVEL PIT PLANT, MILL RD GRAVEL PIT, GOLD RIVER BOAT RAMP, 0 - 800 block MILL RD, TEMP I R-12, GOLD RIVER PUBLIC DOC CRANE, DRYLAND SORT, I R 12...",
+          "cause": "Planned work being done on our equipment",
+          "customers_affected": "17",
+          "end": "2020-10-21T13:30:00",
+          "last_updated": "2020-10-21T13:03:00",
+          "municipality": "Gold River",
+          "municipality_code": "day-1 day-3 city--1035423156",
+          "start": "2020-10-21T10:24:00"
         },
         {
           "area": "500 block NIMPKISH DR, 600 block DOGWOOD DR",
@@ -11517,7 +11547,7 @@
           "cause": "Wind storm",
           "customers_affected": "< 5",
           "end": "",
-          "last_updated": "2020-10-21T12:46:00",
+          "last_updated": "2020-10-21T13:06:00",
           "municipality": "Nanaimo",
           "municipality_code": "city--907547835",
           "start": "2020-10-13T01:00:00"
@@ -11997,7 +12027,7 @@
           "cause": "Wind storm",
           "customers_affected": "< 5",
           "end": "",
-          "last_updated": "2020-10-21T12:46:00",
+          "last_updated": "2020-10-21T13:06:00",
           "municipality": "Port Hardy, Campbell River",
           "municipality_code": "city-1240464880 city-368562319",
           "start": "2020-10-13T01:00:00"
@@ -12697,7 +12727,7 @@
           "cause": "Wind storm",
           "customers_affected": "< 5",
           "end": "",
-          "last_updated": "2020-10-21T12:46:00",
+          "last_updated": "2020-10-21T13:06:00",
           "municipality": "Qualicum Beach",
           "municipality_code": "city--154309756",
           "start": "2020-10-13T01:00:00"
@@ -12711,6 +12741,16 @@
           "municipality": "Tofino",
           "municipality_code": "city--1784464673",
           "start": "2020-10-13T13:41:00"
+        },
+        {
+          "area": "North of GIBSON ST, South of CAMPBELL ST, East of 1ST ST, West of 3RD ST",
+          "cause": "Planned work being done on our equipment",
+          "customers_affected": "26",
+          "end": "2020-10-21T15:00:00",
+          "last_updated": "2020-10-21T13:03:00",
+          "municipality": "Tofino",
+          "municipality_code": "day-1 day-3 city--1784464673",
+          "start": "2020-10-21T09:47:00"
         },
         {
           "area": "1000 block PACIFIC RIM HWY",
@@ -12787,7 +12827,7 @@
           "cause": "Wind storm",
           "customers_affected": "< 5",
           "end": "",
-          "last_updated": "2020-10-21T12:46:00",
+          "last_updated": "2020-10-21T13:06:00",
           "municipality": "Ucluelet, Port Alberni",
           "municipality_code": "city-383682720 city--1313309491",
           "start": "2020-10-13T01:00:00"
@@ -14573,7 +14613,7 @@
           "end": "2020-10-19T13:00:00",
           "last_updated": "2020-10-19T13:36:00",
           "municipality": "Vernon",
-          "municipality_code": "day-1 day-3 city--1736079254",
+          "municipality_code": "day-3 city--1736079254",
           "start": "2020-10-19T11:19:00"
         },
         {
@@ -15288,7 +15328,7 @@
           "cause": "Wind storm",
           "customers_affected": "< 5",
           "end": "",
-          "last_updated": "2020-10-21T12:46:00",
+          "last_updated": "2020-10-21T13:06:00",
           "municipality": "Duncan",
           "municipality_code": "city-2058209491",
           "start": "2020-10-13T01:00:00"
@@ -15508,7 +15548,7 @@
           "cause": "Wind storm",
           "customers_affected": "< 5",
           "end": "",
-          "last_updated": "2020-10-21T12:46:00",
+          "last_updated": "2020-10-21T13:06:00",
           "municipality": "Galiano Island, Mayne Island, Ganges, Pender Island, Saturna Island",
           "municipality_code": "city--995767958 city-2125630497 city-48997657 city--635217187 city-501274559",
           "start": "2020-10-13T01:00:00"
@@ -17288,7 +17328,7 @@
           "cause": "Wind storm",
           "customers_affected": "< 5",
           "end": "",
-          "last_updated": "2020-10-21T12:46:00",
+          "last_updated": "2020-10-21T13:06:00",
           "municipality": "Victoria",
           "municipality_code": "city-1201273535",
           "start": "2020-10-13T01:00:00"
