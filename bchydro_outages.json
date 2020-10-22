@@ -17,18 +17,35 @@
       "region_code": "Lower Mainland",
       "region_id": "521980323"
     },
+    "Northern": {
+      "customers_affected_14d": 21,
+      "outages": [
+        {
+          "area": "9200 block 82 ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Planned work being done on our equipment",
+          "customers_affected": "21",
+          "last_updated": "2020-10-22T08:23:00",
+          "municipality": "Fort St. John",
+          "municipality_code": "day-1 day-3 city-205572915",
+          "start": "2020-10-22T08:22:00",
+          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 22 5:00 p.m."
+        }
+      ],
+      "region_code": "Northern",
+      "region_id": "1602964060"
+    },
     "South VI": {
       "customers_affected_14d": 137,
       "outages": [
         {
           "area": "South of CALEB PIKE RD, East of TRANS CAN HWY, West of MILLSTREAM RD, North of BEAR MOUNTAIN PKY\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Under investigation",
+          "cause": "Tree down across our wires",
           "customers_affected": "137",
-          "last_updated": "2020-10-22T07:11:00",
+          "last_updated": "2020-10-22T08:13:00",
           "municipality": "Highlands, Langford",
           "municipality_code": "day-1 day-3 city-1322525542 city--1549378615",
           "start": "2020-10-22T07:06:00",
-          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 22 8:15 a.m."
+          "status": "Crew status: Crew on-site"
         }
       ],
       "region_code": "South VI",
@@ -54,7 +71,7 @@
       "region_id": "848340027"
     },
     "Lower Mainland": {
-      "customers_affected_14d": 8440,
+      "customers_affected_14d": 8444,
       "outages": [
         {
           "area": "1944, 1954, 1966, 1976 Albion St; 32666-32749 Cordova Ave; 325, 32760 Marshall Rd, 32414-32750 Pandora Ave; 1911-1944 Valencia Crt, Abbotsford",
@@ -1527,6 +1544,16 @@
           "start": "2020-10-24T09:00:00"
         },
         {
+          "area": "4407 W 3rd Ave, 4410 W 2nd Ave, 1855, 1883 Trimble St, Vancouver",
+          "cause": "Pole replacement",
+          "customers_affected": "< 5",
+          "end": "2020-11-02T16:00:00",
+          "last_updated": "2020-10-22T08:10:00",
+          "municipality": "Vancouver",
+          "municipality_code": "day-1 day-3 city--1786794435",
+          "start": "2020-11-02T09:00:00"
+        },
+        {
           "area": "Outage Rescheduled from Sep 25th.6137, 6161 Cambie St, Vancouver",
           "cause": "Planned work being done on our equipment",
           "customers_affected": "< 5",
@@ -2095,7 +2122,7 @@
       "region_id": "1602964060"
     },
     "Okanagan/Kootenay": {
-      "customers_affected_14d": 4179,
+      "customers_affected_14d": 4256,
       "outages": [
         {
           "area": "* Outage to occur MDT *417, 441, 436 304th Ave, 818 30th Ave, 901-940 Ben Keer Dr, 2-11 Purcell Clo, 1, 5 Turner Clo, 590, 595, 695 305th Ave; 320-896 305th St, 605-898 306th St; 536-700 306th Ave; 545-812 308th St, 410-840 308th Ave,543-833 309th Ave, 761-840 309th St, Marysville",
@@ -2166,6 +2193,16 @@
           "municipality": "Radium Hot Springs",
           "municipality_code": "day-1 day-3 city-553284991",
           "start": "2020-10-23T00:00:00"
+        },
+        {
+          "area": "3700 ,3705 30 Ave, Vernon",
+          "cause": "Pole replacement",
+          "customers_affected": "77",
+          "end": "2020-10-31T16:00:00",
+          "last_updated": "2020-10-22T08:25:00",
+          "municipality": "Vernon",
+          "municipality_code": "day-1 day-3 city--1736079254",
+          "start": "2020-10-31T09:00:00"
         },
         {
           "area": "112, 114, 116 1st St, 801 - 817 8th Ave, Vernon",
@@ -3425,7 +3462,7 @@
           "cause": "Snow storm",
           "customers_affected": "< 5",
           "end": "",
-          "last_updated": "2020-10-22T08:06:00",
+          "last_updated": "2020-10-22T08:26:00",
           "municipality": "Prince George",
           "municipality_code": "city-1835674262",
           "start": "2020-10-16T00:01:00"
@@ -4522,7 +4559,7 @@
           "cause": "Wind storm",
           "customers_affected": "< 5",
           "end": "",
-          "last_updated": "2020-10-22T08:06:00",
+          "last_updated": "2020-10-22T08:26:00",
           "municipality": "Abbotsford, Aldergrove",
           "municipality_code": "city-1230363016 city--826744211",
           "start": "2020-10-13T01:00:00"
@@ -5162,7 +5199,7 @@
           "cause": "Voltage Problem or Overload",
           "customers_affected": "15",
           "end": "2020-10-22T00:30:00",
-          "last_updated": "2020-10-22T00:09:00",
+          "last_updated": "2020-10-22T08:13:00",
           "municipality": "Chilliwack",
           "municipality_code": "day-1 day-3 city--708005353",
           "start": "2020-10-21T22:07:00"
@@ -6142,7 +6179,7 @@
           "cause": "Wind storm",
           "customers_affected": "< 5",
           "end": "",
-          "last_updated": "2020-10-22T08:06:00",
+          "last_updated": "2020-10-22T08:26:00",
           "municipality": "Hope, Chilliwack",
           "municipality_code": "city--708005353 city-2255196",
           "start": "2020-10-13T01:00:00"
@@ -6162,7 +6199,7 @@
           "cause": "Motor vehicle accident",
           "customers_affected": "159",
           "end": "2020-10-22T05:00:00",
-          "last_updated": "2020-10-22T05:44:00",
+          "last_updated": "2020-10-22T08:17:00",
           "municipality": "Kent",
           "municipality_code": "day-1 day-3 city-2334912",
           "start": "2020-10-21T23:09:00"
@@ -6272,7 +6309,7 @@
           "cause": "Wind storm",
           "customers_affected": "< 5",
           "end": "",
-          "last_updated": "2020-10-22T08:06:00",
+          "last_updated": "2020-10-22T08:26:00",
           "municipality": "Ladner, Richmond, Tsawwassen, Langley, Delta, Surrey, White Rock",
           "municipality_code": "city-65915800 city--2026482228 city-1612593490 city--1486145068 city--1807186826 city--2033441752 city--2102123204",
           "start": "2020-10-13T01:00:00"
@@ -7932,7 +7969,7 @@
           "cause": "Wind storm",
           "customers_affected": "< 5",
           "end": "",
-          "last_updated": "2020-10-22T08:06:00",
+          "last_updated": "2020-10-22T08:26:00",
           "municipality": "Mission, Pitt Meadows, Maple Ridge",
           "municipality_code": "city-598891104 city--1560864404 city--253788407",
           "start": "2020-10-13T01:00:00"
@@ -8062,7 +8099,7 @@
           "cause": "Other",
           "customers_affected": "< 5",
           "end": "",
-          "last_updated": "2020-10-21T11:36:00",
+          "last_updated": "2020-10-22T08:10:00",
           "municipality": "North Vancouver",
           "municipality_code": "day-1 day-3 city--1636626238",
           "start": "2020-10-21T10:44:00"
@@ -8292,7 +8329,7 @@
           "cause": "Motor vehicle accident",
           "customers_affected": "59",
           "end": "2020-10-22T22:30:00",
-          "last_updated": "2020-10-21T23:15:00",
+          "last_updated": "2020-10-22T08:17:00",
           "municipality": "Powell River",
           "municipality_code": "day-1 day-3 city-1665178489",
           "start": "2020-10-21T11:47:00"
@@ -10699,7 +10736,7 @@
           "cause": "Wind storm",
           "customers_affected": "< 5",
           "end": "",
-          "last_updated": "2020-10-22T08:06:00",
+          "last_updated": "2020-10-22T08:26:00",
           "municipality": "Courtenay",
           "municipality_code": "city--824228212",
           "start": "2020-10-13T01:00:00"
@@ -11269,7 +11306,7 @@
           "cause": "Wind storm",
           "customers_affected": "< 5",
           "end": "",
-          "last_updated": "2020-10-22T08:06:00",
+          "last_updated": "2020-10-22T08:26:00",
           "municipality": "Nanaimo",
           "municipality_code": "city--907547835",
           "start": "2020-10-13T01:00:00"
@@ -11739,7 +11776,7 @@
           "cause": "Wind storm",
           "customers_affected": "< 5",
           "end": "",
-          "last_updated": "2020-10-22T08:06:00",
+          "last_updated": "2020-10-22T08:26:00",
           "municipality": "Port Hardy, Campbell River",
           "municipality_code": "city-1240464880 city-368562319",
           "start": "2020-10-13T01:00:00"
@@ -12331,7 +12368,7 @@
           "end": "",
           "last_updated": "2020-10-19T07:56:00",
           "municipality": "Qualicum Beach",
-          "municipality_code": "day-3 city--154309756",
+          "municipality_code": "city--154309756",
           "start": "2020-10-17T16:01:00"
         },
         {
@@ -12449,7 +12486,7 @@
           "cause": "Wind storm",
           "customers_affected": "< 5",
           "end": "",
-          "last_updated": "2020-10-22T08:06:00",
+          "last_updated": "2020-10-22T08:26:00",
           "municipality": "Qualicum Beach",
           "municipality_code": "city--154309756",
           "start": "2020-10-13T01:00:00"
@@ -12549,7 +12586,7 @@
           "cause": "Wind storm",
           "customers_affected": "< 5",
           "end": "",
-          "last_updated": "2020-10-22T08:06:00",
+          "last_updated": "2020-10-22T08:26:00",
           "municipality": "Ucluelet, Port Alberni",
           "municipality_code": "city-383682720 city--1313309491",
           "start": "2020-10-13T01:00:00"
@@ -15090,7 +15127,7 @@
           "cause": "Wind storm",
           "customers_affected": "< 5",
           "end": "",
-          "last_updated": "2020-10-22T08:06:00",
+          "last_updated": "2020-10-22T08:26:00",
           "municipality": "Duncan",
           "municipality_code": "city-2058209491",
           "start": "2020-10-13T01:00:00"
@@ -15310,7 +15347,7 @@
           "cause": "Wind storm",
           "customers_affected": "< 5",
           "end": "",
-          "last_updated": "2020-10-22T08:06:00",
+          "last_updated": "2020-10-22T08:26:00",
           "municipality": "Galiano Island, Mayne Island, Ganges, Pender Island, Saturna Island",
           "municipality_code": "city--995767958 city-2125630497 city-48997657 city--635217187 city-501274559",
           "start": "2020-10-13T01:00:00"
@@ -17060,7 +17097,7 @@
           "cause": "Wind storm",
           "customers_affected": "< 5",
           "end": "",
-          "last_updated": "2020-10-22T08:06:00",
+          "last_updated": "2020-10-22T08:26:00",
           "municipality": "Victoria",
           "municipality_code": "city-1201273535",
           "start": "2020-10-13T01:00:00"
