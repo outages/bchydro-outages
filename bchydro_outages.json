@@ -17,11 +17,11 @@
           "area": "700 block 264 ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-22T12:12:00",
+          "last_updated": "2020-10-22T12:41:00",
           "municipality": "Langley",
           "municipality_code": "day-1 day-3 city-1612593490",
           "start": "2020-10-22T11:54:00",
-          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 22 1:15 p.m."
+          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 22 1:15 p.m."
         },
         {
           "area": "North of ALLARD CRS, West of 222ND ST, East of HOLLY ST, South of LOUGHEED HWY\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -205,7 +205,7 @@
       "region_id": "1602896846"
     },
     "Northern": {
-      "customers_affected_14d": 217,
+      "customers_affected_14d": 216,
       "outages": [
         {
           "area": "North of TURGEON DR, East of POPLAR CRS, South of 104TH AVE, West of 16TH ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -246,23 +246,13 @@
           "municipality_code": "day-1 day-3 city-53995150",
           "start": "2020-10-22T10:07:00",
           "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 22 2:00 p.m."
-        },
-        {
-          "area": "1200 block ASPEN RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Under investigation",
-          "customers_affected": "< 5",
-          "last_updated": "2020-10-22T12:20:00",
-          "municipality": "Vanderhoof",
-          "municipality_code": "day-1 day-3 city-1041981516",
-          "start": "2020-10-22T12:06:00",
-          "status": "Crew status: Crew assigned"
         }
       ],
       "region_code": "Northern",
       "region_id": "1602964060"
     },
     "Okanagan/Kootenay": {
-      "customers_affected_14d": 13,
+      "customers_affected_14d": 8,
       "outages": [
         {
           "area": "North of MCNAIR RD, West of HWY 93 95 , East of KERR RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -283,16 +273,6 @@
           "municipality_code": "day-1 day-3 city--591720257",
           "start": "2020-10-22T11:33:00",
           "status": "Crew status: Crew assigned"
-        },
-        {
-          "area": "4500 block LANSDOWNE RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Planned work being done on our equipment",
-          "customers_affected": "5",
-          "last_updated": "2020-10-22T09:09:00",
-          "municipality": "Spallumcheen",
-          "municipality_code": "day-1 day-3 city-2134222637",
-          "start": "2020-10-22T08:41:00",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 22 12:00 p.m."
         },
         {
           "area": "7600 block MCLENNAN RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -346,8 +326,18 @@
       "region_id": "1812901382"
     },
     "Thompson/Shuswap": {
-      "customers_affected_14d": -1,
+      "customers_affected_14d": 10,
       "outages": [
+        {
+          "area": "400 block S GREEN LAKE RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Planned work being done on our equipment",
+          "customers_affected": "7",
+          "last_updated": "2020-10-22T12:37:00",
+          "municipality": "100 Mile House",
+          "municipality_code": "day-1 day-3 city-950857956",
+          "start": "2020-10-22T12:25:00",
+          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 22 1:00 p.m."
+        },
         {
           "area": "2400 block LLOYD RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Planned work being done on our equipment",
@@ -357,16 +347,6 @@
           "municipality_code": "day-1 day-3 city-1282265866",
           "start": "2020-10-22T11:26:00",
           "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 22 1:30 p.m."
-        },
-        {
-          "area": "4600 block COLD CREEK RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Under investigation",
-          "customers_affected": "< 5",
-          "last_updated": "2020-10-22T11:15:00",
-          "municipality": "Kamloops",
-          "municipality_code": "day-1 day-3 city-979034872",
-          "start": "2020-10-22T09:53:00",
-          "status": "Crew status: Crew on-site"
         },
         {
           "area": "2000 block PETERSON RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -2680,7 +2660,7 @@
       "region_id": "2072041405"
     },
     "South VI": {
-      "customers_affected_14d": 1573,
+      "customers_affected_14d": 1782,
       "outages": [
         {
           "area": "1746 Verling Ave; 1763 Sean Hts, Saanichton",
@@ -2851,6 +2831,16 @@
           "municipality": "Sooke",
           "municipality_code": "day-1 day-3 city-80069133",
           "start": "2020-10-21T10:00:00"
+        },
+        {
+          "area": "6066 - 7624 Mark Lane; 763 - 871 Melody Place; 799 - 847 Sea Aira Heights; 683 - 671 Steamer Rd; 6515 - 7136 Willis Point Rd",
+          "cause": "Pole replacement",
+          "customers_affected": "209",
+          "end": "2020-11-05T14:30:00",
+          "last_updated": "2020-10-22T12:43:00",
+          "municipality": "Victoria",
+          "municipality_code": "day-1 day-3 city-1201273535",
+          "start": "2020-11-05T09:30:00"
         },
         {
           "area": "920 - 996 Convent Pl; 903 and 955 Humboldt St; 516 - 527 Quadra St; 490 Vancouver St",
@@ -3843,7 +3833,7 @@
           "cause": "Snow storm",
           "customers_affected": "< 5",
           "end": "",
-          "last_updated": "2020-10-22T12:31:00",
+          "last_updated": "2020-10-22T12:46:00",
           "municipality": "Prince George",
           "municipality_code": "city-1835674262",
           "start": "2020-10-16T00:01:00"
@@ -4940,7 +4930,7 @@
           "cause": "Wind storm",
           "customers_affected": "< 5",
           "end": "",
-          "last_updated": "2020-10-22T12:31:00",
+          "last_updated": "2020-10-22T12:46:00",
           "municipality": "Abbotsford, Aldergrove",
           "municipality_code": "city-1230363016 city--826744211",
           "start": "2020-10-13T01:00:00"
@@ -6512,7 +6502,7 @@
           "end": "2020-10-20T13:00:00",
           "last_updated": "2020-10-20T12:39:00",
           "municipality": "Hope",
-          "municipality_code": "day-1 day-3 city-2255196",
+          "municipality_code": "day-3 city-2255196",
           "start": "2020-10-20T09:52:00"
         },
         {
@@ -6570,7 +6560,7 @@
           "cause": "Wind storm",
           "customers_affected": "< 5",
           "end": "",
-          "last_updated": "2020-10-22T12:31:00",
+          "last_updated": "2020-10-22T12:46:00",
           "municipality": "Hope, Chilliwack",
           "municipality_code": "city--708005353 city-2255196",
           "start": "2020-10-13T01:00:00"
@@ -6700,7 +6690,7 @@
           "cause": "Wind storm",
           "customers_affected": "< 5",
           "end": "",
-          "last_updated": "2020-10-22T12:31:00",
+          "last_updated": "2020-10-22T12:46:00",
           "municipality": "Ladner, Richmond, Tsawwassen, Langley, Delta, Surrey, White Rock",
           "municipality_code": "city-65915800 city--2026482228 city-1612593490 city--1486145068 city--1807186826 city--2033441752 city--2102123204",
           "start": "2020-10-13T01:00:00"
@@ -8360,7 +8350,7 @@
           "cause": "Wind storm",
           "customers_affected": "< 5",
           "end": "",
-          "last_updated": "2020-10-22T12:31:00",
+          "last_updated": "2020-10-22T12:46:00",
           "municipality": "Mission, Pitt Meadows, Maple Ridge",
           "municipality_code": "city-598891104 city--1560864404 city--253788407",
           "start": "2020-10-13T01:00:00"
@@ -8772,7 +8762,7 @@
           "end": "2020-10-20T16:00:00",
           "last_updated": "2020-10-20T17:21:00",
           "municipality": "Powell River",
-          "municipality_code": "day-1 day-3 city-1665178489",
+          "municipality_code": "day-3 city-1665178489",
           "start": "2020-10-20T09:57:00"
         },
         {
@@ -11137,7 +11127,7 @@
           "cause": "Wind storm",
           "customers_affected": "< 5",
           "end": "",
-          "last_updated": "2020-10-22T12:31:00",
+          "last_updated": "2020-10-22T12:46:00",
           "municipality": "Courtenay",
           "municipality_code": "city--824228212",
           "start": "2020-10-13T01:00:00"
@@ -11707,7 +11697,7 @@
           "cause": "Wind storm",
           "customers_affected": "< 5",
           "end": "",
-          "last_updated": "2020-10-22T12:31:00",
+          "last_updated": "2020-10-22T12:46:00",
           "municipality": "Nanaimo",
           "municipality_code": "city--907547835",
           "start": "2020-10-13T01:00:00"
@@ -12177,7 +12167,7 @@
           "cause": "Wind storm",
           "customers_affected": "< 5",
           "end": "",
-          "last_updated": "2020-10-22T12:31:00",
+          "last_updated": "2020-10-22T12:46:00",
           "municipality": "Port Hardy, Campbell River",
           "municipality_code": "city-1240464880 city-368562319",
           "start": "2020-10-13T01:00:00"
@@ -12887,7 +12877,7 @@
           "cause": "Wind storm",
           "customers_affected": "< 5",
           "end": "",
-          "last_updated": "2020-10-22T12:31:00",
+          "last_updated": "2020-10-22T12:46:00",
           "municipality": "Qualicum Beach",
           "municipality_code": "city--154309756",
           "start": "2020-10-13T01:00:00"
@@ -12987,7 +12977,7 @@
           "cause": "Wind storm",
           "customers_affected": "< 5",
           "end": "",
-          "last_updated": "2020-10-22T12:31:00",
+          "last_updated": "2020-10-22T12:46:00",
           "municipality": "Ucluelet, Port Alberni",
           "municipality_code": "city-383682720 city--1313309491",
           "start": "2020-10-13T01:00:00"
@@ -13007,7 +12997,7 @@
       "region_id": "1602896846"
     },
     "Northern": {
-      "customers_affected_14d": 10086,
+      "customers_affected_14d": 10087,
       "outages": [
         {
           "area": "CREW TRAILER, SAWMILL, DENNY ISLAND SHED, 0 - 100 block WAGLISLA ST, 300 block KIMSQUIT CRE, SCHOOL L1 BLK 20, 0 - 500 block NUDA DR, 300 block CLATSJA ST, WAGLISLA WHARF, AIRPORT ROAD...",
@@ -14160,6 +14150,16 @@
           "start": "2020-10-09T05:12:00"
         },
         {
+          "area": "1200 block ASPEN RD",
+          "cause": "Under investigation",
+          "customers_affected": "< 5",
+          "end": "",
+          "last_updated": "2020-10-22T12:32:00",
+          "municipality": "Vanderhoof",
+          "municipality_code": "day-1 day-3 city-1041981516",
+          "start": "2020-10-22T12:06:00"
+        },
+        {
           "area": "400 block 3RD AVE",
           "cause": "Equipment failure",
           "customers_affected": "< 5",
@@ -14174,7 +14174,7 @@
       "region_id": "1602964060"
     },
     "Okanagan/Kootenay": {
-      "customers_affected_14d": 19909,
+      "customers_affected_14d": 19914,
       "outages": [
         {
           "area": "3500 block DUNKLEY DR, 2300 - 2500 block PLEASANT VALLEY RD",
@@ -14615,6 +14615,16 @@
           "municipality": "Spallumcheen",
           "municipality_code": "city-2134222637",
           "start": "2020-10-09T08:06:00"
+        },
+        {
+          "area": "4500 block LANSDOWNE RD",
+          "cause": "Planned work being done on our equipment",
+          "customers_affected": "5",
+          "end": "2020-10-22T12:00:00",
+          "last_updated": "2020-10-22T12:42:00",
+          "municipality": "Spallumcheen",
+          "municipality_code": "day-1 day-3 city-2134222637",
+          "start": "2020-10-22T08:41:00"
         },
         {
           "area": "4800 block BACK ENDERBY RD",
@@ -15538,7 +15548,7 @@
           "cause": "Wind storm",
           "customers_affected": "< 5",
           "end": "",
-          "last_updated": "2020-10-22T12:31:00",
+          "last_updated": "2020-10-22T12:46:00",
           "municipality": "Duncan",
           "municipality_code": "city-2058209491",
           "start": "2020-10-13T01:00:00"
@@ -15758,7 +15768,7 @@
           "cause": "Wind storm",
           "customers_affected": "< 5",
           "end": "",
-          "last_updated": "2020-10-22T12:31:00",
+          "last_updated": "2020-10-22T12:46:00",
           "municipality": "Galiano Island, Mayne Island, Ganges, Pender Island, Saturna Island",
           "municipality_code": "city--995767958 city-2125630497 city-48997657 city--635217187 city-501274559",
           "start": "2020-10-13T01:00:00"
@@ -17030,7 +17040,7 @@
           "end": "2020-10-20T13:00:00",
           "last_updated": "2020-10-20T13:21:00",
           "municipality": "Saanich",
-          "municipality_code": "day-1 day-3 city--776615533",
+          "municipality_code": "day-3 city--776615533",
           "start": "2020-10-20T09:06:00"
         },
         {
@@ -17538,7 +17548,7 @@
           "cause": "Wind storm",
           "customers_affected": "< 5",
           "end": "",
-          "last_updated": "2020-10-22T12:31:00",
+          "last_updated": "2020-10-22T12:46:00",
           "municipality": "Victoria",
           "municipality_code": "city-1201273535",
           "start": "2020-10-13T01:00:00"
@@ -17578,7 +17588,7 @@
       "region_id": "1812901382"
     },
     "Thompson/Shuswap": {
-      "customers_affected_14d": 16333,
+      "customers_affected_14d": 16334,
       "outages": [
         {
           "area": "East of WILCOX RD, North of TRIP RD",
@@ -18539,6 +18549,16 @@
           "municipality": "Kamloops",
           "municipality_code": "day-1 day-3 city-979034872",
           "start": "2020-10-21T10:28:00"
+        },
+        {
+          "area": "4600 block COLD CREEK RD",
+          "cause": "Other",
+          "customers_affected": "< 5",
+          "end": "",
+          "last_updated": "2020-10-22T12:44:00",
+          "municipality": "Kamloops",
+          "municipality_code": "day-1 day-3 city-979034872",
+          "start": "2020-10-22T09:53:00"
         },
         {
           "area": "700 block CHF NESKONLITH DR",
