@@ -1,8 +1,18 @@
 {
   "current": {
     "Lower Mainland": {
-      "customers_affected_14d": 79,
+      "customers_affected_14d": 50,
       "outages": [
+        {
+          "area": "46100 - 46200 block LARCH AVE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Under investigation",
+          "customers_affected": "15",
+          "last_updated": "2020-10-21T22:22:00",
+          "municipality": "Chilliwack",
+          "municipality_code": "day-1 day-3 city--708005353",
+          "start": "2020-10-21T22:07:00",
+          "status": "Crew status: Crew assigned"
+        },
         {
           "area": "North of CHAUMOX RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Motor vehicle accident",
@@ -14,14 +24,14 @@
           "status": "Crew status: Crew on-site"
         },
         {
-          "area": "CROWTHER RD P20, 2400 block PENROSE BAY RD, MARINERS WAY SOUTH, LOT 3 CROWTHER RD, 10700 - 10800 block MARINERS WAY, 10100 - 10800 block CROWTHER RD, 10700 block UPPER BENCH RD, 10700 block MARINERS WAY 10, 2300 - 2400 block PENROSE BAY DR, MARINERS WAY NORTH...\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Motor vehicle accident",
-          "customers_affected": "59",
-          "last_updated": "2020-10-21T21:23:00",
-          "municipality": "Powell River",
-          "municipality_code": "day-1 day-3 city-1665178489",
-          "start": "2020-10-21T11:47:00",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 22 12:15 a.m."
+          "area": "1300 block E 27TH AVE, 1300 block E 28TH AVE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Under investigation",
+          "customers_affected": "15",
+          "last_updated": "2020-10-21T22:23:00",
+          "municipality": "Vancouver",
+          "municipality_code": "day-1 day-3 city--1786794435",
+          "start": "2020-10-21T22:03:00",
+          "status": "Crew status: Crew assigned"
         }
       ],
       "region_code": "Lower Mainland",
@@ -3405,7 +3415,7 @@
           "cause": "Snow storm",
           "customers_affected": "< 5",
           "end": "",
-          "last_updated": "2020-10-21T22:06:00",
+          "last_updated": "2020-10-21T22:26:00",
           "municipality": "Prince George",
           "municipality_code": "city-1835674262",
           "start": "2020-10-16T00:01:00"
@@ -3855,7 +3865,7 @@
       "region_id": "848340027"
     },
     "Lower Mainland": {
-      "customers_affected_14d": 150267,
+      "customers_affected_14d": 150326,
       "outages": [
         {
           "area": "North of MACLURE RD, East of MT LEHMAN RD, West of Hwy 11",
@@ -4522,7 +4532,7 @@
           "cause": "Wind storm",
           "customers_affected": "< 5",
           "end": "",
-          "last_updated": "2020-10-21T22:06:00",
+          "last_updated": "2020-10-21T22:26:00",
           "municipality": "Abbotsford, Aldergrove",
           "municipality_code": "city-1230363016 city--826744211",
           "start": "2020-10-13T01:00:00"
@@ -5794,7 +5804,7 @@
           "end": "2020-10-17T21:30:00",
           "last_updated": "2020-10-17T23:00:00",
           "municipality": "Delta",
-          "municipality_code": "day-3 city-65915800",
+          "municipality_code": "city-65915800",
           "start": "2020-10-17T09:24:00"
         },
         {
@@ -6142,7 +6152,7 @@
           "cause": "Wind storm",
           "customers_affected": "< 5",
           "end": "",
-          "last_updated": "2020-10-21T22:06:00",
+          "last_updated": "2020-10-21T22:26:00",
           "municipality": "Hope, Chilliwack",
           "municipality_code": "city--708005353 city-2255196",
           "start": "2020-10-13T01:00:00"
@@ -6262,7 +6272,7 @@
           "cause": "Wind storm",
           "customers_affected": "< 5",
           "end": "",
-          "last_updated": "2020-10-21T22:06:00",
+          "last_updated": "2020-10-21T22:26:00",
           "municipality": "Ladner, Richmond, Tsawwassen, Langley, Delta, Surrey, White Rock",
           "municipality_code": "city-65915800 city--2026482228 city-1612593490 city--1486145068 city--1807186826 city--2033441752 city--2102123204",
           "start": "2020-10-13T01:00:00"
@@ -7674,7 +7684,7 @@
           "end": "2020-10-19T22:00:00",
           "last_updated": "2020-10-20T09:57:00",
           "municipality": "Mission",
-          "municipality_code": "day-1 day-3 city--1560864404",
+          "municipality_code": "day-3 city--1560864404",
           "start": "2020-10-19T14:32:00"
         },
         {
@@ -7952,7 +7962,7 @@
           "cause": "Wind storm",
           "customers_affected": "< 5",
           "end": "",
-          "last_updated": "2020-10-21T22:06:00",
+          "last_updated": "2020-10-21T22:26:00",
           "municipality": "Mission, Pitt Meadows, Maple Ridge",
           "municipality_code": "city-598891104 city--1560864404 city--253788407",
           "start": "2020-10-13T01:00:00"
@@ -8316,6 +8326,16 @@
           "municipality": "Powell River",
           "municipality_code": "city-1665178489",
           "start": "2020-10-13T13:18:00"
+        },
+        {
+          "area": "CROWTHER RD P20, 2400 block PENROSE BAY RD, MARINERS WAY SOUTH, LOT 3 CROWTHER RD, 10700 - 10800 block MARINERS WAY, 10100 - 10800 block CROWTHER RD, 10700 block UPPER BENCH RD, 10700 block MARINERS WAY 10, 2300 - 2400 block PENROSE BAY DR, MARINERS WAY NORTH...",
+          "cause": "Motor vehicle accident",
+          "customers_affected": "59",
+          "end": "2020-10-22T22:30:00",
+          "last_updated": "2020-10-21T22:15:00",
+          "municipality": "Powell River",
+          "municipality_code": "day-1 day-3 city-1665178489",
+          "start": "2020-10-21T11:47:00"
         },
         {
           "area": "North of BURNABY ST, East of JOYCE AVE, South of ALBERNI ST, West of ONTARIO AVE",
@@ -9249,10 +9269,10 @@
         },
         {
           "area": "72ND AVE/124TH ST, 12400 block 72 AVE",
-          "cause": "Wire down",
+          "cause": "Equipment failure",
           "customers_affected": "11",
           "end": "2020-10-21T22:30:00",
-          "last_updated": "2020-10-21T21:45:00",
+          "last_updated": "2020-10-21T22:25:00",
           "municipality": "Surrey",
           "municipality_code": "day-1 day-3 city--1807186826",
           "start": "2020-10-21T20:42:00"
@@ -10789,7 +10809,7 @@
           "cause": "Wind storm",
           "customers_affected": "< 5",
           "end": "",
-          "last_updated": "2020-10-21T22:06:00",
+          "last_updated": "2020-10-21T22:26:00",
           "municipality": "Courtenay",
           "municipality_code": "city--824228212",
           "start": "2020-10-13T01:00:00"
@@ -11369,7 +11389,7 @@
           "cause": "Wind storm",
           "customers_affected": "< 5",
           "end": "",
-          "last_updated": "2020-10-21T22:06:00",
+          "last_updated": "2020-10-21T22:26:00",
           "municipality": "Nanaimo",
           "municipality_code": "city--907547835",
           "start": "2020-10-13T01:00:00"
@@ -11849,7 +11869,7 @@
           "cause": "Wind storm",
           "customers_affected": "< 5",
           "end": "",
-          "last_updated": "2020-10-21T22:06:00",
+          "last_updated": "2020-10-21T22:26:00",
           "municipality": "Port Hardy, Campbell River",
           "municipality_code": "city-1240464880 city-368562319",
           "start": "2020-10-13T01:00:00"
@@ -12569,7 +12589,7 @@
           "cause": "Wind storm",
           "customers_affected": "< 5",
           "end": "",
-          "last_updated": "2020-10-21T22:06:00",
+          "last_updated": "2020-10-21T22:26:00",
           "municipality": "Qualicum Beach",
           "municipality_code": "city--154309756",
           "start": "2020-10-13T01:00:00"
@@ -12669,7 +12689,7 @@
           "cause": "Wind storm",
           "customers_affected": "< 5",
           "end": "",
-          "last_updated": "2020-10-21T22:06:00",
+          "last_updated": "2020-10-21T22:26:00",
           "municipality": "Ucluelet, Port Alberni",
           "municipality_code": "city-383682720 city--1313309491",
           "start": "2020-10-13T01:00:00"
@@ -15290,7 +15310,7 @@
           "cause": "Wind storm",
           "customers_affected": "< 5",
           "end": "",
-          "last_updated": "2020-10-21T22:06:00",
+          "last_updated": "2020-10-21T22:26:00",
           "municipality": "Duncan",
           "municipality_code": "city-2058209491",
           "start": "2020-10-13T01:00:00"
@@ -15520,7 +15540,7 @@
           "cause": "Wind storm",
           "customers_affected": "< 5",
           "end": "",
-          "last_updated": "2020-10-21T22:06:00",
+          "last_updated": "2020-10-21T22:26:00",
           "municipality": "Galiano Island, Mayne Island, Ganges, Pender Island, Saturna Island",
           "municipality_code": "city--995767958 city-2125630497 city-48997657 city--635217187 city-501274559",
           "start": "2020-10-13T01:00:00"
@@ -17320,7 +17340,7 @@
           "cause": "Wind storm",
           "customers_affected": "< 5",
           "end": "",
-          "last_updated": "2020-10-21T22:06:00",
+          "last_updated": "2020-10-21T22:26:00",
           "municipality": "Victoria",
           "municipality_code": "city-1201273535",
           "start": "2020-10-13T01:00:00"
