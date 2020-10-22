@@ -205,7 +205,7 @@
       "region_id": "1602896846"
     },
     "Northern": {
-      "customers_affected_14d": 216,
+      "customers_affected_14d": 228,
       "outages": [
         {
           "area": "North of TURGEON DR, East of POPLAR CRS, South of 104TH AVE, West of 16TH ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -216,6 +216,16 @@
           "municipality_code": "day-1 day-3 city--1630954860",
           "start": "2020-10-22T09:55:00",
           "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 22 4:00 p.m."
+        },
+        {
+          "area": "700 block W 7TH AVE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Planned work being done on our equipment",
+          "customers_affected": "12",
+          "last_updated": "2020-10-22T12:57:00",
+          "municipality": "Fort St. James",
+          "municipality_code": "day-1 day-3 city-2077380636",
+          "start": "2020-10-22T12:56:00",
+          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 22 2:30 p.m."
         },
         {
           "area": "9200 block 82 ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -252,7 +262,7 @@
       "region_id": "1602964060"
     },
     "Okanagan/Kootenay": {
-      "customers_affected_14d": 8,
+      "customers_affected_14d": 9,
       "outages": [
         {
           "area": "North of MCNAIR RD, West of HWY 93 95 , East of KERR RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -272,6 +282,16 @@
           "municipality": "Cranbrook",
           "municipality_code": "day-1 day-3 city--591720257",
           "start": "2020-10-22T11:33:00",
+          "status": "Crew status: Crew assigned"
+        },
+        {
+          "area": "5000 block BRADFORD RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Under investigation",
+          "customers_affected": "< 5",
+          "last_updated": "2020-10-22T13:04:00",
+          "municipality": "Cranbrook",
+          "municipality_code": "day-1 day-3 city--591720257",
+          "start": "2020-10-22T12:52:00",
           "status": "Crew status: Crew assigned"
         },
         {
@@ -305,11 +325,11 @@
           "area": "South of CALEB PIKE RD, East of TRANS CAN HWY, West of MILLSTREAM RD, North of BEAR MOUNTAIN PKY\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Tree down across our wires",
           "customers_affected": "137",
-          "last_updated": "2020-10-22T09:32:00",
+          "last_updated": "2020-10-22T12:50:00",
           "municipality": "Highlands, Langford",
           "municipality_code": "day-1 day-3 city-1322525542 city--1549378615",
           "start": "2020-10-22T07:06:00",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 22 1:00 p.m."
+          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 22 3:00 p.m."
         },
         {
           "area": "2600 block PRIOR ST, 1100 block HILLSIDE AVE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -382,7 +402,7 @@
       "region_id": "848340027"
     },
     "Lower Mainland": {
-      "customers_affected_14d": 8371,
+      "customers_affected_14d": 8419,
       "outages": [
         {
           "area": "1944, 1954, 1966, 1976 Albion St; 32666-32749 Cordova Ave; 325, 32760 Marshall Rd, 32414-32750 Pandora Ave; 1911-1944 Valencia Crt, Abbotsford",
@@ -1335,6 +1355,16 @@
           "start": "2020-10-28T09:30:00"
         },
         {
+          "area": "2968 Mahon Ave; 316 - 404 W Queens Rd",
+          "cause": "Pole replacement",
+          "customers_affected": "13",
+          "end": "2020-11-03T17:00:00",
+          "last_updated": "2020-10-22T12:59:00",
+          "municipality": "North Vancouver",
+          "municipality_code": "day-1 day-3 city--1636626238",
+          "start": "2020-11-03T10:00:00"
+        },
+        {
           "area": "*Emergent work*402 to 416 W Esplanade",
           "cause": "Pole replacement",
           "customers_affected": "10",
@@ -1483,6 +1513,16 @@
           "municipality": "Richmond",
           "municipality_code": "day-1 day-3 city--1486145068",
           "start": "2020-10-21T10:00:00"
+        },
+        {
+          "area": "11602-11678 Kingswaybridge Dr, Richmond",
+          "cause": "Planned work being done on our equipment",
+          "customers_affected": "35",
+          "end": "2020-11-02T16:30:00",
+          "last_updated": "2020-10-22T12:57:00",
+          "municipality": "Richmond",
+          "municipality_code": "day-1 day-3 city--1486145068",
+          "start": "2020-11-02T08:30:00"
         },
         {
           "area": "11511 Steveston Hwy, Richmond",
@@ -2660,7 +2700,7 @@
       "region_id": "2072041405"
     },
     "South VI": {
-      "customers_affected_14d": 1782,
+      "customers_affected_14d": 1822,
       "outages": [
         {
           "area": "1746 Verling Ave; 1763 Sean Hts, Saanichton",
@@ -2921,6 +2961,16 @@
           "municipality": "Victoria",
           "municipality_code": "day-1 day-3 city-1201273535",
           "start": "2020-10-20T13:00:00"
+        },
+        {
+          "area": "610, 611, 611, 618, 621, 624, 627, 634, 635, 640, 647, 657, 667, 670, 692, 698, 701, 728, 765 Beaver Lake Rd, 4740, 4750, 4751, 4760, 4761, 4770 Beaverdale Rd, 720, 675, 675 Goyette Rd, Victoria",
+          "cause": "Pole replacement",
+          "customers_affected": "40",
+          "end": "2020-11-05T15:00:00",
+          "last_updated": "2020-10-22T13:02:00",
+          "municipality": "Victoria",
+          "municipality_code": "day-1 day-3 city-1201273535",
+          "start": "2020-11-05T09:00:00"
         },
         {
           "area": "2-66 Falstaff Pl; 1502, 1504, 1506, 1508 Glentana Rd, Victoria",
@@ -3277,7 +3327,7 @@
       "region_id": "1812901382"
     },
     "Thompson/Shuswap": {
-      "customers_affected_14d": 2447,
+      "customers_affected_14d": 2446,
       "outages": [
         {
           "area": "308 - 451 Brooke Dr; 317 and 320 Shepherd Rd; 291, 295, and 313 Shuswap Ave",
@@ -3308,16 +3358,6 @@
           "municipality": "Clearwater",
           "municipality_code": "day-1 day-3 city-1282265866",
           "start": "2020-10-22T09:00:00"
-        },
-        {
-          "area": "3076 Dohms Rd, Vavenby",
-          "cause": "Planned work being done on our equipment",
-          "customers_affected": "< 5",
-          "end": "2020-10-20T13:00:00",
-          "last_updated": "2020-10-05T08:40:00",
-          "municipality": "Clearwater",
-          "municipality_code": "day-1 day-3 city-1282265866",
-          "start": "2020-10-20T09:00:00"
         },
         {
           "area": "1802-1886 Cathedral Crt",
@@ -3436,7 +3476,7 @@
   },
   "restored": {
     "Central Interior": {
-      "customers_affected_14d": 16559,
+      "customers_affected_14d": 16561,
       "outages": [
         {
           "area": "North of HWY 97",
@@ -3833,7 +3873,7 @@
           "cause": "Snow storm",
           "customers_affected": "< 5",
           "end": "",
-          "last_updated": "2020-10-22T12:46:00",
+          "last_updated": "2020-10-22T13:06:00",
           "municipality": "Prince George",
           "municipality_code": "city-1835674262",
           "start": "2020-10-16T00:01:00"
@@ -3997,6 +4037,16 @@
           "municipality": "Quesnel",
           "municipality_code": "city--1975191965",
           "start": "2020-10-15T16:22:00"
+        },
+        {
+          "area": "300 block NARCOSLI PIT RD",
+          "cause": "Planned work being done on our equipment",
+          "customers_affected": "< 5",
+          "end": "2020-10-22T13:10:00",
+          "last_updated": "2020-10-22T13:06:00",
+          "municipality": "Quesnel",
+          "municipality_code": "day-1 day-3 city--1975191965",
+          "start": "2020-10-22T12:46:00"
         },
         {
           "area": "2100 block HIGDON RD",
@@ -4930,7 +4980,7 @@
           "cause": "Wind storm",
           "customers_affected": "< 5",
           "end": "",
-          "last_updated": "2020-10-22T12:46:00",
+          "last_updated": "2020-10-22T13:06:00",
           "municipality": "Abbotsford, Aldergrove",
           "municipality_code": "city-1230363016 city--826744211",
           "start": "2020-10-13T01:00:00"
@@ -5592,7 +5642,7 @@
           "end": "2020-10-20T13:30:00",
           "last_updated": "2020-10-20T13:04:00",
           "municipality": "Chilliwack",
-          "municipality_code": "day-1 day-3 city--708005353",
+          "municipality_code": "day-3 city--708005353",
           "start": "2020-10-20T08:59:00"
         },
         {
@@ -6560,7 +6610,7 @@
           "cause": "Wind storm",
           "customers_affected": "< 5",
           "end": "",
-          "last_updated": "2020-10-22T12:46:00",
+          "last_updated": "2020-10-22T13:06:00",
           "municipality": "Hope, Chilliwack",
           "municipality_code": "city--708005353 city-2255196",
           "start": "2020-10-13T01:00:00"
@@ -6690,7 +6740,7 @@
           "cause": "Wind storm",
           "customers_affected": "< 5",
           "end": "",
-          "last_updated": "2020-10-22T12:46:00",
+          "last_updated": "2020-10-22T13:06:00",
           "municipality": "Ladner, Richmond, Tsawwassen, Langley, Delta, Surrey, White Rock",
           "municipality_code": "city-65915800 city--2026482228 city-1612593490 city--1486145068 city--1807186826 city--2033441752 city--2102123204",
           "start": "2020-10-13T01:00:00"
@@ -8350,7 +8400,7 @@
           "cause": "Wind storm",
           "customers_affected": "< 5",
           "end": "",
-          "last_updated": "2020-10-22T12:46:00",
+          "last_updated": "2020-10-22T13:06:00",
           "municipality": "Mission, Pitt Meadows, Maple Ridge",
           "municipality_code": "city-598891104 city--1560864404 city--253788407",
           "start": "2020-10-13T01:00:00"
@@ -11127,7 +11177,7 @@
           "cause": "Wind storm",
           "customers_affected": "< 5",
           "end": "",
-          "last_updated": "2020-10-22T12:46:00",
+          "last_updated": "2020-10-22T13:06:00",
           "municipality": "Courtenay",
           "municipality_code": "city--824228212",
           "start": "2020-10-13T01:00:00"
@@ -11697,7 +11747,7 @@
           "cause": "Wind storm",
           "customers_affected": "< 5",
           "end": "",
-          "last_updated": "2020-10-22T12:46:00",
+          "last_updated": "2020-10-22T13:06:00",
           "municipality": "Nanaimo",
           "municipality_code": "city--907547835",
           "start": "2020-10-13T01:00:00"
@@ -12167,7 +12217,7 @@
           "cause": "Wind storm",
           "customers_affected": "< 5",
           "end": "",
-          "last_updated": "2020-10-22T12:46:00",
+          "last_updated": "2020-10-22T13:06:00",
           "municipality": "Port Hardy, Campbell River",
           "municipality_code": "city-1240464880 city-368562319",
           "start": "2020-10-13T01:00:00"
@@ -12877,7 +12927,7 @@
           "cause": "Wind storm",
           "customers_affected": "< 5",
           "end": "",
-          "last_updated": "2020-10-22T12:46:00",
+          "last_updated": "2020-10-22T13:06:00",
           "municipality": "Qualicum Beach",
           "municipality_code": "city--154309756",
           "start": "2020-10-13T01:00:00"
@@ -12977,7 +13027,7 @@
           "cause": "Wind storm",
           "customers_affected": "< 5",
           "end": "",
-          "last_updated": "2020-10-22T12:46:00",
+          "last_updated": "2020-10-22T13:06:00",
           "municipality": "Ucluelet, Port Alberni",
           "municipality_code": "city-383682720 city--1313309491",
           "start": "2020-10-13T01:00:00"
@@ -15548,7 +15598,7 @@
           "cause": "Wind storm",
           "customers_affected": "< 5",
           "end": "",
-          "last_updated": "2020-10-22T12:46:00",
+          "last_updated": "2020-10-22T13:06:00",
           "municipality": "Duncan",
           "municipality_code": "city-2058209491",
           "start": "2020-10-13T01:00:00"
@@ -15768,7 +15818,7 @@
           "cause": "Wind storm",
           "customers_affected": "< 5",
           "end": "",
-          "last_updated": "2020-10-22T12:46:00",
+          "last_updated": "2020-10-22T13:06:00",
           "municipality": "Galiano Island, Mayne Island, Ganges, Pender Island, Saturna Island",
           "municipality_code": "city--995767958 city-2125630497 city-48997657 city--635217187 city-501274559",
           "start": "2020-10-13T01:00:00"
@@ -16870,7 +16920,7 @@
           "end": "2020-10-18T13:00:00",
           "last_updated": "2020-10-19T10:07:00",
           "municipality": "Pender Island",
-          "municipality_code": "day-3 city--635217187",
+          "municipality_code": "city--635217187",
           "start": "2020-10-18T10:10:00"
         },
         {
@@ -17548,7 +17598,7 @@
           "cause": "Wind storm",
           "customers_affected": "< 5",
           "end": "",
-          "last_updated": "2020-10-22T12:46:00",
+          "last_updated": "2020-10-22T13:06:00",
           "municipality": "Victoria",
           "municipality_code": "city-1201273535",
           "start": "2020-10-13T01:00:00"
@@ -17765,7 +17815,7 @@
           "cause": "Customer's equipment",
           "customers_affected": "< 5",
           "end": "",
-          "last_updated": "2020-10-21T08:20:00",
+          "last_updated": "2020-10-22T13:05:00",
           "municipality": "100 Mile House",
           "municipality_code": "day-1 day-3 city-950857956",
           "start": "2020-10-20T17:24:00"
@@ -18497,7 +18547,7 @@
           "end": "",
           "last_updated": "2020-10-20T11:22:00",
           "municipality": "Kamloops",
-          "municipality_code": "day-3 city-979034872",
+          "municipality_code": "city-979034872",
           "start": "2020-10-18T10:43:00"
         },
         {
