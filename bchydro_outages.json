@@ -1,7 +1,7 @@
 {
   "current": {
     "Lower Mainland": {
-      "customers_affected_14d": 775,
+      "customers_affected_14d": 776,
       "outages": [
         {
           "area": "2700 block BOUNDARY RD, 3700 block REGENT ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -12,6 +12,16 @@
           "municipality_code": "day-1 day-3 city-1903966249",
           "start": "2020-10-22T09:03:00",
           "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 22 4:00 p.m."
+        },
+        {
+          "area": "300 block 224 ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
+          "cause": "Animal contacting our wires",
+          "customers_affected": "< 5",
+          "last_updated": "2020-10-22T13:33:00",
+          "municipality": "Langley",
+          "municipality_code": "day-1 day-3 city-1612593490",
+          "start": "2020-10-22T13:26:00",
+          "status": "Crew status: No crew assigned yet"
         },
         {
           "area": "North of ALLARD CRS, West of 222ND ST, East of HOLLY ST, South of LOUGHEED HWY\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -232,7 +242,7 @@
       "region_id": "1602964060"
     },
     "Okanagan/Kootenay": {
-      "customers_affected_14d": 56,
+      "customers_affected_14d": 13,
       "outages": [
         {
           "area": "10100 block MATNER LANE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -273,16 +283,6 @@
           "municipality_code": "day-1 day-3 city--591720257",
           "start": "2020-10-22T11:33:00",
           "status": "Crew status: Crew assigned"
-        },
-        {
-          "area": "West of TIE LAKE RD, North-South of TIE LK SHORE RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Work being done on our equipment",
-          "customers_affected": "43",
-          "last_updated": "2020-10-22T13:25:00",
-          "municipality": "Fernie",
-          "municipality_code": "day-1 day-3 city-2100821431",
-          "start": "2020-10-22T13:13:00",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 22 1:45 p.m."
         },
         {
           "area": "7600 block MCLENNAN RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -2690,7 +2690,7 @@
       "region_id": "2072041405"
     },
     "South VI": {
-      "customers_affected_14d": 1822,
+      "customers_affected_14d": 1813,
       "outages": [
         {
           "area": "1746 Verling Ave; 1763 Sean Hts, Saanichton",
@@ -3231,16 +3231,6 @@
           "municipality": "Victoria",
           "municipality_code": "day-1 day-3 city-1201273535",
           "start": "2020-10-29T09:30:00"
-        },
-        {
-          "area": "** Rescheduled from October 15 **2626 Jodrell CRT, 2612,2613,2618,2619\r\n2621,2622,2625, 2627 Wentwich Rd, Victoria",
-          "cause": "Planned work being done on our equipment",
-          "customers_affected": "9",
-          "end": "2020-10-20T13:30:00",
-          "last_updated": "2020-10-15T07:42:00",
-          "municipality": "Victoria",
-          "municipality_code": "day-1 day-3 city-1201273535",
-          "start": "2020-10-20T09:30:00"
         },
         {
           "area": "1905, 1906, 1907, 1912, 1923, 1964, 1966 Fairfield Rd, 377 Foul Bay Rd, Victoria",
@@ -3863,7 +3853,7 @@
           "cause": "Snow storm",
           "customers_affected": "< 5",
           "end": "",
-          "last_updated": "2020-10-22T13:26:00",
+          "last_updated": "2020-10-22T13:36:00",
           "municipality": "Prince George",
           "municipality_code": "city-1835674262",
           "start": "2020-10-16T00:01:00"
@@ -4970,7 +4960,7 @@
           "cause": "Wind storm",
           "customers_affected": "< 5",
           "end": "",
-          "last_updated": "2020-10-22T13:26:00",
+          "last_updated": "2020-10-22T13:36:00",
           "municipality": "Abbotsford, Aldergrove",
           "municipality_code": "city-1230363016 city--826744211",
           "start": "2020-10-13T01:00:00"
@@ -6600,7 +6590,7 @@
           "cause": "Wind storm",
           "customers_affected": "< 5",
           "end": "",
-          "last_updated": "2020-10-22T13:26:00",
+          "last_updated": "2020-10-22T13:36:00",
           "municipality": "Hope, Chilliwack",
           "municipality_code": "city--708005353 city-2255196",
           "start": "2020-10-13T01:00:00"
@@ -6730,7 +6720,7 @@
           "cause": "Wind storm",
           "customers_affected": "< 5",
           "end": "",
-          "last_updated": "2020-10-22T13:26:00",
+          "last_updated": "2020-10-22T13:36:00",
           "municipality": "Ladner, Richmond, Tsawwassen, Langley, Delta, Surrey, White Rock",
           "municipality_code": "city-65915800 city--2026482228 city-1612593490 city--1486145068 city--1807186826 city--2033441752 city--2102123204",
           "start": "2020-10-13T01:00:00"
@@ -8410,7 +8400,7 @@
           "cause": "Wind storm",
           "customers_affected": "< 5",
           "end": "",
-          "last_updated": "2020-10-22T13:26:00",
+          "last_updated": "2020-10-22T13:36:00",
           "municipality": "Mission, Pitt Meadows, Maple Ridge",
           "municipality_code": "city-598891104 city--1560864404 city--253788407",
           "start": "2020-10-13T01:00:00"
@@ -9882,7 +9872,7 @@
           "end": "",
           "last_updated": "2020-10-21T06:52:00",
           "municipality": "Surrey",
-          "municipality_code": "day-1 day-3 city--1807186826",
+          "municipality_code": "day-3 city--1807186826",
           "start": "2020-10-20T10:03:00"
         },
         {
@@ -10979,7 +10969,7 @@
           "end": "2020-10-18T14:00:00",
           "last_updated": "2020-10-18T13:32:00",
           "municipality": "Courtenay",
-          "municipality_code": "day-3 city--824228212",
+          "municipality_code": "city--824228212",
           "start": "2020-10-18T09:43:00"
         },
         {
@@ -11187,7 +11177,7 @@
           "cause": "Wind storm",
           "customers_affected": "< 5",
           "end": "",
-          "last_updated": "2020-10-22T13:26:00",
+          "last_updated": "2020-10-22T13:36:00",
           "municipality": "Courtenay",
           "municipality_code": "city--824228212",
           "start": "2020-10-13T01:00:00"
@@ -11757,7 +11747,7 @@
           "cause": "Wind storm",
           "customers_affected": "< 5",
           "end": "",
-          "last_updated": "2020-10-22T13:26:00",
+          "last_updated": "2020-10-22T13:36:00",
           "municipality": "Nanaimo",
           "municipality_code": "city--907547835",
           "start": "2020-10-13T01:00:00"
@@ -12227,7 +12217,7 @@
           "cause": "Wind storm",
           "customers_affected": "< 5",
           "end": "",
-          "last_updated": "2020-10-22T13:26:00",
+          "last_updated": "2020-10-22T13:36:00",
           "municipality": "Port Hardy, Campbell River",
           "municipality_code": "city-1240464880 city-368562319",
           "start": "2020-10-13T01:00:00"
@@ -12937,7 +12927,7 @@
           "cause": "Wind storm",
           "customers_affected": "< 5",
           "end": "",
-          "last_updated": "2020-10-22T13:26:00",
+          "last_updated": "2020-10-22T13:36:00",
           "municipality": "Qualicum Beach",
           "municipality_code": "city--154309756",
           "start": "2020-10-13T01:00:00"
@@ -13009,7 +12999,7 @@
           "end": "2020-10-20T15:00:00",
           "last_updated": "2020-10-20T13:43:00",
           "municipality": "Ucluelet",
-          "municipality_code": "day-1 day-3 city--1313309491",
+          "municipality_code": "day-3 city--1313309491",
           "start": "2020-10-20T09:48:00"
         },
         {
@@ -13037,7 +13027,7 @@
           "cause": "Wind storm",
           "customers_affected": "< 5",
           "end": "",
-          "last_updated": "2020-10-22T13:26:00",
+          "last_updated": "2020-10-22T13:36:00",
           "municipality": "Ucluelet, Port Alberni",
           "municipality_code": "city-383682720 city--1313309491",
           "start": "2020-10-13T01:00:00"
@@ -14244,7 +14234,7 @@
       "region_id": "1602964060"
     },
     "Okanagan/Kootenay": {
-      "customers_affected_14d": 19915,
+      "customers_affected_14d": 19958,
       "outages": [
         {
           "area": "3500 block DUNKLEY DR, 2300 - 2500 block PLEASANT VALLEY RD",
@@ -14415,6 +14405,16 @@
           "municipality": "Fernie",
           "municipality_code": "day-1 day-3 city-2100821431",
           "start": "2020-10-20T21:19:00"
+        },
+        {
+          "area": "West of TIE LAKE RD, North-South of TIE LK SHORE RD",
+          "cause": "Work being done on our equipment",
+          "customers_affected": "43",
+          "end": "2020-10-22T13:45:00",
+          "last_updated": "2020-10-22T13:32:00",
+          "municipality": "Fernie",
+          "municipality_code": "day-1 day-3 city-2100821431",
+          "start": "2020-10-22T13:13:00"
         },
         {
           "area": "5500 block LETCHER DR",
@@ -15628,7 +15628,7 @@
           "cause": "Wind storm",
           "customers_affected": "< 5",
           "end": "",
-          "last_updated": "2020-10-22T13:26:00",
+          "last_updated": "2020-10-22T13:36:00",
           "municipality": "Duncan",
           "municipality_code": "city-2058209491",
           "start": "2020-10-13T01:00:00"
@@ -15680,7 +15680,7 @@
           "end": "2020-10-20T15:00:00",
           "last_updated": "2020-10-20T13:33:00",
           "municipality": "Esquimalt",
-          "municipality_code": "day-1 day-3 city--941955629",
+          "municipality_code": "day-3 city--941955629",
           "start": "2020-10-20T09:49:00"
         },
         {
@@ -15848,7 +15848,7 @@
           "cause": "Wind storm",
           "customers_affected": "< 5",
           "end": "",
-          "last_updated": "2020-10-22T13:26:00",
+          "last_updated": "2020-10-22T13:36:00",
           "municipality": "Galiano Island, Mayne Island, Ganges, Pender Island, Saturna Island",
           "municipality_code": "city--995767958 city-2125630497 city-48997657 city--635217187 city-501274559",
           "start": "2020-10-13T01:00:00"
@@ -17628,7 +17628,7 @@
           "cause": "Wind storm",
           "customers_affected": "< 5",
           "end": "",
-          "last_updated": "2020-10-22T13:26:00",
+          "last_updated": "2020-10-22T13:36:00",
           "municipality": "Victoria",
           "municipality_code": "city-1201273535",
           "start": "2020-10-13T01:00:00"
