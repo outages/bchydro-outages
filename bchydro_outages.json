@@ -1,27 +1,17 @@
 {
   "current": {
     "Lower Mainland": {
-      "customers_affected_14d": 328,
+      "customers_affected_14d": 307,
       "outages": [
-        {
-          "area": "2700 block ASH ST, 34200 block WOODBINE CRE\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Tree down across our wires",
-          "customers_affected": "< 5",
-          "last_updated": "2020-10-22T18:05:00",
-          "municipality": "Abbotsford",
-          "municipality_code": "day-1 day-3 city-1230363016",
-          "start": "2020-10-22T16:07:00",
-          "status": "Crew status: Crew on-site"
-        },
         {
           "area": "1100 block N FROST RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Under investigation",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-22T17:53:00",
+          "last_updated": "2020-10-22T18:45:00",
           "municipality": "Chilliwack",
           "municipality_code": "day-1 day-3 city--708005353",
           "start": "2020-10-22T17:12:00",
-          "status": "Crew status: Crew assigned"
+          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 22 8:00 p.m."
         },
         {
           "area": "South of HIGHLANDS WAY, West of G RD, North of MAMQUAM RD, East of HWY 99\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
@@ -54,45 +44,18 @@
           "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 22 9:00 p.m."
         },
         {
-          "area": "East of MAIN ST, North of BROADWAY , South-West of KINGSWAY\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Fire",
-          "customers_affected": "17",
-          "last_updated": "2020-10-22T16:48:00",
-          "municipality": "Vancouver",
-          "municipality_code": "day-1 day-3 city--1786794435",
-          "start": "2020-10-22T10:25:00",
-          "status": "Crew status: Crew on-site"
-        },
-        {
           "area": "5600 block HAROLD ST\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
           "cause": "Planned work being done on our equipment",
           "customers_affected": "< 5",
-          "last_updated": "2020-10-22T15:22:00",
+          "last_updated": "2020-10-22T18:17:00",
           "municipality": "Vancouver",
           "municipality_code": "day-1 day-3 city--1786794435",
           "start": "2020-10-22T09:46:00",
-          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 22 7:00 p.m."
+          "status": "Crew status: Crew on-site\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \tEst. Time On:Oct 22 8:30 p.m."
         }
       ],
       "region_code": "Lower Mainland",
       "region_id": "521980323"
-    },
-    "North VI": {
-      "customers_affected_14d": 5,
-      "outages": [
-        {
-          "area": "2300 block CEDAR RD\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tView on map",
-          "cause": "Under investigation",
-          "customers_affected": "5",
-          "last_updated": "2020-10-22T17:43:00",
-          "municipality": "Nanaimo",
-          "municipality_code": "day-1 day-3 city--907547835",
-          "start": "2020-10-22T16:55:00",
-          "status": "Crew status: Crew on their way\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t  \r\n\t\t\t\t\t\t\t\t\t\t\t\t    Est. arrival:Oct 22 6:00 p.m."
-        }
-      ],
-      "region_code": "North VI",
-      "region_id": "1602896846"
     }
   },
   "planned": {
@@ -3425,7 +3388,7 @@
           "cause": "Snow storm",
           "customers_affected": "< 5",
           "end": "",
-          "last_updated": "2020-10-22T18:16:00",
+          "last_updated": "2020-10-22T18:51:00",
           "municipality": "Prince George",
           "municipality_code": "city-1835674262",
           "start": "2020-10-16T00:01:00"
@@ -3885,7 +3848,7 @@
       "region_id": "848340027"
     },
     "Lower Mainland": {
-      "customers_affected_14d": 154326,
+      "customers_affected_14d": 154347,
       "outages": [
         {
           "area": "North of MACLURE RD, East of MT LEHMAN RD, West of Hwy 11",
@@ -4218,6 +4181,16 @@
           "start": "2020-10-18T09:15:00"
         },
         {
+          "area": "2700 block ASH ST, 34200 block WOODBINE CRE",
+          "cause": "Tree down across our wires",
+          "customers_affected": "< 5",
+          "end": "2020-10-22T18:45:00",
+          "last_updated": "2020-10-22T18:38:00",
+          "municipality": "Abbotsford",
+          "municipality_code": "day-1 day-3 city-1230363016",
+          "start": "2020-10-22T16:07:00"
+        },
+        {
           "area": "4700 - 4900 block WILLET RD",
           "cause": "Other",
           "customers_affected": "< 5",
@@ -4532,7 +4505,7 @@
           "cause": "Wind storm",
           "customers_affected": "< 5",
           "end": "",
-          "last_updated": "2020-10-22T18:16:00",
+          "last_updated": "2020-10-22T18:51:00",
           "municipality": "Abbotsford, Aldergrove",
           "municipality_code": "city-1230363016 city--826744211",
           "start": "2020-10-13T01:00:00"
@@ -6172,7 +6145,7 @@
           "cause": "Wind storm",
           "customers_affected": "< 5",
           "end": "",
-          "last_updated": "2020-10-22T18:16:00",
+          "last_updated": "2020-10-22T18:51:00",
           "municipality": "Hope, Chilliwack",
           "municipality_code": "city--708005353 city-2255196",
           "start": "2020-10-13T01:00:00"
@@ -6302,7 +6275,7 @@
           "cause": "Wind storm",
           "customers_affected": "< 5",
           "end": "",
-          "last_updated": "2020-10-22T18:16:00",
+          "last_updated": "2020-10-22T18:51:00",
           "municipality": "Ladner, Richmond, Tsawwassen, Langley, Delta, Surrey, White Rock",
           "municipality_code": "city-65915800 city--2026482228 city-1612593490 city--1486145068 city--1807186826 city--2033441752 city--2102123204",
           "start": "2020-10-13T01:00:00"
@@ -8012,7 +7985,7 @@
           "cause": "Wind storm",
           "customers_affected": "< 5",
           "end": "",
-          "last_updated": "2020-10-22T18:16:00",
+          "last_updated": "2020-10-22T18:51:00",
           "municipality": "Mission, Pitt Meadows, Maple Ridge",
           "municipality_code": "city-598891104 city--1560864404 city--253788407",
           "start": "2020-10-13T01:00:00"
@@ -9868,6 +9841,16 @@
           "start": "2020-10-16T09:42:00"
         },
         {
+          "area": "East of MAIN ST, North of BROADWAY , South-West of KINGSWAY",
+          "cause": "Fire",
+          "customers_affected": "17",
+          "end": "",
+          "last_updated": "2020-10-22T18:21:00",
+          "municipality": "Vancouver",
+          "municipality_code": "day-1 day-3 city--1786794435",
+          "start": "2020-10-22T10:25:00"
+        },
+        {
           "area": "1400 - 1500 block COMMERCIAL DR, 1700 block GRANT ST",
           "cause": "Tree down across our wires",
           "customers_affected": "16",
@@ -10212,7 +10195,7 @@
       "region_id": "521980323"
     },
     "North VI": {
-      "customers_affected_14d": 73381,
+      "customers_affected_14d": 73386,
       "outages": [
         {
           "area": "North of ISLAND HWY",
@@ -10899,7 +10882,7 @@
           "cause": "Wind storm",
           "customers_affected": "< 5",
           "end": "",
-          "last_updated": "2020-10-22T18:16:00",
+          "last_updated": "2020-10-22T18:51:00",
           "municipality": "Courtenay",
           "municipality_code": "city--824228212",
           "start": "2020-10-13T01:00:00"
@@ -11295,6 +11278,16 @@
           "start": "2020-10-13T07:24:00"
         },
         {
+          "area": "2300 block CEDAR RD",
+          "cause": "Bird contacting our wires",
+          "customers_affected": "5",
+          "end": "2020-10-22T18:30:00",
+          "last_updated": "2020-10-22T18:34:00",
+          "municipality": "Nanaimo",
+          "municipality_code": "day-1 day-3 city--907547835",
+          "start": "2020-10-22T16:55:00"
+        },
+        {
           "area": "900 block WENTWORTH ST",
           "cause": "Tree down across our wires",
           "customers_affected": "5",
@@ -11479,7 +11472,7 @@
           "cause": "Wind storm",
           "customers_affected": "< 5",
           "end": "",
-          "last_updated": "2020-10-22T18:16:00",
+          "last_updated": "2020-10-22T18:51:00",
           "municipality": "Nanaimo",
           "municipality_code": "city--907547835",
           "start": "2020-10-13T01:00:00"
@@ -11949,7 +11942,7 @@
           "cause": "Wind storm",
           "customers_affected": "< 5",
           "end": "",
-          "last_updated": "2020-10-22T18:16:00",
+          "last_updated": "2020-10-22T18:51:00",
           "municipality": "Port Hardy, Campbell River",
           "municipality_code": "city-1240464880 city-368562319",
           "start": "2020-10-13T01:00:00"
@@ -12659,7 +12652,7 @@
           "cause": "Wind storm",
           "customers_affected": "< 5",
           "end": "",
-          "last_updated": "2020-10-22T18:16:00",
+          "last_updated": "2020-10-22T18:51:00",
           "municipality": "Qualicum Beach",
           "municipality_code": "city--154309756",
           "start": "2020-10-13T01:00:00"
@@ -12759,7 +12752,7 @@
           "cause": "Wind storm",
           "customers_affected": "< 5",
           "end": "",
-          "last_updated": "2020-10-22T18:16:00",
+          "last_updated": "2020-10-22T18:51:00",
           "municipality": "Ucluelet, Port Alberni",
           "municipality_code": "city-383682720 city--1313309491",
           "start": "2020-10-13T01:00:00"
@@ -14635,7 +14628,7 @@
           "end": "",
           "last_updated": "2020-10-19T09:44:00",
           "municipality": "Vernon",
-          "municipality_code": "day-3 city--1736079254",
+          "municipality_code": "city--1736079254",
           "start": "2020-10-18T16:55:00"
         },
         {
@@ -15470,7 +15463,7 @@
           "cause": "Wind storm",
           "customers_affected": "< 5",
           "end": "",
-          "last_updated": "2020-10-22T18:16:00",
+          "last_updated": "2020-10-22T18:51:00",
           "municipality": "Duncan",
           "municipality_code": "city-2058209491",
           "start": "2020-10-13T01:00:00"
@@ -15690,7 +15683,7 @@
           "cause": "Wind storm",
           "customers_affected": "< 5",
           "end": "",
-          "last_updated": "2020-10-22T18:16:00",
+          "last_updated": "2020-10-22T18:51:00",
           "municipality": "Galiano Island, Mayne Island, Ganges, Pender Island, Saturna Island",
           "municipality_code": "city--995767958 city-2125630497 city-48997657 city--635217187 city-501274559",
           "start": "2020-10-13T01:00:00"
@@ -17490,7 +17483,7 @@
           "cause": "Wind storm",
           "customers_affected": "< 5",
           "end": "",
-          "last_updated": "2020-10-22T18:16:00",
+          "last_updated": "2020-10-22T18:51:00",
           "municipality": "Victoria",
           "municipality_code": "city-1201273535",
           "start": "2020-10-13T01:00:00"
@@ -18669,7 +18662,7 @@
           "end": "2020-10-20T18:00:00",
           "last_updated": "2020-10-21T09:26:00",
           "municipality": "Lillooet",
-          "municipality_code": "day-1 day-3 city-1203310572",
+          "municipality_code": "day-3 city-1203310572",
           "start": "2020-10-20T16:20:00"
         },
         {
