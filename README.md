@@ -1,6 +1,6 @@
 # ➤ bchydro-outages
 
-This is an *unofficial* repository that provides a Git history of outages at [BC Hydro](https://bchydro.com), a Canadian utility company.
+This is an *unofficial* repository that provides a Git history of outages at [BC Hydro](https://bchydro.com), a Canadian utility.
 
 ## How to use
 
