@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Fetches repo
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
       - name: Get and format api
         run: |-
           curl https://www.bchydro.com/power-outages/app/outages-map-data.json | jq . > bchydro-outages.json
